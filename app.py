@@ -57,7 +57,7 @@ def home():
 def get_data(exchange, dataset):
     """Fetch market JSON data dynamically."""
     # Validate exchange and dataset
-    valid_exchanges = ['nse', 'bse', 'gse', 'zse']
+    valid_exchanges = ['bse', 'brvm', 'gse', 'jse', 'luse', 'mse', 'nse', 'ngx', 'use', 'zse']
     valid_datasets = ['index', 'gainers', 'losers', 'companies']
     
     exchange = exchange.lower()
