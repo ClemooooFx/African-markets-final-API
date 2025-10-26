@@ -4,6 +4,8 @@ import json
 
 app = Flask(__name__)
 
+CORS(app)
+
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'market_data')
 
 def load_json(filename):
