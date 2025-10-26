@@ -1,0 +1,41 @@
+name: Update Market Data
+
+on:
+  schedule:
+    # Every 15 minutes during market hours (adjust timezone as needed)
+    - cron: '*/15 3-13 * * 1-5'  # Mon-Fri, 3am-1pm UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install afrimarket pandas
+      
+      - name: Run export script
+        run: |
+          python export_market_data.py
+      
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add market_data/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update market data - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
