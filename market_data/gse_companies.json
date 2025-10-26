@@ -2,9 +2,9 @@
   {
     "ticker": "AADS",
     "name": "AngloGold Ashanti Depositary Shares",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.42,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "ACCESS",
@@ -16,16 +16,16 @@
   {
     "ticker": "ADB",
     "name": "Agricultural Development Bank",
-    "volume": "N/A",
+    "volume": "",
     "price": 5.06,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "AGA",
     "name": "AngloGold Ashanti Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 37.0,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "ALLGH",
@@ -37,23 +37,23 @@
   {
     "ticker": "ALW",
     "name": "Aluworks Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.1,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "ASG",
     "name": "Asante Gold Corp",
-    "volume": "N/A",
+    "volume": "",
     "price": 8.89,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 39.0,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "CAL",
@@ -72,37 +72,37 @@
   {
     "ticker": "CMLT",
     "name": "Camelot Ghana Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.14,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "CPC",
     "name": "Cocoa Processing Company Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.04,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "DASPHARMA",
     "name": "Dannex Ayrton Starwin Plc",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.38,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "DIGICUT",
     "name": "Digicut Production & Advertising",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.09,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "EGH",
     "name": "Ecobank Ghana Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 14.0,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "EGL",
@@ -135,9 +135,9 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 6.6,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "GLD",
@@ -149,23 +149,23 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 2.51,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "HORDS",
     "name": "Hords Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.1,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "IIL",
     "name": "Intravenous Infusions Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.05,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "MAC",
@@ -177,9 +177,9 @@
   {
     "ticker": "MMH",
     "name": "Meridian-Marshall Holdings",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.1,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "MTNGH",
@@ -191,9 +191,9 @@
   {
     "ticker": "PBC",
     "name": "Produce Buying Company Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.02,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "RBGH",
@@ -205,23 +205,23 @@
   {
     "ticker": "SAMBA",
     "name": "Samba Foods Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.55,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "SCB",
     "name": "Standard Chartered Bank Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 29.0,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "SCBPREF",
     "name": "Stanchart Preferential Shares",
-    "volume": "N/A",
+    "volume": "",
     "price": 0.9,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "SIC",
@@ -240,9 +240,9 @@
   {
     "ticker": "TBL",
     "name": "Trust Bank Gambia Limited",
-    "volume": "N/A",
+    "volume": "",
     "price": 1.1,
-    "change": 0
+    "change": NaN
   },
   {
     "ticker": "TLW",
