@@ -1,27 +1,32 @@
 [
   {
-    "ticker": "CUTIX",
-    "price": 3.76,
-    "change": "+1.62%"
+    "ticker": "REGALINS",
+    "price": 1.42,
+    "change": "+9.23%"
   },
   {
-    "ticker": "EUNISELL",
-    "price": 58.5,
-    "change": "+0.95%"
+    "ticker": "ASOSAVINGS",
+    "price": 0.72,
+    "change": "+9.09%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "ETERNA",
+    "price": 43.5,
+    "change": "+8.75%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "NEM",
+    "price": 32.5,
+    "change": "+8.33%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "SUNUASSUR",
+    "price": 5.5,
+    "change": "+5.77%"
+  },
+  {
+    "ticker": "CHAMS",
+    "price": 4.15,
+    "change": "+5.06%"
   }
 ]

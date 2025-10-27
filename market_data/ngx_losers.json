@@ -1,27 +1,32 @@
 [
   {
+    "ticker": "JAPAULGOLD",
+    "price": 2.3,
+    "change": "-8.00%"
+  },
+  {
     "ticker": "ACCESSCORP",
-    "price": 23.15,
-    "change": "-7.40%"
+    "price": 23.3,
+    "change": "-6.80%"
+  },
+  {
+    "ticker": "SOVRENINS",
+    "price": 3.76,
+    "change": "-3.84%"
   },
   {
     "ticker": "UBA",
-    "price": 41.0,
-    "change": "-2.38%"
-  },
-  {
-    "ticker": "OANDO",
-    "price": 42.3,
-    "change": "-1.51%"
+    "price": 41.1,
+    "change": "-2.14%"
   },
   {
     "ticker": "FIRSTHOLDCO",
-    "price": 31.5,
-    "change": "-1.41%"
+    "price": 31.3,
+    "change": "-2.03%"
   },
   {
-    "ticker": "UCAP",
-    "price": 18.0,
-    "change": "-1.10%"
+    "ticker": "WAPIC",
+    "price": 3.05,
+    "change": "-1.61%"
   }
 ]
