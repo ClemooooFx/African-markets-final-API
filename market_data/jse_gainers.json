@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "EUZ",
+    "price": 0.39,
+    "change": "+34.48%"
+  },
+  {
+    "ticker": "ISO",
+    "price": 228.0,
+    "change": "+34.39%"
+  },
+  {
+    "ticker": "ARA",
+    "price": 7.5,
+    "change": "+24.79%"
+  },
+  {
+    "ticker": "LAB",
+    "price": 0.07,
+    "change": "+16.67%"
+  },
+  {
     "ticker": "QFH",
     "price": 8.0,
     "change": "+13.64%"
   },
   {
-    "ticker": "ISB",
-    "price": 0.65,
-    "change": "+8.33%"
-  },
-  {
-    "ticker": "BWN",
-    "price": 2.84,
-    "change": "+7.98%"
-  },
-  {
-    "ticker": "HUG",
-    "price": 1.45,
-    "change": "+6.62%"
-  },
-  {
-    "ticker": "SOLBE1",
-    "price": 75.0,
-    "change": "+5.63%"
-  },
-  {
-    "ticker": "IVT",
-    "price": 39.0,
-    "change": "+5.38%"
+    "ticker": "BAC",
+    "price": 8.0,
+    "change": "+13.48%"
   }
 ]
