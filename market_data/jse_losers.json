@@ -5,6 +5,11 @@
     "change": "-31.03%"
   },
   {
+    "ticker": "SDL",
+    "price": 11.3,
+    "change": "-13.08%"
+  },
+  {
     "ticker": "GRSP",
     "price": 6.0,
     "change": "-13.04%"
@@ -23,10 +28,5 @@
     "ticker": "PIK",
     "price": 30.15,
     "change": "-7.15%"
-  },
-  {
-    "ticker": "GFI",
-    "price": 656.41,
-    "change": "-7.04%"
   }
 ]

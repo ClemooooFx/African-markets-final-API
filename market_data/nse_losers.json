@@ -1,15 +1,5 @@
 [
   {
-    "ticker": "OCH",
-    "price": 7.1,
-    "change": "-9.21%"
-  },
-  {
-    "ticker": "BOC",
-    "price": 120.0,
-    "change": "-8.75%"
-  },
-  {
     "ticker": "KUKZ",
     "price": 400.0,
     "change": "-5.88%"
@@ -20,13 +10,23 @@
     "change": "-4.44%"
   },
   {
-    "ticker": "NMG",
-    "price": 13.1,
-    "change": "-4.03%"
+    "ticker": "NCBA",
+    "price": 87.0,
+    "change": "-4.40%"
   },
   {
-    "ticker": "NCBA",
-    "price": 88.0,
-    "change": "-3.30%"
+    "ticker": "OCH",
+    "price": 7.5,
+    "change": "-4.09%"
+  },
+  {
+    "ticker": "CGEN",
+    "price": 53.0,
+    "change": "-4.07%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.8,
+    "change": "-1.79%"
   }
 ]
