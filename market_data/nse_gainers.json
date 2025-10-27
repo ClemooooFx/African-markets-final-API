@@ -1,23 +1,18 @@
 [
   {
+    "ticker": "TOTL",
+    "price": 40.15,
+    "change": "+9.55%"
+  },
+  {
     "ticker": "FTGH",
     "price": 1.63,
     "change": "+9.40%"
   },
   {
-    "ticker": "TOTL",
-    "price": 40.05,
-    "change": "+9.28%"
-  },
-  {
     "ticker": "SGL",
     "price": 6.5,
     "change": "+8.33%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 0.4,
-    "change": "+8.11%"
   },
   {
     "ticker": "GLD",
@@ -28,5 +23,10 @@
     "ticker": "LKL",
     "price": 3.1,
     "change": "+7.27%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.95,
+    "change": "+5.29%"
   }
 ]
