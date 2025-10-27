@@ -15,11 +15,6 @@
     "change": "+18.89%"
   },
   {
-    "ticker": "LAB",
-    "price": 0.07,
-    "change": "+16.67%"
-  },
-  {
     "ticker": "QFH",
     "price": 9.29,
     "change": "+16.13%"
@@ -28,5 +23,10 @@
     "ticker": "BAC",
     "price": 8.0,
     "change": "+13.48%"
+  },
+  {
+    "ticker": "HUG",
+    "price": 1.54,
+    "change": "+6.21%"
   }
 ]

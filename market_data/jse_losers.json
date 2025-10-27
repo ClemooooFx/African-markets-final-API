@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "GRSP",
+    "price": 6.0,
+    "change": "-13.04%"
+  },
+  {
     "ticker": "CLI",
     "price": 12.13,
     "change": "-10.08%"
@@ -10,23 +15,18 @@
     "change": "-9.05%"
   },
   {
-    "ticker": "SEP",
-    "price": 1.42,
-    "change": "-7.79%"
-  },
-  {
     "ticker": "PIK",
-    "price": 30.58,
-    "change": "-5.82%"
+    "price": 29.96,
+    "change": "-7.73%"
   },
   {
-    "ticker": "MCZ",
-    "price": 1.89,
-    "change": "-5.50%"
+    "ticker": "MKR",
+    "price": 37.98,
+    "change": "-7.21%"
   },
   {
-    "ticker": "SNV",
-    "price": 6.9,
-    "change": "-4.96%"
+    "ticker": "KAP",
+    "price": 1.59,
+    "change": "-5.36%"
   }
 ]

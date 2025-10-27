@@ -1,8 +1,13 @@
 [
   {
     "ticker": "KAPC",
-    "price": 210.75,
-    "change": "-9.94%"
+    "price": 212.0,
+    "change": "-9.40%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 15.5,
+    "change": "-7.74%"
   },
   {
     "ticker": "KUKZ",
@@ -20,13 +25,8 @@
     "change": "-4.07%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.3,
-    "change": "-2.92%"
-  },
-  {
     "ticker": "NCBA",
-    "price": 88.75,
-    "change": "-2.47%"
+    "price": 88.5,
+    "change": "-2.75%"
   }
 ]
