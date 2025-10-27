@@ -5,6 +5,11 @@
     "change": "+9.96%"
   },
   {
+    "ticker": "UNGA",
+    "price": 25.0,
+    "change": "+8.70%"
+  },
+  {
     "ticker": "SGL",
     "price": 6.5,
     "change": "+8.33%"
@@ -23,10 +28,5 @@
     "ticker": "FTGH",
     "price": 1.6,
     "change": "+7.38%"
-  },
-  {
-    "ticker": "HFCK",
-    "price": 10.9,
-    "change": "+4.81%"
   }
 ]
