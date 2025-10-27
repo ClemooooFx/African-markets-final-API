@@ -15,6 +15,11 @@
     "change": "+18.89%"
   },
   {
+    "ticker": "BRT",
+    "price": 5.0,
+    "change": "+16.28%"
+  },
+  {
     "ticker": "QFH",
     "price": 9.29,
     "change": "+16.13%"
@@ -23,10 +28,5 @@
     "ticker": "BAC",
     "price": 8.0,
     "change": "+13.48%"
-  },
-  {
-    "ticker": "JBL",
-    "price": 0.67,
-    "change": "+6.35%"
   }
 ]
