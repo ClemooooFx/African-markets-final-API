@@ -198,9 +198,9 @@
   {
     "ticker": "APACXJ",
     "name": "CoreShares All Asia Actively Managed ETF",
-    "volume": "20769.0",
-    "price": 13.49,
-    "change": 0.18
+    "volume": "20880.0",
+    "price": 13.5,
+    "change": 0.19
   },
   {
     "ticker": "APF",
@@ -681,37 +681,37 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "206685.0",
-    "price": 11.53,
-    "change": 0.04
+    "volume": "245287.0",
+    "price": 11.52,
+    "change": 0.03
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "9306.0",
-    "price": 118.09,
-    "change": 0.76
+    "volume": "10601.0",
+    "price": 117.5,
+    "change": 0.17
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "75340.0",
-    "price": 15.15,
-    "change": 0.0
+    "volume": "77771.0",
+    "price": 15.16,
+    "change": 0.01
   },
   {
     "ticker": "CSYSB",
     "name": "10X Yield Selected Bond ETF",
-    "volume": "59052.0",
+    "volume": "79180.0",
     "price": 12.49,
     "change": 0.1
   },
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "116593.0",
-    "price": 43.29,
-    "change": -0.31
+    "volume": "131392.0",
+    "price": 43.27,
+    "change": -0.33
   },
   {
     "ticker": "CVW",
@@ -891,16 +891,16 @@
   {
     "ticker": "ETF500",
     "name": "1nvest S&P 500 Index ETF",
-    "volume": "207.0",
-    "price": 624.03,
-    "change": 1.67
+    "volume": "300.0",
+    "price": 623.89,
+    "change": 1.53
   },
   {
     "ticker": "ETF5IT",
     "name": "1nvest S&P 500 IT ETF",
-    "volume": "94128.0",
-    "price": 36.61,
-    "change": 0.52
+    "volume": "100202.0",
+    "price": 36.75,
+    "change": 0.66
   },
   {
     "ticker": "ETFBND",
@@ -933,9 +933,9 @@
   {
     "ticker": "ETFGRE",
     "name": "1nvest Global REIT ETF",
-    "volume": "5380.0",
-    "price": 22.0,
-    "change": -0.38
+    "volume": "11856.0",
+    "price": 23.18,
+    "change": 0.8
   },
   {
     "ticker": "ETFPLD",
@@ -1164,23 +1164,23 @@
   {
     "ticker": "GLOBAL",
     "name": "10X Total World Stock Feeder ETF",
-    "volume": "180609.0",
-    "price": 17.5,
-    "change": 0.15
+    "volume": "208523.0",
+    "price": 17.39,
+    "change": 0.04
   },
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "17083.0",
+    "volume": "19073.0",
     "price": 20.01,
     "change": -0.03
   },
   {
     "ticker": "GLPROP",
     "name": "10X S&P Global Property ETF",
-    "volume": "12890.0",
-    "price": 47.6,
-    "change": -0.17
+    "volume": "12891.0",
+    "price": 47.88,
+    "change": 0.11
   },
   {
     "ticker": "GML",
@@ -1213,7 +1213,7 @@
   {
     "ticker": "GRSP",
     "name": "Goldrush Holdings Ltd",
-    "volume": "18950.0",
+    "volume": "20650.0",
     "price": 6.0,
     "change": -0.9
   },
@@ -1304,7 +1304,7 @@
   {
     "ticker": "INCOME",
     "name": "CoreShares Income Actively Managed ETF",
-    "volume": "16925.0",
+    "volume": "25461.0",
     "price": 10.61,
     "change": 0.03
   },
@@ -2207,9 +2207,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "27133.0",
-    "price": 96.25,
-    "change": 0.75
+    "volume": "35756.0",
+    "price": 96.3,
+    "change": 0.8
   },
   {
     "ticker": "SCD",
@@ -2991,9 +2991,9 @@
   {
     "ticker": "WTOP20",
     "name": "10X Wealth Top 20 Capped ETF",
-    "volume": "14226.0",
-    "price": 14.92,
-    "change": -0.07
+    "volume": "14547.0",
+    "price": 14.93,
+    "change": -0.06
   },
   {
     "ticker": "WVR",
