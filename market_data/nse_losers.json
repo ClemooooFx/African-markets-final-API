@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "KAPC",
-    "price": 234.0,
-    "change": "-9.65%"
+    "ticker": "SGL",
+    "price": 5.4,
+    "change": "-10.00%"
   },
   {
-    "ticker": "AMAC",
-    "price": 65.0,
-    "change": "-7.14%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 4950.0,
-    "change": "-3.32%"
-  },
-  {
-    "ticker": "HFCK",
-    "price": 10.4,
-    "change": "-3.26%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 14.5,
-    "change": "-2.36%"
+    "ticker": "XPRS",
+    "price": 6.34,
+    "change": "-9.94%"
   },
   {
     "ticker": "LBTY",
-    "price": 10.65,
-    "change": "-2.29%"
+    "price": 10.05,
+    "change": "-5.63%"
+  },
+  {
+    "ticker": "NMG",
+    "price": 13.05,
+    "change": "-4.40%"
+  },
+  {
+    "ticker": "BAT",
+    "price": 435.0,
+    "change": "-3.33%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.8,
+    "change": "-2.10%"
   }
 ]
