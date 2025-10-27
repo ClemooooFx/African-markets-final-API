@@ -1,8 +1,23 @@
 [
   {
-    "ticker": "TIP",
-    "price": 13.25,
-    "change": "-9.86%"
+    "ticker": "DAARCOMM",
+    "price": 0.94,
+    "change": "-8.74%"
+  },
+  {
+    "ticker": "OMATEK",
+    "price": 1.44,
+    "change": "-7.10%"
+  },
+  {
+    "ticker": "JAPAULGOLD",
+    "price": 2.33,
+    "change": "-6.80%"
+  },
+  {
+    "ticker": "WAPIC",
+    "price": 2.9,
+    "change": "-6.45%"
   },
   {
     "ticker": "NB",
@@ -13,20 +28,5 @@
     "ticker": "UNIVINSURE",
     "price": 1.1,
     "change": "-5.98%"
-  },
-  {
-    "ticker": "FIDELITYBK",
-    "price": 18.8,
-    "change": "-5.29%"
-  },
-  {
-    "ticker": "SOVRENINS",
-    "price": 3.71,
-    "change": "-5.12%"
-  },
-  {
-    "ticker": "VERITASKAP",
-    "price": 2.05,
-    "change": "-5.09%"
   }
 ]

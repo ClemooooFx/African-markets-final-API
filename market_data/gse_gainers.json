@@ -5,6 +5,11 @@
     "change": "+9.09%"
   },
   {
+    "ticker": "GOIL",
+    "price": 2.53,
+    "change": "+0.80%"
+  },
+  {
     "ticker": "SCB",
     "price": 29.1,
     "change": "+0.34%"
@@ -13,5 +18,10 @@
     "ticker": "EGH",
     "price": 14.04,
     "change": "+0.29%"
+  },
+  {
+    "ticker": "GCB",
+    "price": 15.65,
+    "change": "+0.06%"
   }
 ]
