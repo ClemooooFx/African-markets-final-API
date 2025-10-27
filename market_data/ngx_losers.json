@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "DEAPCAP",
+    "price": 1.58,
+    "change": "-9.71%"
+  },
+  {
     "ticker": "REDSTAREX",
     "price": 10.05,
     "change": "-8.64%"
+  },
+  {
+    "ticker": "NSLTECH",
+    "price": 0.83,
+    "change": "-7.78%"
   },
   {
     "ticker": "DAARCOMM",
@@ -15,18 +25,8 @@
     "change": "-7.10%"
   },
   {
-    "ticker": "JAPAULGOLD",
-    "price": 2.33,
-    "change": "-6.80%"
-  },
-  {
     "ticker": "WAPIC",
     "price": 2.9,
     "change": "-6.45%"
-  },
-  {
-    "ticker": "NB",
-    "price": 70.0,
-    "change": "-6.04%"
   }
 ]
