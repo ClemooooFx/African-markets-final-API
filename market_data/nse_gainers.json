@@ -1,8 +1,8 @@
 [
   {
     "ticker": "TOTL",
-    "price": 40.3,
-    "change": "+9.96%"
+    "price": 40.2,
+    "change": "+9.69%"
   },
   {
     "ticker": "SGL",
@@ -20,13 +20,13 @@
     "change": "+7.38%"
   },
   {
-    "ticker": "BOC",
-    "price": 140.0,
-    "change": "+6.46%"
-  },
-  {
     "ticker": "HFCK",
     "price": 10.9,
     "change": "+4.81%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 17.6,
+    "change": "+4.76%"
   }
 ]

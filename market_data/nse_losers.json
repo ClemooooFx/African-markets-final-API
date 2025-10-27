@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "TPSE",
-    "price": 15.5,
-    "change": "-7.74%"
+    "ticker": "KAPC",
+    "price": 212.0,
+    "change": "-9.40%"
+  },
+  {
+    "ticker": "BOC",
+    "price": 120.0,
+    "change": "-8.75%"
   },
   {
     "ticker": "KUKZ",
@@ -23,10 +28,5 @@
     "ticker": "NMG",
     "price": 13.1,
     "change": "-4.03%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 225.0,
-    "change": "-3.85%"
   }
 ]

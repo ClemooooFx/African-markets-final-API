@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "TIP",
+    "price": 13.25,
+    "change": "-9.86%"
+  },
+  {
     "ticker": "JAPAULGOLD",
     "price": 2.3,
     "change": "-8.00%"
   },
   {
-    "ticker": "ACCESSCORP",
-    "price": 23.3,
+    "ticker": "FIDELITYBK",
+    "price": 18.5,
     "change": "-6.80%"
   },
   {
-    "ticker": "SOVRENINS",
-    "price": 3.76,
-    "change": "-3.84%"
+    "ticker": "DAARCOMM",
+    "price": 0.98,
+    "change": "-4.85%"
   },
   {
-    "ticker": "UBA",
-    "price": 41.1,
-    "change": "-2.14%"
+    "ticker": "ACCESSCORP",
+    "price": 23.8,
+    "change": "-4.80%"
   },
   {
-    "ticker": "FIRSTHOLDCO",
-    "price": 31.3,
-    "change": "-2.03%"
-  },
-  {
-    "ticker": "WAPIC",
-    "price": 3.05,
-    "change": "-1.61%"
+    "ticker": "UNIVINSURE",
+    "price": 1.12,
+    "change": "-4.27%"
   }
 ]
