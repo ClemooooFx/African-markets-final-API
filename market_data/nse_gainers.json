@@ -1,13 +1,23 @@
 [
   {
+    "ticker": "TOTL",
+    "price": 40.0,
+    "change": "+9.14%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5340.0,
+    "change": "+7.88%"
+  },
+  {
     "ticker": "FTGH",
     "price": 1.6,
     "change": "+7.38%"
   },
   {
     "ticker": "NBV",
-    "price": 1.67,
-    "change": "+6.37%"
+    "price": 1.66,
+    "change": "+5.73%"
   },
   {
     "ticker": "PORT",
@@ -15,18 +25,8 @@
     "change": "+5.42%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.39,
-    "change": "+5.41%"
-  },
-  {
-    "ticker": "HAFR",
-    "price": 1.22,
-    "change": "+5.17%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 38.5,
-    "change": "+5.05%"
+    "ticker": "BKG",
+    "price": 43.0,
+    "change": "+3.86%"
   }
 ]
