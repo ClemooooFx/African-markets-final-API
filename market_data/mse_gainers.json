@@ -1,17 +1,27 @@
 [
   {
-    "ticker": "PCL",
-    "price": 8728.59,
-    "change": "+15.00%"
+    "ticker": "BHL",
+    "price": 15.04,
+    "change": "+0.07%"
   },
   {
     "ticker": "NBM",
-    "price": 12399.98,
+    "price": 12399.99,
     "change": "+0.00%"
   },
   {
     "ticker": "FMBCH",
-    "price": 2300.03,
+    "price": 2300.05,
+    "change": "+0.00%"
+  },
+  {
+    "ticker": "ILLOVO",
+    "price": 2030.05,
+    "change": "+0.00%"
+  },
+  {
+    "ticker": "NICO",
+    "price": 1739.82,
     "change": "+0.00%"
   }
 ]

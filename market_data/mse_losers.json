@@ -1,17 +1,27 @@
 [
   {
     "ticker": "STANDARD",
-    "price": 5415.61,
-    "change": "-0.08%"
+    "price": 5414.98,
+    "change": "-0.01%"
   },
   {
-    "ticker": "TNM",
-    "price": 31.78,
-    "change": "-0.03%"
+    "ticker": "AIRTEL",
+    "price": 134.96,
+    "change": "-0.01%"
+  },
+  {
+    "ticker": "NITL",
+    "price": 3940.99,
+    "change": "-0.00%"
   },
   {
     "ticker": "NBS",
-    "price": 1023.12,
+    "price": 1023.1,
+    "change": "-0.00%"
+  },
+  {
+    "ticker": "FDHB",
+    "price": 637.61,
     "change": "-0.00%"
   }
 ]
