@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "KAPC",
+    "price": 211.5,
+    "change": "-9.62%"
+  },
+  {
     "ticker": "CRWN",
     "price": 50.0,
     "change": "-8.26%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 220.0,
-    "change": "-5.98%"
   },
   {
     "ticker": "KUKZ",
@@ -15,18 +15,18 @@
     "change": "-5.88%"
   },
   {
+    "ticker": "OCH",
+    "price": 7.5,
+    "change": "-4.09%"
+  },
+  {
     "ticker": "CGEN",
     "price": 53.0,
     "change": "-4.07%"
   },
   {
-    "ticker": "SGL",
-    "price": 5.9,
-    "change": "-1.67%"
-  },
-  {
-    "ticker": "BAT",
-    "price": 444.0,
-    "change": "-1.33%"
+    "ticker": "SMER",
+    "price": 13.3,
+    "change": "-2.92%"
   }
 ]
