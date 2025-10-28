@@ -1,8 +1,13 @@
 [
   {
     "ticker": "TOTL",
-    "price": 44.0,
-    "change": "+9.86%"
+    "price": 44.05,
+    "change": "+9.99%"
+  },
+  {
+    "ticker": "KAPC",
+    "price": 233.25,
+    "change": "+8.11%"
   },
   {
     "ticker": "SMER",
@@ -15,18 +20,13 @@
     "change": "+3.99%"
   },
   {
-    "ticker": "SCOM",
-    "price": 29.45,
-    "change": "+2.79%"
+    "ticker": "KPLC",
+    "price": 13.4,
+    "change": "+2.68%"
   },
   {
     "ticker": "HAFR",
     "price": 1.19,
     "change": "+2.59%"
-  },
-  {
-    "ticker": "BRIT",
-    "price": 8.7,
-    "change": "+2.35%"
   }
 ]
