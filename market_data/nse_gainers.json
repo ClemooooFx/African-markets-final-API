@@ -5,9 +5,14 @@
     "change": "+9.99%"
   },
   {
-    "ticker": "KPLC",
-    "price": 13.4,
-    "change": "+2.68%"
+    "ticker": "KAPC",
+    "price": 225.0,
+    "change": "+4.29%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.0,
+    "change": "+4.09%"
   },
   {
     "ticker": "HAFR",
@@ -15,18 +20,13 @@
     "change": "+2.59%"
   },
   {
-    "ticker": "TPSE",
-    "price": 17.6,
-    "change": "+2.33%"
+    "ticker": "LBTY",
+    "price": 10.9,
+    "change": "+2.35%"
   },
   {
-    "ticker": "CTUM",
-    "price": 14.95,
-    "change": "+2.05%"
-  },
-  {
-    "ticker": "SCOM",
-    "price": 29.15,
-    "change": "+1.75%"
+    "ticker": "BRIT",
+    "price": 8.7,
+    "change": "+2.35%"
   }
 ]
