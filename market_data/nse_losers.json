@@ -1,23 +1,18 @@
 [
   {
-    "ticker": "NCBA",
-    "price": 81.0,
-    "change": "-8.99%"
+    "ticker": "SGL",
+    "price": 6.0,
+    "change": "-5.96%"
   },
   {
-    "ticker": "SGL",
-    "price": 5.9,
-    "change": "-7.52%"
+    "ticker": "NCBA",
+    "price": 84.5,
+    "change": "-5.06%"
   },
   {
     "ticker": "UCHM",
     "price": 0.38,
     "change": "-5.00%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.55,
-    "change": "-4.81%"
   },
   {
     "ticker": "KUKZ",
@@ -28,5 +23,10 @@
     "ticker": "LKL",
     "price": 2.87,
     "change": "-4.01%"
+  },
+  {
+    "ticker": "CIC",
+    "price": 4.6,
+    "change": "-3.77%"
   }
 ]
