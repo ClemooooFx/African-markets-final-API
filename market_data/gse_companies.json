@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "5457.0",
+    "volume": "5565.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "21634.0",
+    "volume": "23634.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "45251.0",
-    "price": 4.25,
-    "change": 0.0
+    "volume": "122721.0",
+    "price": 4.24,
+    "change": -0.01
   },
   {
     "ticker": "PBC",
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "721.0",
+    "volume": "1722.0",
     "price": 40.5,
     "change": 0.0
   },

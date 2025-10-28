@@ -2,30 +2,30 @@
   {
     "ticker": "AIRTEL",
     "name": "Airtel Malawi Plc",
-    "volume": "2316.0",
+    "volume": "71922.0",
     "price": 134.96,
-    "change": -0.01
+    "change": 0.0
   },
   {
     "ticker": "BHL",
     "name": "Blantyre Hotels Limited",
-    "volume": "321357.0",
+    "volume": "1000.0",
     "price": 15.04,
-    "change": 0.01
+    "change": 0.0
   },
   {
     "ticker": "FDHB",
     "name": "FDH Bank Plc",
-    "volume": "370170.0",
-    "price": 637.61,
-    "change": -0.01
+    "volume": "337622.0",
+    "price": 637.64,
+    "change": 0.03
   },
   {
     "ticker": "FMBCH",
     "name": "FMB Capital Holdings Plc",
-    "volume": "505963.0",
-    "price": 2300.05,
-    "change": 0.02
+    "volume": "7167.0",
+    "price": 2300.04,
+    "change": -0.01
   },
   {
     "ticker": "ICON",
@@ -37,65 +37,65 @@
   {
     "ticker": "ILLOVO",
     "name": "Illovo Sugar Limited",
-    "volume": "7818.0",
-    "price": 2030.05,
-    "change": 0.02
+    "volume": "20211.0",
+    "price": 2330.0,
+    "change": 299.95
   },
   {
     "ticker": "MPICO",
     "name": "Malawi Property Investment Company",
-    "volume": "12587.0",
+    "volume": "81738.0",
     "price": 19.55,
     "change": 0.0
   },
   {
     "ticker": "NBM",
     "name": "National Bank of Malawi",
-    "volume": "15264.0",
+    "volume": "11941.0",
     "price": 12399.99,
-    "change": 0.01
+    "change": 0.0
   },
   {
     "ticker": "NBS",
     "name": "NBS Bank Limited",
-    "volume": "41216.0",
+    "volume": "63257.0",
     "price": 1023.1,
-    "change": -0.02
+    "change": 0.0
   },
   {
     "ticker": "NICO",
     "name": "National Insurance Company Holdings",
-    "volume": "23801.0",
+    "volume": "7532.0",
     "price": 1739.82,
-    "change": 0.03
+    "change": 0.0
   },
   {
     "ticker": "NITL",
     "name": "National Investment Trust Limited",
-    "volume": "2503.0",
-    "price": 3940.99,
-    "change": -0.01
+    "volume": "20915.0",
+    "price": 3940.87,
+    "change": -0.12
   },
   {
     "ticker": "OMU",
     "name": "Old Mutual Limited",
-    "volume": "",
-    "price": 2500.07,
-    "change": NaN
+    "volume": "2000.0",
+    "price": 2875.0,
+    "change": 374.93
   },
   {
     "ticker": "PCL",
     "name": "Press Corporation Limited",
-    "volume": "2534.0",
+    "volume": "59.0",
     "price": 8728.59,
     "change": 0.0
   },
   {
     "ticker": "STANDARD",
     "name": "Standard Bank Malawi Limited",
-    "volume": "14015.0",
-    "price": 5414.98,
-    "change": -0.63
+    "volume": "1804.0",
+    "price": 5411.08,
+    "change": -3.9
   },
   {
     "ticker": "SUNBIRD",
@@ -107,8 +107,8 @@
   {
     "ticker": "TNM",
     "name": "Telekom Networks Malawi Limited",
-    "volume": "287527.0",
-    "price": 31.78,
-    "change": 0.0
+    "volume": "205910.0",
+    "price": 31.76,
+    "change": -0.02
   }
 ]
