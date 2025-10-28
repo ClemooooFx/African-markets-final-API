@@ -1,27 +1,22 @@
 [
   {
-    "ticker": "BHL",
-    "price": 15.04,
-    "change": "+0.07%"
-  },
-  {
-    "ticker": "NBM",
-    "price": 12399.99,
-    "change": "+0.00%"
-  },
-  {
-    "ticker": "FMBCH",
-    "price": 2300.05,
-    "change": "+0.00%"
+    "ticker": "OMU",
+    "price": 2875.0,
+    "change": "+15.00%"
   },
   {
     "ticker": "ILLOVO",
-    "price": 2030.05,
+    "price": 2330.0,
+    "change": "+14.78%"
+  },
+  {
+    "ticker": "FDHB",
+    "price": 637.64,
     "change": "+0.00%"
   },
   {
-    "ticker": "NICO",
-    "price": 1739.82,
-    "change": "+0.00%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

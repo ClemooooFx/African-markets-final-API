@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "93.0",
+    "volume": "97.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -51,14 +51,14 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "50.0",
+    "volume": "277.0",
     "price": 39.0,
     "change": 0.0
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "37200.0",
+    "volume": "38200.0",
     "price": 0.71,
     "change": -0.01
   },
@@ -107,14 +107,14 @@
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "",
+    "volume": "747.0",
     "price": 3.41,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "3708.0",
+    "volume": "5457.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -142,9 +142,9 @@
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "",
+    "volume": "21.0",
     "price": 459.28,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GOIL",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "38070.0",
-    "price": 4.16,
-    "change": -0.09
+    "volume": "45251.0",
+    "price": 4.25,
+    "change": 0.0
   },
   {
     "ticker": "PBC",
@@ -226,16 +226,16 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "3445.0",
+    "volume": "3545.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "",
+    "volume": "17383.0",
     "price": 3.08,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TBL",
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "240.0",
+    "volume": "721.0",
     "price": 40.5,
     "change": 0.0
   },
