@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "ARA",
-    "price": 7.5,
-    "change": "+24.79%"
+    "ticker": "BAC",
+    "price": 10.5,
+    "change": "+48.94%"
   },
   {
-    "ticker": "MTNZF",
-    "price": 3.99,
-    "change": "+24.30%"
+    "ticker": "ARA",
+    "price": 8.14,
+    "change": "+35.44%"
+  },
+  {
+    "ticker": "OAO",
+    "price": 0.24,
+    "change": "+20.00%"
   },
   {
     "ticker": "CCC",
@@ -20,13 +25,8 @@
     "change": "+16.28%"
   },
   {
-    "ticker": "QFH",
-    "price": 9.29,
-    "change": "+16.13%"
-  },
-  {
-    "ticker": "BAC",
-    "price": 8.0,
-    "change": "+13.48%"
+    "ticker": "ISA",
+    "price": 1.99,
+    "change": "+7.57%"
   }
 ]

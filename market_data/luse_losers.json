@@ -1,17 +1,32 @@
 [
   {
-    "ticker": "ZMBF",
-    "price": 2.28,
-    "change": "-0.44%"
-  },
-  {
-    "ticker": "SCBL",
-    "price": 2.59,
-    "change": "-0.38%"
+    "ticker": "ZNCO",
+    "price": 6.11,
+    "change": "-0.16%"
   },
   {
     "ticker": "CECZ",
-    "price": 22.92,
-    "change": "-0.09%"
+    "price": 22.89,
+    "change": "-0.13%"
+  },
+  {
+    "ticker": "ATEL",
+    "price": 139.99,
+    "change": "-0.01%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

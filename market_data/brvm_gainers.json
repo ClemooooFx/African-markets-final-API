@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "ABJC",
-    "price": 2365.0,
+    "ticker": "STAC",
+    "price": 1290.0,
     "change": "+7.50%"
   },
   {
-    "ticker": "SAFC",
-    "price": 2960.0,
-    "change": "+7.44%"
+    "ticker": "CFAC",
+    "price": 2020.0,
+    "change": "+7.45%"
   },
   {
-    "ticker": "CFAC",
-    "price": 1880.0,
+    "ticker": "SAFC",
+    "price": 3180.0,
     "change": "+7.43%"
   },
   {
-    "ticker": "ETIT",
-    "price": 22.0,
-    "change": "+4.76%"
-  },
-  {
-    "ticker": "BNBC",
-    "price": 1900.0,
-    "change": "+4.40%"
-  },
-  {
     "ticker": "SCRC",
-    "price": 1320.0,
-    "change": "+3.94%"
+    "price": 1395.0,
+    "change": "+5.68%"
+  },
+  {
+    "ticker": "ECOC",
+    "price": 14890.0,
+    "change": "+5.60%"
+  },
+  {
+    "ticker": "SIVC",
+    "price": 705.0,
+    "change": "+5.22%"
   }
 ]
