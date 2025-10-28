@@ -1,18 +1,18 @@
 [
   {
+    "ticker": "UCHM",
+    "price": 0.36,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "SGL",
     "price": 6.0,
     "change": "-5.96%"
   },
   {
     "ticker": "NCBA",
-    "price": 84.5,
-    "change": "-5.06%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 0.38,
-    "change": "-5.00%"
+    "price": 84.25,
+    "change": "-5.34%"
   },
   {
     "ticker": "KUKZ",
@@ -20,13 +20,13 @@
     "change": "-4.47%"
   },
   {
-    "ticker": "CIC",
-    "price": 4.62,
-    "change": "-3.35%"
+    "ticker": "GLD",
+    "price": 4750.0,
+    "change": "-4.04%"
   },
   {
-    "ticker": "CGEN",
-    "price": 53.0,
-    "change": "-2.75%"
+    "ticker": "CIC",
+    "price": 4.63,
+    "change": "-3.14%"
   }
 ]

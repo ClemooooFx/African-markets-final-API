@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "1.0",
+    "volume": "70.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -114,23 +114,23 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1226.0",
+    "volume": "2832.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "20013.0",
+    "volume": "21584.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "",
+    "volume": "30.0",
     "price": 15.65,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GGBL",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "31408.0",
+    "volume": "37760.0",
     "price": 4.16,
     "change": -0.09
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "1039.0",
+    "volume": "1431.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,14 +254,14 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "25.0",
+    "volume": "95.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "6.0",
+    "volume": "7.0",
     "price": 19.8,
     "change": 0.0
   }
