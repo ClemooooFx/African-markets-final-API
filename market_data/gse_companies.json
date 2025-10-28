@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "85.0",
+    "volume": "93.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -51,9 +51,9 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "",
+    "volume": "50.0",
     "price": 39.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CAL",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "3286.0",
+    "volume": "3708.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -128,7 +128,7 @@
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "30.0",
+    "volume": "40.0",
     "price": 15.65,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "37850.0",
+    "volume": "38070.0",
     "price": 4.16,
     "change": -0.09
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "251.0",
+    "volume": "624.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "3159.0",
+    "volume": "3445.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "120.0",
+    "volume": "240.0",
     "price": 40.5,
     "change": 0.0
   },

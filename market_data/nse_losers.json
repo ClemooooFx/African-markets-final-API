@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "SGL",
-    "price": 6.0,
-    "change": "-5.96%"
+    "ticker": "GLD",
+    "price": 4805.0,
+    "change": "-9.43%"
   },
   {
     "ticker": "UCHM",
-    "price": 0.38,
-    "change": "-5.00%"
+    "price": 0.37,
+    "change": "-7.50%"
   },
   {
     "ticker": "NCBA",
-    "price": 85.0,
-    "change": "-4.49%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 406.0,
-    "change": "-4.47%"
+    "price": 85.5,
+    "change": "-3.93%"
   },
   {
     "ticker": "CIC",
-    "price": 4.63,
-    "change": "-3.14%"
+    "price": 4.61,
+    "change": "-3.56%"
   },
   {
     "ticker": "CGEN",
     "price": 53.0,
     "change": "-2.75%"
+  },
+  {
+    "ticker": "EGAD",
+    "price": 19.75,
+    "change": "-2.71%"
   }
 ]

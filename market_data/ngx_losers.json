@@ -1,8 +1,13 @@
 [
   {
     "ticker": "LIVESTOCK",
-    "price": 7.2,
-    "change": "-7.69%"
+    "price": 7.1,
+    "change": "-8.97%"
+  },
+  {
+    "ticker": "INTBREW",
+    "price": 13.25,
+    "change": "-8.62%"
   },
   {
     "ticker": "IKEJAHOTEL",
@@ -10,23 +15,18 @@
     "change": "-7.32%"
   },
   {
-    "ticker": "WEMABANK",
-    "price": 20.65,
-    "change": "-6.14%"
+    "ticker": "CHAMS",
+    "price": 3.99,
+    "change": "-6.12%"
   },
   {
-    "ticker": "CHAMS",
-    "price": 4.05,
-    "change": "-4.71%"
+    "ticker": "MCNICHOLS",
+    "price": 3.1,
+    "change": "-5.78%"
   },
   {
     "ticker": "PZ",
     "price": 40.05,
     "change": "-4.64%"
-  },
-  {
-    "ticker": "VERITASKAP",
-    "price": 1.96,
-    "change": "-4.39%"
   }
 ]
