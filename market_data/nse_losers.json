@@ -1,8 +1,8 @@
 [
   {
     "ticker": "UCHM",
-    "price": 0.37,
-    "change": "-7.50%"
+    "price": 0.38,
+    "change": "-5.00%"
   },
   {
     "ticker": "CGEN",
@@ -10,14 +10,14 @@
     "change": "-2.75%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.55,
-    "change": "-2.52%"
-  },
-  {
     "ticker": "CIC",
     "price": 4.68,
     "change": "-2.09%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.8,
+    "change": "-2.00%"
   },
   {
     "ticker": "PORT",
