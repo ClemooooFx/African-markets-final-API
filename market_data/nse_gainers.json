@@ -1,23 +1,13 @@
 [
   {
     "ticker": "TOTL",
-    "price": 44.05,
-    "change": "+9.99%"
-  },
-  {
-    "ticker": "SMER",
-    "price": 14.75,
-    "change": "+9.67%"
+    "price": 44.0,
+    "change": "+9.86%"
   },
   {
     "ticker": "KAPC",
-    "price": 233.25,
-    "change": "+8.11%"
-  },
-  {
-    "ticker": "BOC",
-    "price": 130.0,
-    "change": "+8.11%"
+    "price": 233.75,
+    "change": "+8.34%"
   },
   {
     "ticker": "AMAC",
@@ -25,8 +15,18 @@
     "change": "+7.69%"
   },
   {
+    "ticker": "BOC",
+    "price": 129.0,
+    "change": "+7.28%"
+  },
+  {
     "ticker": "TPSE",
     "price": 18.0,
     "change": "+4.65%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.0,
+    "change": "+4.09%"
   }
 ]
