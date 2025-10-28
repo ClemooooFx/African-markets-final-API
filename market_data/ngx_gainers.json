@@ -1,5 +1,25 @@
 [
   {
+    "ticker": "ASOSAVINGS",
+    "price": 0.79,
+    "change": "+9.72%"
+  },
+  {
+    "ticker": "CAP",
+    "price": 79.9,
+    "change": "+7.97%"
+  },
+  {
+    "ticker": "CHAMPION",
+    "price": 16.1,
+    "change": "+7.33%"
+  },
+  {
+    "ticker": "CWG",
+    "price": 18.95,
+    "change": "+2.99%"
+  },
+  {
     "ticker": "MBENEFIT",
     "price": 4.15,
     "change": "+2.98%"
@@ -8,20 +28,5 @@
     "ticker": "UPDCREIT",
     "price": 7.5,
     "change": "+2.04%"
-  },
-  {
-    "ticker": "ETI",
-    "price": 36.3,
-    "change": "+0.83%"
-  },
-  {
-    "ticker": "ACCESSCORP",
-    "price": 23.8,
-    "change": "+0.63%"
-  },
-  {
-    "ticker": "CHAMS",
-    "price": 4.26,
-    "change": "+0.24%"
   }
 ]

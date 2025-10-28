@@ -1,27 +1,32 @@
 [
   {
+    "ticker": "CHAMS",
+    "price": 4.0,
+    "change": "-5.88%"
+  },
+  {
+    "ticker": "REGALINS",
+    "price": 1.3,
+    "change": "-5.11%"
+  },
+  {
+    "ticker": "NSLTECH",
+    "price": 0.86,
+    "change": "-4.44%"
+  },
+  {
+    "ticker": "FCMB",
+    "price": 10.45,
+    "change": "-1.42%"
+  },
+  {
+    "ticker": "CAVERTON",
+    "price": 6.31,
+    "change": "-1.10%"
+  },
+  {
     "ticker": "ZENITHBANK",
     "price": 65.0,
     "change": "-0.76%"
-  },
-  {
-    "ticker": "ELLAHLAKES",
-    "price": 13.31,
-    "change": "-0.67%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]

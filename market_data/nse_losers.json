@@ -15,6 +15,11 @@
     "change": "-5.96%"
   },
   {
+    "ticker": "CIC",
+    "price": 4.55,
+    "change": "-4.81%"
+  },
+  {
     "ticker": "KUKZ",
     "price": 406.0,
     "change": "-4.47%"
@@ -23,10 +28,5 @@
     "ticker": "SLAM",
     "price": 8.6,
     "change": "-4.23%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.6,
-    "change": "-3.77%"
   }
 ]
