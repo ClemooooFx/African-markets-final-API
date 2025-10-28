@@ -1,32 +1,12 @@
 [
   {
-    "ticker": "SOGEGH",
-    "price": 3.08,
-    "change": "+10.00%"
-  },
-  {
     "ticker": "CLYD",
-    "price": 0.24,
-    "change": "+9.09%"
+    "price": 0.26,
+    "change": "+8.33%"
   },
   {
-    "ticker": "GOIL",
-    "price": 2.53,
-    "change": "+0.80%"
-  },
-  {
-    "ticker": "SCB",
-    "price": 29.1,
-    "change": "+0.34%"
-  },
-  {
-    "ticker": "EGH",
-    "price": 14.04,
-    "change": "+0.29%"
-  },
-  {
-    "ticker": "EGL",
-    "price": 3.41,
-    "change": "+0.29%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

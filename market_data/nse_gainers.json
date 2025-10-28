@@ -5,24 +5,24 @@
     "change": "+9.99%"
   },
   {
-    "ticker": "BOC",
-    "price": 132.0,
-    "change": "+9.77%"
-  },
-  {
     "ticker": "SMER",
     "price": 14.75,
     "change": "+9.67%"
   },
   {
-    "ticker": "KAPC",
-    "price": 233.25,
+    "ticker": "BOC",
+    "price": 130.0,
     "change": "+8.11%"
   },
   {
     "ticker": "AMAC",
     "price": 70.0,
     "change": "+7.69%"
+  },
+  {
+    "ticker": "KAPC",
+    "price": 225.0,
+    "change": "+4.29%"
   },
   {
     "ticker": "XPRS",
