@@ -5,11 +5,6 @@
     "change": "+30.77%"
   },
   {
-    "ticker": "OAO",
-    "price": 0.24,
-    "change": "+20.00%"
-  },
-  {
     "ticker": "LAB",
     "price": 0.06,
     "change": "+20.00%"
@@ -25,8 +20,13 @@
     "change": "+7.69%"
   },
   {
-    "ticker": "ORN",
-    "price": 0.21,
-    "change": "+5.00%"
+    "ticker": "BWN",
+    "price": 2.91,
+    "change": "+3.93%"
+  },
+  {
+    "ticker": "MKR",
+    "price": 37.22,
+    "change": "+3.73%"
   }
 ]

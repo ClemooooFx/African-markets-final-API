@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "SDL",
-    "price": 11.3,
-    "change": "-13.08%"
+    "ticker": "WBC",
+    "price": 47.32,
+    "change": "-12.37%"
+  },
+  {
+    "ticker": "ORN",
+    "price": 0.19,
+    "change": "-9.52%"
   },
   {
     "ticker": "ACT",
@@ -10,23 +15,18 @@
     "change": "-8.48%"
   },
   {
-    "ticker": "SSW",
-    "price": 44.7,
-    "change": "-7.18%"
-  },
-  {
-    "ticker": "PAN",
-    "price": 18.58,
-    "change": "-6.87%"
-  },
-  {
     "ticker": "CCC",
     "price": 5.0,
     "change": "-6.54%"
   },
   {
-    "ticker": "PBG",
-    "price": 5.81,
-    "change": "-6.29%"
+    "ticker": "HUG",
+    "price": 1.45,
+    "change": "-5.84%"
+  },
+  {
+    "ticker": "KRO",
+    "price": 802.63,
+    "change": "-5.56%"
   }
 ]
