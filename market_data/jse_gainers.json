@@ -1,13 +1,8 @@
 [
   {
-    "ticker": "BAC",
-    "price": 10.5,
-    "change": "+48.94%"
-  },
-  {
-    "ticker": "ARA",
-    "price": 8.14,
-    "change": "+35.44%"
+    "ticker": "BIK",
+    "price": 0.17,
+    "change": "+30.77%"
   },
   {
     "ticker": "OAO",
@@ -15,18 +10,23 @@
     "change": "+20.00%"
   },
   {
-    "ticker": "CCC",
-    "price": 5.35,
-    "change": "+18.89%"
+    "ticker": "LAB",
+    "price": 0.06,
+    "change": "+20.00%"
   },
   {
-    "ticker": "BRT",
-    "price": 5.0,
-    "change": "+16.28%"
+    "ticker": "EMN",
+    "price": 2.1,
+    "change": "+8.25%"
   },
   {
-    "ticker": "ISA",
-    "price": 1.99,
-    "change": "+7.57%"
+    "ticker": "CLI",
+    "price": 14.0,
+    "change": "+7.69%"
+  },
+  {
+    "ticker": "ORN",
+    "price": 0.21,
+    "change": "+5.00%"
   }
 ]
