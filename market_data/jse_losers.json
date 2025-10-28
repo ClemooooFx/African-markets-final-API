@@ -1,13 +1,18 @@
 [
   {
     "ticker": "WBC",
-    "price": 46.83,
-    "change": "-13.28%"
+    "price": 46.1,
+    "change": "-14.63%"
   },
   {
     "ticker": "ACT",
     "price": 1.51,
     "change": "-8.48%"
+  },
+  {
+    "ticker": "WVR",
+    "price": 46.01,
+    "change": "-7.05%"
   },
   {
     "ticker": "CCC",
@@ -23,10 +28,5 @@
     "ticker": "MST",
     "price": 13.7,
     "change": "-5.45%"
-  },
-  {
-    "ticker": "FGL",
-    "price": 1.05,
-    "change": "-5.41%"
   }
 ]
