@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "DAARCOMM",
+    "price": 0.94,
+    "change": "-8.74%"
+  },
+  {
+    "ticker": "IKEJAHOTEL",
+    "price": 19.0,
+    "change": "-7.32%"
+  },
+  {
     "ticker": "CHAMS",
     "price": 4.0,
     "change": "-5.88%"
@@ -15,18 +25,8 @@
     "change": "-4.44%"
   },
   {
-    "ticker": "FCMB",
-    "price": 10.45,
-    "change": "-1.42%"
-  },
-  {
-    "ticker": "CAVERTON",
-    "price": 6.31,
-    "change": "-1.10%"
-  },
-  {
-    "ticker": "ZENITHBANK",
-    "price": 65.0,
-    "change": "-0.76%"
+    "ticker": "FTNCOCOA",
+    "price": 5.4,
+    "change": "-3.57%"
   }
 ]

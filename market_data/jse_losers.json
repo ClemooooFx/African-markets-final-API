@@ -1,13 +1,18 @@
 [
   {
     "ticker": "WBC",
-    "price": 47.3,
-    "change": "-12.41%"
+    "price": 46.83,
+    "change": "-13.28%"
   },
   {
     "ticker": "ACT",
     "price": 1.51,
     "change": "-8.48%"
+  },
+  {
+    "ticker": "MTU",
+    "price": 0.57,
+    "change": "-6.56%"
   },
   {
     "ticker": "CCC",
@@ -23,10 +28,5 @@
     "ticker": "HUG",
     "price": 1.45,
     "change": "-5.84%"
-  },
-  {
-    "ticker": "PAN",
-    "price": 17.67,
-    "change": "-4.90%"
   }
 ]
