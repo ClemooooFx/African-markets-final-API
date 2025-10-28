@@ -6,8 +6,13 @@
   },
   {
     "ticker": "FTGH",
-    "price": 1.55,
-    "change": "-4.32%"
+    "price": 1.56,
+    "change": "-3.70%"
+  },
+  {
+    "ticker": "EABL",
+    "price": 220.0,
+    "change": "-2.76%"
   },
   {
     "ticker": "CIC",
@@ -15,18 +20,13 @@
     "change": "-2.09%"
   },
   {
-    "ticker": "EABL",
-    "price": 222.0,
-    "change": "-1.88%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 54.0,
-    "change": "-1.37%"
-  },
-  {
     "ticker": "PORT",
-    "price": 60.0,
-    "change": "-1.23%"
+    "price": 59.75,
+    "change": "-1.65%"
+  },
+  {
+    "ticker": "EGAD",
+    "price": 20.0,
+    "change": "-1.48%"
   }
 ]
