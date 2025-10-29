@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "102131.0",
+    "volume": "104830.0",
     "price": 0.6,
     "change": -0.05
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1350.0",
+    "volume": "1745.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "2070.0",
+    "volume": "3625.0",
     "price": 4.25,
     "change": 0.02
   },
@@ -226,9 +226,9 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "",
+    "volume": "7.0",
     "price": 1.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SOGEGH",
@@ -254,9 +254,9 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "",
+    "volume": "21.0",
     "price": 40.5,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "UNIL",
