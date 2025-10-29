@@ -10,11 +10,6 @@
     "change": "-18.69%"
   },
   {
-    "ticker": "MHB",
-    "price": 4.65,
-    "change": "-18.42%"
-  },
-  {
     "ticker": "MTNZF",
     "price": 3.4,
     "change": "-11.69%"
@@ -28,5 +23,10 @@
     "ticker": "TRL",
     "price": 1.72,
     "change": "-7.03%"
+  },
+  {
+    "ticker": "ACT",
+    "price": 1.52,
+    "change": "-5.00%"
   }
 ]
