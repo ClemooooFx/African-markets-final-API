@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "GLD",
-    "price": 4805.0,
-    "change": "-9.43%"
+    "ticker": "CRWN",
+    "price": 50.0,
+    "change": "-8.26%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.37,
-    "change": "-7.50%"
+    "ticker": "HAFR",
+    "price": 1.16,
+    "change": "-2.52%"
+  },
+  {
+    "ticker": "LBTY",
+    "price": 10.65,
+    "change": "-1.84%"
   },
   {
     "ticker": "NCBA",
-    "price": 85.5,
-    "change": "-3.93%"
+    "price": 84.5,
+    "change": "-1.17%"
   },
   {
-    "ticker": "CIC",
-    "price": 4.61,
-    "change": "-3.56%"
+    "ticker": "SLAM",
+    "price": 8.8,
+    "change": "-0.90%"
   },
   {
-    "ticker": "CGEN",
-    "price": 53.0,
-    "change": "-2.75%"
-  },
-  {
-    "ticker": "EGAD",
-    "price": 19.75,
-    "change": "-2.71%"
+    "ticker": "NMG",
+    "price": 13.5,
+    "change": "-0.74%"
   }
 ]
