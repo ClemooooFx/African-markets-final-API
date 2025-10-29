@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "FTGH",
-    "price": 1.77,
-    "change": "+9.26%"
-  },
-  {
     "ticker": "TOTL",
     "price": 47.0,
     "change": "+6.82%"
@@ -20,9 +15,14 @@
     "change": "+4.24%"
   },
   {
+    "ticker": "FTGH",
+    "price": 1.68,
+    "change": "+3.70%"
+  },
+  {
     "ticker": "KCB",
-    "price": 60.75,
-    "change": "+3.40%"
+    "price": 60.5,
+    "change": "+2.98%"
   },
   {
     "ticker": "XPRS",

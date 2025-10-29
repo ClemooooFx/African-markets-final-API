@@ -1,8 +1,8 @@
 [
   {
     "ticker": "OAO",
-    "price": 0.18,
-    "change": "-14.29%"
+    "price": 0.16,
+    "change": "-23.81%"
   },
   {
     "ticker": "RCL",
@@ -15,6 +15,11 @@
     "change": "-5.00%"
   },
   {
+    "ticker": "ORN",
+    "price": 0.2,
+    "change": "-4.76%"
+  },
+  {
     "ticker": "ACL",
     "price": 1.5,
     "change": "-3.85%"
@@ -23,10 +28,5 @@
     "ticker": "EQU",
     "price": 16.98,
     "change": "-3.36%"
-  },
-  {
-    "ticker": "SYG",
-    "price": 31.52,
-    "change": "-3.10%"
   }
 ]
