@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "",
+    "volume": "3.0",
     "price": 6.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ALW",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1154.0",
+    "volume": "1193.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "230.0",
+    "volume": "930.0",
     "price": 4.23,
     "change": 0.0
   },
@@ -233,9 +233,9 @@
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "",
+    "volume": "3.0",
     "price": 3.08,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TBL",

@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "CORNERST",
-    "price": 6.03,
-    "change": "-9.60%"
-  },
-  {
     "ticker": "ARADEL",
     "price": 800.0,
     "change": "-7.94%"
@@ -18,6 +13,11 @@
     "ticker": "GUINNESS",
     "price": 174.0,
     "change": "-5.31%"
+  },
+  {
+    "ticker": "MANSARD",
+    "price": 14.5,
+    "change": "-4.61%"
   },
   {
     "ticker": "HONYFLOUR",
