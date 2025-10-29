@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "104830.0",
+    "volume": "105617.0",
     "price": 0.6,
     "change": -0.05
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1745.0",
+    "volume": "20107.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -170,9 +170,9 @@
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "",
+    "volume": "8.0",
     "price": 5.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "MMH",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "3625.0",
-    "price": 4.25,
-    "change": 0.02
+    "volume": "5953705.0",
+    "price": 4.2,
+    "change": -0.03
   },
   {
     "ticker": "PBC",
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "7.0",
+    "volume": "1308.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "21.0",
+    "volume": "31.0",
     "price": 40.5,
     "change": 0.0
   },
