@@ -1,8 +1,8 @@
 [
   {
     "ticker": "MCZ",
-    "price": 1.97,
-    "change": "+10.06%"
+    "price": 2.0,
+    "change": "+11.73%"
   },
   {
     "ticker": "BIK",
@@ -20,13 +20,13 @@
     "change": "+5.71%"
   },
   {
+    "ticker": "GLN",
+    "price": 84.93,
+    "change": "+5.67%"
+  },
+  {
     "ticker": "SUR",
     "price": 37.69,
     "change": "+4.78%"
-  },
-  {
-    "ticker": "GLN",
-    "price": 83.63,
-    "change": "+4.06%"
   }
 ]
