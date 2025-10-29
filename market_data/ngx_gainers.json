@@ -1,13 +1,23 @@
 [
   {
+    "ticker": "JBERGER",
+    "price": 147.1,
+    "change": "+9.78%"
+  },
+  {
     "ticker": "ASOSAVINGS",
     "price": 0.86,
     "change": "+8.86%"
   },
   {
-    "ticker": "UNIVINSURE",
-    "price": 1.16,
-    "change": "+4.50%"
+    "ticker": "SOVRENINS",
+    "price": 4.84,
+    "change": "+8.76%"
+  },
+  {
+    "ticker": "MBENEFIT",
+    "price": 4.2,
+    "change": "+4.74%"
   },
   {
     "ticker": "OKOMUOIL",
@@ -18,15 +28,5 @@
     "ticker": "BUACEMENT",
     "price": 185.0,
     "change": "+2.78%"
-  },
-  {
-    "ticker": "CHAMPION",
-    "price": 16.2,
-    "change": "+1.89%"
-  },
-  {
-    "ticker": "SOVRENINS",
-    "price": 4.49,
-    "change": "+0.90%"
   }
 ]
