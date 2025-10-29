@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "AMAC",
+    "price": 58.5,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "TPSE",
     "price": 16.1,
     "change": "-9.80%"
+  },
+  {
+    "ticker": "BKG",
+    "price": 38.7,
+    "change": "-8.51%"
   },
   {
     "ticker": "CRWN",
@@ -18,15 +28,5 @@
     "ticker": "NCBA",
     "price": 82.0,
     "change": "-4.09%"
-  },
-  {
-    "ticker": "OCH",
-    "price": 7.1,
-    "change": "-4.05%"
-  },
-  {
-    "ticker": "NMG",
-    "price": 13.1,
-    "change": "-3.68%"
   }
 ]
