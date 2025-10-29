@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "UNGA",
-    "price": 25.0,
-    "change": "+8.70%"
-  },
-  {
     "ticker": "FTGH",
-    "price": 1.74,
-    "change": "+7.41%"
+    "price": 1.77,
+    "change": "+9.26%"
   },
   {
-    "ticker": "GLD",
-    "price": 5145.0,
-    "change": "+7.08%"
+    "ticker": "UNGA",
+    "price": 24.9,
+    "change": "+8.26%"
   },
   {
     "ticker": "TOTL",
@@ -23,6 +18,11 @@
     "ticker": "SMER",
     "price": 14.75,
     "change": "+4.24%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5000.0,
+    "change": "+4.06%"
   },
   {
     "ticker": "KAPC",

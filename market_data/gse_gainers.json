@@ -1,12 +1,17 @@
 [
   {
     "ticker": "GCB",
-    "price": 16.5,
-    "change": "+5.43%"
+    "price": 17.0,
+    "change": "+8.63%"
   },
   {
     "ticker": "EGL",
     "price": 3.45,
     "change": "+1.17%"
+  },
+  {
+    "ticker": "MTNGH",
+    "price": 4.25,
+    "change": "+0.47%"
   }
 ]

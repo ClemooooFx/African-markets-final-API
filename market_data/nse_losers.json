@@ -1,8 +1,8 @@
 [
   {
     "ticker": "CRWN",
-    "price": 50.25,
-    "change": "-7.80%"
+    "price": 50.0,
+    "change": "-8.26%"
   },
   {
     "ticker": "SGL",
@@ -11,8 +11,13 @@
   },
   {
     "ticker": "NCBA",
-    "price": 81.75,
-    "change": "-4.39%"
+    "price": 82.0,
+    "change": "-4.09%"
+  },
+  {
+    "ticker": "OCH",
+    "price": 7.1,
+    "change": "-4.05%"
   },
   {
     "ticker": "HAFR",
@@ -23,10 +28,5 @@
     "ticker": "LBTY",
     "price": 10.5,
     "change": "-3.23%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "-2.35%"
   }
 ]
