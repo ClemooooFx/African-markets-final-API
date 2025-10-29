@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "OAO",
+    "price": 0.18,
+    "change": "-14.29%"
+  },
+  {
     "ticker": "WBC",
     "price": 46.67,
     "change": "-13.57%"
   },
   {
-    "ticker": "OAO",
-    "price": 0.21,
-    "change": "-12.50%"
+    "ticker": "RCL",
+    "price": 9.7,
+    "change": "-9.43%"
   },
   {
-    "ticker": "HUG",
-    "price": 1.38,
-    "change": "-10.39%"
+    "ticker": "ACT",
+    "price": 1.52,
+    "change": "-5.00%"
   },
   {
-    "ticker": "ISA",
-    "price": 1.8,
-    "change": "-9.55%"
+    "ticker": "RNG",
+    "price": 1.36,
+    "change": "-4.90%"
   },
   {
-    "ticker": "HLM",
-    "price": 2.42,
-    "change": "-8.68%"
-  },
-  {
-    "ticker": "MCZ",
-    "price": 1.79,
-    "change": "-8.21%"
+    "ticker": "AFH",
+    "price": 8.04,
+    "change": "-4.51%"
   }
 ]
