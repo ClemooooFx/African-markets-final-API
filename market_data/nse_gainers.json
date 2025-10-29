@@ -10,9 +10,14 @@
     "change": "+6.82%"
   },
   {
+    "ticker": "FTGH",
+    "price": 1.73,
+    "change": "+6.79%"
+  },
+  {
     "ticker": "KAPC",
-    "price": 233.0,
-    "change": "+4.95%"
+    "price": 232.0,
+    "change": "+4.50%"
   },
   {
     "ticker": "SMER",
@@ -20,13 +25,8 @@
     "change": "+4.24%"
   },
   {
-    "ticker": "FTGH",
-    "price": 1.67,
-    "change": "+3.09%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 60.5,
-    "change": "+2.98%"
+    "ticker": "GLD",
+    "price": 5000.0,
+    "change": "+4.06%"
   }
 ]

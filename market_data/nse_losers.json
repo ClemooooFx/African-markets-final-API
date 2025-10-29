@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CRWN",
+    "price": 50.25,
+    "change": "-7.80%"
+  },
+  {
     "ticker": "PORT",
     "price": 57.0,
     "change": "-5.00%"
@@ -11,13 +16,8 @@
   },
   {
     "ticker": "NCBA",
-    "price": 81.5,
-    "change": "-4.68%"
-  },
-  {
-    "ticker": "LBTY",
-    "price": 10.5,
-    "change": "-3.23%"
+    "price": 81.75,
+    "change": "-4.39%"
   },
   {
     "ticker": "KUKZ",
