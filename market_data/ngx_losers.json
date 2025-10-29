@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CORNERST",
+    "price": 6.02,
+    "change": "-9.75%"
+  },
+  {
     "ticker": "ARADEL",
     "price": 800.0,
     "change": "-7.94%"
@@ -23,10 +28,5 @@
     "ticker": "HONYFLOUR",
     "price": 22.05,
     "change": "-4.55%"
-  },
-  {
-    "ticker": "AIICO",
-    "price": 3.81,
-    "change": "-4.27%"
   }
 ]

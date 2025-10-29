@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "DLT",
+    "price": 0.27,
+    "change": "+17.39%"
+  },
+  {
     "ticker": "MCZ",
     "price": 2.0,
     "change": "+11.73%"
@@ -23,10 +28,5 @@
     "ticker": "STXRES",
     "price": 113.05,
     "change": "+5.57%"
-  },
-  {
-    "ticker": "ETFRHO",
-    "price": 1284.37,
-    "change": "+5.48%"
   }
 ]
