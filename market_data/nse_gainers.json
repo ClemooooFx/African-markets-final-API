@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "TOTL",
-    "price": 47.0,
-    "change": "+6.82%"
-  },
-  {
     "ticker": "KAPC",
     "price": 233.0,
     "change": "+4.95%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 46.05,
+    "change": "+4.66%"
   },
   {
     "ticker": "SMER",
@@ -16,8 +16,8 @@
   },
   {
     "ticker": "FTGH",
-    "price": 1.68,
-    "change": "+3.70%"
+    "price": 1.67,
+    "change": "+3.09%"
   },
   {
     "ticker": "KCB",
@@ -25,8 +25,8 @@
     "change": "+2.98%"
   },
   {
-    "ticker": "XPRS",
-    "price": 7.2,
-    "change": "+2.86%"
+    "ticker": "EVRD",
+    "price": 1.37,
+    "change": "+2.24%"
   }
 ]

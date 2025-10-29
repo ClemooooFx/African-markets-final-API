@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "SGL",
+    "price": 5.9,
+    "change": "-6.35%"
+  },
+  {
+    "ticker": "BKG",
+    "price": 40.0,
+    "change": "-5.44%"
+  },
+  {
     "ticker": "PORT",
     "price": 57.0,
     "change": "-5.00%"
   },
   {
-    "ticker": "SGL",
-    "price": 6.0,
-    "change": "-4.76%"
-  },
-  {
     "ticker": "NCBA",
-    "price": 81.5,
-    "change": "-4.68%"
+    "price": 81.75,
+    "change": "-4.39%"
   },
   {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "-2.35%"
+    "ticker": "UCHM",
+    "price": 0.36,
+    "change": "-2.70%"
   },
   {
-    "ticker": "JUB",
-    "price": 315.0,
-    "change": "-1.56%"
-  },
-  {
-    "ticker": "SCAN",
-    "price": 2.84,
-    "change": "-1.39%"
+    "ticker": "HAFR",
+    "price": 1.16,
+    "change": "-2.52%"
   }
 ]
