@@ -1,32 +1,32 @@
 [
   {
     "ticker": "WBC",
-    "price": 46.69,
-    "change": "-13.54%"
+    "price": 46.67,
+    "change": "-13.57%"
   },
   {
-    "ticker": "ACT",
-    "price": 1.51,
-    "change": "-8.48%"
-  },
-  {
-    "ticker": "SEP",
-    "price": 1.42,
-    "change": "-7.19%"
-  },
-  {
-    "ticker": "WVR",
-    "price": 46.01,
-    "change": "-7.05%"
-  },
-  {
-    "ticker": "CCC",
-    "price": 5.0,
-    "change": "-6.54%"
+    "ticker": "OAO",
+    "price": 0.21,
+    "change": "-12.50%"
   },
   {
     "ticker": "HUG",
-    "price": 1.45,
-    "change": "-5.84%"
+    "price": 1.38,
+    "change": "-10.39%"
+  },
+  {
+    "ticker": "ISA",
+    "price": 1.8,
+    "change": "-9.55%"
+  },
+  {
+    "ticker": "HLM",
+    "price": 2.42,
+    "change": "-8.68%"
+  },
+  {
+    "ticker": "MCZ",
+    "price": 1.79,
+    "change": "-8.21%"
   }
 ]

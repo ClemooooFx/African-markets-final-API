@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "STAC",
-    "price": 1290.0,
+    "ticker": "UNLC",
+    "price": 20000.0,
     "change": "+7.50%"
   },
   {
     "ticker": "CFAC",
-    "price": 2020.0,
-    "change": "+7.45%"
-  },
-  {
-    "ticker": "SAFC",
-    "price": 3180.0,
+    "price": 2170.0,
     "change": "+7.43%"
   },
   {
-    "ticker": "SCRC",
-    "price": 1395.0,
-    "change": "+5.68%"
+    "ticker": "SAFC",
+    "price": 3415.0,
+    "change": "+7.39%"
   },
   {
-    "ticker": "ECOC",
-    "price": 14890.0,
-    "change": "+5.60%"
+    "ticker": "NEIC",
+    "price": 720.0,
+    "change": "+2.86%"
   },
   {
-    "ticker": "SIVC",
-    "price": 705.0,
-    "change": "+5.22%"
+    "ticker": "SDSC",
+    "price": 1490.0,
+    "change": "+2.76%"
+  },
+  {
+    "ticker": "NSBC",
+    "price": 11800.0,
+    "change": "+2.70%"
   }
 ]

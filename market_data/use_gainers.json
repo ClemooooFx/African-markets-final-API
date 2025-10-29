@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "CENT",
-    "price": 400.06,
-    "change": "+5.44%"
-  },
-  {
-    "ticker": "JHL",
-    "price": 8742.03,
-    "change": "+2.77%"
-  },
-  {
-    "ticker": "BOBU",
-    "price": 48.17,
-    "change": "+2.45%"
-  },
-  {
     "ticker": "EABL",
-    "price": 5920.07,
-    "change": "+1.84%"
+    "price": 5982.97,
+    "change": "+1.06%"
   },
   {
-    "ticker": "NMG",
-    "price": 367.73,
-    "change": "+1.24%"
+    "ticker": "AIRTEL",
+    "price": 82.86,
+    "change": "+0.42%"
   },
   {
     "ticker": "MTNU",
-    "price": 294.01,
-    "change": "+0.00%"
+    "price": 294.1,
+    "change": "+0.03%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
