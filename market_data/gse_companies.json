@@ -9,9 +9,9 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "304.0",
+    "volume": "",
     "price": 16.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ADB",
@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "114.0",
+    "volume": "",
     "price": 6.12,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ALW",
@@ -51,23 +51,23 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "277.0",
+    "volume": "",
     "price": 39.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "44081.0",
-    "price": 0.65,
-    "change": -0.07
+    "volume": "71261.0",
+    "price": 0.6,
+    "change": -0.05
   },
   {
     "ticker": "CLYD",
     "name": "Clydestone Ghana Limited",
-    "volume": "10500.0",
+    "volume": "",
     "price": 0.26,
-    "change": 0.02
+    "change": NaN
   },
   {
     "ticker": "CMLT",
@@ -100,37 +100,37 @@
   {
     "ticker": "EGH",
     "name": "Ecobank Ghana Limited",
-    "volume": "220.0",
+    "volume": "",
     "price": 14.04,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "747.0",
-    "price": 3.41,
-    "change": 0.0
+    "volume": "8000.0",
+    "price": 3.45,
+    "change": 0.04
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "9991.0",
+    "volume": "1154.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "23666.0",
+    "volume": "",
     "price": 8.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "2774.0",
-    "price": 15.65,
-    "change": 0.0
+    "volume": "1258.0",
+    "price": 16.5,
+    "change": 0.85
   },
   {
     "ticker": "GGBL",
@@ -142,16 +142,16 @@
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "454.0",
+    "volume": "",
     "price": 433.23,
-    "change": -26.05
+    "change": NaN
   },
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "655.0",
+    "volume": "",
     "price": 2.53,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "HORDS",
@@ -170,9 +170,9 @@
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "2.0",
+    "volume": "",
     "price": 5.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MMH",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "130246.0",
+    "volume": "230.0",
     "price": 4.23,
-    "change": -0.02
+    "change": 0.0
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "3720.0",
+    "volume": "522.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,16 +226,16 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "52273.0",
+    "volume": "",
     "price": 1.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "62135.0",
+    "volume": "",
     "price": 3.08,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "TBL",
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "1722.0",
+    "volume": "",
     "price": 40.5,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "139.0",
+    "volume": "",
     "price": 19.8,
-    "change": 0.0
+    "change": NaN
   }
 ]
