@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "BETAGLAS",
+    "price": 437.4,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "JOHNHOLT",
     "price": 5.4,
     "change": "-10.00%"
   },
   {
+    "ticker": "ETRANZACT",
+    "price": 13.55,
+    "change": "-9.67%"
+  },
+  {
+    "ticker": "EUNISELL",
+    "price": 59.0,
+    "change": "-8.53%"
+  },
+  {
+    "ticker": "ETERNA",
+    "price": 40.0,
+    "change": "-8.05%"
+  },
+  {
     "ticker": "ARADEL",
     "price": 800.0,
     "change": "-7.94%"
-  },
-  {
-    "ticker": "MANSARD",
-    "price": 14.2,
-    "change": "-6.58%"
-  },
-  {
-    "ticker": "CORNERST",
-    "price": 6.3,
-    "change": "-5.55%"
-  },
-  {
-    "ticker": "GUINNESS",
-    "price": 174.0,
-    "change": "-5.31%"
-  },
-  {
-    "ticker": "HONYFLOUR",
-    "price": 22.05,
-    "change": "-4.55%"
   }
 ]

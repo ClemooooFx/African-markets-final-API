@@ -1,18 +1,28 @@
 [
   {
-    "ticker": "OMU",
-    "price": 2875.0,
+    "ticker": "SUNBIRD",
+    "price": 575.08,
     "change": "+15.00%"
   },
   {
-    "ticker": "ILLOVO",
-    "price": 2330.0,
-    "change": "+14.78%"
+    "ticker": "NBM",
+    "price": 12400.0,
+    "change": "+0.00%"
   },
   {
-    "ticker": "FDHB",
-    "price": 637.64,
-    "change": "+0.00%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
     "ticker": "\u200b",
