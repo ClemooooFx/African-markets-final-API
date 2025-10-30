@@ -1,18 +1,23 @@
 [
   {
+    "ticker": "BKG",
+    "price": 42.95,
+    "change": "+6.84%"
+  },
+  {
     "ticker": "NSE",
     "price": 16.0,
     "change": "+6.67%"
   },
   {
     "ticker": "EQTY",
-    "price": 64.25,
-    "change": "+6.20%"
+    "price": 64.5,
+    "change": "+6.61%"
   },
   {
-    "ticker": "GLD",
-    "price": 5150.0,
-    "change": "+5.97%"
+    "ticker": "SMER",
+    "price": 14.75,
+    "change": "+3.87%"
   },
   {
     "ticker": "LBTY",
@@ -23,10 +28,5 @@
     "ticker": "SLAM",
     "price": 9.0,
     "change": "+3.21%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 0.38,
-    "change": "+2.70%"
   }
 ]
