@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "WTK",
-    "price": 186.0,
-    "change": "-3.63%"
-  },
-  {
     "ticker": "LKL",
     "price": 2.9,
     "change": "-3.33%"
@@ -15,18 +10,23 @@
     "change": "-2.56%"
   },
   {
-    "ticker": "SCAN",
-    "price": 2.79,
-    "change": "-2.11%"
-  },
-  {
     "ticker": "TOTL",
     "price": 45.1,
     "change": "-1.85%"
   },
   {
+    "ticker": "SCAN",
+    "price": 2.8,
+    "change": "-1.75%"
+  },
+  {
     "ticker": "UMME",
     "price": 7.9,
     "change": "-1.50%"
+  },
+  {
+    "ticker": "KAPC",
+    "price": 230.0,
+    "change": "-1.39%"
   }
 ]
