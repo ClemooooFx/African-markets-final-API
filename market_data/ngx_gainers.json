@@ -10,6 +10,11 @@
     "change": "+9.30%"
   },
   {
+    "ticker": "AIICO",
+    "price": 4.0,
+    "change": "+5.26%"
+  },
+  {
     "ticker": "MAYBAKER",
     "price": 17.85,
     "change": "+5.00%"
@@ -23,10 +28,5 @@
     "ticker": "CUSTODIAN",
     "price": 42.45,
     "change": "+4.94%"
-  },
-  {
-    "ticker": "ETI",
-    "price": 39.9,
-    "change": "+4.45%"
   }
 ]

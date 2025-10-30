@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "SACL",
+    "price": 0.03955,
+    "change": "+42.32%"
+  },
+  {
     "ticker": "DZL",
-    "price": 1.552049,
-    "change": "+14.97%"
+    "price": 1.7845,
+    "change": "+14.98%"
   },
   {
-    "ticker": "MASH",
-    "price": 0.9775,
-    "change": "+14.92%"
+    "ticker": "WILD",
+    "price": 0.04,
+    "change": "+14.28%"
   },
   {
-    "ticker": "ZIMR",
-    "price": 0.2005,
-    "change": "+13.28%"
+    "ticker": "FMP",
+    "price": 1.124138,
+    "change": "+12.41%"
   },
   {
     "ticker": "ARIS",
-    "price": 0.026,
-    "change": "+12.07%"
-  },
-  {
-    "ticker": "TANG",
-    "price": 0.740421,
-    "change": "+10.84%"
+    "price": 0.029,
+    "change": "+11.54%"
   },
   {
     "ticker": "ZSEH",
-    "price": 1.25,
-    "change": "+4.17%"
+    "price": 1.321818,
+    "change": "+5.75%"
   }
 ]
