@@ -10,6 +10,16 @@
     "change": "-4.85%"
   },
   {
+    "ticker": "SNV",
+    "price": 6.61,
+    "change": "-4.34%"
+  },
+  {
+    "ticker": "IVT",
+    "price": 36.85,
+    "change": "-4.16%"
+  },
+  {
     "ticker": "MKR",
     "price": 35.89,
     "change": "-3.96%"
@@ -18,15 +28,5 @@
     "ticker": "HUG",
     "price": 1.35,
     "change": "-3.57%"
-  },
-  {
-    "ticker": "ETFSWX",
-    "price": 27.66,
-    "change": "-3.46%"
-  },
-  {
-    "ticker": "BYI",
-    "price": 84.78,
-    "change": "-3.34%"
   }
 ]
