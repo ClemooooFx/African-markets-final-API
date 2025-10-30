@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "OANDO",
+    "price": 46.8,
+    "change": "+9.99%"
+  },
+  {
     "ticker": "ASOSAVINGS",
     "price": 0.94,
     "change": "+9.30%"
@@ -20,13 +25,8 @@
     "change": "+4.94%"
   },
   {
-    "ticker": "MBENEFIT",
-    "price": 4.17,
-    "change": "+4.25%"
-  },
-  {
-    "ticker": "CHAMPION",
-    "price": 15.0,
-    "change": "+3.45%"
+    "ticker": "ETI",
+    "price": 39.9,
+    "change": "+4.45%"
   }
 ]

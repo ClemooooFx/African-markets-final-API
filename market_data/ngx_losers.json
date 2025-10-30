@@ -6,27 +6,27 @@
   },
   {
     "ticker": "CHAMS",
-    "price": 3.52,
-    "change": "-9.74%"
+    "price": 3.51,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "LASACO",
+    "price": 2.39,
+    "change": "-9.81%"
+  },
+  {
+    "ticker": "TIP",
+    "price": 12.9,
+    "change": "-9.54%"
+  },
+  {
+    "ticker": "NAHCO",
+    "price": 113.0,
+    "change": "-9.49%"
   },
   {
     "ticker": "CORNERST",
     "price": 5.6,
     "change": "-8.94%"
-  },
-  {
-    "ticker": "UPL",
-    "price": 5.04,
-    "change": "-8.36%"
-  },
-  {
-    "ticker": "OMATEK",
-    "price": 1.33,
-    "change": "-8.28%"
-  },
-  {
-    "ticker": "TIP",
-    "price": 13.25,
-    "change": "-7.08%"
   }
 ]

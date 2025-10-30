@@ -1,32 +1,27 @@
 [
   {
-    "ticker": "NMG",
-    "price": 359.79,
-    "change": "-2.09%"
+    "ticker": "UMEM",
+    "price": 214.36,
+    "change": "-2.56%"
   },
   {
-    "ticker": "JHL",
-    "price": 8498.03,
-    "change": "-1.20%"
+    "ticker": "EABL",
+    "price": 6012.16,
+    "change": "-1.03%"
   },
   {
-    "ticker": "AIRTEL",
-    "price": 82.0,
-    "change": "-1.04%"
+    "ticker": "KA",
+    "price": 100.92,
+    "change": "-0.30%"
   },
   {
-    "ticker": "KCB",
-    "price": 1557.3,
-    "change": "-0.69%"
+    "ticker": "SBU",
+    "price": 62.47,
+    "change": "-0.05%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "CENT",
+    "price": 393.21,
+    "change": "-0.04%"
   }
 ]
