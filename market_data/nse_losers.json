@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "AMAC",
-    "price": 58.5,
-    "change": "-16.43%"
+    "ticker": "UMME",
+    "price": 7.5,
+    "change": "-6.48%"
   },
   {
-    "ticker": "TPSE",
-    "price": 16.2,
-    "change": "-9.24%"
+    "ticker": "OCH",
+    "price": 7.1,
+    "change": "-1.93%"
   },
   {
-    "ticker": "CRWN",
-    "price": 50.25,
-    "change": "-7.80%"
+    "ticker": "GLD",
+    "price": 4780.0,
+    "change": "-1.65%"
   },
   {
-    "ticker": "BKG",
-    "price": 40.2,
-    "change": "-4.96%"
-  },
-  {
-    "ticker": "SGL",
-    "price": 6.0,
-    "change": "-4.76%"
+    "ticker": "PORT",
+    "price": 58.75,
+    "change": "-1.26%"
   },
   {
     "ticker": "NCBA",
-    "price": 82.0,
-    "change": "-4.09%"
+    "price": 81.0,
+    "change": "-1.22%"
+  },
+  {
+    "ticker": "SBIC",
+    "price": 197.0,
+    "change": "-0.25%"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "UNGA",
-    "price": 24.6,
-    "change": "+6.96%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.71,
-    "change": "+5.56%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 233.25,
-    "change": "+5.07%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 45.95,
-    "change": "+4.43%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "+2.22%"
+    "ticker": "EQTY",
+    "price": 64.5,
+    "change": "+6.61%"
   },
   {
     "ticker": "NBV",
-    "price": 1.59,
-    "change": "+1.92%"
+    "price": 1.69,
+    "change": "+6.29%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.75,
+    "change": "+3.87%"
+  },
+  {
+    "ticker": "LBTY",
+    "price": 10.85,
+    "change": "+3.33%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 9.0,
+    "change": "+3.21%"
+  },
+  {
+    "ticker": "FTGH",
+    "price": 1.76,
+    "change": "+2.92%"
   }
 ]
