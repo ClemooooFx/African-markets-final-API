@@ -5,6 +5,11 @@
     "change": "+9.30%"
   },
   {
+    "ticker": "DEAPCAP",
+    "price": 1.91,
+    "change": "+5.52%"
+  },
+  {
     "ticker": "MAYBAKER",
     "price": 17.85,
     "change": "+5.00%"
@@ -15,18 +20,13 @@
     "change": "+3.85%"
   },
   {
-    "ticker": "NSLTECH",
-    "price": 0.87,
-    "change": "+3.57%"
+    "ticker": "CHAMPION",
+    "price": 15.0,
+    "change": "+3.45%"
   },
   {
     "ticker": "MCNICHOLS",
     "price": 3.3,
     "change": "+3.13%"
-  },
-  {
-    "ticker": "MBENEFIT",
-    "price": 4.1,
-    "change": "+2.50%"
   }
 ]

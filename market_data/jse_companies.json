@@ -44,9 +44,9 @@
   {
     "ticker": "ACL",
     "name": "ArcelorMittal SA Limited",
-    "volume": "6807.0",
-    "price": 1.56,
-    "change": 0.0
+    "volume": "20380.0",
+    "price": 1.55,
+    "change": -0.01
   },
   {
     "ticker": "ACS",
@@ -65,16 +65,16 @@
   {
     "ticker": "ADH",
     "name": "ADvTECH Ltd",
-    "volume": "55668.0",
-    "price": 34.6,
-    "change": -0.41
+    "volume": "67509.0",
+    "price": 34.8,
+    "change": -0.21
   },
   {
     "ticker": "ADR",
     "name": "Adcorp Holdings Limited",
-    "volume": "",
-    "price": 7.22,
-    "change": NaN
+    "volume": "25718.0",
+    "price": 7.21,
+    "change": -0.01
   },
   {
     "ticker": "ADW",
@@ -93,16 +93,16 @@
   {
     "ticker": "AEL",
     "name": "Altron: Allied Electronics Corporation",
-    "volume": "72840.0",
-    "price": 18.3,
-    "change": 0.05
+    "volume": "164668.0",
+    "price": 18.29,
+    "change": 0.04
   },
   {
     "ticker": "AFE",
     "name": "AECI Limited",
-    "volume": "39506.0",
-    "price": 88.56,
-    "change": -0.37
+    "volume": "73469.0",
+    "price": 88.54,
+    "change": -0.39
   },
   {
     "ticker": "AFEP",
@@ -114,30 +114,30 @@
   {
     "ticker": "AFH",
     "name": "Alexander Forbes Grp Hldgs",
-    "volume": "7624.0",
-    "price": 8.17,
-    "change": 0.06
+    "volume": "15114.0",
+    "price": 8.0,
+    "change": -0.11
   },
   {
     "ticker": "AFT",
     "name": "Afrimat Limited",
-    "volume": "65519.0",
-    "price": 45.41,
-    "change": 0.01
+    "volume": "146750.0",
+    "price": 46.09,
+    "change": 0.69
   },
   {
     "ticker": "AGL",
     "name": "Anglo American plc",
-    "volume": "367010.0",
-    "price": 662.01,
-    "change": -5.47
+    "volume": "504771.0",
+    "price": 662.69,
+    "change": -4.79
   },
   {
     "ticker": "AIP",
     "name": "Adcock Ingram Hldgs Ltd",
-    "volume": "253277.0",
-    "price": 74.52,
-    "change": -0.22
+    "volume": "273611.0",
+    "price": 74.57,
+    "change": -0.17
   },
   {
     "ticker": "AME",
@@ -156,16 +156,16 @@
   {
     "ticker": "ANG",
     "name": "Anglogold Ashanti Ltd",
-    "volume": "309102.0",
-    "price": 1179.05,
-    "change": 22.44
+    "volume": "499441.0",
+    "price": 1173.14,
+    "change": 16.53
   },
   {
     "ticker": "ANH",
     "name": "Anheuser-Busch InBev SA/NV",
-    "volume": "283207.0",
-    "price": 1069.71,
-    "change": 10.12
+    "volume": "318948.0",
+    "price": 1073.39,
+    "change": 13.8
   },
   {
     "ticker": "ANI",
@@ -219,9 +219,9 @@
   {
     "ticker": "APN",
     "name": "Aspen Pharmacare Holdings",
-    "volume": "249046.0",
-    "price": 96.91,
-    "change": -1.71
+    "volume": "464007.0",
+    "price": 97.02,
+    "change": -1.6
   },
   {
     "ticker": "APO",
@@ -240,23 +240,23 @@
   {
     "ticker": "ARA",
     "name": "Astoria Investments Ltd",
-    "volume": "39821.0",
-    "price": 8.15,
-    "change": -0.05
+    "volume": "69821.0",
+    "price": 8.3,
+    "change": 0.1
   },
   {
     "ticker": "ARI",
     "name": "African Rainbow Min Ltd",
-    "volume": "28422.0",
-    "price": 175.47,
-    "change": -1.59
+    "volume": "53094.0",
+    "price": 174.9,
+    "change": -2.16
   },
   {
     "ticker": "ARL",
     "name": "Astral Foods Ltd",
-    "volume": "17410.0",
-    "price": 223.83,
-    "change": 2.83
+    "volume": "28124.0",
+    "price": 222.29,
+    "change": 1.29
   },
   {
     "ticker": "ART",
@@ -275,9 +275,9 @@
   {
     "ticker": "ASC",
     "name": "Ascendis Health Ltd",
-    "volume": "",
-    "price": 0.91,
-    "change": NaN
+    "volume": "400000.0",
+    "price": 0.94,
+    "change": 0.03
   },
   {
     "ticker": "ASIETF",
@@ -289,30 +289,30 @@
   {
     "ticker": "ATT",
     "name": "Attacq Limited",
-    "volume": "54558.0",
+    "volume": "105279.0",
     "price": 15.32,
     "change": -0.16
   },
   {
     "ticker": "AVI",
     "name": "AVI Ltd",
-    "volume": "186739.0",
-    "price": 96.21,
-    "change": -0.13
+    "volume": "212951.0",
+    "price": 96.36,
+    "change": 0.02
   },
   {
     "ticker": "AXX",
     "name": "Araxi Ltd",
-    "volume": "877755.0",
-    "price": 1.65,
-    "change": 0.02
+    "volume": "1328528.0",
+    "price": 1.64,
+    "change": 0.01
   },
   {
     "ticker": "BAC",
     "name": "Africa Bitcoin Corporation Ltd",
-    "volume": "",
+    "volume": "7185.0",
     "price": 10.5,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "BACA",
@@ -338,16 +338,16 @@
   {
     "ticker": "BAT",
     "name": "Brait SE",
-    "volume": "95719.0",
-    "price": 2.14,
-    "change": 0.04
+    "volume": "163400.0",
+    "price": 2.13,
+    "change": 0.03
   },
   {
     "ticker": "BAW",
     "name": "Barloworld Ltd",
-    "volume": "417788.0",
-    "price": 119.11,
-    "change": -0.16
+    "volume": "454506.0",
+    "price": 119.16,
+    "change": -0.11
   },
   {
     "ticker": "BAWP",
@@ -373,16 +373,16 @@
   {
     "ticker": "BHG",
     "name": "BHP Group",
-    "volume": "101633.0",
-    "price": 496.23,
-    "change": -4.21
+    "volume": "129019.0",
+    "price": 496.7,
+    "change": -3.74
   },
   {
     "ticker": "BID",
     "name": "BID Corporation Ltd",
-    "volume": "188972.0",
-    "price": 432.18,
-    "change": -5.77
+    "volume": "276847.0",
+    "price": 431.29,
+    "change": -6.66
   },
   {
     "ticker": "BIHLEB",
@@ -408,16 +408,16 @@
   {
     "ticker": "BLU",
     "name": "Blue Label Telecoms Ltd",
-    "volume": "646733.0",
-    "price": 12.43,
-    "change": -0.13
+    "volume": "731763.0",
+    "price": 12.36,
+    "change": -0.2
   },
   {
     "ticker": "BOX",
     "name": "Boxer Retail Ltd",
-    "volume": "49498.0",
-    "price": 76.67,
-    "change": -0.61
+    "volume": "89901.0",
+    "price": 76.73,
+    "change": -0.55
   },
   {
     "ticker": "BRN",
@@ -443,44 +443,44 @@
   {
     "ticker": "BTI",
     "name": "British American Tobacco Plc",
-    "volume": "89102.0",
-    "price": 884.57,
-    "change": -6.43
+    "volume": "154862.0",
+    "price": 886.63,
+    "change": -4.37
   },
   {
     "ticker": "BTN",
     "name": "Burstone Group Ltd",
-    "volume": "158519.0",
-    "price": 9.04,
-    "change": 0.01
+    "volume": "222027.0",
+    "price": 9.08,
+    "change": 0.05
   },
   {
     "ticker": "BVT",
     "name": "Bidvest Ltd",
-    "volume": "153843.0",
-    "price": 223.53,
-    "change": -0.29
+    "volume": "227662.0",
+    "price": 225.31,
+    "change": 1.49
   },
   {
     "ticker": "BWN",
     "name": "Balwin Properties Ltd",
-    "volume": "7140.0",
+    "volume": "7179.0",
     "price": 2.8,
     "change": -0.05
   },
   {
     "ticker": "BYI",
     "name": "Bytes Technology Group Plc",
-    "volume": "130580.0",
-    "price": 84.78,
-    "change": -2.93
+    "volume": "213678.0",
+    "price": 85.14,
+    "change": -2.57
   },
   {
     "ticker": "CAA",
     "name": "CA Sales Holdings Ltd",
-    "volume": "11856.0",
-    "price": 15.99,
-    "change": 0.37
+    "volume": "15256.0",
+    "price": 15.98,
+    "change": 0.36
   },
   {
     "ticker": "CAC",
@@ -513,9 +513,9 @@
   {
     "ticker": "CFR",
     "name": "Compagnie Financi\\xc3\\xa8re Richemont",
-    "volume": "19191.0",
-    "price": 3459.48,
-    "change": -4.85
+    "volume": "22826.0",
+    "price": 3459.8,
+    "change": -4.53
   },
   {
     "ticker": "CGR",
@@ -541,37 +541,37 @@
   {
     "ticker": "CLH",
     "name": "City Lodge Hotels Limited",
-    "volume": "7683.0",
+    "volume": "251398.0",
     "price": 4.07,
     "change": 0.01
   },
   {
     "ticker": "CLI",
     "name": "Clientele Ltd",
-    "volume": "227.0",
+    "volume": "1305.0",
     "price": 13.0,
     "change": -0.14
   },
   {
     "ticker": "CLS",
     "name": "Clicks Group Ltd",
-    "volume": "255155.0",
-    "price": 361.59,
-    "change": -6.6
+    "volume": "337500.0",
+    "price": 361.0,
+    "change": -7.19
   },
   {
     "ticker": "CMH",
     "name": "Combined Motor Hldgs Ltd",
-    "volume": "22888.0",
-    "price": 35.26,
-    "change": -0.49
+    "volume": "73994.0",
+    "price": 36.5,
+    "change": 0.75
   },
   {
     "ticker": "CML",
     "name": "Coronation Fund Mngrs Ld",
-    "volume": "54216.0",
-    "price": 49.29,
-    "change": -0.25
+    "volume": "98894.0",
+    "price": 49.47,
+    "change": -0.07
   },
   {
     "ticker": "CND",
@@ -618,9 +618,9 @@
   {
     "ticker": "COH",
     "name": "Curro Holdings Limited",
-    "volume": "22731.0",
-    "price": 13.19,
-    "change": -0.19
+    "volume": "69218.0",
+    "price": 13.18,
+    "change": -0.2
   },
   {
     "ticker": "COOPTI",
@@ -639,9 +639,9 @@
   {
     "ticker": "CPI",
     "name": "Capitec Bank Holdings Limited",
-    "volume": "87074.0",
-    "price": 3831.1,
-    "change": -118.9
+    "volume": "112296.0",
+    "price": 3831.25,
+    "change": -118.75
   },
   {
     "ticker": "CPIP",
@@ -660,16 +660,16 @@
   {
     "ticker": "CPR",
     "name": "Copper 360 Ltd",
-    "volume": "94297.0",
-    "price": 0.69,
-    "change": 0.02
+    "volume": "114497.0",
+    "price": 0.68,
+    "change": 0.01
   },
   {
     "ticker": "CSB",
     "name": "Cashbuild Limited",
-    "volume": "4241.0",
-    "price": 137.01,
-    "change": 1.1
+    "volume": "4339.0",
+    "price": 137.37,
+    "change": 1.46
   },
   {
     "ticker": "CSGOVI",
@@ -730,16 +730,16 @@
   {
     "ticker": "DCP",
     "name": "Dis-Chem Pharmacies Limited",
-    "volume": "572692.0",
-    "price": 34.0,
-    "change": 0.34
+    "volume": "941199.0",
+    "price": 32.88,
+    "change": -0.78
   },
   {
     "ticker": "DIB",
     "name": "Dipula Income Fund B",
-    "volume": "68773.0",
-    "price": 6.18,
-    "change": 0.03
+    "volume": "84091.0",
+    "price": 6.2,
+    "change": 0.05
   },
   {
     "ticker": "DKR",
@@ -765,9 +765,9 @@
   {
     "ticker": "DRD",
     "name": "DRD Gold Ltd",
-    "volume": "597450.0",
-    "price": 43.52,
-    "change": 1.09
+    "volume": "861559.0",
+    "price": 43.34,
+    "change": 0.91
   },
   {
     "ticker": "DSBP",
@@ -779,16 +779,16 @@
   {
     "ticker": "DSY",
     "name": "Discovery Limited",
-    "volume": "211058.0",
-    "price": 219.29,
-    "change": -3.07
+    "volume": "269680.0",
+    "price": 220.19,
+    "change": -2.17
   },
   {
     "ticker": "DTC",
     "name": "Datatec Ltd",
-    "volume": "224216.0",
-    "price": 68.98,
-    "change": -1.6
+    "volume": "251195.0",
+    "price": 69.56,
+    "change": -1.02
   },
   {
     "ticker": "EASYAI",
@@ -835,30 +835,30 @@
   {
     "ticker": "EMI",
     "name": "Emira Property Fund Ltd",
-    "volume": "33385.0",
-    "price": 13.65,
-    "change": 0.0
+    "volume": "57478.0",
+    "price": 13.92,
+    "change": 0.27
   },
   {
     "ticker": "EMN",
     "name": "E Media Holdings Ltd -N-",
-    "volume": "137657.0",
-    "price": 1.97,
-    "change": 0.0
+    "volume": "152669.0",
+    "price": 2.0,
+    "change": 0.03
   },
   {
     "ticker": "ENX",
     "name": "enX Group LImited",
-    "volume": "",
+    "volume": "65.0",
     "price": 4.47,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "EPE",
     "name": "EPE Capital Partners Ltd",
-    "volume": "61000.0",
-    "price": 7.2,
-    "change": 0.02
+    "volume": "190900.0",
+    "price": 7.18,
+    "change": 0.0
   },
   {
     "ticker": "EPS",
@@ -870,9 +870,9 @@
   {
     "ticker": "EQU",
     "name": "Equites Prop Fund Ltd",
-    "volume": "155017.0",
-    "price": 16.93,
-    "change": -0.07
+    "volume": "232762.0",
+    "price": 16.94,
+    "change": -0.06
   },
   {
     "ticker": "ERN",
@@ -1017,23 +1017,23 @@
   {
     "ticker": "EXX",
     "name": "Exxaro Resources Ltd",
-    "volume": "374452.0",
-    "price": 177.84,
-    "change": 3.75
+    "volume": "437013.0",
+    "price": 176.92,
+    "change": 2.83
   },
   {
     "ticker": "FBR",
     "name": "Famous Brands Ltd",
-    "volume": "36540.0",
-    "price": 52.51,
-    "change": 0.31
+    "volume": "56563.0",
+    "price": 52.42,
+    "change": 0.22
   },
   {
     "ticker": "FFB",
     "name": "Fortress REIT Ltd",
-    "volume": "272415.0",
-    "price": 23.3,
-    "change": -0.2
+    "volume": "374471.0",
+    "price": 23.33,
+    "change": -0.17
   },
   {
     "ticker": "FGL",
@@ -1101,9 +1101,9 @@
   {
     "ticker": "FSR",
     "name": "FirstRand Limited",
-    "volume": "3535630.0",
-    "price": 82.35,
-    "change": -1.13
+    "volume": "4579108.0",
+    "price": 82.17,
+    "change": -1.31
   },
   {
     "ticker": "FTA",
@@ -1115,9 +1115,9 @@
   {
     "ticker": "FTB",
     "name": "Fairvest Ltd B Shares",
-    "volume": "296408.0",
-    "price": 6.3,
-    "change": -0.07
+    "volume": "468201.0",
+    "price": 6.33,
+    "change": -0.04
   },
   {
     "ticker": "FTH",
@@ -1129,16 +1129,16 @@
   {
     "ticker": "GCT",
     "name": "Greencoat Renewables",
-    "volume": "",
-    "price": 14.3,
-    "change": NaN
+    "volume": "30.0",
+    "price": 14.52,
+    "change": 0.22
   },
   {
     "ticker": "GFI",
     "name": "Gold Fields Ltd",
-    "volume": "577521.0",
-    "price": 668.33,
-    "change": 0.24
+    "volume": "711515.0",
+    "price": 657.2,
+    "change": -10.89
   },
   {
     "ticker": "GLD",
@@ -1150,9 +1150,9 @@
   {
     "ticker": "GLN",
     "name": "Glencore plc",
-    "volume": "1138678.0",
-    "price": 83.68,
-    "change": -1.16
+    "volume": "1601785.0",
+    "price": 83.11,
+    "change": -1.73
   },
   {
     "ticker": "GLOBAL",
@@ -1178,16 +1178,16 @@
   {
     "ticker": "GML",
     "name": "Gemfields Group Limited",
-    "volume": "",
-    "price": 1.33,
-    "change": NaN
+    "volume": "137405.0",
+    "price": 1.3,
+    "change": -0.03
   },
   {
     "ticker": "GND",
     "name": "Grindrod Ltd",
-    "volume": "61830.0",
-    "price": 17.0,
-    "change": 0.19
+    "volume": "88699.0",
+    "price": 16.98,
+    "change": 0.17
   },
   {
     "ticker": "GNDP",
@@ -1199,7 +1199,7 @@
   {
     "ticker": "GPL",
     "name": "Grand Parade Inv Ltd",
-    "volume": "8153.0",
+    "volume": "8274.0",
     "price": 2.16,
     "change": 0.08
   },
@@ -1213,9 +1213,9 @@
   {
     "ticker": "GRT",
     "name": "Growthpoint Properties Limited",
-    "volume": "4719501.0",
-    "price": 16.21,
-    "change": 0.13
+    "volume": "5807532.0",
+    "price": 16.23,
+    "change": 0.15
   },
   {
     "ticker": "GTC",
@@ -1227,21 +1227,21 @@
   {
     "ticker": "HAR",
     "name": "Harmony GM Co Ltd",
-    "volume": "528812.0",
-    "price": 289.18,
-    "change": -0.55
+    "volume": "708952.0",
+    "price": 284.73,
+    "change": -5.0
   },
   {
     "ticker": "HCI",
     "name": "Hosken Consolidated Investments Ltd",
-    "volume": "22438.0",
-    "price": 131.01,
-    "change": -0.56
+    "volume": "31421.0",
+    "price": 131.63,
+    "change": 0.06
   },
   {
     "ticker": "HDC",
     "name": "Hudaco Industries Ltd",
-    "volume": "15170.0",
+    "volume": "15288.0",
     "price": 180.0,
     "change": 0.0
   },
@@ -1255,16 +1255,16 @@
   {
     "ticker": "HLM",
     "name": "Hulamin Ltd",
-    "volume": "2520.0",
-    "price": 2.45,
-    "change": 0.03
+    "volume": "2641.0",
+    "price": 2.52,
+    "change": 0.1
   },
   {
     "ticker": "HMN",
     "name": "Hammerson plc",
-    "volume": "5536.0",
-    "price": 69.72,
-    "change": -1.01
+    "volume": "7881.0",
+    "price": 69.98,
+    "change": -0.75
   },
   {
     "ticker": "HUG",
@@ -1283,16 +1283,16 @@
   {
     "ticker": "HYP",
     "name": "Hyprop Inv Ltd",
-    "volume": "202489.0",
-    "price": 51.22,
-    "change": 0.47
+    "volume": "280322.0",
+    "price": 51.19,
+    "change": 0.44
   },
   {
     "ticker": "IMP",
     "name": "Impala Platinum Hlgs Ltd",
-    "volume": "966349.0",
-    "price": 201.28,
-    "change": 3.15
+    "volume": "1175969.0",
+    "price": 196.05,
+    "change": -2.08
   },
   {
     "ticker": "INCOME",
@@ -1304,16 +1304,16 @@
   {
     "ticker": "INL",
     "name": "Investec Limited",
-    "volume": "86751.0",
-    "price": 130.74,
-    "change": -1.44
+    "volume": "128766.0",
+    "price": 131.53,
+    "change": -0.65
   },
   {
     "ticker": "INP",
     "name": "Investec Plc",
-    "volume": "124247.0",
-    "price": 130.78,
-    "change": -2.05
+    "volume": "171044.0",
+    "price": 131.49,
+    "change": -1.34
   },
   {
     "ticker": "INPP",
@@ -1339,7 +1339,7 @@
   {
     "ticker": "IOC",
     "name": "iOCO Ltd",
-    "volume": "80295.0",
+    "volume": "166299.0",
     "price": 4.2,
     "change": 0.03
   },
@@ -1360,23 +1360,23 @@
   {
     "ticker": "ISO",
     "name": "ASP Isotopes",
-    "volume": "",
-    "price": 179.9,
-    "change": NaN
+    "volume": "29.0",
+    "price": 181.99,
+    "change": 2.09
   },
   {
     "ticker": "ITE",
     "name": "Italtile Ltd",
-    "volume": "123364.0",
-    "price": 9.35,
-    "change": -0.04
+    "volume": "141553.0",
+    "price": 9.3,
+    "change": -0.09
   },
   {
     "ticker": "IVT",
     "name": "Invicta Holdings Ltd",
-    "volume": "6270.0",
-    "price": 36.85,
-    "change": -1.6
+    "volume": "6670.0",
+    "price": 36.98,
+    "change": -1.47
   },
   {
     "ticker": "IVTP",
@@ -1388,30 +1388,30 @@
   {
     "ticker": "JBL",
     "name": "Jubilee Metals Group plc",
-    "volume": "25818.0",
-    "price": 0.68,
-    "change": 0.01
+    "volume": "93000.0",
+    "price": 0.67,
+    "change": 0.0
   },
   {
     "ticker": "JSE",
     "name": "JSE Ltd",
-    "volume": "16105.0",
-    "price": 139.66,
-    "change": -2.24
+    "volume": "28600.0",
+    "price": 139.74,
+    "change": -2.16
   },
   {
     "ticker": "KAL",
     "name": "Kaap Agri Limited",
-    "volume": "47.0",
-    "price": 45.12,
-    "change": -0.78
+    "volume": "6830.0",
+    "price": 46.0,
+    "change": 0.1
   },
   {
     "ticker": "KAP",
     "name": "KAP Industrial Holdings Ltd",
-    "volume": "367241.0",
-    "price": 1.65,
-    "change": 0.0
+    "volume": "2077206.0",
+    "price": 1.66,
+    "change": 0.01
   },
   {
     "ticker": "KBO",
@@ -1423,9 +1423,9 @@
   {
     "ticker": "KIO",
     "name": "Kumba Iron Ore Ltd",
-    "volume": "65662.0",
-    "price": 341.0,
-    "change": -4.33
+    "volume": "88495.0",
+    "price": 338.8,
+    "change": -6.53
   },
   {
     "ticker": "KP2",
@@ -1437,9 +1437,9 @@
   {
     "ticker": "KRO",
     "name": "Karooooo Ltd",
-    "volume": "117.0",
-    "price": 786.0,
-    "change": 1.0
+    "volume": "177.0",
+    "price": 799.99,
+    "change": 14.99
   },
   {
     "ticker": "KST",
@@ -1451,30 +1451,30 @@
   {
     "ticker": "LAB",
     "name": "Labat Africa Ltd",
-    "volume": "2731480.0",
+    "volume": "3318980.0",
     "price": 0.05,
     "change": 0.0
   },
   {
     "ticker": "LBR",
     "name": "Libstar Holdings Ltd",
-    "volume": "10514.0",
-    "price": 4.6,
-    "change": 0.0
+    "volume": "31598.0",
+    "price": 4.63,
+    "change": 0.03
   },
   {
     "ticker": "LEW",
     "name": "Lewis Group Ltd",
-    "volume": "15822.0",
-    "price": 83.02,
-    "change": 0.02
+    "volume": "22044.0",
+    "price": 83.58,
+    "change": 0.58
   },
   {
     "ticker": "LHC",
     "name": "Life Healthcare Group Holdings",
-    "volume": "1360421.0",
-    "price": 11.89,
-    "change": -0.26
+    "volume": "1963524.0",
+    "price": 11.91,
+    "change": -0.24
   },
   {
     "ticker": "LSK",
@@ -1486,7 +1486,7 @@
   {
     "ticker": "LTE",
     "name": "Lighthouse Capital Ltd",
-    "volume": "342478.0",
+    "volume": "445323.0",
     "price": 8.16,
     "change": 0.0
   },
@@ -1507,9 +1507,9 @@
   {
     "ticker": "MCZ",
     "name": "MC Mining Limited",
-    "volume": "2461.0",
-    "price": 1.94,
-    "change": -0.06
+    "volume": "9006.0",
+    "price": 1.9,
+    "change": -0.1
   },
   {
     "ticker": "MDI",
@@ -1577,7 +1577,7 @@
   {
     "ticker": "MSP",
     "name": "MAS Real Estate Inc.",
-    "volume": "108568.0",
+    "volume": "195715.0",
     "price": 20.94,
     "change": 0.24
   },
@@ -1626,7 +1626,7 @@
   {
     "ticker": "MTU",
     "name": "Mantengu Mining Ltd",
-    "volume": "10000.0",
+    "volume": "19000.0",
     "price": 0.59,
     "change": 0.0
   },
