@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "SKL",
+    "price": 7.8,
+    "change": "-4.41%"
+  },
+  {
+    "ticker": "HAFR",
+    "price": 1.14,
+    "change": "-2.56%"
+  },
+  {
     "ticker": "TOTL",
     "price": 45.1,
     "change": "-1.85%"
@@ -15,18 +25,8 @@
     "change": "-1.75%"
   },
   {
-    "ticker": "HAFR",
-    "price": 1.15,
-    "change": "-1.71%"
-  },
-  {
     "ticker": "LKL",
     "price": 2.95,
     "change": "-1.67%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 230.0,
-    "change": "-1.39%"
   }
 ]
