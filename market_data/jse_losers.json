@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "TPC",
+    "price": 34.1,
+    "change": "-10.26%"
+  },
+  {
+    "ticker": "BRN",
+    "price": 4.51,
+    "change": "-4.85%"
+  },
+  {
     "ticker": "MKR",
     "price": 35.89,
     "change": "-3.96%"
@@ -10,23 +20,13 @@
     "change": "-3.57%"
   },
   {
-    "ticker": "BYI",
-    "price": 84.63,
-    "change": "-3.51%"
-  },
-  {
     "ticker": "ETFSWX",
     "price": 27.66,
     "change": "-3.46%"
   },
   {
-    "ticker": "PIK",
-    "price": 29.18,
-    "change": "-3.12%"
-  },
-  {
-    "ticker": "MCZ",
-    "price": 1.94,
-    "change": "-3.00%"
+    "ticker": "BYI",
+    "price": 84.78,
+    "change": "-3.34%"
   }
 ]
