@@ -1,32 +1,32 @@
 [
   {
     "ticker": "UNLC",
-    "price": 20000.0,
+    "price": 21500.0,
     "change": "+7.50%"
   },
   {
-    "ticker": "CFAC",
-    "price": 2170.0,
-    "change": "+7.43%"
+    "ticker": "SLBC",
+    "price": 19885.0,
+    "change": "+7.49%"
+  },
+  {
+    "ticker": "NTLC",
+    "price": 14455.0,
+    "change": "+7.47%"
   },
   {
     "ticker": "SAFC",
-    "price": 3415.0,
-    "change": "+7.39%"
+    "price": 3670.0,
+    "change": "+7.47%"
   },
   {
-    "ticker": "NEIC",
-    "price": 720.0,
-    "change": "+2.86%"
+    "ticker": "PRSC",
+    "price": 4405.0,
+    "change": "+7.44%"
   },
   {
-    "ticker": "SDSC",
-    "price": 1490.0,
-    "change": "+2.76%"
-  },
-  {
-    "ticker": "NSBC",
-    "price": 11800.0,
-    "change": "+2.70%"
+    "ticker": "CFAC",
+    "price": 2330.0,
+    "change": "+7.37%"
   }
 ]

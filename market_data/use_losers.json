@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "CENT",
-    "price": 390.34,
-    "change": "-2.43%"
-  },
-  {
-    "ticker": "BOBU",
-    "price": 47.01,
-    "change": "-2.41%"
-  },
-  {
-    "ticker": "KA",
-    "price": 100.41,
-    "change": "-2.17%"
+    "ticker": "NMG",
+    "price": 359.79,
+    "change": "-2.09%"
   },
   {
     "ticker": "JHL",
-    "price": 8600.94,
-    "change": "-1.61%"
+    "price": 8498.03,
+    "change": "-1.20%"
   },
   {
-    "ticker": "EBL",
-    "price": 1601.74,
-    "change": "-0.07%"
+    "ticker": "AIRTEL",
+    "price": 82.0,
+    "change": "-1.04%"
   },
   {
     "ticker": "KCB",
-    "price": 1568.09,
-    "change": "-0.07%"
+    "price": 1557.3,
+    "change": "-0.69%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
