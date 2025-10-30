@@ -10,6 +10,11 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "CORNERST",
+    "price": 5.6,
+    "change": "-8.94%"
+  },
+  {
     "ticker": "SOVRENINS",
     "price": 4.07,
     "change": "-8.54%"
@@ -23,10 +28,5 @@
     "ticker": "OMATEK",
     "price": 1.33,
     "change": "-8.28%"
-  },
-  {
-    "ticker": "TIP",
-    "price": 13.25,
-    "change": "-7.08%"
   }
 ]

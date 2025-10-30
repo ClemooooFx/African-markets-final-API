@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "RNG",
+    "price": 0.6,
+    "change": "-55.88%"
+  },
+  {
     "ticker": "TPC",
     "price": 34.1,
     "change": "-10.26%"
+  },
+  {
+    "ticker": "MCZ",
+    "price": 1.9,
+    "change": "-5.00%"
   },
   {
     "ticker": "BRN",
@@ -11,22 +21,12 @@
   },
   {
     "ticker": "SNV",
-    "price": 6.61,
-    "change": "-4.34%"
+    "price": 6.6,
+    "change": "-4.49%"
   },
   {
     "ticker": "MKR",
     "price": 35.89,
     "change": "-3.96%"
-  },
-  {
-    "ticker": "IVT",
-    "price": 36.98,
-    "change": "-3.82%"
-  },
-  {
-    "ticker": "HUG",
-    "price": 1.35,
-    "change": "-3.57%"
   }
 ]

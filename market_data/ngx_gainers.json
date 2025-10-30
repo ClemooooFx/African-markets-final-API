@@ -15,11 +15,6 @@
     "change": "+5.00%"
   },
   {
-    "ticker": "UBA",
-    "price": 40.5,
-    "change": "+3.85%"
-  },
-  {
     "ticker": "CHAMPION",
     "price": 15.0,
     "change": "+3.45%"
@@ -28,5 +23,10 @@
     "ticker": "MCNICHOLS",
     "price": 3.3,
     "change": "+3.13%"
+  },
+  {
+    "ticker": "UBA",
+    "price": 40.05,
+    "change": "+2.69%"
   }
 ]

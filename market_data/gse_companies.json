@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "",
+    "volume": "7.0",
     "price": 6.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ALW",
@@ -51,14 +51,14 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "151.0",
+    "volume": "165.0",
     "price": 39.0,
     "change": 0.0
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "61254.0",
+    "volume": "64875.0",
     "price": 0.54,
     "change": -0.06
   },
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "3124.0",
+    "volume": "3363.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "40908.0",
+    "volume": "40931.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,7 +135,7 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "91.0",
+    "volume": "104.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "10156.0",
+    "volume": "31263.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -261,7 +261,7 @@
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "12.0",
+    "volume": "62.0",
     "price": 19.8,
     "change": 0.0
   }
