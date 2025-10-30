@@ -5,16 +5,6 @@
     "change": "-15.38%"
   },
   {
-    "ticker": "SNV",
-    "price": 6.91,
-    "change": "-13.52%"
-  },
-  {
-    "ticker": "RCL",
-    "price": 9.77,
-    "change": "-8.78%"
-  },
-  {
     "ticker": "MKR",
     "price": 35.89,
     "change": "-3.96%"
@@ -25,8 +15,18 @@
     "change": "-3.91%"
   },
   {
-    "ticker": "WBC",
-    "price": 45.1,
-    "change": "-3.36%"
+    "ticker": "ART",
+    "price": 28.05,
+    "change": "-3.24%"
+  },
+  {
+    "ticker": "REN",
+    "price": 13.39,
+    "change": "-2.26%"
+  },
+  {
+    "ticker": "MTNZF",
+    "price": 3.9,
+    "change": "-2.26%"
   }
 ]

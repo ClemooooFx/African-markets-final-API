@@ -5,9 +5,19 @@
     "change": "-8.09%"
   },
   {
+    "ticker": "HAFR",
+    "price": 1.14,
+    "change": "-2.56%"
+  },
+  {
     "ticker": "OCH",
     "price": 7.1,
     "change": "-1.93%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.88,
+    "change": "-1.75%"
   },
   {
     "ticker": "SCAN",
@@ -15,18 +25,8 @@
     "change": "-1.75%"
   },
   {
-    "ticker": "HAFR",
-    "price": 1.15,
-    "change": "-1.71%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 7.9,
-    "change": "-1.50%"
-  },
-  {
-    "ticker": "PORT",
-    "price": 58.75,
-    "change": "-1.26%"
+    "ticker": "GLD",
+    "price": 4785.0,
+    "change": "-1.54%"
   }
 ]
