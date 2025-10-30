@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "HAFR",
-    "price": 1.14,
-    "change": "-2.56%"
-  },
-  {
-    "ticker": "NBV",
-    "price": 1.55,
-    "change": "-2.52%"
-  },
-  {
     "ticker": "TOTL",
     "price": 45.1,
     "change": "-1.85%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.88,
+    "change": "-1.75%"
   },
   {
     "ticker": "SCAN",
@@ -20,13 +15,18 @@
     "change": "-1.75%"
   },
   {
+    "ticker": "HAFR",
+    "price": 1.15,
+    "change": "-1.71%"
+  },
+  {
     "ticker": "LKL",
     "price": 2.95,
     "change": "-1.67%"
   },
   {
-    "ticker": "UMME",
-    "price": 7.9,
-    "change": "-1.50%"
+    "ticker": "KAPC",
+    "price": 230.0,
+    "change": "-1.39%"
   }
 ]

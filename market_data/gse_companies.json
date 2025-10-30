@@ -51,14 +51,14 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "",
+    "volume": "95.0",
     "price": 39.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "54776.0",
+    "volume": "55626.0",
     "price": 0.54,
     "change": -0.06
   },
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1498.0",
+    "volume": "1851.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "18491.0",
+    "volume": "18503.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,7 +135,7 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "19.0",
+    "volume": "89.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "7253.0",
+    "volume": "8702.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -261,8 +261,8 @@
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "",
+    "volume": "5.0",
     "price": 19.8,
-    "change": NaN
+    "change": 0.0
   }
 ]

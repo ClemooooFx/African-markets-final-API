@@ -233,9 +233,9 @@
   {
     "ticker": "AQUA",
     "name": "AQU Actively Managed ETF",
-    "volume": "6.0",
-    "price": 11.44,
-    "change": 0.0
+    "volume": "11.0",
+    "price": 11.46,
+    "change": 0.02
   },
   {
     "ticker": "ARA",
@@ -590,9 +590,9 @@
   {
     "ticker": "COGEM",
     "name": "CGE Actively Managed ETF",
-    "volume": "",
-    "price": 12.74,
-    "change": NaN
+    "volume": "22161.0",
+    "price": 12.87,
+    "change": 0.13
   },
   {
     "ticker": "COGES",
@@ -807,9 +807,9 @@
   {
     "ticker": "EASYGE",
     "name": "EasyETFs Global Equity AMETF",
-    "volume": "251.0",
-    "price": 15.76,
-    "change": 0.4
+    "volume": "541.0",
+    "price": 15.78,
+    "change": 0.42
   },
   {
     "ticker": "EEL",
@@ -891,9 +891,9 @@
   {
     "ticker": "ETF5IT",
     "name": "1nvest S&P 500 IT ETF",
-    "volume": "52984.0",
-    "price": 37.82,
-    "change": 0.09
+    "volume": "60488.0",
+    "price": 37.97,
+    "change": 0.24
   },
   {
     "ticker": "ETFBND",
@@ -905,9 +905,9 @@
   {
     "ticker": "ETFEMA",
     "name": "1nvest MSCI EM Asia ETF",
-    "volume": "5562.0",
-    "price": 41.8,
-    "change": 0.0
+    "volume": "8001.0",
+    "price": 41.52,
+    "change": -0.28
   },
   {
     "ticker": "ETFGGB",
@@ -919,9 +919,9 @@
   {
     "ticker": "ETFGLD",
     "name": "1nvest Gold ETF",
-    "volume": "1134.0",
-    "price": 665.93,
-    "change": 2.31
+    "volume": "1748.0",
+    "price": 665.85,
+    "change": 2.23
   },
   {
     "ticker": "ETFGRE",
@@ -996,9 +996,9 @@
   {
     "ticker": "ETFWLD",
     "name": "1nvest MSCI World ETF",
-    "volume": "579.0",
-    "price": 111.71,
-    "change": 0.65
+    "volume": "1749.0",
+    "price": 111.01,
+    "change": -0.05
   },
   {
     "ticker": "EUZ",
@@ -1045,9 +1045,9 @@
   {
     "ticker": "FNB500",
     "name": "FNB S&P 500 Feeder ETF",
-    "volume": "681.0",
-    "price": 116.67,
-    "change": 0.53
+    "volume": "5043.0",
+    "price": 115.88,
+    "change": -0.26
   },
   {
     "ticker": "FNBEMG",
@@ -1059,9 +1059,9 @@
   {
     "ticker": "FNBEQF",
     "name": "FNB Global 1200 Equity FOF ETF",
-    "volume": "853.0",
-    "price": 110.33,
-    "change": 0.53
+    "volume": "5176.0",
+    "price": 109.87,
+    "change": 0.07
   },
   {
     "ticker": "FNBINF",
@@ -1080,9 +1080,9 @@
   {
     "ticker": "FNBT40",
     "name": "FNB Top 40 ETF",
-    "volume": "309.0",
-    "price": 103.05,
-    "change": -0.46
+    "volume": "433.0",
+    "price": 103.08,
+    "change": -0.43
   },
   {
     "ticker": "FNBWDM",
