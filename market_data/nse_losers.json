@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "UMME",
-    "price": 7.5,
-    "change": "-6.48%"
-  },
-  {
     "ticker": "OCH",
     "price": 7.1,
     "change": "-1.93%"
+  },
+  {
+    "ticker": "HAFR",
+    "price": 1.15,
+    "change": "-1.71%"
   },
   {
     "ticker": "GLD",
@@ -20,13 +20,13 @@
     "change": "-1.26%"
   },
   {
-    "ticker": "NCBA",
-    "price": 81.0,
-    "change": "-1.22%"
+    "ticker": "LKL",
+    "price": 2.98,
+    "change": "-0.67%"
   },
   {
-    "ticker": "SBIC",
-    "price": 197.0,
-    "change": "-0.25%"
+    "ticker": "HFCK",
+    "price": 10.6,
+    "change": "-0.47%"
   }
 ]
