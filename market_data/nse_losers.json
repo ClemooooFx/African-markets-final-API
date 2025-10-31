@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "LKL",
+    "price": 2.71,
+    "change": "-9.06%"
+  },
+  {
     "ticker": "CRWN",
     "price": 49.5,
     "change": "-8.33%"
@@ -16,13 +21,8 @@
   },
   {
     "ticker": "SMER",
-    "price": 14.75,
-    "change": "-3.28%"
-  },
-  {
-    "ticker": "LBTY",
-    "price": 10.7,
-    "change": "-1.38%"
+    "price": 14.7,
+    "change": "-3.61%"
   },
   {
     "ticker": "CIC",

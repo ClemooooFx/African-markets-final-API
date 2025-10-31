@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "4.0",
+    "volume": "2004.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -51,14 +51,14 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "17.0",
+    "volume": "452.0",
     "price": 39.0,
     "change": 0.0
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "48858.0",
+    "volume": "368280.0",
     "price": 0.49,
     "change": -0.05
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "2180.0",
+    "volume": "125630.0",
     "price": 1.0,
     "change": 0.0
   },
@@ -135,16 +135,16 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "",
+    "volume": "6.0",
     "price": 6.6,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "",
+    "volume": "9.0",
     "price": 446.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GOIL",
@@ -163,9 +163,9 @@
   {
     "ticker": "IIL",
     "name": "Intravenous Infusions Limited",
-    "volume": "",
+    "volume": "30000.0",
     "price": 0.05,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "MAC",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "57967.0",
+    "volume": "65089.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "112.0",
+    "volume": "30130.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -254,14 +254,14 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "8.0",
+    "volume": "2008.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "4.0",
+    "volume": "9.0",
     "price": 19.8,
     "change": 0.0
   }
