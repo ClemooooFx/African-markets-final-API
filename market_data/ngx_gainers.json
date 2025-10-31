@@ -5,11 +5,6 @@
     "change": "+10.00%"
   },
   {
-    "ticker": "RTBRISCOE",
-    "price": 3.52,
-    "change": "+10.00%"
-  },
-  {
     "ticker": "ASOSAVINGS",
     "price": 1.03,
     "change": "+9.57%"
@@ -23,6 +18,11 @@
     "ticker": "INTENEGINS",
     "price": 2.94,
     "change": "+6.91%"
+  },
+  {
+    "ticker": "RTBRISCOE",
+    "price": 3.4,
+    "change": "+6.25%"
   },
   {
     "ticker": "OANDO",
