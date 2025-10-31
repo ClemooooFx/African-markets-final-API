@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "ARTD",
-    "price": 0.0699,
-    "change": "-14.96%"
-  },
-  {
-    "ticker": "PROL",
-    "price": 1.10202,
-    "change": "-8.16%"
-  },
-  {
-    "ticker": "TANG",
-    "price": 0.701818,
-    "change": "-5.21%"
+    "ticker": "MASH",
+    "price": 0.9,
+    "change": "-8.40%"
   },
   {
     "ticker": "UNIF",
-    "price": 1.85,
-    "change": "-2.63%"
+    "price": 1.7505,
+    "change": "-5.38%"
+  },
+  {
+    "ticker": "FBC",
+    "price": 7.8,
+    "change": "-2.50%"
   },
   {
     "ticker": "OKZ",
-    "price": 0.205,
-    "change": "-0.00%"
+    "price": 0.2005,
+    "change": "-2.20%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "SACL",
+    "price": 0.039408,
+    "change": "-0.36%"
+  },
+  {
+    "ticker": "MEIK",
+    "price": 3.201005,
+    "change": "-0.08%"
   }
 ]

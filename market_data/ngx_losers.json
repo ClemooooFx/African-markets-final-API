@@ -5,6 +5,11 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "MCNICHOLS",
+    "price": 2.97,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "DEAPCAP",
     "price": 1.71,
     "change": "-10.00%"
@@ -23,10 +28,5 @@
     "ticker": "LEGENDINT",
     "price": 5.26,
     "change": "-9.93%"
-  },
-  {
-    "ticker": "CAVERTON",
-    "price": 5.45,
-    "change": "-9.92%"
   }
 ]
