@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "SKL",
-    "price": 7.28,
-    "change": "-9.68%"
-  },
-  {
     "ticker": "LKL",
     "price": 2.71,
     "change": "-9.06%"
   },
   {
     "ticker": "CRWN",
-    "price": 49.3,
-    "change": "-8.70%"
+    "price": 49.5,
+    "change": "-8.33%"
   },
   {
     "ticker": "XPRS",
@@ -28,5 +23,10 @@
     "ticker": "KUKZ",
     "price": 400.0,
     "change": "-3.61%"
+  },
+  {
+    "ticker": "HAFR",
+    "price": 1.11,
+    "change": "-3.48%"
   }
 ]
