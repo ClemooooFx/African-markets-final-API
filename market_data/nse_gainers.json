@@ -1,8 +1,13 @@
 [
   {
     "ticker": "GLD",
-    "price": 5175.0,
-    "change": "+7.03%"
+    "price": 5170.0,
+    "change": "+6.93%"
+  },
+  {
+    "ticker": "CARB",
+    "price": 28.0,
+    "change": "+5.26%"
   },
   {
     "ticker": "SGL",
@@ -15,14 +20,9 @@
     "change": "+4.33%"
   },
   {
-    "ticker": "KEGN",
-    "price": 10.35,
-    "change": "+3.50%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 27.5,
-    "change": "+3.38%"
+    "ticker": "KPLC",
+    "price": 13.95,
+    "change": "+3.72%"
   },
   {
     "ticker": "SCAN",
