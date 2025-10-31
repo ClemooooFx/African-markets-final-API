@@ -5,6 +5,16 @@
     "change": "-5.56%"
   },
   {
+    "ticker": "MST",
+    "price": 13.01,
+    "change": "-5.04%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.72,
+    "change": "-4.00%"
+  },
+  {
     "ticker": "SNV",
     "price": 7.49,
     "change": "-3.97%"
@@ -15,18 +25,8 @@
     "change": "-3.45%"
   },
   {
-    "ticker": "DIB",
-    "price": 6.02,
-    "change": "-2.90%"
-  },
-  {
-    "ticker": "CAT",
-    "price": 13.5,
-    "change": "-2.88%"
-  },
-  {
-    "ticker": "KP2",
-    "price": 0.73,
-    "change": "-2.67%"
+    "ticker": "JBL",
+    "price": 0.65,
+    "change": "-2.99%"
   }
 ]
