@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "378574.0",
+    "volume": "380892.0",
     "price": 0.49,
     "change": -0.05
   },
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "213143.0",
+    "volume": "219969.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "10204.0",
+    "volume": "11246.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,7 +135,7 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "74.0",
+    "volume": "275.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -163,14 +163,14 @@
   {
     "ticker": "IIL",
     "name": "Intravenous Infusions Limited",
-    "volume": "30000.0",
+    "volume": "45000.0",
     "price": 0.05,
     "change": 0.0
   },
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "10.0",
+    "volume": "16.0",
     "price": 5.2,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "94922.0",
+    "volume": "96207.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "30164.0",
+    "volume": "33759.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,9 +226,9 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "",
+    "volume": "53020.0",
     "price": 1.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SOGEGH",
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "2008.0",
+    "volume": "2015.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "9.0",
-    "price": 19.8,
-    "change": 0.0
+    "volume": "510.0",
+    "price": 19.79,
+    "change": -0.01
   }
 ]

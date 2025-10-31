@@ -5,9 +5,19 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "DEAPCAP",
+    "price": 1.71,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "SUNUASSUR",
     "price": 4.51,
     "change": "-9.98%"
+  },
+  {
+    "ticker": "UPDC",
+    "price": 6.17,
+    "change": "-9.93%"
   },
   {
     "ticker": "LEGENDINT",
@@ -18,15 +28,5 @@
     "ticker": "CAVERTON",
     "price": 5.45,
     "change": "-9.92%"
-  },
-  {
-    "ticker": "NEIMETH",
-    "price": 5.2,
-    "change": "-9.72%"
-  },
-  {
-    "ticker": "HONYFLOUR",
-    "price": 20.0,
-    "change": "-9.09%"
   }
 ]
