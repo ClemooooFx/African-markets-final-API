@@ -1,8 +1,13 @@
 [
   {
+    "ticker": "AMAC",
+    "price": 58.75,
+    "change": "-9.62%"
+  },
+  {
     "ticker": "CRWN",
-    "price": 49.75,
-    "change": "-7.87%"
+    "price": 50.0,
+    "change": "-7.41%"
   },
   {
     "ticker": "KUKZ",
@@ -20,13 +25,8 @@
     "change": "-1.64%"
   },
   {
-    "ticker": "SKL",
-    "price": 7.98,
-    "change": "-0.99%"
-  },
-  {
-    "ticker": "BOC",
-    "price": 130.0,
-    "change": "-0.95%"
+    "ticker": "CIC",
+    "price": 4.63,
+    "change": "-1.49%"
   }
 ]

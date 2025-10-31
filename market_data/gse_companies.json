@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "",
+    "volume": "10.0",
     "price": 6.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ALW",
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "370879.0",
+    "volume": "378574.0",
     "price": 0.49,
     "change": -0.05
   },
@@ -114,28 +114,28 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "193143.0",
+    "volume": "213143.0",
     "price": 1.0,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "595.0",
+    "volume": "10204.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "100.0",
+    "volume": "113.0",
     "price": 16.97,
     "change": 0.0
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "6.0",
+    "volume": "74.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -149,9 +149,9 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "",
+    "volume": "4.0",
     "price": 2.61,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "HORDS",
@@ -170,7 +170,7 @@
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "5.0",
+    "volume": "10.0",
     "price": 5.2,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "71338.0",
+    "volume": "94922.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -233,9 +233,9 @@
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "514.0",
-    "price": 3.1,
-    "change": 0.0
+    "volume": "2514.0",
+    "price": 3.41,
+    "change": 0.31
   },
   {
     "ticker": "TBL",
@@ -247,9 +247,9 @@
   {
     "ticker": "TLW",
     "name": "Tullow Oil Plc",
-    "volume": "",
+    "volume": "1.0",
     "price": 11.92,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TOTAL",
