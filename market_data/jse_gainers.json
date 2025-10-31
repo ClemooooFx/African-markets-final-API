@@ -10,11 +10,6 @@
     "change": "+15.79%"
   },
   {
-    "ticker": "YYLBEE",
-    "price": 40.65,
-    "change": "+7.54%"
-  },
-  {
     "ticker": "HUG",
     "price": 1.45,
     "change": "+7.41%"
@@ -28,5 +23,10 @@
     "ticker": "ACT",
     "price": 1.6,
     "change": "+5.26%"
+  },
+  {
+    "ticker": "ISB",
+    "price": 0.65,
+    "change": "+4.84%"
   }
 ]

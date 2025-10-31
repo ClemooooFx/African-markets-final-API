@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "LKL",
-    "price": 2.71,
-    "change": "-9.06%"
-  },
-  {
     "ticker": "CRWN",
     "price": 49.5,
     "change": "-8.33%"
@@ -15,18 +10,23 @@
     "change": "-6.50%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.51,
-    "change": "-3.82%"
-  },
-  {
     "ticker": "KUKZ",
     "price": 400.0,
     "change": "-3.61%"
   },
   {
-    "ticker": "HAFR",
-    "price": 1.11,
-    "change": "-3.48%"
+    "ticker": "SMER",
+    "price": 14.75,
+    "change": "-3.28%"
+  },
+  {
+    "ticker": "CIC",
+    "price": 4.64,
+    "change": "-1.28%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.8,
+    "change": "-1.02%"
   }
 ]
