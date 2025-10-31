@@ -10,11 +10,6 @@
     "change": "+12.88%"
   },
   {
-    "ticker": "ACS",
-    "price": 8.0,
-    "change": "+9.59%"
-  },
-  {
     "ticker": "CAA",
     "price": 16.49,
     "change": "+5.57%"
@@ -28,5 +23,10 @@
     "ticker": "FNBEQF",
     "price": 115.85,
     "change": "+4.94%"
+  },
+  {
+    "ticker": "MTA",
+    "price": 6.7,
+    "change": "+4.85%"
   }
 ]

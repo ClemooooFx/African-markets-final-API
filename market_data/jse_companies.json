@@ -23,23 +23,23 @@
   {
     "ticker": "27FSMF",
     "name": "27four SA Multi-Factor Equity AMETF",
-    "volume": "25.0",
+    "volume": "",
     "price": 13.04,
-    "change": -0.09
+    "change": NaN
   },
   {
     "ticker": "4SI",
     "name": "4Sight Holdings Limited",
-    "volume": "43223.0",
-    "price": 0.72,
-    "change": 0.02
+    "volume": "98959.0",
+    "price": 0.71,
+    "change": -0.01
   },
   {
     "ticker": "ABG",
     "name": "Absa Group Limited",
-    "volume": "1495171.0",
-    "price": 193.89,
-    "change": -1.87
+    "volume": "37546.0",
+    "price": 192.52,
+    "change": -1.37
   },
   {
     "ticker": "ACL",
@@ -51,30 +51,30 @@
   {
     "ticker": "ACS",
     "name": "Acsion Limited",
-    "volume": "200.0",
+    "volume": "",
     "price": 8.0,
-    "change": 0.7
+    "change": NaN
   },
   {
     "ticker": "ACT",
     "name": "AfroCentric Inv Corp Ltd",
-    "volume": "7363.0",
+    "volume": "",
     "price": 1.52,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ADH",
     "name": "ADvTECH Ltd",
-    "volume": "107460.0",
-    "price": 34.94,
-    "change": -0.07
+    "volume": "3731.0",
+    "price": 34.68,
+    "change": -0.26
   },
   {
     "ticker": "ADR",
     "name": "Adcorp Holdings Limited",
-    "volume": "31862.0",
+    "volume": "",
     "price": 7.21,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "ADW",
@@ -93,16 +93,16 @@
   {
     "ticker": "AEL",
     "name": "Altron: Allied Electronics Corporation",
-    "volume": "375157.0",
-    "price": 18.25,
-    "change": 0.0
+    "volume": "33410.0",
+    "price": 18.38,
+    "change": 0.13
   },
   {
     "ticker": "AFE",
     "name": "AECI Limited",
-    "volume": "178844.0",
-    "price": 89.76,
-    "change": 0.83
+    "volume": "600.0",
+    "price": 88.81,
+    "change": -0.95
   },
   {
     "ticker": "AFEP",
@@ -114,30 +114,30 @@
   {
     "ticker": "AFH",
     "name": "Alexander Forbes Grp Hldgs",
-    "volume": "29929.0",
-    "price": 8.21,
-    "change": 0.1
+    "volume": "387.0",
+    "price": 8.18,
+    "change": -0.03
   },
   {
     "ticker": "AFT",
     "name": "Afrimat Limited",
-    "volume": "429977.0",
-    "price": 46.95,
-    "change": 1.55
+    "volume": "44678.0",
+    "price": 46.51,
+    "change": -0.44
   },
   {
     "ticker": "AGL",
     "name": "Anglo American plc",
-    "volume": "1054841.0",
-    "price": 660.1,
-    "change": -7.38
+    "volume": "27141.0",
+    "price": 650.0,
+    "change": -10.1
   },
   {
     "ticker": "AIP",
     "name": "Adcock Ingram Hldgs Ltd",
-    "volume": "358160.0",
-    "price": 74.6,
-    "change": -0.14
+    "volume": "1101.0",
+    "price": 74.72,
+    "change": 0.12
   },
   {
     "ticker": "AME",
@@ -156,16 +156,16 @@
   {
     "ticker": "ANG",
     "name": "Anglogold Ashanti Ltd",
-    "volume": "1476364.0",
-    "price": 1180.0,
-    "change": 23.39
+    "volume": "46694.0",
+    "price": 1190.0,
+    "change": 10.0
   },
   {
     "ticker": "ANH",
     "name": "Anheuser-Busch InBev SA/NV",
-    "volume": "923465.0",
-    "price": 1055.09,
-    "change": -4.5
+    "volume": "45981.0",
+    "price": 1030.52,
+    "change": -24.57
   },
   {
     "ticker": "ANI",
@@ -205,16 +205,16 @@
   {
     "ticker": "APF",
     "name": "Accelerate Property Fund Limited",
-    "volume": "352440.0",
+    "volume": "",
     "price": 0.45,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "APH",
     "name": "Alphamin Resources Corp",
-    "volume": "1000.0",
-    "price": 13.3,
-    "change": 0.56
+    "volume": "1043.0",
+    "price": 12.56,
+    "change": -0.74
   },
   {
     "ticker": "APN",
@@ -247,9 +247,9 @@
   {
     "ticker": "ARI",
     "name": "African Rainbow Min Ltd",
-    "volume": "289091.0",
-    "price": 173.31,
-    "change": -3.75
+    "volume": "36456.0",
+    "price": 171.73,
+    "change": -1.58
   },
   {
     "ticker": "ARL",
@@ -303,16 +303,16 @@
   {
     "ticker": "AXX",
     "name": "Araxi Ltd",
-    "volume": "1619498.0",
+    "volume": "",
     "price": 1.64,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "BAC",
     "name": "Africa Bitcoin Corporation Ltd",
-    "volume": "17185.0",
+    "volume": "",
     "price": 10.5,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "BACA",
@@ -2606,23 +2606,23 @@
   {
     "ticker": "STXSWX",
     "name": "Satrix SWIX Top 40 Portfolio",
-    "volume": "21450.0",
-    "price": 19.15,
-    "change": -0.09
+    "volume": "2.0",
+    "price": 19.04,
+    "change": -0.11
   },
   {
     "ticker": "STXTRA",
     "name": "Satrix Traci 3-Month ETF",
-    "volume": "2198.0",
-    "price": 37.4,
-    "change": 0.01
+    "volume": "982.0",
+    "price": 37.43,
+    "change": 0.03
   },
   {
     "ticker": "STXVEQ",
     "name": "Satrix Value Equity ETF",
-    "volume": "12086.0",
+    "volume": "",
     "price": 18.39,
-    "change": -0.26
+    "change": NaN
   },
   {
     "ticker": "STXWDM",
@@ -2662,9 +2662,9 @@
   {
     "ticker": "SYFANG",
     "name": "Sygnia Itrix FANG.AI Actively Managed ETF",
-    "volume": "159411.0",
-    "price": 20.15,
-    "change": 0.08
+    "volume": "40918.0",
+    "price": 20.43,
+    "change": 0.28
   },
   {
     "ticker": "SYG",
@@ -2683,86 +2683,86 @@
   {
     "ticker": "SYG500",
     "name": "Sygnia Itrix S&P 500 ETF",
-    "volume": "14734.0",
-    "price": 119.4,
-    "change": 0.72
+    "volume": "7332.0",
+    "price": 119.13,
+    "change": -0.27
   },
   {
     "ticker": "SYGCN",
     "name": "Sygnia Itrix New China Sectors ETF",
-    "volume": "9087.0",
+    "volume": "",
     "price": 38.4,
-    "change": -0.27
+    "change": NaN
   },
   {
     "ticker": "SYGEMF",
     "name": "Sygnia Itrix MSCI EM 50 ETF",
-    "volume": "48802.0",
-    "price": 25.22,
-    "change": -0.05
+    "volume": "35.0",
+    "price": 25.23,
+    "change": 0.01
   },
   {
     "ticker": "SYGESG",
     "name": "Sygnia Itrix S&P Global 1200 ESG ETF",
-    "volume": "23477.0",
-    "price": 63.75,
-    "change": 0.32
+    "volume": "8.0",
+    "price": 63.77,
+    "change": 0.02
   },
   {
     "ticker": "SYGEU",
     "name": "Sygnia Itrix EURO STOXX 50 ETF",
-    "volume": "15475.0",
-    "price": 115.66,
-    "change": 0.34
+    "volume": "381.0",
+    "price": 115.95,
+    "change": 0.29
   },
   {
     "ticker": "SYGH",
     "name": "Sygnia Itrix SOL H150 ETF",
-    "volume": "764.0",
+    "volume": "",
     "price": 29.65,
-    "change": 0.29
+    "change": NaN
   },
   {
     "ticker": "SYGJP",
     "name": "Sygnia Itrix MSCI Japan ETF",
-    "volume": "19082.0",
-    "price": 23.13,
-    "change": 0.2
+    "volume": "3.0",
+    "price": 23.31,
+    "change": 0.18
   },
   {
     "ticker": "SYGP",
     "name": "Sygnia Itrix Global Property ETF",
-    "volume": "16691.0",
+    "volume": "",
     "price": 49.17,
-    "change": 0.56
+    "change": NaN
   },
   {
     "ticker": "SYGT40",
     "name": "Sygnia Itrix Top 40 ETF",
-    "volume": "12764.0",
+    "volume": "",
     "price": 103.65,
-    "change": -0.77
+    "change": NaN
   },
   {
     "ticker": "SYGUK",
     "name": "Sygnia Itrix FTSE 100 ETF",
-    "volume": "2313.0",
+    "volume": "",
     "price": 221.55,
-    "change": 1.25
+    "change": NaN
   },
   {
     "ticker": "SYGUS",
     "name": "Sygnia Itrix MSCI US ETF",
-    "volume": "14892.0",
+    "volume": "299.0",
     "price": 111.66,
-    "change": 0.74
+    "change": 0.0
   },
   {
     "ticker": "SYGWD",
     "name": "Sygnia Itrix MSCI World Index ETF",
-    "volume": "191889.0",
-    "price": 76.26,
-    "change": 0.48
+    "volume": "2896.0",
+    "price": 78.2,
+    "change": 1.94
   },
   {
     "ticker": "SZK",
@@ -2776,14 +2776,14 @@
     "name": "TBI Global Targeted Yield UCITS Fund",
     "volume": "",
     "price": 100.5,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "TBIMAI",
     "name": "TBI Global Multi-Asset Income Fund",
     "volume": "",
     "price": 100.99,
-    "change": 0.04
+    "change": NaN
   },
   {
     "ticker": "TBS",
@@ -2944,7 +2944,7 @@
     "name": "VGE Actively Managed ETF",
     "volume": "",
     "price": 11.06,
-    "change": 0.23
+    "change": NaN
   },
   {
     "ticker": "WBC",
