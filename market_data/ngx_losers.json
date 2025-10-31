@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "ETERNA",
+    "price": 36.0,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "SUNUASSUR",
     "price": 4.51,
     "change": "-9.98%"
   },
   {
-    "ticker": "CAVERTON",
-    "price": 5.45,
-    "change": "-9.92%"
+    "ticker": "LEGENDINT",
+    "price": 5.26,
+    "change": "-9.93%"
   },
   {
     "ticker": "HONYFLOUR",
@@ -15,18 +20,13 @@
     "change": "-9.55%"
   },
   {
+    "ticker": "CAVERTON",
+    "price": 5.48,
+    "change": "-9.42%"
+  },
+  {
     "ticker": "MCNICHOLS",
-    "price": 3.0,
-    "change": "-9.09%"
-  },
-  {
-    "ticker": "MANSARD",
-    "price": 13.5,
-    "change": "-7.85%"
-  },
-  {
-    "ticker": "SOVRENINS",
-    "price": 4.0,
-    "change": "-7.41%"
+    "price": 3.03,
+    "change": "-8.18%"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "NCBA",
-    "price": 89.0,
-    "change": "+9.20%"
+    "ticker": "AMAC",
+    "price": 71.5,
+    "change": "+10.00%"
   },
   {
-    "ticker": "EQTY",
-    "price": 67.75,
-    "change": "+6.69%"
+    "ticker": "NCBA",
+    "price": 89.5,
+    "change": "+9.82%"
   },
   {
     "ticker": "SGL",
@@ -15,18 +15,18 @@
     "change": "+6.67%"
   },
   {
+    "ticker": "EQTY",
+    "price": 66.5,
+    "change": "+4.72%"
+  },
+  {
     "ticker": "NSE",
-    "price": 16.5,
-    "change": "+6.11%"
+    "price": 16.2,
+    "change": "+4.18%"
   },
   {
     "ticker": "SCOM",
-    "price": 30.7,
-    "change": "+3.89%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 27.6,
-    "change": "+3.76%"
+    "price": 30.65,
+    "change": "+3.72%"
   }
 ]

@@ -51,14 +51,14 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "5.0",
+    "volume": "17.0",
     "price": 39.0,
     "change": 0.0
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "10686.0",
+    "volume": "48858.0",
     "price": 0.49,
     "change": -0.05
   },
@@ -100,9 +100,9 @@
   {
     "ticker": "EGH",
     "name": "Ecobank Ghana Limited",
-    "volume": "",
-    "price": 14.04,
-    "change": NaN
+    "volume": "1000.0",
+    "price": 15.44,
+    "change": 1.4
   },
   {
     "ticker": "EGL",
@@ -114,9 +114,9 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "",
+    "volume": "2180.0",
     "price": 1.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "FML",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "35147.0",
+    "volume": "57967.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1.0",
+    "volume": "112.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "3.0",
+    "volume": "8.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "",
+    "volume": "4.0",
     "price": 19.8,
-    "change": NaN
+    "change": 0.0
   }
 ]
