@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "BIK",
+    "price": 0.13,
+    "change": "-13.33%"
+  },
+  {
     "ticker": "APH",
     "price": 12.56,
     "change": "-5.56%"
@@ -23,10 +28,5 @@
     "ticker": "FTH",
     "price": 6.99,
     "change": "-3.45%"
-  },
-  {
-    "ticker": "JBL",
-    "price": 0.65,
-    "change": "-2.99%"
   }
 ]

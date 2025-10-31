@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "RTBRISCOE",
+    "price": 3.52,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "ASOSAVINGS",
     "price": 1.03,
     "change": "+9.57%"
+  },
+  {
+    "ticker": "JAPAULGOLD",
+    "price": 2.5,
+    "change": "+4.17%"
   },
   {
     "ticker": "NGXGROUP",
@@ -10,23 +20,13 @@
     "change": "+3.57%"
   },
   {
-    "ticker": "OANDO",
-    "price": 48.0,
-    "change": "+2.56%"
+    "ticker": "CILEASING",
+    "price": 6.3,
+    "change": "+3.28%"
   },
   {
-    "ticker": "TANTALIZER",
-    "price": 2.5,
-    "change": "+2.04%"
-  },
-  {
-    "ticker": "UNIVINSURE",
-    "price": 1.19,
-    "change": "+1.71%"
-  },
-  {
-    "ticker": "RTBRISCOE",
-    "price": 3.25,
-    "change": "+1.56%"
+    "ticker": "DAARCOMM",
+    "price": 1.03,
+    "change": "+3.00%"
   }
 ]
