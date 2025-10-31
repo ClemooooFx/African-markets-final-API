@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "WTK",
-    "price": 211.75,
-    "change": "+10.00%"
-  },
-  {
     "ticker": "AMAC",
     "price": 71.5,
     "change": "+10.00%"
+  },
+  {
+    "ticker": "WTK",
+    "price": 211.5,
+    "change": "+9.87%"
   },
   {
     "ticker": "NCBA",
@@ -15,14 +15,14 @@
     "change": "+9.82%"
   },
   {
+    "ticker": "CARB",
+    "price": 29.0,
+    "change": "+9.02%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.38,
     "change": "+8.57%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 28.5,
-    "change": "+7.14%"
   },
   {
     "ticker": "SGL",
