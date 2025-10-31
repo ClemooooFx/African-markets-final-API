@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "RNG",
-    "price": 0.6,
-    "change": "-55.88%"
-  },
-  {
-    "ticker": "TPC",
-    "price": 34.1,
-    "change": "-10.26%"
-  },
-  {
     "ticker": "APH",
     "price": 12.56,
     "change": "-5.56%"
   },
   {
-    "ticker": "ETFGLD",
-    "price": 638.01,
-    "change": "-4.65%"
-  },
-  {
-    "ticker": "ETFGGB",
-    "price": 75.21,
-    "change": "-4.60%"
-  },
-  {
     "ticker": "SNV",
     "price": 7.49,
     "change": "-3.97%"
+  },
+  {
+    "ticker": "FTH",
+    "price": 6.99,
+    "change": "-3.45%"
+  },
+  {
+    "ticker": "DIB",
+    "price": 6.02,
+    "change": "-2.90%"
+  },
+  {
+    "ticker": "CAT",
+    "price": 13.5,
+    "change": "-2.88%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.73,
+    "change": "-2.67%"
   }
 ]
