@@ -1,12 +1,22 @@
 [
   {
-    "ticker": "ZMFA",
-    "price": 66.0,
-    "change": "+1.54%"
+    "ticker": "CHIL",
+    "price": 40.0,
+    "change": "+1.27%"
   },
   {
-    "ticker": "BATZ",
-    "price": 16.0,
-    "change": "+1.27%"
+    "ticker": "PUMA",
+    "price": 4.34,
+    "change": "+0.23%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

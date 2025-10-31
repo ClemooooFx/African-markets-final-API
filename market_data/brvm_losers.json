@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "BOAM",
-    "price": 4020.0,
-    "change": "-6.07%"
+    "ticker": "PALC",
+    "price": 8570.0,
+    "change": "-7.45%"
+  },
+  {
+    "ticker": "FTSC",
+    "price": 2600.0,
+    "change": "-7.14%"
+  },
+  {
+    "ticker": "LNBB",
+    "price": 3815.0,
+    "change": "-4.62%"
+  },
+  {
+    "ticker": "SPHC",
+    "price": 7695.0,
+    "change": "-4.53%"
   },
   {
     "ticker": "SOGC",
-    "price": 8225.0,
-    "change": "-5.13%"
+    "price": 7910.0,
+    "change": "-3.83%"
   },
   {
-    "ticker": "SDSC",
-    "price": 1460.0,
-    "change": "-2.01%"
-  },
-  {
-    "ticker": "SDCC",
-    "price": 6100.0,
-    "change": "-1.29%"
-  },
-  {
-    "ticker": "UNXC",
-    "price": 1850.0,
-    "change": "-1.07%"
-  },
-  {
-    "ticker": "CABC",
-    "price": 1705.0,
-    "change": "-0.58%"
+    "ticker": "ONTBF",
+    "price": 2410.0,
+    "change": "-3.60%"
   }
 ]
