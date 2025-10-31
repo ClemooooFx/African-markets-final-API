@@ -1,13 +1,23 @@
 [
   {
+    "ticker": "CGEN",
+    "price": 53.25,
+    "change": "-4.05%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 44.5,
+    "change": "-3.78%"
+  },
+  {
+    "ticker": "SCBK",
+    "price": 298.0,
+    "change": "-3.25%"
+  },
+  {
     "ticker": "LBTY",
     "price": 10.5,
     "change": "-3.23%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.71,
-    "change": "-1.72%"
   },
   {
     "ticker": "SMER",
@@ -15,18 +25,8 @@
     "change": "-1.64%"
   },
   {
-    "ticker": "KAPC",
-    "price": 230.0,
-    "change": "-1.08%"
-  },
-  {
     "ticker": "CRWN",
     "price": 53.5,
     "change": "-0.93%"
-  },
-  {
-    "ticker": "KQ",
-    "price": 3.74,
-    "change": "-0.53%"
   }
 ]
