@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "LBTY",
+    "price": 10.05,
+    "change": "-6.51%"
+  },
+  {
     "ticker": "UNGA",
     "price": 23.05,
     "change": "-6.49%"
@@ -10,9 +15,9 @@
     "change": "-3.02%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.35,
-    "change": "-2.78%"
+    "ticker": "NBV",
+    "price": 1.51,
+    "change": "-2.58%"
   },
   {
     "ticker": "EVRD",
@@ -20,13 +25,8 @@
     "change": "-1.46%"
   },
   {
-    "ticker": "SMWF",
-    "price": 845.0,
-    "change": "-1.40%"
-  },
-  {
-    "ticker": "WTK",
-    "price": 192.5,
-    "change": "-1.28%"
+    "ticker": "GLD",
+    "price": 4840.0,
+    "change": "-1.43%"
   }
 ]
