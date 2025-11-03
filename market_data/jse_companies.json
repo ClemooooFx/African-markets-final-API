@@ -1206,9 +1206,9 @@
   {
     "ticker": "GRSP",
     "name": "Goldrush Holdings Ltd",
-    "volume": "",
+    "volume": "43434.0",
     "price": 6.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GRT",
@@ -2200,9 +2200,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "",
+    "volume": "375.0",
     "price": 96.3,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SCD",
@@ -2872,16 +2872,16 @@
   {
     "ticker": "TRU",
     "name": "Truworths Int Ltd",
-    "volume": "568349.0",
-    "price": 52.77,
-    "change": 0.92
+    "volume": "781131.0",
+    "price": 52.79,
+    "change": 0.94
   },
   {
     "ticker": "TSG",
     "name": "Tsogo Sun Gaming Ltd",
-    "volume": "183851.0",
-    "price": 7.05,
-    "change": -0.02
+    "volume": "184135.0",
+    "price": 7.08,
+    "change": 0.01
   },
   {
     "ticker": "TTO",
@@ -2907,35 +2907,35 @@
   {
     "ticker": "VAL",
     "name": "Valterra Platinum Ltd",
-    "volume": "98572.0",
-    "price": 1090.14,
-    "change": 16.14
+    "volume": "168989.0",
+    "price": 1074.45,
+    "change": 0.45
   },
   {
     "ticker": "VIS",
     "name": "Visual International Holdings",
-    "volume": "",
-    "price": 0.04,
-    "change": NaN
+    "volume": "195000.0",
+    "price": 0.05,
+    "change": 0.01
   },
   {
     "ticker": "VKE",
     "name": "Vukile Property Fund Ltd",
-    "volume": "53028.0",
-    "price": 22.79,
-    "change": 0.17
+    "volume": "97177.0",
+    "price": 22.72,
+    "change": 0.1
   },
   {
     "ticker": "VOD",
     "name": "Vodacom Group Ltd",
-    "volume": "51535.0",
-    "price": 140.95,
-    "change": 0.91
+    "volume": "137624.0",
+    "price": 141.43,
+    "change": 1.39
   },
   {
     "ticker": "VUN",
     "name": "Vunani Ltd",
-    "volume": "121.0",
+    "volume": "2121.0",
     "price": 2.0,
     "change": 0.0
   },
@@ -2949,16 +2949,16 @@
   {
     "ticker": "WBC",
     "name": "WeBuyCars Holdings Ltd",
-    "volume": "34421.0",
-    "price": 46.01,
-    "change": 0.01
+    "volume": "72890.0",
+    "price": 46.14,
+    "change": 0.14
   },
   {
     "ticker": "WBO",
     "name": "Wilson Bayly Hlm-Ovc Ltd",
-    "volume": "348.0",
-    "price": 152.25,
-    "change": 0.73
+    "volume": "6836.0",
+    "price": 152.37,
+    "change": 0.85
   },
   {
     "ticker": "WEZ",
@@ -2970,9 +2970,9 @@
   {
     "ticker": "WHL",
     "name": "Woolworths Holdings Ltd",
-    "volume": "77970.0",
-    "price": 52.71,
-    "change": 0.35
+    "volume": "177181.0",
+    "price": 52.73,
+    "change": 0.37
   },
   {
     "ticker": "WNXT40",
@@ -3005,9 +3005,9 @@
   {
     "ticker": "YRK",
     "name": "York Timber Holdings Ltd",
-    "volume": "",
-    "price": 2.22,
-    "change": NaN
+    "volume": "3000.0",
+    "price": 2.25,
+    "change": 0.03
   },
   {
     "ticker": "YYLBEE",
@@ -3026,8 +3026,8 @@
   {
     "ticker": "ZZD",
     "name": "Zeda Limited",
-    "volume": "",
-    "price": 12.3,
-    "change": NaN
+    "volume": "1975.0",
+    "price": 12.44,
+    "change": 0.14
   }
 ]
