@@ -6,13 +6,8 @@
   },
   {
     "ticker": "ISA",
-    "price": 2.04,
-    "change": "+13.33%"
-  },
-  {
-    "ticker": "APF",
-    "price": 0.52,
-    "change": "+13.04%"
+    "price": 2.02,
+    "change": "+12.22%"
   },
   {
     "ticker": "ACS",
@@ -21,12 +16,17 @@
   },
   {
     "ticker": "EPE",
-    "price": 8.13,
-    "change": "+11.37%"
+    "price": 8.1,
+    "change": "+10.96%"
   },
   {
     "ticker": "HUG",
     "price": 1.6,
     "change": "+10.34%"
+  },
+  {
+    "ticker": "APF",
+    "price": 0.5,
+    "change": "+8.70%"
   }
 ]
