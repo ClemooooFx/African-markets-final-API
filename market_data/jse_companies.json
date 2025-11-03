@@ -905,9 +905,9 @@
   {
     "ticker": "ETFEMA",
     "name": "1nvest MSCI EM Asia ETF",
-    "volume": "805.0",
+    "volume": "",
     "price": 42.19,
-    "change": 0.72
+    "change": NaN
   },
   {
     "ticker": "ETFGGB",
@@ -926,9 +926,9 @@
   {
     "ticker": "ETFGRE",
     "name": "1nvest Global REIT ETF",
-    "volume": "6355.0",
-    "price": 21.85,
-    "change": -0.01
+    "volume": "47.0",
+    "price": 22.65,
+    "change": 0.8
   },
   {
     "ticker": "ETFPLD",
@@ -996,9 +996,9 @@
   {
     "ticker": "ETFWLD",
     "name": "1nvest MSCI World ETF",
-    "volume": "3728.0",
-    "price": 112.19,
-    "change": 0.81
+    "volume": "5.0",
+    "price": 112.0,
+    "change": -0.19
   },
   {
     "ticker": "EUZ",

@@ -10,6 +10,11 @@
     "change": "-6.49%"
   },
   {
+    "ticker": "TOTL",
+    "price": 45.0,
+    "change": "-3.02%"
+  },
+  {
     "ticker": "EVRD",
     "price": 1.35,
     "change": "-1.46%"
@@ -23,10 +28,5 @@
     "ticker": "SMWF",
     "price": 846.0,
     "change": "-1.28%"
-  },
-  {
-    "ticker": "BKG",
-    "price": 42.3,
-    "change": "-1.17%"
   }
 ]

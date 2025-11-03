@@ -1,23 +1,23 @@
 [
   {
+    "ticker": "NSE",
+    "price": 17.85,
+    "change": "+9.85%"
+  },
+  {
     "ticker": "SKL",
     "price": 8.16,
     "change": "+9.38%"
   },
   {
-    "ticker": "NSE",
-    "price": 17.5,
+    "ticker": "WTK",
+    "price": 210.0,
     "change": "+7.69%"
   },
   {
     "ticker": "CRWN",
     "price": 54.0,
     "change": "+7.46%"
-  },
-  {
-    "ticker": "WTK",
-    "price": 209.0,
-    "change": "+7.18%"
   },
   {
     "ticker": "XPRS",
