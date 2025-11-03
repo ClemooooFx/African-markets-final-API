@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "SLAM",
+    "price": 8.3,
+    "change": "-7.78%"
+  },
+  {
+    "ticker": "NMG",
+    "price": 12.7,
+    "change": "-5.93%"
+  },
+  {
     "ticker": "LBTY",
-    "price": 10.5,
-    "change": "-2.33%"
+    "price": 10.25,
+    "change": "-4.65%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.67,
+    "change": "-4.64%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.4,
+    "change": "-4.00%"
   },
   {
     "ticker": "GLD",
     "price": 4805.0,
     "change": "-2.14%"
-  },
-  {
-    "ticker": "SMWF",
-    "price": 840.0,
-    "change": "-1.98%"
-  },
-  {
-    "ticker": "EGAD",
-    "price": 20.0,
-    "change": "-1.96%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 45.5,
-    "change": "-1.94%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "-1.46%"
   }
 ]
