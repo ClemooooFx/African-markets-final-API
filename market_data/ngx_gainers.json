@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "RTBRISCOE",
-    "price": 3.74,
-    "change": "+10.00%"
-  },
-  {
     "ticker": "ASOSAVINGS",
     "price": 1.13,
     "change": "+9.71%"
@@ -28,5 +23,10 @@
     "ticker": "VERITASKAP",
     "price": 2.1,
     "change": "+4.48%"
+  },
+  {
+    "ticker": "CUTIX",
+    "price": 3.68,
+    "change": "+4.25%"
   }
 ]
