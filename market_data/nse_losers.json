@@ -15,11 +15,6 @@
     "change": "-3.23%"
   },
   {
-    "ticker": "CIC",
-    "price": 4.51,
-    "change": "-2.80%"
-  },
-  {
     "ticker": "EVRD",
     "price": 1.35,
     "change": "-1.46%"
@@ -28,5 +23,10 @@
     "ticker": "SMWF",
     "price": 846.0,
     "change": "-1.28%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.78,
+    "change": "-0.71%"
   }
 ]
