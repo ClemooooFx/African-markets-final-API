@@ -5,11 +5,6 @@
     "change": "-10.00%"
   },
   {
-    "ticker": "JAPAULGOLD",
-    "price": 2.18,
-    "change": "-8.79%"
-  },
-  {
     "ticker": "MBENEFIT",
     "price": 3.8,
     "change": "-7.09%"
@@ -20,13 +15,18 @@
     "change": "-5.79%"
   },
   {
-    "ticker": "GUINEAINS",
-    "price": 1.17,
-    "change": "-4.88%"
+    "ticker": "JAPAULGOLD",
+    "price": 2.3,
+    "change": "-3.77%"
   },
   {
-    "ticker": "ACCESSCORP",
-    "price": 23.5,
-    "change": "-3.89%"
+    "ticker": "BERGER",
+    "price": 41.0,
+    "change": "-3.53%"
+  },
+  {
+    "ticker": "NSLTECH",
+    "price": 0.82,
+    "change": "-3.53%"
   }
 ]

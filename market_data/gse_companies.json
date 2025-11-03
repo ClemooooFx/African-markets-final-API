@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "10553.0",
+    "volume": "20597.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -58,9 +58,9 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "5204.0",
-    "price": 0.49,
-    "change": 0.0
+    "volume": "10091.0",
+    "price": 0.45,
+    "change": -0.04
   },
   {
     "ticker": "CLYD",
@@ -114,9 +114,9 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "",
+    "volume": "116.0",
     "price": 0.99,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "FML",
@@ -170,9 +170,9 @@
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "",
+    "volume": "38.0",
     "price": 5.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "MMH",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "11942.0",
+    "volume": "34269.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "3.0",
+    "volume": "113.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -233,9 +233,9 @@
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "",
-    "price": 3.41,
-    "change": NaN
+    "volume": "4109.0",
+    "price": 3.74,
+    "change": 0.33
   },
   {
     "ticker": "TBL",
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "201.0",
+    "volume": "222.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "",
+    "volume": "2.0",
     "price": 19.79,
-    "change": NaN
+    "change": 0.0
   }
 ]
