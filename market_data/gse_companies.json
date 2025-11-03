@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "",
+    "volume": "35.0",
     "price": 6.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ALW",
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "10091.0",
+    "volume": "14833.0",
     "price": 0.45,
     "change": -0.04
   },
@@ -128,7 +128,7 @@
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "3000.0",
+    "volume": "3012.0",
     "price": 17.5,
     "change": 0.53
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "34269.0",
+    "volume": "52746.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "113.0",
+    "volume": "494.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "",
+    "volume": "544.0",
     "price": 1.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "4109.0",
+    "volume": "8431.0",
     "price": 3.74,
     "change": 0.33
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "222.0",
+    "volume": "277.0",
     "price": 40.5,
     "change": 0.0
   },
