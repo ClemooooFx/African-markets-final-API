@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "ISA",
+    "price": 2.2,
+    "change": "+22.22%"
+  },
+  {
     "ticker": "HUG",
     "price": 1.75,
     "change": "+20.69%"
@@ -16,17 +21,12 @@
   },
   {
     "ticker": "EPE",
-    "price": 8.13,
-    "change": "+11.37%"
+    "price": 8.12,
+    "change": "+11.23%"
   },
   {
     "ticker": "ISO",
     "price": 195.0,
     "change": "+8.52%"
-  },
-  {
-    "ticker": "QFH",
-    "price": 8.4,
-    "change": "+8.39%"
   }
 ]
