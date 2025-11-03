@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "OAO",
+    "price": 0.21,
+    "change": "-22.22%"
+  },
+  {
     "ticker": "BIK",
     "price": 0.13,
     "change": "-13.33%"
+  },
+  {
+    "ticker": "PWR",
+    "price": 81.02,
+    "change": "-11.59%"
   },
   {
     "ticker": "SOLBE1",
@@ -10,23 +20,13 @@
     "change": "-10.67%"
   },
   {
-    "ticker": "SNV",
-    "price": 7.01,
-    "change": "-10.13%"
+    "ticker": "KP2",
+    "price": 0.67,
+    "change": "-10.67%"
   },
   {
-    "ticker": "FTH",
-    "price": 6.51,
-    "change": "-10.08%"
-  },
-  {
-    "ticker": "MTA",
-    "price": 6.1,
-    "change": "-8.96%"
-  },
-  {
-    "ticker": "ACL",
-    "price": 1.44,
-    "change": "-6.49%"
+    "ticker": "ACS",
+    "price": 7.17,
+    "change": "-10.38%"
   }
 ]
