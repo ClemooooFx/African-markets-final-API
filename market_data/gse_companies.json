@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "10500.0",
+    "volume": "10553.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "2426.0",
+    "volume": "5204.0",
     "price": 0.49,
     "change": 0.0
   },
@@ -121,7 +121,7 @@
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "65.0",
+    "volume": "70.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,7 +135,7 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "4833.0",
+    "volume": "5033.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "330.0",
+    "volume": "11942.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,9 +198,9 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "",
+    "volume": "3.0",
     "price": 1.25,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SAMBA",
@@ -254,9 +254,9 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "",
+    "volume": "201.0",
     "price": 40.5,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "UNIL",

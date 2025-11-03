@@ -2683,9 +2683,9 @@
   {
     "ticker": "SYG500",
     "name": "Sygnia Itrix S&P 500 ETF",
-    "volume": "7051.0",
-    "price": 119.74,
-    "change": -0.24
+    "volume": "8899.0",
+    "price": 119.91,
+    "change": -0.07
   },
   {
     "ticker": "SYGCN",
@@ -2704,9 +2704,9 @@
   {
     "ticker": "SYGESG",
     "name": "Sygnia Itrix S&P Global 1200 ESG ETF",
-    "volume": "1070.0",
-    "price": 63.55,
-    "change": -0.08
+    "volume": "1570.0",
+    "price": 63.64,
+    "change": 0.01
   },
   {
     "ticker": "SYGEU",
@@ -2725,16 +2725,16 @@
   {
     "ticker": "SYGJP",
     "name": "Sygnia Itrix MSCI Japan ETF",
-    "volume": "373.0",
-    "price": 23.21,
-    "change": -0.12
+    "volume": "1038.0",
+    "price": 23.25,
+    "change": -0.08
   },
   {
     "ticker": "SYGP",
     "name": "Sygnia Itrix Global Property ETF",
-    "volume": "305.0",
-    "price": 48.86,
-    "change": -0.3
+    "volume": "308.0",
+    "price": 48.89,
+    "change": -0.27
   },
   {
     "ticker": "SYGT40",
@@ -2746,21 +2746,21 @@
   {
     "ticker": "SYGUK",
     "name": "Sygnia Itrix FTSE 100 ETF",
-    "volume": "1152.0",
-    "price": 222.18,
-    "change": 0.79
+    "volume": "1153.0",
+    "price": 221.61,
+    "change": 0.22
   },
   {
     "ticker": "SYGUS",
     "name": "Sygnia Itrix MSCI US ETF",
-    "volume": "2172.0",
-    "price": 112.05,
-    "change": 0.27
+    "volume": "17057.0",
+    "price": 111.3,
+    "change": -0.48
   },
   {
     "ticker": "SYGWD",
     "name": "Sygnia Itrix MSCI World Index ETF",
-    "volume": "23462.0",
+    "volume": "50489.0",
     "price": 75.86,
     "change": -0.34
   },
