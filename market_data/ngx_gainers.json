@@ -15,11 +15,6 @@
     "change": "+7.62%"
   },
   {
-    "ticker": "SOVRENINS",
-    "price": 4.18,
-    "change": "+7.18%"
-  },
-  {
     "ticker": "INTBREW",
     "price": 13.4,
     "change": "+6.35%"
@@ -28,5 +23,10 @@
     "ticker": "CHAMPION",
     "price": 15.95,
     "change": "+6.33%"
+  },
+  {
+    "ticker": "ETRANZACT",
+    "price": 13.25,
+    "change": "+4.33%"
   }
 ]

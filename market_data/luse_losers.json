@@ -1,7 +1,32 @@
 [
   {
-    "ticker": "BATZ",
-    "price": 15.5,
-    "change": "-3.06%"
+    "ticker": "ATEL",
+    "price": 138.99,
+    "change": "-0.71%"
+  },
+  {
+    "ticker": "PUMA",
+    "price": 4.31,
+    "change": "-0.69%"
+  },
+  {
+    "ticker": "CECZ",
+    "price": 22.85,
+    "change": "-0.17%"
+  },
+  {
+    "ticker": "ZNCO",
+    "price": 6.09,
+    "change": "-0.16%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

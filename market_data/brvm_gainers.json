@@ -1,32 +1,32 @@
 [
   {
     "ticker": "SLBC",
-    "price": 22975.0,
+    "price": 24695.0,
     "change": "+7.49%"
   },
   {
     "ticker": "CABC",
-    "price": 1850.0,
-    "change": "+7.25%"
+    "price": 1985.0,
+    "change": "+7.30%"
   },
   {
     "ticker": "NEIC",
-    "price": 825.0,
-    "change": "+7.14%"
+    "price": 885.0,
+    "change": "+7.27%"
   },
   {
-    "ticker": "SIBC",
-    "price": 5740.0,
-    "change": "+2.59%"
+    "ticker": "STBC",
+    "price": 19795.0,
+    "change": "+2.56%"
   },
   {
-    "ticker": "SPHC",
-    "price": 7890.0,
-    "change": "+2.53%"
+    "ticker": "SDSC",
+    "price": 1490.0,
+    "change": "+1.36%"
   },
   {
-    "ticker": "SMBC",
-    "price": 9880.0,
-    "change": "+2.38%"
+    "ticker": "ECOC",
+    "price": 15200.0,
+    "change": "+0.60%"
   }
 ]

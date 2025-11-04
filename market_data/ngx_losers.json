@@ -5,6 +5,11 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "NNFM",
+    "price": 84.3,
+    "change": "-9.98%"
+  },
+  {
     "ticker": "ARADEL",
     "price": 710.0,
     "change": "-9.21%"
@@ -23,10 +28,5 @@
     "ticker": "CAVERTON",
     "price": 5.05,
     "change": "-7.34%"
-  },
-  {
-    "ticker": "MBENEFIT",
-    "price": 3.8,
-    "change": "-7.09%"
   }
 ]

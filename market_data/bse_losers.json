@@ -1,7 +1,32 @@
 [
   {
-    "ticker": "NEWPLAT",
-    "price": 224.5,
-    "change": "-3.44%"
+    "ticker": "NEWGOLD",
+    "price": 513.0,
+    "change": "-10.78%"
+  },
+  {
+    "ticker": "LETSHEGO",
+    "price": 0.95,
+    "change": "-9.52%"
+  },
+  {
+    "ticker": "ADBF",
+    "price": 102.29,
+    "change": "-2.02%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

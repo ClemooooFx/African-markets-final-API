@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "EUZ",
+    "price": 0.49,
+    "change": "+68.97%"
+  },
+  {
     "ticker": "VIS",
     "price": 0.05,
     "change": "+25.00%"
   },
   {
-    "ticker": "ISA",
-    "price": 2.02,
-    "change": "+12.22%"
+    "ticker": "EPE",
+    "price": 8.25,
+    "change": "+13.01%"
   },
   {
     "ticker": "ACS",
@@ -15,18 +20,13 @@
     "change": "+11.58%"
   },
   {
-    "ticker": "EPE",
-    "price": 8.1,
-    "change": "+10.96%"
+    "ticker": "APF",
+    "price": 0.51,
+    "change": "+10.87%"
   },
   {
     "ticker": "HUG",
     "price": 1.6,
     "change": "+10.34%"
-  },
-  {
-    "ticker": "APF",
-    "price": 0.5,
-    "change": "+8.70%"
   }
 ]
