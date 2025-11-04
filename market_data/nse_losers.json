@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "GLD",
+    "price": 4800.0,
+    "change": "-5.70%"
+  },
+  {
     "ticker": "SLAM",
     "price": 8.3,
     "change": "-5.03%"
@@ -15,18 +20,13 @@
     "change": "-3.60%"
   },
   {
+    "ticker": "ABSA",
+    "price": 22.8,
+    "change": "-2.56%"
+  },
+  {
     "ticker": "EGAD",
     "price": 20.0,
     "change": "-1.96%"
-  },
-  {
-    "ticker": "LBTY",
-    "price": 10.25,
-    "change": "-0.97%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 230.0,
-    "change": "-0.86%"
   }
 ]
