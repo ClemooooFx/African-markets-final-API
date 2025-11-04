@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "222035.0",
+    "volume": "246809.0",
     "price": 0.42,
     "change": -0.03
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "125.0",
+    "volume": "6804.0",
     "price": 0.99,
     "change": 0.0
   },
@@ -142,7 +142,7 @@
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "5.0",
+    "volume": "12.0",
     "price": 450.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "50384.0",
+    "volume": "57090.0",
     "price": 4.1,
     "change": -0.06
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "15.0",
+    "volume": "30.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "12162.0",
+    "volume": "12259.0",
     "price": 1.2,
     "change": 0.0
   },
