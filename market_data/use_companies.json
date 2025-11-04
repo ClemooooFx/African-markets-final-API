@@ -16,16 +16,16 @@
   {
     "ticker": "BOBU",
     "name": "Bank of Baroda Uganda",
-    "volume": "",
-    "price": 47.1,
-    "change": NaN
+    "volume": "1446400.0",
+    "price": 47.01,
+    "change": -0.09
   },
   {
     "ticker": "CENT",
     "name": "Centum Investment",
     "volume": "",
-    "price": 392.89,
-    "change": -0.32
+    "price": 395.58,
+    "change": 2.69
   },
   {
     "ticker": "DFCU",
@@ -38,43 +38,43 @@
     "ticker": "EABL",
     "name": "East African Breweries Limited",
     "volume": "",
-    "price": 6142.21,
-    "change": 130.05
+    "price": 6222.94,
+    "change": 80.73
   },
   {
     "ticker": "EBL",
     "name": "Equity Bank Limited",
     "volume": "",
-    "price": 1628.06,
-    "change": 17.66
+    "price": 1708.79,
+    "change": 80.73
   },
   {
     "ticker": "JHL",
     "name": "Jubilee Holdings Limited",
     "volume": "",
-    "price": 8476.65,
-    "change": -112.15
+    "price": 8591.02,
+    "change": 114.37
   },
   {
     "ticker": "KA",
     "name": "Kenya Airways",
     "volume": "",
     "price": 101.18,
-    "change": 0.26
+    "change": NaN
   },
   {
     "ticker": "KCB",
     "name": "KCB Group",
     "volume": "",
-    "price": 1607.87,
-    "change": 31.02
+    "price": 1634.78,
+    "change": 26.91
   },
   {
     "ticker": "MTNU",
     "name": "MTN Uganda",
-    "volume": "",
+    "volume": "5760.0",
     "price": 295.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "NIC",
@@ -87,8 +87,8 @@
     "ticker": "NMG",
     "name": "Nation Media Group",
     "volume": "",
-    "price": 363.29,
-    "change": -1.73
+    "price": 364.63,
+    "change": 1.34
   },
   {
     "ticker": "NVL",
@@ -100,9 +100,9 @@
   {
     "ticker": "QCIL",
     "name": "Quality Chemical Industries Ltd",
-    "volume": "12600.0",
-    "price": 120.0,
-    "change": 5.0
+    "volume": "76900.0",
+    "price": 115.87,
+    "change": -4.13
   },
   {
     "ticker": "SBU",
@@ -128,8 +128,8 @@
   {
     "ticker": "UMEM",
     "name": "Umeme Limited",
-    "volume": "",
+    "volume": "11.0",
     "price": 214.36,
-    "change": NaN
+    "change": 0.0
   }
 ]
