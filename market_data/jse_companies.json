@@ -233,9 +233,9 @@
   {
     "ticker": "AQUA",
     "name": "AQU Actively Managed ETF",
-    "volume": "246.0",
-    "price": 11.49,
-    "change": 0.0
+    "volume": "247.0",
+    "price": 11.48,
+    "change": -0.01
   },
   {
     "ticker": "ARA",
@@ -583,30 +583,30 @@
   {
     "ticker": "COGCAP",
     "name": "CCP Actively Managed ETF",
-    "volume": "",
-    "price": 11.26,
-    "change": NaN
+    "volume": "6.0",
+    "price": 11.2,
+    "change": -0.06
   },
   {
     "ticker": "COGEM",
     "name": "CGE Actively Managed ETF",
-    "volume": "234.0",
-    "price": 12.86,
-    "change": 0.04
+    "volume": "258.0",
+    "price": 12.61,
+    "change": -0.21
   },
   {
     "ticker": "COGES",
     "name": "CES Actively Managed ETF",
-    "volume": "4722.0",
-    "price": 15.46,
-    "change": 0.28
+    "volume": "8722.0",
+    "price": 15.48,
+    "change": 0.3
   },
   {
     "ticker": "COGMAN",
     "name": "CGM Actively Managed ETF",
-    "volume": "",
-    "price": 13.7,
-    "change": NaN
+    "volume": "5.0",
+    "price": 13.54,
+    "change": -0.16
   },
   {
     "ticker": "COGOE",
@@ -625,16 +625,16 @@
   {
     "ticker": "COOPTI",
     "name": "COG Actively Managed ETF",
-    "volume": "39.0",
-    "price": 13.18,
-    "change": -0.13
+    "volume": "44.0",
+    "price": 12.92,
+    "change": -0.39
   },
   {
     "ticker": "COUSDI",
     "name": "CDI Actively Managed ETF",
-    "volume": "313.0",
-    "price": 10.28,
-    "change": 0.13
+    "volume": "396.0",
+    "price": 10.16,
+    "change": 0.01
   },
   {
     "ticker": "CPI",
@@ -674,37 +674,37 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "148242.0",
-    "price": 11.53,
-    "change": 0.01
+    "volume": "148290.0",
+    "price": 11.57,
+    "change": 0.05
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "5656.0",
+    "volume": "6172.0",
     "price": 117.81,
     "change": -1.01
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "35837.0",
-    "price": 15.4,
-    "change": -0.05
+    "volume": "37016.0",
+    "price": 15.44,
+    "change": -0.01
   },
   {
     "ticker": "CSYSB",
     "name": "10X Yield Selected Bond ETF",
-    "volume": "78808.0",
-    "price": 12.41,
-    "change": -0.06
+    "volume": "83909.0",
+    "price": 12.58,
+    "change": 0.11
   },
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "97838.0",
-    "price": 42.1,
-    "change": -0.78
+    "volume": "100504.0",
+    "price": 42.16,
+    "change": -0.72
   },
   {
     "ticker": "CVW",
@@ -884,58 +884,58 @@
   {
     "ticker": "ETF500",
     "name": "1nvest S&P 500 Index ETF",
-    "volume": "863.0",
-    "price": 626.03,
-    "change": -1.76
+    "volume": "1007.0",
+    "price": 623.76,
+    "change": -4.03
   },
   {
     "ticker": "ETF5IT",
     "name": "1nvest S&P 500 IT ETF",
-    "volume": "67247.0",
-    "price": 37.22,
-    "change": -0.57
+    "volume": "77807.0",
+    "price": 37.41,
+    "change": -0.38
   },
   {
     "ticker": "ETFBND",
     "name": "1nvest SA Bond ETF",
-    "volume": "3355.0",
+    "volume": "38442.0",
     "price": 116.58,
     "change": 0.47
   },
   {
     "ticker": "ETFEMA",
     "name": "1nvest MSCI EM Asia ETF",
-    "volume": "1020.0",
-    "price": 41.28,
-    "change": -0.3
+    "volume": "2657.0",
+    "price": 41.07,
+    "change": -0.51
   },
   {
     "ticker": "ETFGGB",
     "name": "1nvest G7 Govt Bond ETF",
-    "volume": "244.0",
+    "volume": "395.0",
     "price": 79.5,
     "change": 0.58
   },
   {
     "ticker": "ETFGLD",
     "name": "1nvest Gold ETF",
-    "volume": "3083.0",
-    "price": 671.99,
-    "change": -2.01
+    "volume": "3132.0",
+    "price": 673.31,
+    "change": -0.69
   },
   {
     "ticker": "ETFGRE",
     "name": "1nvest Global REIT ETF",
-    "volume": "149.0",
-    "price": 22.44,
-    "change": 0.8
+    "volume": "568.0",
+    "price": 21.6,
+    "change": -0.04
   },
   {
     "ticker": "ETFPLD",
     "name": "1nvest Palladium ETF",
-    "volume": "2065.0",
-    "price": 238.64,
-    "change": -4.07
+    "volume": "2072.0",
+    "price": 237.97,
+    "change": -4.74
   },
   {
     "ticker": "ETFPLT",
@@ -961,44 +961,44 @@
   {
     "ticker": "ETFSAP",
     "name": "1nvest SA Property ETF",
-    "volume": "1753.0",
-    "price": 46.6,
-    "change": -0.1
+    "volume": "32619.0",
+    "price": 46.24,
+    "change": -0.46
   },
   {
     "ticker": "ETFSRI",
     "name": "1nvest MSCI World SRI ETF",
-    "volume": "7.0",
-    "price": 182.67,
-    "change": 0.22
+    "volume": "34.0",
+    "price": 182.53,
+    "change": 0.08
   },
   {
     "ticker": "ETFSWX",
     "name": "1nvest SWIX 40 ETF",
-    "volume": "139.0",
+    "volume": "229.0",
     "price": 27.84,
     "change": -0.45
   },
   {
     "ticker": "ETFT40",
     "name": "1nvest TOP 40 ETF",
-    "volume": "809.0",
-    "price": 99.38,
-    "change": -1.7
+    "volume": "1219.0",
+    "price": 99.4,
+    "change": -1.68
   },
   {
     "ticker": "ETFUSD",
     "name": "1nvest USD Short-Dated ETF",
-    "volume": "5055.0",
-    "price": 17.35,
-    "change": 0.14
+    "volume": "26224.0",
+    "price": 17.34,
+    "change": 0.13
   },
   {
     "ticker": "ETFWLD",
     "name": "1nvest MSCI World ETF",
-    "volume": "109.0",
-    "price": 110.22,
-    "change": -0.31
+    "volume": "375.0",
+    "price": 110.27,
+    "change": -0.26
   },
   {
     "ticker": "EUZ",
@@ -1045,9 +1045,9 @@
   {
     "ticker": "FNB500",
     "name": "FNB S&P 500 Feeder ETF",
-    "volume": "6.0",
-    "price": 116.17,
-    "change": -0.21
+    "volume": "9.0",
+    "price": 115.97,
+    "change": -0.41
   },
   {
     "ticker": "FNBEMG",
@@ -1059,9 +1059,9 @@
   {
     "ticker": "FNBEQF",
     "name": "FNB Global 1200 Equity FOF ETF",
-    "volume": "485.0",
-    "price": 110.05,
-    "change": -0.18
+    "volume": "500.0",
+    "price": 109.47,
+    "change": -0.76
   },
   {
     "ticker": "FNBINF",
@@ -1073,16 +1073,16 @@
   {
     "ticker": "FNBMID",
     "name": "FNB Mid Cap ETF",
-    "volume": "30964.0",
-    "price": 10.18,
-    "change": -0.14
+    "volume": "30966.0",
+    "price": 10.19,
+    "change": -0.13
   },
   {
     "ticker": "FNBT40",
     "name": "FNB Top 40 ETF",
-    "volume": "24539.0",
-    "price": 100.3,
-    "change": -1.7
+    "volume": "191952.0",
+    "price": 100.53,
+    "change": -1.47
   },
   {
     "ticker": "FNBWDM",
@@ -1094,9 +1094,9 @@
   {
     "ticker": "FNBWGB",
     "name": "FNB World Government Bond ETF",
-    "volume": "9047.0",
-    "price": 7.09,
-    "change": 0.09
+    "volume": "9098.0",
+    "price": 7.08,
+    "change": 0.08
   },
   {
     "ticker": "FSR",
@@ -1143,9 +1143,9 @@
   {
     "ticker": "GLD",
     "name": "New Gold Issuer Limited",
-    "volume": "30962.0",
-    "price": 644.99,
-    "change": 0.03
+    "volume": "31763.0",
+    "price": 643.01,
+    "change": -1.95
   },
   {
     "ticker": "GLN",
@@ -1157,23 +1157,23 @@
   {
     "ticker": "GLOBAL",
     "name": "10X Total World Stock Feeder ETF",
-    "volume": "109539.0",
-    "price": 17.45,
-    "change": -0.06
+    "volume": "126129.0",
+    "price": 17.51,
+    "change": 0.0
   },
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "125028.0",
-    "price": 19.81,
-    "change": 0.11
+    "volume": "128869.0",
+    "price": 19.7,
+    "change": 0.0
   },
   {
     "ticker": "GLPROP",
     "name": "10X S&P Global Property ETF",
-    "volume": "4902.0",
-    "price": 46.62,
-    "change": 0.26
+    "volume": "5089.0",
+    "price": 46.98,
+    "change": 0.62
   },
   {
     "ticker": "GML",
@@ -1297,9 +1297,9 @@
   {
     "ticker": "INCOME",
     "name": "CoreShares Income Actively Managed ETF",
-    "volume": "61720.0",
-    "price": 10.57,
-    "change": -0.02
+    "volume": "61998.0",
+    "price": 10.61,
+    "change": 0.02
   },
   {
     "ticker": "INL",
@@ -1668,16 +1668,16 @@
   {
     "ticker": "NGPLD",
     "name": "NewGold Palladium ETF",
-    "volume": "238.0",
-    "price": 236.84,
-    "change": -5.45
+    "volume": "368.0",
+    "price": 234.34,
+    "change": -7.95
   },
   {
     "ticker": "NGPLT",
     "name": "NewGold Platinum ETF",
-    "volume": "11.0",
-    "price": 260.75,
-    "change": -2.36
+    "volume": "165.0",
+    "price": 257.76,
+    "change": -5.35
   },
   {
     "ticker": "NPH",
@@ -2137,9 +2137,9 @@
   {
     "ticker": "RWGPR",
     "name": "Reitway Global Property Prescient ETF",
-    "volume": "20.0",
-    "price": 11.14,
-    "change": 0.1
+    "volume": "41.0",
+    "price": 11.21,
+    "change": 0.17
   },
   {
     "ticker": "RWINC",
@@ -2389,23 +2389,23 @@
   {
     "ticker": "STX40",
     "name": "Satrix 40 Portfolio",
-    "volume": "252820.0",
-    "price": 100.29,
-    "change": -1.66
+    "volume": "295141.0",
+    "price": 100.48,
+    "change": -1.47
   },
   {
     "ticker": "STX500",
     "name": "Satrix S&P 500 Feeder",
-    "volume": "119009.0",
-    "price": 126.11,
-    "change": -0.38
+    "volume": "157013.0",
+    "price": 125.98,
+    "change": -0.51
   },
   {
     "ticker": "STXACW",
     "name": "Satrix MSCI ACWI Feeder ETF",
-    "volume": "1339.0",
-    "price": 93.27,
-    "change": -0.18
+    "volume": "8056.0",
+    "price": 93.22,
+    "change": -0.23
   },
   {
     "ticker": "STXCAP",
@@ -2417,9 +2417,9 @@
   {
     "ticker": "STXCHN",
     "name": "Satrix MSCI China ETF",
-    "volume": "2106.0",
-    "price": 54.85,
-    "change": -0.42
+    "volume": "15154.0",
+    "price": 55.15,
+    "change": -0.12
   },
   {
     "ticker": "STXCTY",
@@ -2431,30 +2431,30 @@
   {
     "ticker": "STXDIV",
     "name": "Satrix DIVI Plus Portfolio",
-    "volume": "1087605.0",
-    "price": 2.76,
-    "change": -0.03
+    "volume": "1088043.0",
+    "price": 2.75,
+    "change": -0.04
   },
   {
     "ticker": "STXEME",
     "name": "Satrix MSCI EM ESG ETF",
-    "volume": "1145.0",
-    "price": 66.85,
-    "change": -0.09
+    "volume": "1540.0",
+    "price": 66.65,
+    "change": -0.29
   },
   {
     "ticker": "STXEMG",
     "name": "Satrix MSCI EMG Markets",
-    "volume": "12642.0",
-    "price": 77.27,
-    "change": -0.03
+    "volume": "37490.0",
+    "price": 77.13,
+    "change": -0.17
   },
   {
     "ticker": "STXESG",
     "name": "Satrix MSCI World ESG ETF",
-    "volume": "39733.0",
-    "price": 93.93,
-    "change": -0.36
+    "volume": "39891.0",
+    "price": 94.41,
+    "change": 0.12
   },
   {
     "ticker": "STXFIN",
@@ -2480,9 +2480,9 @@
   {
     "ticker": "STXGOV",
     "name": "Satrix SA Bond Portfolio",
-    "volume": "497131.0",
-    "price": 9.09,
-    "change": -0.04
+    "volume": "687817.0",
+    "price": 9.15,
+    "change": 0.02
   },
   {
     "ticker": "STXGVI",
@@ -2515,128 +2515,128 @@
   {
     "ticker": "STXILB",
     "name": "Satrix ILBI Portfolio",
-    "volume": "126.0",
-    "price": 8.35,
-    "change": -0.06
+    "volume": "240427.0",
+    "price": 8.46,
+    "change": 0.05
   },
   {
     "ticker": "STXIND",
     "name": "Satrix INDI Portfolio",
-    "volume": "1918.0",
-    "price": 138.89,
-    "change": -0.09
+    "volume": "13582.0",
+    "price": 137.64,
+    "change": -1.34
   },
   {
     "ticker": "STXJGE",
     "name": "Satrix JSE Global Equity ETF",
-    "volume": "707.0",
-    "price": 91.87,
-    "change": -0.18
+    "volume": "10833.0",
+    "price": 90.89,
+    "change": -1.16
   },
   {
     "ticker": "STXLVL",
     "name": "Satrix Low Volume ETF",
-    "volume": "",
-    "price": 14.46,
-    "change": NaN
+    "volume": "81.0",
+    "price": 14.26,
+    "change": -0.2
   },
   {
     "ticker": "STXMMT",
     "name": "Satrix Momentum Portfolio",
-    "volume": "3071.0",
-    "price": 18.19,
-    "change": -0.06
+    "volume": "3759.0",
+    "price": 17.96,
+    "change": -0.29
   },
   {
     "ticker": "STXNAM",
     "name": "Satrix Namibia Bond ETF",
-    "volume": "",
-    "price": 24.81,
-    "change": NaN
+    "volume": "4903.0",
+    "price": 24.94,
+    "change": 0.13
   },
   {
     "ticker": "STXNDA",
     "name": "Satrix MSCI India Feeder ETF",
-    "volume": "3741.0",
-    "price": 83.55,
-    "change": -0.98
+    "volume": "5836.0",
+    "price": 85.4,
+    "change": 0.87
   },
   {
     "ticker": "STXNDQ",
     "name": "Satrix Nasdaq 100 Prtf",
-    "volume": "33581.0",
-    "price": 254.94,
-    "change": -1.34
+    "volume": "49787.0",
+    "price": 253.65,
+    "change": -2.63
   },
   {
     "ticker": "STXPRO",
     "name": "Satrix Property Portfolio",
-    "volume": "34862.0",
-    "price": 13.36,
-    "change": 0.08
+    "volume": "52877.0",
+    "price": 13.22,
+    "change": -0.06
   },
   {
     "ticker": "STXQUA",
     "name": "Satrix Quality SA Port",
-    "volume": "6054.0",
-    "price": 10.97,
-    "change": -0.01
+    "volume": "11312.0",
+    "price": 10.81,
+    "change": -0.17
   },
   {
     "ticker": "STXRAF",
     "name": "Satrix RAFI 40 Portfolio",
-    "volume": "6957.0",
-    "price": 31.64,
-    "change": -0.2
+    "volume": "35699.0",
+    "price": 31.31,
+    "change": -0.53
   },
   {
     "ticker": "STXRES",
     "name": "Satrix RESI ETF Portfolio",
-    "volume": "4504.0",
-    "price": 107.03,
-    "change": -2.51
+    "volume": "13129.0",
+    "price": 106.33,
+    "change": -3.21
   },
   {
     "ticker": "STXSHA",
     "name": "Satrix Shariah Top 40 ETF",
-    "volume": "449.0",
-    "price": 5.5,
-    "change": -0.05
+    "volume": "25984.0",
+    "price": 5.43,
+    "change": -0.12
   },
   {
     "ticker": "STXSWX",
     "name": "Satrix SWIX Top 40 Portfolio",
-    "volume": "8034.0",
-    "price": 18.94,
-    "change": -0.07
+    "volume": "28683.0",
+    "price": 18.73,
+    "change": -0.28
   },
   {
     "ticker": "STXTRA",
     "name": "Satrix Traci 3-Month ETF",
-    "volume": "950.0",
-    "price": 37.46,
-    "change": 0.04
+    "volume": "3273.0",
+    "price": 37.5,
+    "change": 0.08
   },
   {
     "ticker": "STXVEQ",
     "name": "Satrix Value Equity ETF",
-    "volume": "54.0",
-    "price": 18.3,
-    "change": -0.04
+    "volume": "1380.0",
+    "price": 18.1,
+    "change": -0.24
   },
   {
     "ticker": "STXWDM",
     "name": "Satrix MSCI World Feeder",
-    "volume": "31700.0",
-    "price": 111.03,
-    "change": -0.4
+    "volume": "116123.0",
+    "price": 110.6,
+    "change": -0.83
   },
   {
     "ticker": "STXWIS",
     "name": "Satrix MSCI World Islamic Feeder ETF",
-    "volume": "130.0",
-    "price": 49.79,
-    "change": -0.14
+    "volume": "471.0",
+    "price": 49.84,
+    "change": -0.09
   },
   {
     "ticker": "SUI",
@@ -2662,9 +2662,9 @@
   {
     "ticker": "SYFANG",
     "name": "Sygnia Itrix FANG.AI Actively Managed ETF",
-    "volume": "17552.0",
-    "price": 20.09,
-    "change": -0.17
+    "volume": "135147.0",
+    "price": 20.18,
+    "change": -0.08
   },
   {
     "ticker": "SYG",
@@ -2676,93 +2676,93 @@
   {
     "ticker": "SYG4IR",
     "name": "Sygnia Itrix 4th IR Global Equity ETF",
-    "volume": "39432.0",
-    "price": 60.21,
-    "change": -0.31
+    "volume": "39436.0",
+    "price": 60.1,
+    "change": -0.42
   },
   {
     "ticker": "SYG500",
     "name": "Sygnia Itrix S&P 500 ETF",
-    "volume": "6145.0",
-    "price": 119.51,
-    "change": -0.24
+    "volume": "61013.0",
+    "price": 119.87,
+    "change": 0.12
   },
   {
     "ticker": "SYGCN",
     "name": "Sygnia Itrix New China Sectors ETF",
-    "volume": "94.0",
-    "price": 37.89,
-    "change": 0.01
+    "volume": "5322.0",
+    "price": 37.74,
+    "change": -0.14
   },
   {
     "ticker": "SYGEMF",
     "name": "Sygnia Itrix MSCI EM 50 ETF",
-    "volume": "3258.0",
-    "price": 25.15,
-    "change": -0.11
+    "volume": "33941.0",
+    "price": 25.07,
+    "change": -0.19
   },
   {
     "ticker": "SYGESG",
     "name": "Sygnia Itrix S&P Global 1200 ESG ETF",
-    "volume": "",
-    "price": 63.42,
-    "change": NaN
+    "volume": "20843.0",
+    "price": 63.38,
+    "change": -0.04
   },
   {
     "ticker": "SYGEU",
     "name": "Sygnia Itrix EURO STOXX 50 ETF",
-    "volume": "2379.0",
-    "price": 114.85,
-    "change": -0.01
+    "volume": "10668.0",
+    "price": 114.24,
+    "change": -0.62
   },
   {
     "ticker": "SYGH",
     "name": "Sygnia Itrix SOL H150 ETF",
-    "volume": "",
-    "price": 29.68,
-    "change": NaN
+    "volume": "13496.0",
+    "price": 29.54,
+    "change": -0.14
   },
   {
     "ticker": "SYGJP",
     "name": "Sygnia Itrix MSCI Japan ETF",
-    "volume": "11099.0",
-    "price": 23.33,
-    "change": 0.12
+    "volume": "28231.0",
+    "price": 23.32,
+    "change": 0.11
   },
   {
     "ticker": "SYGP",
     "name": "Sygnia Itrix Global Property ETF",
-    "volume": "",
-    "price": 48.76,
-    "change": NaN
+    "volume": "6125.0",
+    "price": 49.39,
+    "change": 0.63
   },
   {
     "ticker": "SYGT40",
     "name": "Sygnia Itrix Top 40 ETF",
-    "volume": "447.0",
-    "price": 101.59,
-    "change": -1.28
+    "volume": "8751.0",
+    "price": 101.13,
+    "change": -1.74
   },
   {
     "ticker": "SYGUK",
     "name": "Sygnia Itrix FTSE 100 ETF",
-    "volume": "741.0",
+    "volume": "3276.0",
     "price": 219.8,
     "change": -1.19
   },
   {
     "ticker": "SYGUS",
     "name": "Sygnia Itrix MSCI US ETF",
-    "volume": "2655.0",
-    "price": 111.74,
-    "change": 0.23
+    "volume": "12144.0",
+    "price": 111.56,
+    "change": 0.05
   },
   {
     "ticker": "SYGWD",
     "name": "Sygnia Itrix MSCI World Index ETF",
-    "volume": "6732.0",
-    "price": 75.7,
-    "change": -0.26
+    "volume": "62045.0",
+    "price": 76.14,
+    "change": 0.18
   },
   {
     "ticker": "SZK",
@@ -2781,9 +2781,9 @@
   {
     "ticker": "TBIMAI",
     "name": "TBI Global Multi-Asset Income Fund",
-    "volume": "",
-    "price": 100.96,
-    "change": NaN
+    "volume": "3.0",
+    "price": 101.32,
+    "change": 0.36
   },
   {
     "ticker": "TBS",
@@ -2984,9 +2984,9 @@
   {
     "ticker": "WTOP20",
     "name": "10X Wealth Top 20 Capped ETF",
-    "volume": "696061.0",
-    "price": 14.48,
-    "change": -0.23
+    "volume": "696404.0",
+    "price": 14.5,
+    "change": -0.21
   },
   {
     "ticker": "WVR",
