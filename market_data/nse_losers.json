@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "SLAM",
-    "price": 8.22,
-    "change": "-5.95%"
+    "ticker": "BKG",
+    "price": 39.0,
+    "change": "-7.69%"
   },
   {
     "ticker": "GLD",
     "price": 4815.0,
     "change": "-5.40%"
-  },
-  {
-    "ticker": "DTK",
-    "price": 110.5,
-    "change": "-2.00%"
   },
   {
     "ticker": "EGAD",
@@ -28,5 +23,10 @@
     "ticker": "SCOM",
     "price": 29.95,
     "change": "-1.80%"
+  },
+  {
+    "ticker": "SKL",
+    "price": 8.0,
+    "change": "-1.72%"
   }
 ]
