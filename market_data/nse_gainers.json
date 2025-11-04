@@ -5,14 +5,19 @@
     "change": "+9.90%"
   },
   {
-    "ticker": "NSE",
-    "price": 19.45,
-    "change": "+9.89%"
-  },
-  {
     "ticker": "CRWN",
     "price": 59.5,
     "change": "+9.68%"
+  },
+  {
+    "ticker": "NSE",
+    "price": 19.3,
+    "change": "+9.04%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 0.38,
+    "change": "+5.56%"
   },
   {
     "ticker": "UNGA",
@@ -20,13 +25,8 @@
     "change": "+5.49%"
   },
   {
-    "ticker": "XPRS",
-    "price": 7.32,
-    "change": "+4.57%"
-  },
-  {
-    "ticker": "SCAN",
-    "price": 2.89,
-    "change": "+3.96%"
+    "ticker": "CIC",
+    "price": 4.75,
+    "change": "+4.86%"
   }
 ]
