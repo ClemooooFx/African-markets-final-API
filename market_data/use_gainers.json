@@ -1,32 +1,32 @@
 [
   {
     "ticker": "EBL",
-    "price": 1708.79,
-    "change": "+4.96%"
+    "price": 1782.79,
+    "change": "+4.33%"
+  },
+  {
+    "ticker": "QCIL",
+    "price": 119.19,
+    "change": "+2.87%"
   },
   {
     "ticker": "KCB",
-    "price": 1634.78,
-    "change": "+1.67%"
+    "price": 1654.97,
+    "change": "+1.24%"
+  },
+  {
+    "ticker": "MTNU",
+    "price": 296.07,
+    "change": "+0.36%"
   },
   {
     "ticker": "JHL",
-    "price": 8591.02,
-    "change": "+1.35%"
+    "price": 8611.2,
+    "change": "+0.23%"
   },
   {
     "ticker": "EABL",
-    "price": 6222.94,
-    "change": "+1.31%"
-  },
-  {
-    "ticker": "CENT",
-    "price": 395.58,
-    "change": "+0.68%"
-  },
-  {
-    "ticker": "NMG",
-    "price": 364.63,
-    "change": "+0.37%"
+    "price": 6236.39,
+    "change": "+0.22%"
   }
 ]

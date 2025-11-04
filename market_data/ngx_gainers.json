@@ -5,11 +5,6 @@
     "change": "+10.00%"
   },
   {
-    "ticker": "LEGENDINT",
-    "price": 5.78,
-    "change": "+9.89%"
-  },
-  {
     "ticker": "HONYFLOUR",
     "price": 19.75,
     "change": "+9.72%"
@@ -28,5 +23,10 @@
     "ticker": "LIVINGTRUST",
     "price": 4.14,
     "change": "+3.50%"
+  },
+  {
+    "ticker": "HMCALL",
+    "price": 4.29,
+    "change": "+3.37%"
   }
 ]
