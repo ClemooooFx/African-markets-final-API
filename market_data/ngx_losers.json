@@ -15,11 +15,6 @@
     "change": "-9.99%"
   },
   {
-    "ticker": "UPDC",
-    "price": 5.54,
-    "change": "-9.92%"
-  },
-  {
     "ticker": "LEARNAFRCA",
     "price": 5.85,
     "change": "-9.86%"
@@ -28,5 +23,10 @@
     "ticker": "NEM",
     "price": 28.0,
     "change": "-8.20%"
+  },
+  {
+    "ticker": "INTENEGINS",
+    "price": 2.7,
+    "change": "-8.16%"
   }
 ]

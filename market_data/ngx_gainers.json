@@ -5,6 +5,11 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "LEGENDINT",
+    "price": 5.78,
+    "change": "+9.89%"
+  },
+  {
     "ticker": "HONYFLOUR",
     "price": 19.75,
     "change": "+9.72%"
@@ -18,11 +23,6 @@
     "ticker": "MCNICHOLS",
     "price": 3.1,
     "change": "+6.53%"
-  },
-  {
-    "ticker": "OMATEK",
-    "price": 1.38,
-    "change": "+3.76%"
   },
   {
     "ticker": "LIVINGTRUST",
