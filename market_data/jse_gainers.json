@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "MCZ",
+    "price": 2.4,
+    "change": "+12.68%"
+  },
+  {
     "ticker": "RNG",
     "price": 0.67,
     "change": "+11.67%"
-  },
-  {
-    "ticker": "MCZ",
-    "price": 2.36,
-    "change": "+10.80%"
   },
   {
     "ticker": "KP2",
@@ -15,9 +15,9 @@
     "change": "+8.45%"
   },
   {
-    "ticker": "MTNZF",
-    "price": 4.3,
-    "change": "+7.50%"
+    "ticker": "AXX",
+    "price": 1.74,
+    "change": "+8.07%"
   },
   {
     "ticker": "4SI",
@@ -25,8 +25,8 @@
     "change": "+7.14%"
   },
   {
-    "ticker": "AXX",
-    "price": 1.69,
-    "change": "+4.97%"
+    "ticker": "MTNZF",
+    "price": 4.25,
+    "change": "+6.25%"
   }
 ]

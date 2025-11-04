@@ -1,13 +1,8 @@
 [
   {
     "ticker": "NSE",
-    "price": 19.4,
-    "change": "+9.60%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 31.5,
-    "change": "+7.51%"
+    "price": 19.35,
+    "change": "+9.32%"
   },
   {
     "ticker": "CIC",
@@ -26,7 +21,12 @@
   },
   {
     "ticker": "FTGH",
-    "price": 1.85,
-    "change": "+5.11%"
+    "price": 1.83,
+    "change": "+3.98%"
+  },
+  {
+    "ticker": "NMG",
+    "price": 13.1,
+    "change": "+2.75%"
   }
 ]
