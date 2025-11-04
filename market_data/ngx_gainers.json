@@ -5,6 +5,11 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "SUNUASSUR",
+    "price": 4.96,
+    "change": "+9.98%"
+  },
+  {
     "ticker": "HONYFLOUR",
     "price": 19.75,
     "change": "+9.72%"
@@ -16,17 +21,12 @@
   },
   {
     "ticker": "MCNICHOLS",
-    "price": 3.1,
-    "change": "+6.53%"
+    "price": 3.05,
+    "change": "+4.81%"
   },
   {
-    "ticker": "LIVINGTRUST",
-    "price": 4.14,
-    "change": "+3.50%"
-  },
-  {
-    "ticker": "HMCALL",
-    "price": 4.29,
-    "change": "+3.37%"
+    "ticker": "TIP",
+    "price": 12.5,
+    "change": "+4.17%"
   }
 ]

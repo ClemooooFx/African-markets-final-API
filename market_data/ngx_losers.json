@@ -10,9 +10,14 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "UPDC",
+    "price": 5.54,
+    "change": "-9.92%"
+  },
+  {
     "ticker": "OANDO",
-    "price": 43.25,
-    "change": "-9.99%"
+    "price": 43.3,
+    "change": "-9.89%"
   },
   {
     "ticker": "LEARNAFRCA",
@@ -23,10 +28,5 @@
     "ticker": "NESTLE",
     "price": 1730.0,
     "change": "-9.66%"
-  },
-  {
-    "ticker": "CUTIX",
-    "price": 3.22,
-    "change": "-8.78%"
   }
 ]
