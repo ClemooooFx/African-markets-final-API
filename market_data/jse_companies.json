@@ -772,9 +772,9 @@
   {
     "ticker": "DSBP",
     "name": "Discovery B Preference Shares",
-    "volume": "",
+    "volume": "120.0",
     "price": 124.37,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "DSY",
@@ -1192,9 +1192,9 @@
   {
     "ticker": "GNDP",
     "name": "Grindrod Ltd Pref",
-    "volume": "",
-    "price": 98.5,
-    "change": NaN
+    "volume": "1000.0",
+    "price": 97.5,
+    "change": -1.0
   },
   {
     "ticker": "GPL",
@@ -1332,9 +1332,9 @@
   {
     "ticker": "INPR",
     "name": "Investec Ltd Preference Shares",
-    "volume": "",
-    "price": 100.5,
-    "change": NaN
+    "volume": "187.0",
+    "price": 101.7,
+    "change": 1.2
   },
   {
     "ticker": "IOC",

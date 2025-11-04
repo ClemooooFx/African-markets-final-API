@@ -1,23 +1,23 @@
 [
   {
-    "ticker": "SOVRENINS",
-    "price": 4.24,
-    "change": "+9.28%"
-  },
-  {
-    "ticker": "JAPAULGOLD",
-    "price": 2.35,
-    "change": "+6.82%"
-  },
-  {
-    "ticker": "OMATEK",
-    "price": 1.42,
-    "change": "+6.77%"
-  },
-  {
     "ticker": "MCNICHOLS",
     "price": 3.1,
     "change": "+6.53%"
+  },
+  {
+    "ticker": "OMATEK",
+    "price": 1.4,
+    "change": "+5.26%"
+  },
+  {
+    "ticker": "SOVRENINS",
+    "price": 4.05,
+    "change": "+4.38%"
+  },
+  {
+    "ticker": "LASACO",
+    "price": 2.75,
+    "change": "+3.77%"
   },
   {
     "ticker": "VERITASKAP",
@@ -25,8 +25,8 @@
     "change": "+3.54%"
   },
   {
-    "ticker": "AIICO",
-    "price": 3.88,
-    "change": "+2.11%"
+    "ticker": "WAPIC",
+    "price": 3.09,
+    "change": "+3.00%"
   }
 ]
