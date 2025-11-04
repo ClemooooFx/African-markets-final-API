@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "NMG",
-    "price": 12.75,
-    "change": "-5.56%"
+    "ticker": "SLAM",
+    "price": 8.3,
+    "change": "-5.03%"
   },
   {
-    "ticker": "UNGA",
-    "price": 23.7,
-    "change": "-3.85%"
+    "ticker": "SGL",
+    "price": 6.0,
+    "change": "-4.46%"
+  },
+  {
+    "ticker": "CGEN",
+    "price": 53.5,
+    "change": "-3.60%"
+  },
+  {
+    "ticker": "EGAD",
+    "price": 20.0,
+    "change": "-1.96%"
   },
   {
     "ticker": "LBTY",
-    "price": 10.35,
-    "change": "-3.72%"
+    "price": 10.25,
+    "change": "-0.97%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.74,
-    "change": "-2.89%"
-  },
-  {
-    "ticker": "NBV",
-    "price": 1.51,
-    "change": "-2.58%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.53,
-    "change": "-2.37%"
+    "ticker": "KAPC",
+    "price": 230.0,
+    "change": "-0.86%"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "SKL",
-    "price": 8.14,
-    "change": "+9.12%"
-  },
-  {
     "ticker": "NSE",
-    "price": 17.7,
-    "change": "+8.92%"
+    "price": 19.45,
+    "change": "+9.89%"
   },
   {
     "ticker": "CRWN",
-    "price": 54.25,
-    "change": "+7.96%"
+    "price": 59.5,
+    "change": "+9.68%"
   },
   {
-    "ticker": "DTK",
-    "price": 112.75,
-    "change": "+7.38%"
+    "ticker": "NMG",
+    "price": 13.75,
+    "change": "+7.84%"
   },
   {
-    "ticker": "CARB",
-    "price": 29.3,
-    "change": "+5.40%"
+    "ticker": "CIC",
+    "price": 4.8,
+    "change": "+5.96%"
   },
   {
-    "ticker": "WTK",
-    "price": 202.25,
-    "change": "+3.72%"
+    "ticker": "UNGA",
+    "price": 25.0,
+    "change": "+5.49%"
+  },
+  {
+    "ticker": "XPRS",
+    "price": 7.36,
+    "change": "+5.14%"
   }
 ]
