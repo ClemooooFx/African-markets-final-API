@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "BKG",
-    "price": 39.0,
-    "change": "-7.69%"
-  },
-  {
     "ticker": "GLD",
     "price": 4815.0,
     "change": "-5.40%"
+  },
+  {
+    "ticker": "SCOM",
+    "price": 29.8,
+    "change": "-2.30%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.7,
+    "change": "-2.28%"
   },
   {
     "ticker": "EGAD",
@@ -18,11 +23,6 @@
     "ticker": "TPSE",
     "price": 16.0,
     "change": "-1.84%"
-  },
-  {
-    "ticker": "SCOM",
-    "price": 29.95,
-    "change": "-1.80%"
   },
   {
     "ticker": "HAFR",
