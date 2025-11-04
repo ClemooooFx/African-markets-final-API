@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CARB",
+    "price": 32.2,
+    "change": "+9.90%"
+  },
+  {
     "ticker": "NSE",
     "price": 19.45,
     "change": "+9.89%"
@@ -15,18 +20,13 @@
     "change": "+5.49%"
   },
   {
-    "ticker": "CIC",
-    "price": 4.75,
-    "change": "+4.86%"
-  },
-  {
     "ticker": "XPRS",
     "price": 7.32,
     "change": "+4.57%"
   },
   {
-    "ticker": "FTGH",
-    "price": 1.84,
-    "change": "+4.55%"
+    "ticker": "SCAN",
+    "price": 2.89,
+    "change": "+3.96%"
   }
 ]

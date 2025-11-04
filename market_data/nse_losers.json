@@ -1,8 +1,13 @@
 [
   {
+    "ticker": "TPSE",
+    "price": 15.0,
+    "change": "-7.98%"
+  },
+  {
     "ticker": "GLD",
-    "price": 4800.0,
-    "change": "-5.70%"
+    "price": 4815.0,
+    "change": "-5.40%"
   },
   {
     "ticker": "SLAM",
@@ -15,18 +20,13 @@
     "change": "-4.46%"
   },
   {
+    "ticker": "DTK",
+    "price": 108.0,
+    "change": "-4.21%"
+  },
+  {
     "ticker": "CGEN",
     "price": 53.5,
     "change": "-3.60%"
-  },
-  {
-    "ticker": "ABSA",
-    "price": 22.8,
-    "change": "-2.56%"
-  },
-  {
-    "ticker": "EGAD",
-    "price": 20.0,
-    "change": "-1.96%"
   }
 ]
