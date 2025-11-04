@@ -5,6 +5,11 @@
     "change": "-14.29%"
   },
   {
+    "ticker": "LAB",
+    "price": 0.06,
+    "change": "-14.29%"
+  },
+  {
     "ticker": "ACS",
     "price": 7.15,
     "change": "-10.62%"
@@ -15,18 +20,13 @@
     "change": "-6.58%"
   },
   {
-    "ticker": "MKR",
-    "price": 34.51,
-    "change": "-6.25%"
+    "ticker": "NPH",
+    "price": 271.0,
+    "change": "-6.55%"
   },
   {
     "ticker": "FGL",
     "price": 1.08,
     "change": "-5.26%"
-  },
-  {
-    "ticker": "NPH",
-    "price": 275.91,
-    "change": "-4.86%"
   }
 ]

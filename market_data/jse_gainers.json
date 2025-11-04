@@ -1,18 +1,8 @@
 [
   {
-    "ticker": "MCZ",
-    "price": 2.5,
-    "change": "+17.37%"
-  },
-  {
     "ticker": "ETFPLD",
     "price": 274.0,
     "change": "+12.89%"
-  },
-  {
-    "ticker": "KP2",
-    "price": 0.8,
-    "change": "+12.68%"
   },
   {
     "ticker": "RNG",
@@ -20,9 +10,19 @@
     "change": "+11.67%"
   },
   {
+    "ticker": "MCZ",
+    "price": 2.36,
+    "change": "+10.80%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.77,
+    "change": "+8.45%"
+  },
+  {
     "ticker": "MTNZF",
-    "price": 4.45,
-    "change": "+11.25%"
+    "price": 4.3,
+    "change": "+7.50%"
   },
   {
     "ticker": "4SI",

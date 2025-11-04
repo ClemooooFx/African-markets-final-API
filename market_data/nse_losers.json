@@ -5,11 +5,6 @@
     "change": "-6.02%"
   },
   {
-    "ticker": "GLD",
-    "price": 4815.0,
-    "change": "-5.40%"
-  },
-  {
     "ticker": "DTK",
     "price": 109.25,
     "change": "-3.10%"
@@ -21,12 +16,17 @@
   },
   {
     "ticker": "SCOM",
-    "price": 29.95,
-    "change": "-1.80%"
+    "price": 29.75,
+    "change": "-2.46%"
   },
   {
-    "ticker": "SGL",
-    "price": 6.2,
-    "change": "-1.27%"
+    "ticker": "HFCK",
+    "price": 10.7,
+    "change": "-2.28%"
+  },
+  {
+    "ticker": "XPRS",
+    "price": 6.9,
+    "change": "-1.43%"
   }
 ]

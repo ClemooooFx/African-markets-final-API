@@ -1,27 +1,12 @@
 [
   {
     "ticker": "CAL",
-    "price": 0.45,
-    "change": "-8.16%"
+    "price": 0.42,
+    "change": "-6.67%"
   },
   {
     "ticker": "MTNGH",
-    "price": 4.16,
-    "change": "-0.95%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "price": 4.1,
+    "change": "-1.44%"
   }
 ]
