@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "WTK",
-    "price": 181.5,
-    "change": "-9.93%"
-  },
-  {
     "ticker": "XPRS",
     "price": 6.5,
     "change": "-9.72%"
   },
   {
-    "ticker": "GLD",
-    "price": 4750.0,
-    "change": "-4.33%"
+    "ticker": "WTK",
+    "price": 182.0,
+    "change": "-9.68%"
   },
   {
     "ticker": "LKL",
@@ -20,13 +15,18 @@
     "change": "-4.03%"
   },
   {
-    "ticker": "KPLC",
-    "price": 14.05,
-    "change": "-1.75%"
+    "ticker": "TOTL",
+    "price": 44.0,
+    "change": "-2.76%"
   },
   {
-    "ticker": "BAT",
-    "price": 440.0,
-    "change": "-1.18%"
+    "ticker": "CARB",
+    "price": 30.0,
+    "change": "-2.44%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.32,
+    "change": "-2.22%"
   }
 ]
