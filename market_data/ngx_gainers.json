@@ -1,32 +1,22 @@
 [
   {
-    "ticker": "EUNISELL",
-    "price": 64.9,
-    "change": "+10.00%"
+    "ticker": "GTCO",
+    "price": 86.9,
+    "change": "+2.06%"
   },
   {
-    "ticker": "SUNUASSUR",
-    "price": 4.96,
-    "change": "+9.98%"
+    "ticker": "NIDF",
+    "price": 115.0,
+    "change": "+1.77%"
   },
   {
-    "ticker": "HONYFLOUR",
-    "price": 19.75,
-    "change": "+9.72%"
+    "ticker": "UPL",
+    "price": 5.05,
+    "change": "+1.00%"
   },
   {
-    "ticker": "LIVESTOCK",
-    "price": 7.4,
-    "change": "+7.25%"
-  },
-  {
-    "ticker": "TIP",
-    "price": 12.5,
-    "change": "+4.17%"
-  },
-  {
-    "ticker": "LIVINGTRUST",
-    "price": 4.14,
-    "change": "+3.50%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

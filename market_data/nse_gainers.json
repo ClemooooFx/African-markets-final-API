@@ -6,8 +6,8 @@
   },
   {
     "ticker": "CTUM",
-    "price": 15.5,
-    "change": "+6.16%"
+    "price": 15.45,
+    "change": "+5.82%"
   },
   {
     "ticker": "SCAN",
@@ -15,18 +15,18 @@
     "change": "+3.58%"
   },
   {
+    "ticker": "GLD",
+    "price": 5125.0,
+    "change": "+3.22%"
+  },
+  {
     "ticker": "EABL",
     "price": 239.0,
     "change": "+3.02%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.38,
-    "change": "+2.70%"
-  },
-  {
-    "ticker": "DTK",
-    "price": 115.0,
-    "change": "+2.68%"
+    "ticker": "EQTY",
+    "price": 70.0,
+    "change": "+2.94%"
   }
 ]

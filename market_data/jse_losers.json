@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "OAO",
+    "price": 0.15,
+    "change": "-16.67%"
+  },
+  {
     "ticker": "4SI",
     "price": 0.68,
     "change": "-5.56%"
@@ -23,10 +28,5 @@
     "ticker": "EASYGE",
     "price": 15.0,
     "change": "-3.54%"
-  },
-  {
-    "ticker": "SKA",
-    "price": 1.45,
-    "change": "-3.33%"
   }
 ]
