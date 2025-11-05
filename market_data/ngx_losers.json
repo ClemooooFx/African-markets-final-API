@@ -1,22 +1,32 @@
 [
   {
+    "ticker": "BETAGLAS",
+    "price": 393.7,
+    "change": "-9.99%"
+  },
+  {
+    "ticker": "HMCALL",
+    "price": 3.9,
+    "change": "-9.09%"
+  },
+  {
     "ticker": "WEMABANK",
-    "price": 18.55,
-    "change": "-9.29%"
+    "price": 19.6,
+    "change": "-4.16%"
+  },
+  {
+    "ticker": "CUTIX",
+    "price": 3.1,
+    "change": "-3.73%"
+  },
+  {
+    "ticker": "AFRIPRUD",
+    "price": 14.35,
+    "change": "-2.38%"
   },
   {
     "ticker": "CHAMS",
-    "price": 3.15,
-    "change": "-4.55%"
-  },
-  {
-    "ticker": "ASOSAVINGS",
-    "price": 1.03,
-    "change": "-2.83%"
-  },
-  {
-    "ticker": "FCMB",
-    "price": 10.45,
-    "change": "-0.48%"
+    "price": 3.24,
+    "change": "-1.82%"
   }
 ]
