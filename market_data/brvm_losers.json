@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "PALC",
-    "price": 7725.0,
-    "change": "-7.49%"
-  },
-  {
-    "ticker": "NTLC",
-    "price": 13055.0,
-    "change": "-7.48%"
-  },
-  {
-    "ticker": "FTSC",
-    "price": 2225.0,
+    "ticker": "CFAC",
+    "price": 1980.0,
     "change": "-7.48%"
   },
   {
     "ticker": "BNBC",
-    "price": 1805.0,
+    "price": 1670.0,
+    "change": "-7.48%"
+  },
+  {
+    "ticker": "NTLC",
+    "price": 12080.0,
+    "change": "-7.47%"
+  },
+  {
+    "ticker": "SAFC",
+    "price": 2855.0,
+    "change": "-7.46%"
+  },
+  {
+    "ticker": "PALC",
+    "price": 7150.0,
     "change": "-7.44%"
   },
   {
-    "ticker": "PRSC",
-    "price": 4055.0,
+    "ticker": "FTSC",
+    "price": 2060.0,
     "change": "-7.42%"
-  },
-  {
-    "ticker": "BOAM",
-    "price": 3440.0,
-    "change": "-7.40%"
   }
 ]

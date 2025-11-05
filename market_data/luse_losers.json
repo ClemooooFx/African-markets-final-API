@@ -1,32 +1,22 @@
 [
   {
-    "ticker": "ATEL",
-    "price": 138.99,
-    "change": "-0.71%"
-  },
-  {
     "ticker": "PUMA",
-    "price": 4.31,
-    "change": "-0.69%"
-  },
-  {
-    "ticker": "CECZ",
-    "price": 22.85,
-    "change": "-0.17%"
+    "price": 4.3,
+    "change": "-0.23%"
   },
   {
     "ticker": "ZNCO",
-    "price": 6.09,
+    "price": 6.08,
     "change": "-0.16%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "CECZ",
+    "price": 22.84,
+    "change": "-0.04%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "ZMFA",
+    "price": 65.99,
+    "change": "-0.02%"
   }
 ]

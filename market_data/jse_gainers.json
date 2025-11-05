@@ -1,23 +1,23 @@
 [
   {
+    "ticker": "SKA",
+    "price": 1.5,
+    "change": "+13.64%"
+  },
+  {
     "ticker": "RNG",
     "price": 0.68,
     "change": "+13.33%"
   },
   {
-    "ticker": "MCZ",
-    "price": 2.4,
-    "change": "+12.68%"
-  },
-  {
-    "ticker": "KP2",
-    "price": 0.77,
-    "change": "+8.45%"
+    "ticker": "ISA",
+    "price": 2.15,
+    "change": "+10.26%"
   },
   {
     "ticker": "AXX",
-    "price": 1.72,
-    "change": "+6.83%"
+    "price": 1.76,
+    "change": "+9.32%"
   },
   {
     "ticker": "MTNZF",

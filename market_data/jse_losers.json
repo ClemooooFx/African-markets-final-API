@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "EUZ",
-    "price": 0.3,
-    "change": "-38.78%"
+    "ticker": "VIS",
+    "price": 0.03,
+    "change": "-40.00%"
+  },
+  {
+    "ticker": "LAB",
+    "price": 0.05,
+    "change": "-28.57%"
   },
   {
     "ticker": "TEX",
@@ -10,23 +15,18 @@
     "change": "-19.70%"
   },
   {
+    "ticker": "ACT",
+    "price": 1.35,
+    "change": "-11.18%"
+  },
+  {
     "ticker": "ACS",
     "price": 7.15,
     "change": "-10.62%"
   },
   {
-    "ticker": "OAO",
-    "price": 0.18,
-    "change": "-10.00%"
-  },
-  {
-    "ticker": "BIK",
-    "price": 0.12,
-    "change": "-7.69%"
-  },
-  {
-    "ticker": "ENX",
-    "price": 3.82,
-    "change": "-7.06%"
+    "ticker": "ISO",
+    "price": 153.36,
+    "change": "-10.58%"
   }
 ]
