@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "TRANSCORP",
+    "price": 45.0,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "CILEASING",
     "price": 5.58,
     "change": "-10.00%"
@@ -21,12 +26,7 @@
   },
   {
     "ticker": "SOVRENINS",
-    "price": 3.34,
-    "change": "-9.49%"
-  },
-  {
-    "ticker": "STERLINGNG",
-    "price": 7.25,
-    "change": "-9.38%"
+    "price": 3.33,
+    "change": "-9.76%"
   }
 ]
