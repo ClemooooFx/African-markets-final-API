@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "SLAM",
-    "price": 8.88,
-    "change": "+6.99%"
+    "ticker": "UCHM",
+    "price": 0.39,
+    "change": "+5.41%"
   },
   {
     "ticker": "HAFR",
-    "price": 1.2,
-    "change": "+6.19%"
+    "price": 1.18,
+    "change": "+4.42%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.6,
+    "change": "+3.61%"
   },
   {
     "ticker": "DTK",
@@ -15,18 +20,13 @@
     "change": "+3.57%"
   },
   {
+    "ticker": "EABL",
+    "price": 240.0,
+    "change": "+3.45%"
+  },
+  {
     "ticker": "CTUM",
     "price": 15.1,
     "change": "+3.42%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 64.0,
-    "change": "+3.23%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5120.0,
-    "change": "+3.12%"
   }
 ]

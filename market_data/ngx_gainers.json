@@ -1,8 +1,18 @@
 [
   {
-    "ticker": "NSLTECH",
-    "price": 0.84,
-    "change": "+2.44%"
+    "ticker": "CORNERST",
+    "price": 6.18,
+    "change": "+8.80%"
+  },
+  {
+    "ticker": "CONHALLPLC",
+    "price": 4.5,
+    "change": "+2.27%"
+  },
+  {
+    "ticker": "GTCO",
+    "price": 87.0,
+    "change": "+2.17%"
   },
   {
     "ticker": "NIDF",
@@ -10,23 +20,13 @@
     "change": "+1.77%"
   },
   {
-    "ticker": "GTCO",
-    "price": 86.0,
-    "change": "+1.00%"
+    "ticker": "UBA",
+    "price": 40.0,
+    "change": "+1.27%"
   },
   {
     "ticker": "UPL",
     "price": 5.05,
     "change": "+1.00%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]

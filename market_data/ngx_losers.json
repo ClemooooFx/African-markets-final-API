@@ -5,9 +5,19 @@
     "change": "-9.99%"
   },
   {
+    "ticker": "UPDC",
+    "price": 5.03,
+    "change": "-9.21%"
+  },
+  {
     "ticker": "HMCALL",
     "price": 3.9,
     "change": "-9.09%"
+  },
+  {
+    "ticker": "SOVRENINS",
+    "price": 3.51,
+    "change": "-4.88%"
   },
   {
     "ticker": "WEMABANK",
@@ -15,18 +25,8 @@
     "change": "-4.16%"
   },
   {
-    "ticker": "CUTIX",
-    "price": 3.1,
-    "change": "-3.73%"
-  },
-  {
-    "ticker": "AFRIPRUD",
-    "price": 14.35,
-    "change": "-2.38%"
-  },
-  {
-    "ticker": "CHAMS",
-    "price": 3.24,
-    "change": "-1.82%"
+    "ticker": "TANTALIZER",
+    "price": 2.2,
+    "change": "-3.93%"
   }
 ]

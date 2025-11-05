@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "1341.0",
+    "volume": "11.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "103.0",
+    "volume": "30.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -51,22 +51,22 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "502.0",
+    "volume": "",
     "price": 41.55,
-    "change": 2.55
+    "change": NaN
   },
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "273577.0",
-    "price": 0.42,
-    "change": -0.03
+    "volume": "28400.0",
+    "price": 0.4,
+    "change": -0.02
   },
   {
     "ticker": "CLYD",
     "name": "Clydestone Ghana Limited",
     "volume": "2000.0",
-    "price": 0.33,
+    "price": 0.36,
     "change": 0.03
   },
   {
@@ -107,51 +107,51 @@
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "102.0",
+    "volume": "",
     "price": 3.45,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "30043.0",
+    "volume": "1729.0",
     "price": 0.99,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "190.0",
+    "volume": "60.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "3150.0",
+    "volume": "",
     "price": 17.8,
-    "change": 0.3
+    "change": NaN
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "9148.0",
+    "volume": "",
     "price": 6.6,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "16.0",
+    "volume": "",
     "price": 450.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "202.0",
+    "volume": "",
     "price": 2.61,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "HORDS",
@@ -163,16 +163,16 @@
   {
     "ticker": "IIL",
     "name": "Intravenous Infusions Limited",
-    "volume": "19940.0",
+    "volume": "",
     "price": 0.05,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MAC",
     "name": "Mega African Capital Limited",
-    "volume": "188.0",
+    "volume": "",
     "price": 5.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MMH",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "125776.0",
+    "volume": "409.0",
     "price": 4.05,
-    "change": -0.11
+    "change": 0.0
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "6653.0",
+    "volume": "892.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -212,9 +212,9 @@
   {
     "ticker": "SCB",
     "name": "Standard Chartered Bank Limited",
-    "volume": "4.0",
+    "volume": "",
     "price": 29.11,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SCBPREF",
@@ -226,16 +226,16 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "29349.0",
+    "volume": "",
     "price": 1.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "2050.0",
+    "volume": "2705.0",
     "price": 4.1,
-    "change": 0.36
+    "change": 0.0
   },
   {
     "ticker": "TBL",
@@ -247,22 +247,22 @@
   {
     "ticker": "TLW",
     "name": "Tullow Oil Plc",
-    "volume": "10.0",
+    "volume": "",
     "price": 11.92,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "956.0",
+    "volume": "5.0",
     "price": 40.5,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "815.0",
+    "volume": "",
     "price": 19.79,
-    "change": 0.0
+    "change": NaN
   }
 ]
