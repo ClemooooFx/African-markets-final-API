@@ -674,23 +674,23 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "207128.0",
-    "price": 11.6,
-    "change": 0.06
+    "volume": "207130.0",
+    "price": 11.59,
+    "change": 0.05
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "4705.0",
+    "volume": "4780.0",
     "price": 118.56,
     "change": 0.34
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "6041.0",
-    "price": 15.48,
-    "change": 0.03
+    "volume": "9114.0",
+    "price": 15.43,
+    "change": -0.02
   },
   {
     "ticker": "CSYSB",
@@ -702,9 +702,9 @@
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "37609.0",
-    "price": 42.38,
-    "change": 0.34
+    "volume": "40315.0",
+    "price": 42.21,
+    "change": 0.17
   },
   {
     "ticker": "CVW",
@@ -1157,16 +1157,16 @@
   {
     "ticker": "GLOBAL",
     "name": "10X Total World Stock Feeder ETF",
-    "volume": "405974.0",
-    "price": 17.44,
-    "change": -0.08
+    "volume": "426031.0",
+    "price": 17.45,
+    "change": -0.07
   },
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "29890.0",
-    "price": 19.83,
-    "change": 0.0
+    "volume": "49890.0",
+    "price": 20.0,
+    "change": 0.17
   },
   {
     "ticker": "GLPROP",
