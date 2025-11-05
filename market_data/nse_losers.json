@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "WTK",
+    "price": 181.5,
+    "change": "-9.93%"
+  },
+  {
     "ticker": "XPRS",
     "price": 6.5,
     "change": "-9.72%"
   },
   {
-    "ticker": "WTK",
-    "price": 193.0,
-    "change": "-4.22%"
+    "ticker": "GLD",
+    "price": 4750.0,
+    "change": "-4.33%"
   },
   {
     "ticker": "LKL",
@@ -15,18 +20,13 @@
     "change": "-4.03%"
   },
   {
-    "ticker": "UMME",
-    "price": 7.84,
-    "change": "-1.26%"
+    "ticker": "KPLC",
+    "price": 14.05,
+    "change": "-1.75%"
   },
   {
     "ticker": "BAT",
     "price": 440.0,
     "change": "-1.18%"
-  },
-  {
-    "ticker": "KQ",
-    "price": 3.79,
-    "change": "-1.04%"
   }
 ]

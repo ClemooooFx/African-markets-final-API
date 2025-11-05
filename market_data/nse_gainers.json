@@ -1,18 +1,8 @@
 [
   {
     "ticker": "SLAM",
-    "price": 8.88,
-    "change": "+6.99%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5190.0,
-    "change": "+4.53%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 15.2,
-    "change": "+4.11%"
+    "price": 8.86,
+    "change": "+6.75%"
   },
   {
     "ticker": "SCAN",
@@ -20,13 +10,23 @@
     "change": "+3.58%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.58,
-    "change": "+2.60%"
+    "ticker": "CTUM",
+    "price": 15.0,
+    "change": "+2.74%"
+  },
+  {
+    "ticker": "EQTY",
+    "price": 69.5,
+    "change": "+2.21%"
   },
   {
     "ticker": "CIC",
     "price": 4.79,
     "change": "+2.13%"
+  },
+  {
+    "ticker": "BRIT",
+    "price": 8.68,
+    "change": "+1.88%"
   }
 ]
