@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "KAPC",
-    "price": 211.75,
-    "change": "-9.99%"
-  },
-  {
     "ticker": "WTK",
     "price": 181.5,
     "change": "-9.93%"
   },
   {
+    "ticker": "NCBA",
+    "price": 82.0,
+    "change": "-7.34%"
+  },
+  {
     "ticker": "TOTL",
-    "price": 43.0,
-    "change": "-4.97%"
+    "price": 43.5,
+    "change": "-3.87%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 4800.0,
+    "change": "-3.32%"
+  },
+  {
+    "ticker": "CARB",
+    "price": 29.8,
+    "change": "-3.09%"
   },
   {
     "ticker": "XPRS",
     "price": 7.0,
     "change": "-2.78%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 30.0,
-    "change": "-2.44%"
-  },
-  {
-    "ticker": "KPLC",
-    "price": 14.0,
-    "change": "-2.10%"
   }
 ]

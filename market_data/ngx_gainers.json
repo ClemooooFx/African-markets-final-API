@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "NCR",
+    "price": 17.6,
+    "change": "+10.00%"
+  },
+  {
+    "ticker": "LEGENDINT",
+    "price": 5.84,
+    "change": "+9.16%"
+  },
+  {
     "ticker": "CORNERST",
     "price": 6.18,
     "change": "+8.80%"
@@ -10,23 +20,13 @@
     "change": "+6.06%"
   },
   {
-    "ticker": "UBA",
-    "price": 40.5,
-    "change": "+2.53%"
+    "ticker": "HONYFLOUR",
+    "price": 20.9,
+    "change": "+5.82%"
   },
   {
-    "ticker": "CONHALLPLC",
-    "price": 4.5,
-    "change": "+2.27%"
-  },
-  {
-    "ticker": "ACCESSCORP",
-    "price": 23.5,
-    "change": "+2.17%"
-  },
-  {
-    "ticker": "NIDF",
-    "price": 115.0,
-    "change": "+1.77%"
+    "ticker": "JAIZBANK",
+    "price": 4.57,
+    "change": "+3.86%"
   }
 ]
