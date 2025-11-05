@@ -10,11 +10,6 @@
     "change": "-9.93%"
   },
   {
-    "ticker": "LKL",
-    "price": 2.86,
-    "change": "-4.03%"
-  },
-  {
     "ticker": "XPRS",
     "price": 7.0,
     "change": "-2.78%"
@@ -28,5 +23,10 @@
     "ticker": "CARB",
     "price": 30.0,
     "change": "-2.44%"
+  },
+  {
+    "ticker": "KPLC",
+    "price": 14.0,
+    "change": "-2.10%"
   }
 ]

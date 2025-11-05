@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "LAB",
+    "price": 0.06,
+    "change": "+20.00%"
+  },
+  {
     "ticker": "ISB",
     "price": 0.8,
     "change": "+15.94%"
   },
   {
-    "ticker": "AME",
-    "price": 44.99,
-    "change": "+7.86%"
+    "ticker": "ANI",
+    "price": 4.93,
+    "change": "+9.56%"
   },
   {
     "ticker": "MCZ",
@@ -15,18 +20,13 @@
     "change": "+7.48%"
   },
   {
-    "ticker": "KP2",
-    "price": 0.78,
-    "change": "+6.85%"
+    "ticker": "HLM",
+    "price": 2.59,
+    "change": "+7.02%"
   },
   {
     "ticker": "SYG",
     "price": 34.99,
     "change": "+6.35%"
-  },
-  {
-    "ticker": "MTNZF",
-    "price": 4.45,
-    "change": "+4.71%"
   }
 ]
