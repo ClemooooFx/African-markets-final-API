@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "SKA",
-    "price": 1.5,
-    "change": "+13.64%"
-  },
-  {
     "ticker": "RNG",
     "price": 0.68,
     "change": "+13.33%"
   },
   {
-    "ticker": "ISA",
-    "price": 2.15,
-    "change": "+10.26%"
+    "ticker": "MCZ",
+    "price": 2.35,
+    "change": "+9.81%"
   },
   {
     "ticker": "AME",
@@ -20,13 +15,18 @@
     "change": "+7.86%"
   },
   {
-    "ticker": "MTNZF",
-    "price": 4.25,
-    "change": "+6.25%"
-  },
-  {
     "ticker": "APF",
     "price": 0.51,
     "change": "+6.25%"
+  },
+  {
+    "ticker": "FNBMID",
+    "price": 10.65,
+    "change": "+4.62%"
+  },
+  {
+    "ticker": "SRI",
+    "price": 19.5,
+    "change": "+4.56%"
   }
 ]

@@ -1,13 +1,8 @@
 [
   {
-    "ticker": "XPRS",
-    "price": 6.5,
-    "change": "-9.72%"
-  },
-  {
     "ticker": "WTK",
-    "price": 182.0,
-    "change": "-9.68%"
+    "price": 181.5,
+    "change": "-9.93%"
   },
   {
     "ticker": "LKL",
@@ -15,18 +10,23 @@
     "change": "-4.03%"
   },
   {
-    "ticker": "EVRD",
-    "price": 1.32,
-    "change": "-2.22%"
+    "ticker": "KAPC",
+    "price": 226.0,
+    "change": "-3.93%"
   },
   {
-    "ticker": "OCH",
-    "price": 7.8,
-    "change": "-1.52%"
+    "ticker": "GLD",
+    "price": 4795.0,
+    "change": "-3.42%"
   },
   {
-    "ticker": "KPLC",
-    "price": 14.1,
-    "change": "-1.40%"
+    "ticker": "XPRS",
+    "price": 7.0,
+    "change": "-2.78%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 0.36,
+    "change": "-2.70%"
   }
 ]
