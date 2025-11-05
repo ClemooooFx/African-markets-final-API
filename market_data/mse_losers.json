@@ -1,22 +1,27 @@
 [
   {
-    "ticker": "AIRTEL",
-    "price": 130.0,
-    "change": "-3.66%"
+    "ticker": "MPICO",
+    "price": 19.54,
+    "change": "-0.05%"
   },
   {
     "ticker": "STANDARD",
-    "price": 4987.98,
-    "change": "-0.25%"
+    "price": 4985.74,
+    "change": "-0.04%"
   },
   {
     "ticker": "NBS",
-    "price": 1022.77,
+    "price": 1022.63,
     "change": "-0.01%"
   },
   {
-    "ticker": "PCL",
-    "price": 8728.58,
+    "ticker": "NBM",
+    "price": 12399.88,
+    "change": "-0.00%"
+  },
+  {
+    "ticker": "NICO",
+    "price": 1739.79,
     "change": "-0.00%"
   }
 ]

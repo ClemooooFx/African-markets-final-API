@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "LAB",
-    "price": 0.06,
-    "change": "+20.00%"
+    "ticker": "FGL",
+    "price": 1.45,
+    "change": "+21.85%"
   },
   {
     "ticker": "ISB",
@@ -10,23 +10,23 @@
     "change": "+15.94%"
   },
   {
+    "ticker": "ACS",
+    "price": 8.0,
+    "change": "+11.89%"
+  },
+  {
+    "ticker": "ACT",
+    "price": 1.49,
+    "change": "+10.37%"
+  },
+  {
     "ticker": "ANI",
     "price": 4.93,
     "change": "+9.56%"
   },
   {
-    "ticker": "HLM",
-    "price": 2.59,
-    "change": "+7.02%"
-  },
-  {
-    "ticker": "BLU",
-    "price": 13.3,
-    "change": "+5.47%"
-  },
-  {
-    "ticker": "ENX",
-    "price": 4.01,
-    "change": "+4.97%"
+    "ticker": "KP2",
+    "price": 0.77,
+    "change": "+5.48%"
   }
 ]

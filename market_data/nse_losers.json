@@ -1,32 +1,32 @@
 [
   {
     "ticker": "WTK",
-    "price": 181.5,
-    "change": "-9.93%"
+    "price": 185.25,
+    "change": "-8.06%"
   },
   {
     "ticker": "NCBA",
-    "price": 82.0,
-    "change": "-7.34%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 43.5,
-    "change": "-3.87%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 4800.0,
-    "change": "-3.32%"
-  },
-  {
-    "ticker": "CARB",
-    "price": 29.8,
-    "change": "-3.09%"
+    "price": 83.25,
+    "change": "-5.93%"
   },
   {
     "ticker": "XPRS",
-    "price": 7.0,
-    "change": "-2.78%"
+    "price": 6.84,
+    "change": "-5.00%"
+  },
+  {
+    "ticker": "KAPC",
+    "price": 226.0,
+    "change": "-3.93%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 43.95,
+    "change": "-2.87%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.72,
+    "change": "-2.77%"
   }
 ]
