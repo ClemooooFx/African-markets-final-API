@@ -1,13 +1,13 @@
 [
   {
     "ticker": "SLAM",
-    "price": 8.86,
-    "change": "+6.75%"
+    "price": 8.88,
+    "change": "+6.99%"
   },
   {
     "ticker": "CTUM",
-    "price": 15.2,
-    "change": "+4.11%"
+    "price": 15.5,
+    "change": "+6.16%"
   },
   {
     "ticker": "SCAN",
@@ -15,18 +15,18 @@
     "change": "+3.58%"
   },
   {
-    "ticker": "DTK",
-    "price": 116.0,
-    "change": "+3.57%"
-  },
-  {
     "ticker": "EABL",
-    "price": 240.0,
-    "change": "+3.45%"
+    "price": 239.0,
+    "change": "+3.02%"
   },
   {
-    "ticker": "CRWN",
-    "price": 59.5,
-    "change": "+2.59%"
+    "ticker": "UCHM",
+    "price": 0.38,
+    "change": "+2.70%"
+  },
+  {
+    "ticker": "DTK",
+    "price": 115.0,
+    "change": "+2.68%"
   }
 ]
