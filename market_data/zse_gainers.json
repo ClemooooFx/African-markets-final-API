@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "CBZ",
+    "price": 8.5,
+    "change": "+14.25%"
+  },
+  {
     "ticker": "SACL",
-    "price": 0.03,
-    "change": "+6.01%"
+    "price": 0.034046,
+    "change": "+13.49%"
   },
   {
-    "ticker": "NPKZ",
-    "price": 0.515377,
-    "change": "+2.36%"
+    "ticker": "TSL",
+    "price": 2.199728,
+    "change": "+2.31%"
   },
   {
-    "ticker": "HIPO",
-    "price": 7.231568,
-    "change": "+1.14%"
+    "ticker": "TNCI",
+    "price": 0.110957,
+    "change": "+0.66%"
+  },
+  {
+    "ticker": "DLTA",
+    "price": 15.502443,
+    "change": "+0.32%"
   },
   {
     "ticker": "RIOZ",
-    "price": 0.636667,
-    "change": "+1.06%"
-  },
-  {
-    "ticker": "DZL",
-    "price": 1.8,
-    "change": "+0.28%"
-  },
-  {
-    "ticker": "OKZ",
-    "price": 0.2005,
-    "change": "+0.25%"
+    "price": 0.637931,
+    "change": "+0.20%"
   }
 ]
