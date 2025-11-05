@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "EUZ",
+    "price": 0.32,
+    "change": "-33.33%"
+  },
+  {
     "ticker": "OAO",
     "price": 0.15,
     "change": "-16.67%"
   },
   {
-    "ticker": "4SI",
-    "price": 0.68,
-    "change": "-5.56%"
+    "ticker": "HUG",
+    "price": 1.41,
+    "change": "-11.88%"
   },
   {
     "ticker": "MKR",
@@ -23,10 +28,5 @@
     "ticker": "DLT",
     "price": 0.27,
     "change": "-3.57%"
-  },
-  {
-    "ticker": "EASYGE",
-    "price": 15.0,
-    "change": "-3.54%"
   }
 ]
