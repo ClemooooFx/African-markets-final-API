@@ -1,13 +1,23 @@
 [
   {
-    "ticker": "MCNICHOLS",
-    "price": 2.57,
-    "change": "-9.82%"
-  },
-  {
     "ticker": "LINKASSURE",
     "price": 1.81,
     "change": "-9.50%"
+  },
+  {
+    "ticker": "SOVRENINS",
+    "price": 3.12,
+    "change": "-6.31%"
+  },
+  {
+    "ticker": "STERLINGNG",
+    "price": 7.5,
+    "change": "-5.06%"
+  },
+  {
+    "ticker": "MBENEFIT",
+    "price": 3.52,
+    "change": "-4.86%"
   },
   {
     "ticker": "WEMABANK",
@@ -15,18 +25,8 @@
     "change": "-4.82%"
   },
   {
-    "ticker": "STERLINGNG",
-    "price": 7.55,
-    "change": "-4.43%"
-  },
-  {
     "ticker": "LASACO",
     "price": 2.5,
     "change": "-4.21%"
-  },
-  {
-    "ticker": "DEAPCAP",
-    "price": 1.59,
-    "change": "-3.64%"
   }
 ]
