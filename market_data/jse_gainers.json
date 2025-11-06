@@ -5,6 +5,11 @@
     "change": "+86.67%"
   },
   {
+    "ticker": "BIK",
+    "price": 0.17,
+    "change": "+41.67%"
+  },
+  {
     "ticker": "LAB",
     "price": 0.06,
     "change": "+20.00%"
@@ -23,10 +28,5 @@
     "ticker": "MCZ",
     "price": 2.45,
     "change": "+11.36%"
-  },
-  {
-    "ticker": "SAP",
-    "price": 24.8,
-    "change": "+7.73%"
   }
 ]

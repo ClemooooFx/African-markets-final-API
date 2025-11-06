@@ -10,6 +10,11 @@
     "change": "+9.88%"
   },
   {
+    "ticker": "TPSE",
+    "price": 17.9,
+    "change": "+8.81%"
+  },
+  {
     "ticker": "AMAC",
     "price": 64.75,
     "change": "+8.37%"
@@ -21,12 +26,7 @@
   },
   {
     "ticker": "ABSA",
-    "price": 25.1,
-    "change": "+5.46%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 7.2,
-    "change": "+5.26%"
+    "price": 25.5,
+    "change": "+7.14%"
   }
 ]
