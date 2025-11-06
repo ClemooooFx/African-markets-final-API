@@ -1,8 +1,13 @@
 [
   {
     "ticker": "WTK",
-    "price": 171.0,
-    "change": "-7.69%"
+    "price": 170.0,
+    "change": "-8.23%"
+  },
+  {
+    "ticker": "KAPC",
+    "price": 210.0,
+    "change": "-7.08%"
   },
   {
     "ticker": "EVRD",
@@ -10,23 +15,18 @@
     "change": "-4.41%"
   },
   {
-    "ticker": "KAPC",
-    "price": 218.0,
-    "change": "-3.54%"
-  },
-  {
     "ticker": "OCH",
     "price": 7.52,
     "change": "-3.34%"
   },
   {
-    "ticker": "UNGA",
-    "price": 23.7,
-    "change": "-3.07%"
+    "ticker": "KUKZ",
+    "price": 400.0,
+    "change": "-2.68%"
   },
   {
-    "ticker": "LKL",
-    "price": 2.86,
-    "change": "-3.05%"
+    "ticker": "GLD",
+    "price": 4830.0,
+    "change": "-2.13%"
   }
 ]

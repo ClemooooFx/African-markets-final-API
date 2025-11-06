@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CHAMS",
+    "price": 3.25,
+    "change": "+8.33%"
+  },
+  {
     "ticker": "FCMB",
     "price": 10.8,
     "change": "+8.00%"
@@ -10,23 +15,18 @@
     "change": "+7.44%"
   },
   {
-    "ticker": "ASOSAVINGS",
-    "price": 0.99,
-    "change": "+3.12%"
+    "ticker": "MANSARD",
+    "price": 14.0,
+    "change": "+5.26%"
+  },
+  {
+    "ticker": "HONYFLOUR",
+    "price": 21.9,
+    "change": "+4.78%"
   },
   {
     "ticker": "JAPAULGOLD",
     "price": 2.2,
     "change": "+1.85%"
-  },
-  {
-    "ticker": "HMCALL",
-    "price": 4.3,
-    "change": "+1.18%"
-  },
-  {
-    "ticker": "CAVERTON",
-    "price": 5.1,
-    "change": "+0.99%"
   }
 ]
