@@ -1,13 +1,18 @@
 [
   {
     "ticker": "WTK",
-    "price": 170.0,
-    "change": "-8.23%"
+    "price": 167.25,
+    "change": "-9.72%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 15.0,
+    "change": "-8.81%"
   },
   {
     "ticker": "KAPC",
-    "price": 210.0,
-    "change": "-7.08%"
+    "price": 215.0,
+    "change": "-4.87%"
   },
   {
     "ticker": "OCH",
@@ -20,13 +25,8 @@
     "change": "-2.94%"
   },
   {
-    "ticker": "SBIC",
-    "price": 190.75,
-    "change": "-2.93%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 400.0,
-    "change": "-2.68%"
+    "ticker": "FTGH",
+    "price": 1.8,
+    "change": "-2.70%"
   }
 ]

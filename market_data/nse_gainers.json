@@ -10,11 +10,6 @@
     "change": "+9.88%"
   },
   {
-    "ticker": "TPSE",
-    "price": 17.9,
-    "change": "+8.81%"
-  },
-  {
     "ticker": "AMAC",
     "price": 64.75,
     "change": "+8.37%"
@@ -28,5 +23,10 @@
     "ticker": "ABSA",
     "price": 25.5,
     "change": "+7.14%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 0.4,
+    "change": "+5.26%"
   }
 ]
