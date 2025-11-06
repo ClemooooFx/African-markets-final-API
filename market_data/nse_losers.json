@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "WTK",
-    "price": 174.0,
-    "change": "-6.07%"
-  },
-  {
     "ticker": "SCAN",
     "price": 2.67,
     "change": "-5.65%"
   },
   {
-    "ticker": "GLD",
-    "price": 4750.0,
-    "change": "-3.75%"
+    "ticker": "WTK",
+    "price": 175.0,
+    "change": "-5.53%"
   },
   {
     "ticker": "LKL",
@@ -23,6 +18,11 @@
     "ticker": "OCH",
     "price": 7.52,
     "change": "-3.34%"
+  },
+  {
+    "ticker": "FTGH",
+    "price": 1.79,
+    "change": "-3.24%"
   },
   {
     "ticker": "EVRD",
