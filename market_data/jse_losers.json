@@ -5,14 +5,19 @@
     "change": "-9.89%"
   },
   {
+    "ticker": "ACL",
+    "price": 1.29,
+    "change": "-7.86%"
+  },
+  {
     "ticker": "SSK",
     "price": 4.81,
     "change": "-4.75%"
   },
   {
-    "ticker": "ACL",
-    "price": 1.35,
-    "change": "-3.57%"
+    "ticker": "CAT",
+    "price": 13.01,
+    "change": "-3.63%"
   },
   {
     "ticker": "SEP",
@@ -23,10 +28,5 @@
     "ticker": "ETFGGB",
     "price": 77.31,
     "change": "-2.23%"
-  },
-  {
-    "ticker": "RBX",
-    "price": 40.83,
-    "change": "-1.90%"
   }
 ]
