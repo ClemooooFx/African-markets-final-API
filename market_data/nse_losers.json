@@ -1,18 +1,8 @@
 [
   {
-    "ticker": "SCAN",
-    "price": 2.67,
-    "change": "-5.65%"
-  },
-  {
     "ticker": "WTK",
     "price": 175.0,
     "change": "-5.53%"
-  },
-  {
-    "ticker": "LKL",
-    "price": 2.85,
-    "change": "-3.39%"
   },
   {
     "ticker": "OCH",
@@ -28,5 +18,15 @@
     "ticker": "EVRD",
     "price": 1.32,
     "change": "-2.94%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.6,
+    "change": "-2.93%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 400.0,
+    "change": "-2.68%"
   }
 ]
