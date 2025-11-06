@@ -11,8 +11,8 @@
   },
   {
     "ticker": "KCB",
-    "price": 67.75,
-    "change": "+7.11%"
+    "price": 68.0,
+    "change": "+7.51%"
   },
   {
     "ticker": "ABSA",
@@ -20,13 +20,13 @@
     "change": "+6.93%"
   },
   {
+    "ticker": "PORT",
+    "price": 61.75,
+    "change": "+4.22%"
+  },
+  {
     "ticker": "LBTY",
     "price": 10.8,
     "change": "+3.85%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5100.0,
-    "change": "+3.34%"
   }
 ]
