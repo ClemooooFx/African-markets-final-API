@@ -11,13 +11,8 @@
   },
   {
     "ticker": "ACS",
-    "price": 8.0,
-    "change": "+11.89%"
-  },
-  {
-    "ticker": "ACT",
-    "price": 1.49,
-    "change": "+10.37%"
+    "price": 8.08,
+    "change": "+13.01%"
   },
   {
     "ticker": "ANI",
@@ -25,8 +20,13 @@
     "change": "+9.56%"
   },
   {
-    "ticker": "KP2",
-    "price": 0.77,
-    "change": "+5.48%"
+    "ticker": "HLM",
+    "price": 2.59,
+    "change": "+7.02%"
+  },
+  {
+    "ticker": "BLU",
+    "price": 13.28,
+    "change": "+5.31%"
   }
 ]

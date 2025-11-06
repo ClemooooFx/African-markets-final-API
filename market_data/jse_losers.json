@@ -1,8 +1,8 @@
 [
   {
     "ticker": "EUZ",
-    "price": 0.32,
-    "change": "-33.33%"
+    "price": 0.38,
+    "change": "-20.83%"
   },
   {
     "ticker": "OAO",
@@ -11,18 +11,18 @@
   },
   {
     "ticker": "HUG",
-    "price": 1.4,
-    "change": "-12.50%"
+    "price": 1.41,
+    "change": "-11.88%"
+  },
+  {
+    "ticker": "MKR",
+    "price": 33.23,
+    "change": "-11.39%"
   },
   {
     "ticker": "BCF",
     "price": 12.85,
     "change": "-7.55%"
-  },
-  {
-    "ticker": "MKR",
-    "price": 34.76,
-    "change": "-7.31%"
   },
   {
     "ticker": "EMH",
