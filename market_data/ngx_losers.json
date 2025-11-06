@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "ROYALEX",
+    "price": 1.75,
+    "change": "-9.79%"
+  },
+  {
+    "ticker": "CHAMPION",
+    "price": 14.4,
+    "change": "-9.72%"
+  },
+  {
+    "ticker": "REGALINS",
+    "price": 1.07,
+    "change": "-9.32%"
+  },
+  {
     "ticker": "LINKASSURE",
-    "price": 1.81,
-    "change": "-9.50%"
+    "price": 1.85,
+    "change": "-7.50%"
   },
   {
-    "ticker": "SOVRENINS",
-    "price": 3.12,
-    "change": "-6.31%"
-  },
-  {
-    "ticker": "STERLINGNG",
-    "price": 7.5,
-    "change": "-5.06%"
+    "ticker": "HMCALL",
+    "price": 4.0,
+    "change": "-5.88%"
   },
   {
     "ticker": "MBENEFIT",
-    "price": 3.52,
-    "change": "-4.86%"
-  },
-  {
-    "ticker": "LASACO",
-    "price": 2.5,
-    "change": "-4.21%"
-  },
-  {
-    "ticker": "DEAPCAP",
-    "price": 1.59,
-    "change": "-3.64%"
+    "price": 3.5,
+    "change": "-5.41%"
   }
 ]

@@ -5,11 +5,6 @@
     "change": "-8.23%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.75,
-    "change": "-8.03%"
-  },
-  {
     "ticker": "KAPC",
     "price": 210.0,
     "change": "-7.08%"
@@ -28,5 +23,10 @@
     "ticker": "SBIC",
     "price": 190.75,
     "change": "-2.93%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 400.0,
+    "change": "-2.68%"
   }
 ]
