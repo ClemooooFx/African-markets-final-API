@@ -674,16 +674,16 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "46053.0",
+    "volume": "46056.0",
     "price": 11.63,
     "change": 0.04
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "1717.0",
-    "price": 117.48,
-    "change": -0.57
+    "volume": "1726.0",
+    "price": 118.37,
+    "change": 0.32
   },
   {
     "ticker": "CSPROP",
@@ -695,16 +695,16 @@
   {
     "ticker": "CSYSB",
     "name": "10X Yield Selected Bond ETF",
-    "volume": "13286.0",
-    "price": 12.55,
-    "change": -0.01
+    "volume": "15098.0",
+    "price": 12.64,
+    "change": 0.08
   },
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "52420.0",
-    "price": 42.84,
-    "change": 0.14
+    "volume": "52520.0",
+    "price": 42.77,
+    "change": 0.07
   },
   {
     "ticker": "CVW",
@@ -2683,7 +2683,7 @@
   {
     "ticker": "SYG500",
     "name": "Sygnia Itrix S&P 500 ETF",
-    "volume": "4805.0",
+    "volume": "5509.0",
     "price": 119.08,
     "change": 0.0
   },
@@ -2711,7 +2711,7 @@
   {
     "ticker": "SYGEU",
     "name": "Sygnia Itrix EURO STOXX 50 ETF",
-    "volume": "2651.0",
+    "volume": "2768.0",
     "price": 115.0,
     "change": 0.24
   },
@@ -2725,9 +2725,9 @@
   {
     "ticker": "SYGJP",
     "name": "Sygnia Itrix MSCI Japan ETF",
-    "volume": "70901.0",
-    "price": 23.26,
-    "change": 0.12
+    "volume": "81562.0",
+    "price": 23.25,
+    "change": 0.11
   },
   {
     "ticker": "SYGP",
@@ -2739,9 +2739,9 @@
   {
     "ticker": "SYGT40",
     "name": "Sygnia Itrix Top 40 ETF",
-    "volume": "1070.0",
-    "price": 103.74,
-    "change": 1.01
+    "volume": "1398.0",
+    "price": 103.48,
+    "change": 0.75
   },
   {
     "ticker": "SYGUK",
@@ -2753,16 +2753,16 @@
   {
     "ticker": "SYGUS",
     "name": "Sygnia Itrix MSCI US ETF",
-    "volume": "3224.0",
-    "price": 110.42,
-    "change": -0.53
+    "volume": "4515.0",
+    "price": 111.44,
+    "change": 0.49
   },
   {
     "ticker": "SYGWD",
     "name": "Sygnia Itrix MSCI World Index ETF",
-    "volume": "19710.0",
-    "price": 75.87,
-    "change": 0.2
+    "volume": "24482.0",
+    "price": 75.74,
+    "change": 0.07
   },
   {
     "ticker": "SZK",

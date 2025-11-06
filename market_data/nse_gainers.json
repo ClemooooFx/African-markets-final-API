@@ -10,23 +10,23 @@
     "change": "+9.88%"
   },
   {
-    "ticker": "NSE",
-    "price": 21.3,
-    "change": "+9.79%"
-  },
-  {
     "ticker": "AMAC",
     "price": 64.75,
     "change": "+8.37%"
   },
   {
-    "ticker": "ABSA",
-    "price": 25.5,
-    "change": "+7.14%"
+    "ticker": "NSE",
+    "price": 21.0,
+    "change": "+8.25%"
   },
   {
     "ticker": "XPRS",
     "price": 7.2,
     "change": "+5.26%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 25.0,
+    "change": "+5.04%"
   }
 ]
