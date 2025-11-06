@@ -1,27 +1,27 @@
 [
   {
-    "ticker": "MPICO",
-    "price": 19.54,
-    "change": "-0.05%"
-  },
-  {
     "ticker": "STANDARD",
-    "price": 4985.74,
-    "change": "-0.04%"
+    "price": 4979.98,
+    "change": "-0.12%"
   },
   {
     "ticker": "NBS",
-    "price": 1022.63,
-    "change": "-0.01%"
+    "price": 1022.42,
+    "change": "-0.02%"
   },
   {
-    "ticker": "NBM",
-    "price": 12399.88,
+    "ticker": "PCL",
+    "price": 8728.58,
+    "change": "-0.00%"
+  },
+  {
+    "ticker": "NITL",
+    "price": 3939.98,
     "change": "-0.00%"
   },
   {
     "ticker": "NICO",
-    "price": 1739.79,
+    "price": 1739.77,
     "change": "-0.00%"
   }
 ]

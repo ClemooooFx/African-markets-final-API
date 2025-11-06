@@ -1,27 +1,27 @@
 [
   {
-    "ticker": "TNM",
-    "price": 31.73,
-    "change": "+0.03%"
-  },
-  {
-    "ticker": "PCL",
-    "price": 8728.59,
+    "ticker": "ILLOVO",
+    "price": 2330.02,
     "change": "+0.00%"
   },
   {
-    "ticker": "NITL",
-    "price": 3940.0,
-    "change": "+0.00%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "FMBCH",
-    "price": 2887.66,
-    "change": "+0.00%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "FDHB",
-    "price": 637.59,
-    "change": "+0.00%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
