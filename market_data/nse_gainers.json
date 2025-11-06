@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "NCBA",
-    "price": 88.0,
-    "change": "+5.71%"
+    "ticker": "AMAC",
+    "price": 65.0,
+    "change": "+8.79%"
+  },
+  {
+    "ticker": "SMWF",
+    "price": 890.0,
+    "change": "+8.27%"
   },
   {
     "ticker": "KCB",
-    "price": 66.5,
-    "change": "+5.14%"
+    "price": 67.0,
+    "change": "+5.93%"
+  },
+  {
+    "ticker": "NCBA",
+    "price": 87.75,
+    "change": "+5.41%"
   },
   {
     "ticker": "ABSA",
-    "price": 25.0,
-    "change": "+5.04%"
+    "price": 24.95,
+    "change": "+4.83%"
   },
   {
     "ticker": "LBTY",
     "price": 10.8,
     "change": "+3.85%"
-  },
-  {
-    "ticker": "BRIT",
-    "price": 8.9,
-    "change": "+3.49%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 0.39,
-    "change": "+2.63%"
   }
 ]
