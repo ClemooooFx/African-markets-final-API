@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "SKL",
+    "price": 7.8,
+    "change": "-4.65%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 4750.0,
+    "change": "-3.75%"
+  },
+  {
+    "ticker": "LKL",
+    "price": 2.85,
+    "change": "-3.39%"
+  },
+  {
     "ticker": "WTK",
-    "price": 185.25,
-    "change": "-8.06%"
+    "price": 179.0,
+    "change": "-3.37%"
   },
   {
-    "ticker": "NCBA",
-    "price": 83.25,
-    "change": "-5.93%"
+    "ticker": "SASN",
+    "price": 18.6,
+    "change": "-1.59%"
   },
   {
-    "ticker": "XPRS",
-    "price": 6.84,
-    "change": "-5.00%"
-  },
-  {
-    "ticker": "KAPC",
-    "price": 226.0,
-    "change": "-3.93%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 43.95,
-    "change": "-2.87%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 7.72,
-    "change": "-2.77%"
+    "ticker": "CARB",
+    "price": 30.0,
+    "change": "-0.83%"
   }
 ]
