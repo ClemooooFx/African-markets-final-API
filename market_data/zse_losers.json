@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "ARIS",
-    "price": 0.015,
-    "change": "-50.00%"
-  },
-  {
     "ticker": "BAT",
-    "price": 82.9815,
+    "price": 70.5345,
     "change": "-15.00%"
   },
   {
-    "ticker": "PROL",
-    "price": 1.02,
-    "change": "-7.27%"
+    "ticker": "WILD",
+    "price": 0.0351,
+    "change": "-12.25%"
+  },
+  {
+    "ticker": "SACL",
+    "price": 0.030763,
+    "change": "-9.64%"
   },
   {
     "ticker": "ECO",
-    "price": 5.06159,
-    "change": "-3.34%"
+    "price": 4.920247,
+    "change": "-2.79%"
   },
   {
-    "ticker": "DZL",
-    "price": 1.750023,
-    "change": "-2.78%"
+    "ticker": "DLTA",
+    "price": 15.457711,
+    "change": "-0.29%"
   },
   {
-    "ticker": "NPKZ",
-    "price": 0.51,
-    "change": "-1.04%"
+    "ticker": "RIOZ",
+    "price": 0.6375,
+    "change": "-0.07%"
   }
 ]
