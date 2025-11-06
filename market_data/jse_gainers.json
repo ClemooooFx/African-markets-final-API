@@ -11,13 +11,8 @@
   },
   {
     "ticker": "EUZ",
-    "price": 0.44,
-    "change": "+15.79%"
-  },
-  {
-    "ticker": "4SI",
-    "price": 0.79,
-    "change": "+12.86%"
+    "price": 0.45,
+    "change": "+18.42%"
   },
   {
     "ticker": "MKR",
@@ -28,5 +23,10 @@
     "ticker": "SAP",
     "price": 25.06,
     "change": "+8.86%"
+  },
+  {
+    "ticker": "MTU",
+    "price": 0.62,
+    "change": "+6.90%"
   }
 ]
