@@ -5,9 +5,14 @@
     "change": "+86.67%"
   },
   {
+    "ticker": "LAB",
+    "price": 0.06,
+    "change": "+20.00%"
+  },
+  {
     "ticker": "EUZ",
-    "price": 0.45,
-    "change": "+18.42%"
+    "price": 0.44,
+    "change": "+15.79%"
   },
   {
     "ticker": "4SI",
@@ -21,12 +26,7 @@
   },
   {
     "ticker": "SAP",
-    "price": 25.35,
-    "change": "+10.12%"
-  },
-  {
-    "ticker": "MTU",
-    "price": 0.62,
-    "change": "+6.90%"
+    "price": 25.06,
+    "change": "+8.86%"
   }
 ]

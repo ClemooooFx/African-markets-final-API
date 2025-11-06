@@ -1,13 +1,8 @@
 [
   {
     "ticker": "WTK",
-    "price": 170.0,
-    "change": "-8.23%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.3,
-    "change": "-4.41%"
+    "price": 167.0,
+    "change": "-9.85%"
   },
   {
     "ticker": "OCH",
@@ -18,6 +13,11 @@
     "ticker": "LKL",
     "price": 2.86,
     "change": "-3.05%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.32,
+    "change": "-2.94%"
   },
   {
     "ticker": "FTGH",

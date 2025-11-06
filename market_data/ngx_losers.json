@@ -1,32 +1,22 @@
 [
   {
-    "ticker": "TRANSCORP",
-    "price": 45.0,
-    "change": "-10.00%"
+    "ticker": "ELLAHLAKES",
+    "price": 11.0,
+    "change": "-3.17%"
   },
   {
-    "ticker": "CILEASING",
-    "price": 5.58,
-    "change": "-10.00%"
+    "ticker": "ZENITHBANK",
+    "price": 60.0,
+    "change": "-1.32%"
   },
   {
-    "ticker": "BETAGLAS",
-    "price": 393.7,
-    "change": "-9.99%"
+    "ticker": "FIDELITYBK",
+    "price": 18.8,
+    "change": "-1.05%"
   },
   {
-    "ticker": "SKYAVN",
-    "price": 80.6,
-    "change": "-9.99%"
-  },
-  {
-    "ticker": "RTBRISCOE",
-    "price": 3.18,
-    "change": "-9.92%"
-  },
-  {
-    "ticker": "SOVRENINS",
-    "price": 3.33,
-    "change": "-9.76%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
