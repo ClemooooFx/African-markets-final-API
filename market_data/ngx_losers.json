@@ -1,8 +1,13 @@
 [
   {
     "ticker": "TIP",
-    "price": 10.72,
-    "change": "-9.92%"
+    "price": 10.71,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "DAARCOMM",
+    "price": 0.84,
+    "change": "-9.68%"
   },
   {
     "ticker": "ASOSAVINGS",
@@ -20,13 +25,8 @@
     "change": "-8.55%"
   },
   {
-    "ticker": "MBENEFIT",
-    "price": 3.33,
-    "change": "-4.86%"
-  },
-  {
-    "ticker": "DAARCOMM",
-    "price": 0.89,
-    "change": "-4.30%"
+    "ticker": "MANSARD",
+    "price": 13.3,
+    "change": "-5.00%"
   }
 ]
