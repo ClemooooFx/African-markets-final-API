@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "ELLAHLAKES",
+    "price": 11.93,
+    "change": "+9.95%"
+  },
+  {
     "ticker": "CHAMS",
     "price": 3.3,
     "change": "+9.63%"
   },
   {
-    "ticker": "ELLAHLAKES",
-    "price": 11.47,
-    "change": "+5.71%"
+    "ticker": "OMATEK",
+    "price": 1.42,
+    "change": "+9.23%"
   },
   {
-    "ticker": "STERLINGNG",
-    "price": 7.9,
-    "change": "+5.33%"
+    "ticker": "MCNICHOLS",
+    "price": 2.99,
+    "change": "+8.73%"
+  },
+  {
+    "ticker": "RTBRISCOE",
+    "price": 3.4,
+    "change": "+7.94%"
   },
   {
     "ticker": "GUINNESS",
     "price": 176.7,
     "change": "+3.94%"
-  },
-  {
-    "ticker": "ZENITHBANK",
-    "price": 60.2,
-    "change": "+0.50%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]

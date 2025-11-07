@@ -1,8 +1,18 @@
 [
   {
     "ticker": "TIP",
-    "price": 10.85,
-    "change": "-8.82%"
+    "price": 10.72,
+    "change": "-9.92%"
+  },
+  {
+    "ticker": "ASOSAVINGS",
+    "price": 0.85,
+    "change": "-9.57%"
+  },
+  {
+    "ticker": "LASACO",
+    "price": 2.27,
+    "change": "-9.20%"
   },
   {
     "ticker": "REGALINS",
@@ -10,23 +20,13 @@
     "change": "-8.55%"
   },
   {
+    "ticker": "MBENEFIT",
+    "price": 3.33,
+    "change": "-4.86%"
+  },
+  {
     "ticker": "DAARCOMM",
     "price": 0.89,
     "change": "-4.30%"
-  },
-  {
-    "ticker": "LINKASSURE",
-    "price": 1.8,
-    "change": "-2.70%"
-  },
-  {
-    "ticker": "AIICO",
-    "price": 3.65,
-    "change": "-2.41%"
-  },
-  {
-    "ticker": "ACCESSCORP",
-    "price": 22.05,
-    "change": "-2.00%"
   }
 ]
