@@ -1,32 +1,32 @@
 [
   {
     "ticker": "SKL",
-    "price": 7.8,
-    "change": "-4.88%"
-  },
-  {
-    "ticker": "WTK",
-    "price": 162.0,
-    "change": "-4.42%"
+    "price": 7.4,
+    "change": "-9.76%"
   },
   {
     "ticker": "SCOM",
-    "price": 29.5,
-    "change": "-2.64%"
+    "price": 29.45,
+    "change": "-2.81%"
   },
   {
-    "ticker": "NMG",
-    "price": 13.05,
-    "change": "-2.25%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 4825.0,
-    "change": "-2.03%"
+    "ticker": "WTK",
+    "price": 165.0,
+    "change": "-2.65%"
   },
   {
     "ticker": "KAPC",
     "price": 210.0,
     "change": "-1.98%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 4835.0,
+    "change": "-1.83%"
+  },
+  {
+    "ticker": "KQ",
+    "price": 3.78,
+    "change": "-1.05%"
   }
 ]
