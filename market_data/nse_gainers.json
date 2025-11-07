@@ -10,6 +10,11 @@
     "change": "+8.97%"
   },
   {
+    "ticker": "BRIT",
+    "price": 8.96,
+    "change": "+4.67%"
+  },
+  {
     "ticker": "COOP",
     "price": 23.0,
     "change": "+4.31%"
@@ -23,10 +28,5 @@
     "ticker": "CTUM",
     "price": 16.4,
     "change": "+3.80%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "+3.69%"
   }
 ]

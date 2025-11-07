@@ -10,6 +10,11 @@
     "change": "+12.24%"
   },
   {
+    "ticker": "DLT",
+    "price": 0.32,
+    "change": "+10.34%"
+  },
+  {
     "ticker": "ORN",
     "price": 0.2,
     "change": "+5.26%"
@@ -23,10 +28,5 @@
     "ticker": "SUR",
     "price": 37.7,
     "change": "+3.26%"
-  },
-  {
-    "ticker": "BOX",
-    "price": 76.74,
-    "change": "+3.12%"
   }
 ]
