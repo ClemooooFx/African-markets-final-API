@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "SCOM",
+    "price": 29.4,
+    "change": "-2.97%"
+  },
+  {
     "ticker": "WTK",
     "price": 165.0,
     "change": "-2.65%"
-  },
-  {
-    "ticker": "SCOM",
-    "price": 29.5,
-    "change": "-2.64%"
   },
   {
     "ticker": "NMG",
@@ -15,18 +15,18 @@
     "change": "-2.62%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.5,
-    "change": "-2.60%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 4825.0,
-    "change": "-2.03%"
-  },
-  {
     "ticker": "KAPC",
     "price": 210.0,
     "change": "-1.98%"
+  },
+  {
+    "ticker": "KQ",
+    "price": 3.78,
+    "change": "-1.05%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.72,
+    "change": "-0.52%"
   }
 ]
