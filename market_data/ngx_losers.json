@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "BERGER",
+    "price": 35.1,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "TIP",
     "price": 10.71,
     "change": "-10.00%"
+  },
+  {
+    "ticker": "MECURE",
+    "price": 27.7,
+    "change": "-9.77%"
   },
   {
     "ticker": "TANTALIZER",
@@ -18,15 +28,5 @@
     "ticker": "ASOSAVINGS",
     "price": 0.85,
     "change": "-9.57%"
-  },
-  {
-    "ticker": "CUSTODIAN",
-    "price": 38.5,
-    "change": "-9.31%"
-  },
-  {
-    "ticker": "LASACO",
-    "price": 2.27,
-    "change": "-9.20%"
   }
 ]

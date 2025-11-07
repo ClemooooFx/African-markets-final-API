@@ -9,9 +9,9 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "",
+    "volume": "2.0",
     "price": 16.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ADB",
@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "7.0",
+    "volume": "15.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "59337.0",
+    "volume": "71804.0",
     "price": 0.4,
     "change": 0.0
   },
@@ -114,16 +114,16 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "2928.0",
+    "volume": "3760.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "",
+    "volume": "60.0",
     "price": 8.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GCB",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "54381.0",
+    "volume": "106321.0",
     "price": 4.05,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "871.0",
+    "volume": "1011.0",
     "price": 1.25,
     "change": 0.0
   },
