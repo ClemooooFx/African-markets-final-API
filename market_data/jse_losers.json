@@ -11,8 +11,13 @@
   },
   {
     "ticker": "MKR",
-    "price": 34.2,
-    "change": "-8.80%"
+    "price": 32.15,
+    "change": "-14.27%"
+  },
+  {
+    "ticker": "ACS",
+    "price": 7.5,
+    "change": "-7.18%"
   },
   {
     "ticker": "EMN",
@@ -23,10 +28,5 @@
     "ticker": "LBR",
     "price": 4.7,
     "change": "-6.00%"
-  },
-  {
-    "ticker": "SSK",
-    "price": 4.76,
-    "change": "-4.42%"
   }
 ]
