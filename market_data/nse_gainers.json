@@ -1,13 +1,18 @@
 [
   {
     "ticker": "AMAC",
-    "price": 65.0,
-    "change": "+8.79%"
+    "price": 65.5,
+    "change": "+9.62%"
   },
   {
-    "ticker": "SCAN",
-    "price": 2.9,
-    "change": "+4.69%"
+    "ticker": "TPSE",
+    "price": 17.0,
+    "change": "+8.97%"
+  },
+  {
+    "ticker": "CTUM",
+    "price": 16.75,
+    "change": "+6.01%"
   },
   {
     "ticker": "COOP",
@@ -15,18 +20,13 @@
     "change": "+4.31%"
   },
   {
-    "ticker": "GLD",
-    "price": 5130.0,
-    "change": "+4.16%"
+    "ticker": "NCBA",
+    "price": 86.75,
+    "change": "+3.89%"
   },
   {
     "ticker": "NSE",
     "price": 20.95,
     "change": "+3.71%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "+3.69%"
   }
 ]
