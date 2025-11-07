@@ -1,8 +1,13 @@
 [
   {
     "ticker": "CCC",
-    "price": 3.6,
-    "change": "-20.00%"
+    "price": 3.5,
+    "change": "-22.22%"
+  },
+  {
+    "ticker": "FGL",
+    "price": 1.28,
+    "change": "-11.72%"
   },
   {
     "ticker": "MTNZF",
@@ -10,23 +15,18 @@
     "change": "-9.66%"
   },
   {
-    "ticker": "QFH",
-    "price": 8.01,
-    "change": "-4.64%"
+    "ticker": "BAC",
+    "price": 10.0,
+    "change": "-9.09%"
   },
   {
     "ticker": "MDI",
-    "price": 16.0,
-    "change": "-4.19%"
+    "price": 15.5,
+    "change": "-7.19%"
   },
   {
-    "ticker": "KAL",
-    "price": 44.26,
-    "change": "-3.51%"
-  },
-  {
-    "ticker": "TMT",
-    "price": 1.15,
-    "change": "-3.36%"
+    "ticker": "ORN",
+    "price": 0.19,
+    "change": "-5.00%"
   }
 ]
