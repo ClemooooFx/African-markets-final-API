@@ -10,11 +10,6 @@
     "change": "+12.24%"
   },
   {
-    "ticker": "DLT",
-    "price": 0.32,
-    "change": "+10.34%"
-  },
-  {
     "ticker": "ORN",
     "price": 0.2,
     "change": "+5.26%"
@@ -25,8 +20,13 @@
     "change": "+3.82%"
   },
   {
-    "ticker": "SUR",
-    "price": 37.7,
-    "change": "+3.26%"
+    "ticker": "KP2",
+    "price": 0.76,
+    "change": "+2.70%"
+  },
+  {
+    "ticker": "OAS",
+    "price": 21.5,
+    "change": "+2.38%"
   }
 ]

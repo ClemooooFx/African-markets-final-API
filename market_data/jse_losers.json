@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "CCC",
-    "price": 2.7,
-    "change": "-22.86%"
+    "ticker": "LAB",
+    "price": 0.05,
+    "change": "-16.67%"
   },
   {
     "ticker": "MKR",
-    "price": 30.5,
-    "change": "-18.67%"
+    "price": 32.34,
+    "change": "-13.76%"
   },
   {
     "ticker": "EPS",
@@ -15,18 +15,18 @@
     "change": "-11.88%"
   },
   {
+    "ticker": "CCC",
+    "price": 3.1,
+    "change": "-11.43%"
+  },
+  {
     "ticker": "SDL",
-    "price": 12.25,
-    "change": "-9.19%"
+    "price": 12.23,
+    "change": "-9.34%"
   },
   {
     "ticker": "MCZ",
     "price": 2.74,
     "change": "-8.67%"
-  },
-  {
-    "ticker": "ACS",
-    "price": 7.5,
-    "change": "-7.18%"
   }
 ]

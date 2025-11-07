@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "FIDSON",
+    "price": 37.8,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "BERGER",
     "price": 35.1,
     "change": "-10.00%"
@@ -18,11 +23,6 @@
     "ticker": "CILEASING",
     "price": 5.03,
     "change": "-9.86%"
-  },
-  {
-    "ticker": "CORNERST",
-    "price": 5.41,
-    "change": "-9.83%"
   },
   {
     "ticker": "MECURE",
