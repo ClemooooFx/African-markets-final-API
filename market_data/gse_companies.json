@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "15.0",
+    "volume": "18.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "71804.0",
+    "volume": "73439.0",
     "price": 0.4,
     "change": 0.0
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "3760.0",
+    "volume": "4290.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -142,9 +142,9 @@
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "1.0",
-    "price": 450.0,
-    "change": 0.0
+    "volume": "151.0",
+    "price": 447.0,
+    "change": -3.0
   },
   {
     "ticker": "GOIL",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "106321.0",
+    "volume": "106341.0",
     "price": 4.05,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1011.0",
+    "volume": "1036.0",
     "price": 1.25,
     "change": 0.0
   },

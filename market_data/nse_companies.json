@@ -2,9 +2,9 @@
   {
     "ticker": "ABSA",
     "name": "Absa Bank Kenya Plc",
-    "volume": "256627.0",
-    "price": 26.0,
-    "change": 0.75
+    "volume": "256737.0",
+    "price": 25.8,
+    "change": 0.55
   },
   {
     "ticker": "AMAC",
@@ -30,7 +30,7 @@
   {
     "ticker": "BAT",
     "name": "British American Tobacco Kenya",
-    "volume": "1495.0",
+    "volume": "3161.0",
     "price": 450.0,
     "change": 0.0
   },
@@ -51,7 +51,7 @@
   {
     "ticker": "BRIT",
     "name": "Britam Holdings Limited",
-    "volume": "49464.0",
+    "volume": "49465.0",
     "price": 8.96,
     "change": 0.4
   },
@@ -79,7 +79,7 @@
   {
     "ticker": "CIC",
     "name": "CIC Insurance Group Limited",
-    "volume": "233092.0",
+    "volume": "235833.0",
     "price": 4.8,
     "change": 0.04
   },
@@ -93,9 +93,9 @@
   {
     "ticker": "CRWN",
     "name": "Crown Paints Kenya Limited",
-    "volume": "1883.0",
-    "price": 60.0,
-    "change": 0.5
+    "volume": "1983.0",
+    "price": 59.5,
+    "change": 0.0
   },
   {
     "ticker": "CTUM",
@@ -135,9 +135,9 @@
   {
     "ticker": "EQTY",
     "name": "Equity Group Holdings Limited",
-    "volume": "1791498.0",
-    "price": 70.0,
-    "change": 0.25
+    "volume": "1791843.0",
+    "price": 69.5,
+    "change": -0.25
   },
   {
     "ticker": "EVRD",
@@ -184,9 +184,9 @@
   {
     "ticker": "IMH",
     "name": "I&M Holdings Plc",
-    "volume": "454963.0",
-    "price": 45.9,
-    "change": 0.85
+    "volume": "456039.0",
+    "price": 46.0,
+    "change": 0.95
   },
   {
     "ticker": "JUB",
@@ -198,37 +198,37 @@
   {
     "ticker": "KAPC",
     "name": "Kapchorua Tea Company Limited",
-    "volume": "4394.0",
-    "price": 209.0,
-    "change": -5.25
+    "volume": "4595.0",
+    "price": 207.0,
+    "change": -7.25
   },
   {
     "ticker": "KCB",
     "name": "KCB Group",
-    "volume": "712324.0",
-    "price": 69.75,
-    "change": 0.75
+    "volume": "712469.0",
+    "price": 70.0,
+    "change": 1.0
   },
   {
     "ticker": "KEGN",
     "name": "KenGen Plc",
-    "volume": "1855584.0",
+    "volume": "1856752.0",
     "price": 10.5,
     "change": 0.1
   },
   {
     "ticker": "KNRE",
     "name": "Kenya Re-Insurance Corporation Ltd",
-    "volume": "15767464.0",
+    "volume": "15812357.0",
     "price": 3.19,
     "change": 0.02
   },
   {
     "ticker": "KPLC",
     "name": "Kenya Power & Lighting Company",
-    "volume": "1488461.0",
-    "price": 14.35,
-    "change": 0.2
+    "volume": "1488482.0",
+    "price": 14.4,
+    "change": 0.25
   },
   {
     "ticker": "KPLC-P4",
@@ -247,9 +247,9 @@
   {
     "ticker": "KQ",
     "name": "Kenya Airways Limited",
-    "volume": "352301.0",
-    "price": 3.76,
-    "change": -0.06
+    "volume": "353122.0",
+    "price": 3.77,
+    "change": -0.05
   },
   {
     "ticker": "KUKZ",
@@ -338,9 +338,9 @@
   {
     "ticker": "PORT",
     "name": "East African Portland Cement Co. Ltd",
-    "volume": "1188.0",
-    "price": 61.25,
-    "change": 1.25
+    "volume": "1198.0",
+    "price": 59.5,
+    "change": -0.5
   },
   {
     "ticker": "SASN",
@@ -352,30 +352,30 @@
   {
     "ticker": "SBIC",
     "name": "Stanbic Holdings Limited",
-    "volume": "6389.0",
-    "price": 194.5,
-    "change": 1.5
+    "volume": "6963.0",
+    "price": 195.0,
+    "change": 2.0
   },
   {
     "ticker": "SCAN",
     "name": "ScanGroup Limited",
-    "volume": "37660.0",
-    "price": 2.75,
-    "change": -0.02
+    "volume": "49918.0",
+    "price": 2.56,
+    "change": -0.21
   },
   {
     "ticker": "SCBK",
     "name": "Standard Chartered Bank Limited",
-    "volume": "7965.0",
+    "volume": "7970.0",
     "price": 311.0,
     "change": -1.5
   },
   {
     "ticker": "SCOM",
     "name": "Safaricom Plc",
-    "volume": "2340830.0",
-    "price": 29.5,
-    "change": -0.8
+    "volume": "2345456.0",
+    "price": 29.45,
+    "change": -0.85
   },
   {
     "ticker": "SGL",
@@ -457,7 +457,7 @@
   {
     "ticker": "WTK",
     "name": "Williamson Tea Kenya Limited",
-    "volume": "43029.0",
+    "volume": "43032.0",
     "price": 170.0,
     "change": 0.5
   },
