@@ -1,8 +1,13 @@
 [
   {
+    "ticker": "MCNICHOLS",
+    "price": 3.02,
+    "change": "+9.82%"
+  },
+  {
     "ticker": "ELLAHLAKES",
-    "price": 11.93,
-    "change": "+9.95%"
+    "price": 11.9,
+    "change": "+9.68%"
   },
   {
     "ticker": "RTBRISCOE",
@@ -11,13 +16,8 @@
   },
   {
     "ticker": "CHAMS",
-    "price": 3.23,
-    "change": "+7.31%"
-  },
-  {
-    "ticker": "MCNICHOLS",
-    "price": 2.95,
-    "change": "+7.27%"
+    "price": 3.22,
+    "change": "+6.98%"
   },
   {
     "ticker": "WAPIC",
