@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "23.0",
+    "volume": "68.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "89649.0",
+    "volume": "100665.0",
     "price": 0.4,
     "change": 0.0
   },
@@ -107,14 +107,14 @@
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "",
+    "volume": "7994.0",
     "price": 3.45,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "19183.0",
+    "volume": "19343.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -135,9 +135,9 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "",
+    "volume": "686.0",
     "price": 6.6,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GLD",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "3247487.0",
+    "volume": "3262004.0",
     "price": 4.05,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1626.0",
+    "volume": "1629.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "83.0",
+    "volume": "113.0",
     "price": 40.5,
     "change": 0.0
   },

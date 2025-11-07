@@ -1,27 +1,32 @@
 [
   {
-    "ticker": "STANDARD",
-    "price": 4979.98,
-    "change": "-0.12%"
+    "ticker": "MPICO",
+    "price": 19.53,
+    "change": "-0.05%"
   },
   {
-    "ticker": "NBS",
-    "price": 1022.42,
+    "ticker": "TNM",
+    "price": 31.72,
+    "change": "-0.03%"
+  },
+  {
+    "ticker": "AIRTEL",
+    "price": 129.97,
     "change": "-0.02%"
   },
   {
-    "ticker": "PCL",
-    "price": 8728.58,
-    "change": "-0.00%"
+    "ticker": "STANDARD",
+    "price": 4979.29,
+    "change": "-0.01%"
   },
   {
-    "ticker": "NITL",
-    "price": 3939.98,
-    "change": "-0.00%"
+    "ticker": "NBS",
+    "price": 1022.32,
+    "change": "-0.01%"
   },
   {
-    "ticker": "NICO",
-    "price": 1739.77,
-    "change": "-0.00%"
+    "ticker": "FDHB",
+    "price": 637.55,
+    "change": "-0.01%"
   }
 ]

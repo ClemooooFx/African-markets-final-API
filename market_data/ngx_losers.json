@@ -5,11 +5,6 @@
     "change": "-10.00%"
   },
   {
-    "ticker": "TIP",
-    "price": 10.71,
-    "change": "-10.00%"
-  },
-  {
     "ticker": "CILEASING",
     "price": 5.03,
     "change": "-9.86%"
@@ -20,13 +15,18 @@
     "change": "-9.77%"
   },
   {
+    "ticker": "CHAMPION",
+    "price": 13.0,
+    "change": "-9.72%"
+  },
+  {
+    "ticker": "TIP",
+    "price": 10.75,
+    "change": "-9.66%"
+  },
+  {
     "ticker": "INTENEGINS",
     "price": 2.44,
     "change": "-9.63%"
-  },
-  {
-    "ticker": "MULTIVERSE",
-    "price": 11.75,
-    "change": "-9.62%"
   }
 ]
