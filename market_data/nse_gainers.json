@@ -1,23 +1,18 @@
 [
   {
-    "ticker": "SMWF",
-    "price": 1050.0,
-    "change": "+27.74%"
-  },
-  {
     "ticker": "AMAC",
     "price": 65.0,
     "change": "+8.79%"
   },
   {
-    "ticker": "BOC",
-    "price": 139.5,
-    "change": "+8.77%"
-  },
-  {
     "ticker": "SCAN",
     "price": 2.9,
     "change": "+4.69%"
+  },
+  {
+    "ticker": "BRIT",
+    "price": 8.96,
+    "change": "+4.67%"
   },
   {
     "ticker": "NCBA",
@@ -26,7 +21,12 @@
   },
   {
     "ticker": "NSE",
-    "price": 21.0,
-    "change": "+3.96%"
+    "price": 20.95,
+    "change": "+3.71%"
+  },
+  {
+    "ticker": "KCB",
+    "price": 71.5,
+    "change": "+3.62%"
   }
 ]
