@@ -3,5 +3,10 @@
     "ticker": "GLD",
     "price": 447.0,
     "change": "-0.67%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

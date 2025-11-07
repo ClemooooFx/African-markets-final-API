@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "AMAC",
-    "price": 65.5,
-    "change": "+9.62%"
-  },
-  {
     "ticker": "TPSE",
     "price": 17.0,
     "change": "+8.97%"
   },
   {
-    "ticker": "GLD",
-    "price": 5190.0,
-    "change": "+5.38%"
+    "ticker": "COOP",
+    "price": 22.9,
+    "change": "+3.85%"
+  },
+  {
+    "ticker": "CTUM",
+    "price": 16.4,
+    "change": "+3.80%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 411.75,
+    "change": "+2.87%"
   },
   {
     "ticker": "BRIT",
-    "price": 8.98,
-    "change": "+4.91%"
+    "price": 8.8,
+    "change": "+2.80%"
   },
   {
-    "ticker": "COOP",
-    "price": 23.0,
-    "change": "+4.31%"
-  },
-  {
-    "ticker": "NSE",
-    "price": 21.0,
-    "change": "+3.96%"
+    "ticker": "ABSA",
+    "price": 25.85,
+    "change": "+2.38%"
   }
 ]

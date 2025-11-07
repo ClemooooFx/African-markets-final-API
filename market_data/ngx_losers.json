@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "FIDSON",
-    "price": 37.8,
-    "change": "-10.00%"
-  },
-  {
     "ticker": "BERGER",
     "price": 35.1,
     "change": "-10.00%"
@@ -28,5 +23,10 @@
     "ticker": "MECURE",
     "price": 27.7,
     "change": "-9.77%"
+  },
+  {
+    "ticker": "MULTIVERSE",
+    "price": 11.75,
+    "change": "-9.62%"
   }
 ]
