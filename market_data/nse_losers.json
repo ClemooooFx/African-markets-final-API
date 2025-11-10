@@ -6,8 +6,13 @@
   },
   {
     "ticker": "CTUM",
-    "price": 15.35,
-    "change": "-6.40%"
+    "price": 15.75,
+    "change": "-3.96%"
+  },
+  {
+    "ticker": "FTGH",
+    "price": 1.75,
+    "change": "-3.31%"
   },
   {
     "ticker": "EGAD",
@@ -15,18 +20,13 @@
     "change": "-3.23%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.5,
-    "change": "-3.23%"
+    "ticker": "SMER",
+    "price": 14.65,
+    "change": "-2.01%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.6,
-    "change": "-2.93%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.76,
-    "change": "-2.76%"
+    "ticker": "KCB",
+    "price": 68.75,
+    "change": "-1.79%"
   }
 ]
