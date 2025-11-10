@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "TANTALIZER",
+    "price": 2.2,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "NEIMETH",
     "price": 5.7,
     "change": "+9.62%"
@@ -10,23 +15,18 @@
     "change": "+8.70%"
   },
   {
-    "ticker": "FIRSTHOLDCO",
-    "price": 32.95,
-    "change": "+4.60%"
+    "ticker": "GUINEAINS",
+    "price": 1.24,
+    "change": "+7.83%"
   },
   {
-    "ticker": "CHAMPION",
-    "price": 13.5,
-    "change": "+3.85%"
+    "ticker": "ASOSAVINGS",
+    "price": 0.95,
+    "change": "+5.56%"
   },
   {
-    "ticker": "STERLINGNG",
-    "price": 7.7,
-    "change": "+2.67%"
-  },
-  {
-    "ticker": "JAIZBANK",
-    "price": 4.6,
-    "change": "+2.00%"
+    "ticker": "WEMABANK",
+    "price": 19.85,
+    "change": "+5.31%"
   }
 ]

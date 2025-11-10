@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "AMAC",
+    "price": 71.75,
+    "change": "+9.96%"
+  },
+  {
     "ticker": "SKL",
     "price": 8.2,
     "change": "+9.63%"
@@ -23,10 +28,5 @@
     "ticker": "CARB",
     "price": 31.5,
     "change": "+2.77%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 7.74,
-    "change": "+2.38%"
   }
 ]
