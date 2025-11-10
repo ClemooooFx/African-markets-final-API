@@ -1,13 +1,8 @@
 [
   {
-    "ticker": "UCHM",
-    "price": 0.36,
-    "change": "-7.69%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 55.5,
-    "change": "-7.50%"
+    "ticker": "UNGA",
+    "price": 22.5,
+    "change": "-7.98%"
   },
   {
     "ticker": "SCAN",
@@ -20,13 +15,18 @@
     "change": "-4.55%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.5,
-    "change": "-4.06%"
-  },
-  {
     "ticker": "KAPC",
     "price": 203.0,
     "change": "-3.45%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.5,
+    "change": "-3.01%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 25.2,
+    "change": "-2.51%"
   }
 ]
