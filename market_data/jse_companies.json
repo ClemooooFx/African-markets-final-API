@@ -1045,16 +1045,16 @@
   {
     "ticker": "FNB500",
     "name": "FNB S&P 500 Feeder ETF",
-    "volume": "695.0",
-    "price": 113.35,
-    "change": -1.75
+    "volume": "175.0",
+    "price": 113.87,
+    "change": 0.52
   },
   {
     "ticker": "FNBEMG",
     "name": "FNB MSCI EM Feeder ETF",
-    "volume": "2521.0",
+    "volume": "",
     "price": 73.45,
-    "change": -1.37
+    "change": NaN
   },
   {
     "ticker": "FNBEQF",
@@ -1066,37 +1066,37 @@
   {
     "ticker": "FNBINF",
     "name": "FNB Government Inflation Bond ETF",
-    "volume": "275.0",
+    "volume": "193.0",
     "price": 25.7,
     "change": 0.0
   },
   {
     "ticker": "FNBMID",
     "name": "FNB Mid Cap ETF",
-    "volume": "28299.0",
-    "price": 10.24,
-    "change": -0.13
+    "volume": "40.0",
+    "price": 10.53,
+    "change": 0.29
   },
   {
     "ticker": "FNBT40",
     "name": "FNB Top 40 ETF",
-    "volume": "58628.0",
-    "price": 101.6,
-    "change": -1.51
+    "volume": "1103.0",
+    "price": 103.8,
+    "change": 2.2
   },
   {
     "ticker": "FNBWDM",
     "name": "FNB MSCI World Feeder ETF",
-    "volume": "4.0",
-    "price": 21.19,
-    "change": -0.36
+    "volume": "244.0",
+    "price": 21.48,
+    "change": 0.29
   },
   {
     "ticker": "FNBWGB",
     "name": "FNB World Government Bond ETF",
-    "volume": "18517.0",
-    "price": 6.99,
-    "change": 0.0
+    "volume": "111.0",
+    "price": 6.87,
+    "change": -0.12
   },
   {
     "ticker": "FSR",

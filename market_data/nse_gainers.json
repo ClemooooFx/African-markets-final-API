@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "SKL",
+    "price": 8.18,
+    "change": "+9.36%"
+  },
+  {
     "ticker": "GLD",
     "price": 5350.0,
     "change": "+7.43%"
@@ -20,13 +25,8 @@
     "change": "+3.85%"
   },
   {
-    "ticker": "BRIT",
-    "price": 9.0,
-    "change": "+2.27%"
-  },
-  {
-    "ticker": "NCBA",
-    "price": 86.75,
-    "change": "+2.06%"
+    "ticker": "HAFR",
+    "price": 1.19,
+    "change": "+2.59%"
   }
 ]

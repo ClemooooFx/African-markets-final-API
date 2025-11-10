@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "UNGA",
-    "price": 22.5,
-    "change": "-7.98%"
+    "ticker": "UCHM",
+    "price": 0.36,
+    "change": "-7.69%"
   },
   {
     "ticker": "CRWN",
@@ -15,6 +15,11 @@
     "change": "-5.07%"
   },
   {
+    "ticker": "EVRD",
+    "price": 1.26,
+    "change": "-4.55%"
+  },
+  {
     "ticker": "SLAM",
     "price": 8.5,
     "change": "-4.06%"
@@ -23,10 +28,5 @@
     "ticker": "KAPC",
     "price": 203.0,
     "change": "-3.45%"
-  },
-  {
-    "ticker": "BOC",
-    "price": 126.0,
-    "change": "-2.89%"
   }
 ]
