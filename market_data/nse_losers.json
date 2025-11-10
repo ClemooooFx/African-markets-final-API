@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "UNGA",
-    "price": 22.5,
-    "change": "-7.98%"
-  },
-  {
     "ticker": "CRWN",
     "price": 56.0,
     "change": "-6.67%"
@@ -15,13 +10,18 @@
     "change": "-3.66%"
   },
   {
-    "ticker": "HAFR",
-    "price": 1.12,
-    "change": "-3.45%"
+    "ticker": "EGAD",
+    "price": 19.5,
+    "change": "-3.23%"
   },
   {
     "ticker": "TOTL",
     "price": 43.5,
+    "change": "-3.01%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.5,
     "change": "-3.01%"
   },
   {

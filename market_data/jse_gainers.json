@@ -1,8 +1,8 @@
 [
   {
     "ticker": "EUZ",
-    "price": 1.03,
-    "change": "+87.27%"
+    "price": 1.35,
+    "change": "+145.45%"
   },
   {
     "ticker": "ISO",
@@ -20,13 +20,13 @@
     "change": "+11.59%"
   },
   {
+    "ticker": "DLT",
+    "price": 0.32,
+    "change": "+10.34%"
+  },
+  {
     "ticker": "TKG",
     "price": 49.77,
     "change": "+6.46%"
-  },
-  {
-    "ticker": "DRD",
-    "price": 47.94,
-    "change": "+6.32%"
   }
 ]
