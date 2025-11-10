@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "ASOSAVINGS",
+    "price": 0.99,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "DEAPCAP",
     "price": 1.9,
     "change": "+9.83%"
-  },
-  {
-    "ticker": "ASOSAVINGS",
-    "price": 0.98,
-    "change": "+8.89%"
   },
   {
     "ticker": "CORNERST",
@@ -20,13 +20,13 @@
     "change": "+8.65%"
   },
   {
+    "ticker": "JAPAULGOLD",
+    "price": 2.23,
+    "change": "+6.70%"
+  },
+  {
     "ticker": "WEMABANK",
     "price": 19.85,
     "change": "+5.31%"
-  },
-  {
-    "ticker": "IKEJAHOTEL",
-    "price": 18.0,
-    "change": "+4.05%"
   }
 ]

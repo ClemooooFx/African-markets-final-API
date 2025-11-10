@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "222182.0",
+    "volume": "227130.0",
     "price": 0.36,
     "change": -0.04
   },
@@ -86,9 +86,9 @@
   {
     "ticker": "DASPHARMA",
     "name": "Dannex Ayrton Starwin Plc",
-    "volume": "",
+    "volume": "15.0",
     "price": 0.38,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "DIGICUT",
@@ -114,37 +114,37 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "7531.0",
+    "volume": "7657.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "200.0",
+    "volume": "651.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "181.0",
+    "volume": "206.0",
     "price": 17.82,
     "change": 0.0
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "4476.0",
+    "volume": "4489.0",
     "price": 6.6,
     "change": 0.0
   },
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "",
+    "volume": "31.0",
     "price": 447.13,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GOIL",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "174969.0",
-    "price": 4.05,
-    "change": 0.0
+    "volume": "382967.0",
+    "price": 4.0,
+    "change": -0.05
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "8029.0",
+    "volume": "8033.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "7249.0",
+    "volume": "7537.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "303.0",
+    "volume": "385.0",
     "price": 40.5,
     "change": 0.0
   },
