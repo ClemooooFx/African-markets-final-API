@@ -1,12 +1,32 @@
 [
   {
-    "ticker": "GLD",
-    "price": 447.13,
-    "change": "-0.64%"
+    "ticker": "CAL",
+    "price": 0.37,
+    "change": "-7.50%"
   },
   {
-    "ticker": "ACCESS",
-    "price": 16.19,
-    "change": "-0.06%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
