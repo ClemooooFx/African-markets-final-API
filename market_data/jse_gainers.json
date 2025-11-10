@@ -1,18 +1,23 @@
 [
   {
     "ticker": "EUZ",
-    "price": 1.18,
-    "change": "+114.55%"
+    "price": 1.03,
+    "change": "+87.27%"
   },
   {
     "ticker": "ISO",
-    "price": 158.02,
-    "change": "+19.71%"
+    "price": 160.0,
+    "change": "+21.21%"
   },
   {
     "ticker": "REN",
     "price": 13.01,
     "change": "+11.67%"
+  },
+  {
+    "ticker": "DRD",
+    "price": 47.94,
+    "change": "+6.32%"
   },
   {
     "ticker": "TKG",
@@ -21,12 +26,7 @@
   },
   {
     "ticker": "HAR",
-    "price": 301.16,
-    "change": "+5.88%"
-  },
-  {
-    "ticker": "SSW",
-    "price": 48.34,
-    "change": "+5.78%"
+    "price": 301.71,
+    "change": "+6.07%"
   }
 ]
