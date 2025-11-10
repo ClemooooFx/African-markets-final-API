@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "MPICO",
-    "price": 19.53,
-    "change": "-0.05%"
-  },
-  {
     "ticker": "TNM",
-    "price": 31.72,
-    "change": "-0.03%"
-  },
-  {
-    "ticker": "AIRTEL",
-    "price": 129.97,
-    "change": "-0.02%"
+    "price": 31.67,
+    "change": "-0.16%"
   },
   {
     "ticker": "STANDARD",
-    "price": 4979.29,
-    "change": "-0.01%"
+    "price": 4976.14,
+    "change": "-0.06%"
+  },
+  {
+    "ticker": "MPICO",
+    "price": 19.52,
+    "change": "-0.05%"
+  },
+  {
+    "ticker": "AIRTEL",
+    "price": 129.94,
+    "change": "-0.02%"
   },
   {
     "ticker": "NBS",
-    "price": 1022.32,
+    "price": 1022.2,
     "change": "-0.01%"
   },
   {
     "ticker": "FDHB",
-    "price": 637.55,
+    "price": 637.5,
     "change": "-0.01%"
   }
 ]
