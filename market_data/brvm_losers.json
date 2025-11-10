@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "NTLC",
-    "price": 10340.0,
-    "change": "-7.47%"
-  },
-  {
-    "ticker": "BNBC",
-    "price": 1430.0,
-    "change": "-7.44%"
-  },
-  {
     "ticker": "SAFC",
-    "price": 2450.0,
-    "change": "-7.37%"
+    "price": 2270.0,
+    "change": "-7.35%"
   },
   {
     "ticker": "CFAC",
-    "price": 1700.0,
-    "change": "-7.36%"
+    "price": 1575.0,
+    "change": "-7.35%"
   },
   {
-    "ticker": "STAC",
-    "price": 925.0,
-    "change": "-7.04%"
+    "ticker": "BNBC",
+    "price": 1325.0,
+    "change": "-7.34%"
   },
   {
-    "ticker": "LNBB",
-    "price": 3715.0,
-    "change": "-4.74%"
+    "ticker": "NEIC",
+    "price": 1015.0,
+    "change": "-7.31%"
+  },
+  {
+    "ticker": "ORAC",
+    "price": 14155.0,
+    "change": "-3.08%"
+  },
+  {
+    "ticker": "BOAN",
+    "price": 2500.0,
+    "change": "-2.34%"
   }
 ]
