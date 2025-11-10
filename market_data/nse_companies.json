@@ -2,9 +2,9 @@
   {
     "ticker": "ABSA",
     "name": "Absa Bank Kenya Plc",
-    "volume": "8045.0",
-    "price": 25.85,
-    "change": 0.0
+    "volume": "16444.0",
+    "price": 25.1,
+    "change": -0.75
   },
   {
     "ticker": "AMAC",
@@ -30,28 +30,28 @@
   {
     "ticker": "BAT",
     "name": "British American Tobacco Kenya",
-    "volume": "34.0",
-    "price": 449.5,
-    "change": -0.5
+    "volume": "364.0",
+    "price": 441.25,
+    "change": -8.75
   },
   {
     "ticker": "BKG",
     "name": "BK Group Plc",
-    "volume": "48.0",
-    "price": 42.9,
-    "change": 0.1
+    "volume": "49.0",
+    "price": 42.5,
+    "change": -0.3
   },
   {
     "ticker": "BOC",
     "name": "BOC Kenya Limited",
-    "volume": "",
-    "price": 129.75,
-    "change": NaN
+    "volume": "40.0",
+    "price": 126.0,
+    "change": -3.75
   },
   {
     "ticker": "BRIT",
     "name": "Britam Holdings Limited",
-    "volume": "9394.0",
+    "volume": "20384.0",
     "price": 9.0,
     "change": 0.2
   },
@@ -65,7 +65,7 @@
   {
     "ticker": "CARB",
     "name": "Carbacid Investments Limited",
-    "volume": "42860.0",
+    "volume": "48258.0",
     "price": 31.0,
     "change": 0.35
   },
@@ -79,16 +79,16 @@
   {
     "ticker": "CIC",
     "name": "CIC Insurance Group Limited",
-    "volume": "38689.0",
-    "price": 4.79,
-    "change": 0.0
+    "volume": "87540.0",
+    "price": 4.73,
+    "change": -0.06
   },
   {
     "ticker": "COOP",
     "name": "Co-operative Bank of Kenya Limited",
-    "volume": "10115.0",
-    "price": 23.5,
-    "change": 0.6
+    "volume": "28451.0",
+    "price": 23.2,
+    "change": 0.3
   },
   {
     "ticker": "CRWN",
@@ -100,9 +100,9 @@
   {
     "ticker": "CTUM",
     "name": "Centum Investment Company",
-    "volume": "303.0",
-    "price": 16.2,
-    "change": -0.2
+    "volume": "7306.0",
+    "price": 16.4,
+    "change": 0.0
   },
   {
     "ticker": "DCON",
@@ -114,14 +114,14 @@
   {
     "ticker": "DTK",
     "name": "Diamond Trust Bank Kenya Limited",
-    "volume": "1520.0",
+    "volume": "1977.0",
     "price": 115.25,
     "change": 0.0
   },
   {
     "ticker": "EABL",
     "name": "East African Breweries Limited",
-    "volume": "131.0",
+    "volume": "229.0",
     "price": 247.0,
     "change": 1.75
   },
@@ -135,9 +135,9 @@
   {
     "ticker": "EQTY",
     "name": "Equity Group Holdings Limited",
-    "volume": "4147.0",
-    "price": 70.0,
-    "change": 0.25
+    "volume": "7586.0",
+    "price": 69.5,
+    "change": -0.25
   },
   {
     "ticker": "EVRD",
@@ -149,9 +149,9 @@
   {
     "ticker": "FTGH",
     "name": "Flame Tree Group Holdings Limited",
-    "volume": "1708.0",
-    "price": 1.76,
-    "change": -0.05
+    "volume": "1956.0",
+    "price": 1.81,
+    "change": 0.0
   },
   {
     "ticker": "GLD",
@@ -163,9 +163,9 @@
   {
     "ticker": "HAFR",
     "name": "Home Afrika Limited",
-    "volume": "11889.0",
-    "price": 1.16,
-    "change": 0.0
+    "volume": "15551.0",
+    "price": 1.19,
+    "change": 0.03
   },
   {
     "ticker": "HBE",
@@ -177,58 +177,58 @@
   {
     "ticker": "HFCK",
     "name": "HF Group Limited",
-    "volume": "7376.0",
-    "price": 10.8,
-    "change": -0.05
+    "volume": "7822.0",
+    "price": 10.85,
+    "change": 0.0
   },
   {
     "ticker": "IMH",
     "name": "I&M Holdings Plc",
-    "volume": "10770.0",
+    "volume": "13359.0",
     "price": 46.0,
     "change": 0.05
   },
   {
     "ticker": "JUB",
     "name": "Jubilee Holdings Limited",
-    "volume": "123.0",
-    "price": 325.0,
-    "change": 1.25
+    "volume": "1053.0",
+    "price": 320.0,
+    "change": -3.75
   },
   {
     "ticker": "KAPC",
     "name": "Kapchorua Tea Company Limited",
-    "volume": "280.0",
-    "price": 210.0,
-    "change": -0.25
+    "volume": "540.0",
+    "price": 203.0,
+    "change": -7.25
   },
   {
     "ticker": "KCB",
     "name": "KCB Group",
-    "volume": "6349.0",
-    "price": 70.0,
-    "change": 0.0
+    "volume": "24934.0",
+    "price": 69.0,
+    "change": -1.0
   },
   {
     "ticker": "KEGN",
     "name": "KenGen Plc",
-    "volume": "102309.0",
+    "volume": "169273.0",
     "price": 10.5,
     "change": 0.0
   },
   {
     "ticker": "KNRE",
     "name": "Kenya Re-Insurance Corporation Ltd",
-    "volume": "424860.0",
+    "volume": "1074659.0",
     "price": 3.25,
     "change": 0.04
   },
   {
     "ticker": "KPLC",
     "name": "Kenya Power & Lighting Company",
-    "volume": "287931.0",
-    "price": 14.5,
-    "change": 0.1
+    "volume": "606291.0",
+    "price": 14.3,
+    "change": -0.1
   },
   {
     "ticker": "KPLC-P4",
@@ -247,16 +247,16 @@
   {
     "ticker": "KQ",
     "name": "Kenya Airways Limited",
-    "volume": "5339.0",
-    "price": 3.78,
-    "change": 0.01
+    "volume": "9539.0",
+    "price": 3.81,
+    "change": 0.04
   },
   {
     "ticker": "KUKZ",
     "name": "Kakuzi Limited",
-    "volume": "",
-    "price": 400.25,
-    "change": NaN
+    "volume": "6.0",
+    "price": 400.0,
+    "change": -0.25
   },
   {
     "ticker": "KURV",
@@ -275,9 +275,9 @@
   {
     "ticker": "LBTY",
     "name": "Liberty Kenya Holdings Limited",
-    "volume": "2827.0",
-    "price": 10.5,
-    "change": 0.05
+    "volume": "3070.0",
+    "price": 10.45,
+    "change": 0.0
   },
   {
     "ticker": "LIMT",
@@ -289,7 +289,7 @@
   {
     "ticker": "LKL",
     "name": "Longhorn Publishers Limited",
-    "volume": "634.0",
+    "volume": "1081.0",
     "price": 2.9,
     "change": -0.02
   },
@@ -303,14 +303,14 @@
   {
     "ticker": "NBV",
     "name": "Nairobi Business Ventures Ltd",
-    "volume": "21206.0",
-    "price": 1.54,
-    "change": 0.04
+    "volume": "71917.0",
+    "price": 1.5,
+    "change": 0.0
   },
   {
     "ticker": "NCBA",
     "name": "NCBA Group Plc",
-    "volume": "2748.0",
+    "volume": "3255.0",
     "price": 86.0,
     "change": 1.0
   },
@@ -324,65 +324,65 @@
   {
     "ticker": "NSE",
     "name": "Nairobi Securities Exchange Limited",
-    "volume": "17341.0",
+    "volume": "23572.0",
     "price": 20.65,
     "change": 0.0
   },
   {
     "ticker": "OCH",
     "name": "Olympia Capital Holdings Limited",
-    "volume": "18.0",
+    "volume": "118.0",
     "price": 7.5,
     "change": 0.0
   },
   {
     "ticker": "PORT",
     "name": "East African Portland Cement Co. Ltd",
-    "volume": "",
-    "price": 60.5,
-    "change": NaN
+    "volume": "1.0",
+    "price": 59.5,
+    "change": -1.0
   },
   {
     "ticker": "SASN",
     "name": "Sasini Tea and Coffee Limited",
-    "volume": "900.0",
+    "volume": "925.0",
     "price": 19.0,
     "change": 0.0
   },
   {
     "ticker": "SBIC",
     "name": "Stanbic Holdings Limited",
-    "volume": "1413.0",
+    "volume": "2420.0",
     "price": 195.0,
     "change": 0.25
   },
   {
     "ticker": "SCAN",
     "name": "ScanGroup Limited",
-    "volume": "740.0",
-    "price": 2.9,
-    "change": 0.14
+    "volume": "1791.0",
+    "price": 2.6,
+    "change": -0.16
   },
   {
     "ticker": "SCBK",
     "name": "Standard Chartered Bank Limited",
-    "volume": "53.0",
+    "volume": "166.0",
     "price": 311.0,
     "change": -0.5
   },
   {
     "ticker": "SCOM",
     "name": "Safaricom Plc",
-    "volume": "19735.0",
-    "price": 29.5,
-    "change": 0.0
+    "volume": "64646.0",
+    "price": 29.45,
+    "change": -0.05
   },
   {
     "ticker": "SGL",
     "name": "Standard Group Limited",
-    "volume": "",
-    "price": 6.02,
-    "change": NaN
+    "volume": "86.0",
+    "price": 5.44,
+    "change": -0.58
   },
   {
     "ticker": "SKL",
@@ -394,23 +394,23 @@
   {
     "ticker": "SLAM",
     "name": "Sanlam Kenya Plc",
-    "volume": "15.0",
+    "volume": "16.0",
     "price": 8.86,
     "change": 0.0
   },
   {
     "ticker": "SMER",
     "name": "Sameer Africa Plc",
-    "volume": "985.0",
-    "price": 14.9,
-    "change": -0.05
+    "volume": "1257.0",
+    "price": 14.8,
+    "change": -0.15
   },
   {
     "ticker": "SMWF",
     "name": "Satrix MSCI World Feeder ETF",
-    "volume": "3.0",
-    "price": 900.0,
-    "change": 54.0
+    "volume": "5.0",
+    "price": 895.0,
+    "change": 49.0
   },
   {
     "ticker": "TCL",
@@ -422,49 +422,49 @@
   {
     "ticker": "TOTL",
     "name": "Total Kenya Limited",
-    "volume": "14.0",
-    "price": 45.0,
-    "change": 0.15
+    "volume": "2100.0",
+    "price": 44.5,
+    "change": -0.35
   },
   {
     "ticker": "TPSE",
     "name": "TPS Eastern Africa Serena Limited",
-    "volume": "",
+    "volume": "22.0",
     "price": 17.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "UCHM",
     "name": "Uchumi Supermarket Limited",
-    "volume": "11667.0",
+    "volume": "11957.0",
     "price": 0.39,
     "change": 0.0
   },
   {
     "ticker": "UMME",
     "name": "Umeme Limited",
-    "volume": "11675.0",
-    "price": 7.8,
-    "change": 0.24
+    "volume": "12875.0",
+    "price": 7.6,
+    "change": 0.04
   },
   {
     "ticker": "UNGA",
     "name": "Unga Group Limited",
-    "volume": "100.0",
-    "price": 23.0,
-    "change": -1.45
+    "volume": "335.0",
+    "price": 22.5,
+    "change": -1.95
   },
   {
     "ticker": "WTK",
     "name": "Williamson Tea Kenya Limited",
-    "volume": "9.0",
+    "volume": "126.0",
     "price": 170.0,
     "change": 5.25
   },
   {
     "ticker": "XPRS",
     "name": "Express Kenya Limited",
-    "volume": "350.0",
+    "volume": "370.0",
     "price": 7.18,
     "change": 0.24
   }

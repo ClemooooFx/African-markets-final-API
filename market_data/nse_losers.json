@@ -1,13 +1,23 @@
 [
   {
+    "ticker": "SGL",
+    "price": 5.44,
+    "change": "-9.63%"
+  },
+  {
+    "ticker": "UNGA",
+    "price": 22.5,
+    "change": "-7.98%"
+  },
+  {
     "ticker": "CRWN",
     "price": 55.5,
     "change": "-7.50%"
   },
   {
-    "ticker": "UNGA",
-    "price": 23.0,
-    "change": "-5.93%"
+    "ticker": "SCAN",
+    "price": 2.6,
+    "change": "-5.80%"
   },
   {
     "ticker": "EVRD",
@@ -15,18 +25,8 @@
     "change": "-5.30%"
   },
   {
-    "ticker": "FTGH",
-    "price": 1.76,
-    "change": "-2.76%"
-  },
-  {
-    "ticker": "CGEN",
-    "price": 57.5,
-    "change": "-1.29%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 16.2,
-    "change": "-1.22%"
+    "ticker": "KAPC",
+    "price": 203.0,
+    "change": "-3.45%"
   }
 ]
