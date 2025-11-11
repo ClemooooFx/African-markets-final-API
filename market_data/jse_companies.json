@@ -765,9 +765,9 @@
   {
     "ticker": "DSBP",
     "name": "Discovery B Preference Shares",
-    "volume": "",
-    "price": 125.0,
-    "change": NaN
+    "volume": "660.0",
+    "price": 125.01,
+    "change": 0.01
   },
   {
     "ticker": "DSY",
@@ -1185,9 +1185,9 @@
   {
     "ticker": "GNDP",
     "name": "Grindrod Ltd Pref",
-    "volume": "",
+    "volume": "6300.0",
     "price": 100.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GPL",
@@ -1199,9 +1199,9 @@
   {
     "ticker": "GRSP",
     "name": "Goldrush Holdings Ltd",
-    "volume": "",
+    "volume": "14000.0",
     "price": 6.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GRT",
@@ -1325,9 +1325,9 @@
   {
     "ticker": "INPR",
     "name": "Investec Ltd Preference Shares",
-    "volume": "",
-    "price": 101.25,
-    "change": NaN
+    "volume": "500.0",
+    "price": 100.0,
+    "change": -1.25
   },
   {
     "ticker": "IOC",
@@ -2193,9 +2193,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "",
-    "price": 99.58,
-    "change": NaN
+    "volume": "11301.0",
+    "price": 99.84,
+    "change": 0.26
   },
   {
     "ticker": "SCD",
@@ -2333,9 +2333,9 @@
   {
     "ticker": "SPP",
     "name": "The Spar Group Ltd",
-    "volume": "22672.0",
-    "price": 107.39,
-    "change": 0.39
+    "volume": "55343.0",
+    "price": 107.37,
+    "change": 0.37
   },
   {
     "ticker": "SRE",
@@ -2781,9 +2781,9 @@
   {
     "ticker": "TBS",
     "name": "Tiger Brands Ltd",
-    "volume": "38377.0",
-    "price": 338.08,
-    "change": 0.08
+    "volume": "73644.0",
+    "price": 338.31,
+    "change": 0.31
   },
   {
     "ticker": "TEX",
@@ -2795,9 +2795,9 @@
   {
     "ticker": "TFG",
     "name": "Foschini Group Limited",
-    "volume": "75175.0",
-    "price": 85.45,
-    "change": 0.26
+    "volume": "372174.0",
+    "price": 84.73,
+    "change": -0.46
   },
   {
     "ticker": "TFGP",
@@ -2809,9 +2809,9 @@
   {
     "ticker": "TGA",
     "name": "Thungela Resources Ltd",
-    "volume": "29365.0",
-    "price": 82.18,
-    "change": 0.6
+    "volume": "142342.0",
+    "price": 81.72,
+    "change": 0.14
   },
   {
     "ticker": "THA",
@@ -2823,9 +2823,9 @@
   {
     "ticker": "TKG",
     "name": "Telkom SA SOC Ltd",
-    "volume": "38188.0",
-    "price": 51.1,
-    "change": 0.79
+    "volume": "145360.0",
+    "price": 49.75,
+    "change": -0.56
   },
   {
     "ticker": "TLM",
@@ -2851,9 +2851,9 @@
   {
     "ticker": "TPC",
     "name": "Transpaco Ltd",
-    "volume": "",
+    "volume": "137.0",
     "price": 34.74,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TRL",
@@ -2865,16 +2865,16 @@
   {
     "ticker": "TRU",
     "name": "Truworths Int Ltd",
-    "volume": "123181.0",
-    "price": 53.79,
-    "change": 0.32
+    "volume": "283885.0",
+    "price": 53.3,
+    "change": -0.17
   },
   {
     "ticker": "TSG",
     "name": "Tsogo Sun Gaming Ltd",
-    "volume": "13584.0",
-    "price": 6.9,
-    "change": 0.0
+    "volume": "28233.0",
+    "price": 6.98,
+    "change": 0.08
   },
   {
     "ticker": "TTO",
@@ -2900,30 +2900,30 @@
   {
     "ticker": "VAL",
     "name": "Valterra Platinum Ltd",
-    "volume": "45539.0",
-    "price": 1096.8,
-    "change": -6.81
+    "volume": "98179.0",
+    "price": 1105.16,
+    "change": 1.55
   },
   {
     "ticker": "VIS",
     "name": "Visual International Holdings",
-    "volume": "50000.0",
+    "volume": "1565147.0",
     "price": 0.04,
     "change": 0.0
   },
   {
     "ticker": "VKE",
     "name": "Vukile Property Fund Ltd",
-    "volume": "54181.0",
-    "price": 23.44,
-    "change": -0.08
+    "volume": "235193.0",
+    "price": 23.37,
+    "change": -0.15
   },
   {
     "ticker": "VOD",
     "name": "Vodacom Group Ltd",
-    "volume": "82812.0",
-    "price": 136.89,
-    "change": 0.56
+    "volume": "181092.0",
+    "price": 137.54,
+    "change": 1.21
   },
   {
     "ticker": "VUN",
@@ -2942,16 +2942,16 @@
   {
     "ticker": "WBC",
     "name": "WeBuyCars Holdings Ltd",
-    "volume": "17992.0",
-    "price": 44.24,
-    "change": -0.26
+    "volume": "119391.0",
+    "price": 44.39,
+    "change": -0.11
   },
   {
     "ticker": "WBO",
     "name": "Wilson Bayly Hlm-Ovc Ltd",
-    "volume": "2642.0",
-    "price": 148.23,
-    "change": 0.8
+    "volume": "5851.0",
+    "price": 147.76,
+    "change": 0.33
   },
   {
     "ticker": "WEZ",
@@ -2963,9 +2963,9 @@
   {
     "ticker": "WHL",
     "name": "Woolworths Holdings Ltd",
-    "volume": "112224.0",
-    "price": 53.04,
-    "change": 0.29
+    "volume": "298346.0",
+    "price": 53.1,
+    "change": 0.35
   },
   {
     "ticker": "WNXT40",
@@ -3012,14 +3012,14 @@
   {
     "ticker": "ZED",
     "name": "Zeder Investments Limited",
-    "volume": "1.0",
-    "price": 1.28,
-    "change": -0.05
+    "volume": "2515.0",
+    "price": 1.25,
+    "change": -0.08
   },
   {
     "ticker": "ZZD",
     "name": "Zeda Limited",
-    "volume": "4529.0",
+    "volume": "11601.0",
     "price": 12.22,
     "change": 0.05
   }

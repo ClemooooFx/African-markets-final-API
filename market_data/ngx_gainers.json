@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "NSLTECH",
+    "price": 0.8,
+    "change": "+8.11%"
+  },
+  {
     "ticker": "ELLAHLAKES",
-    "price": 11.98,
-    "change": "+8.42%"
+    "price": 11.5,
+    "change": "+4.07%"
   },
   {
-    "ticker": "REGALINS",
-    "price": 1.17,
-    "change": "+8.33%"
+    "ticker": "TIP",
+    "price": 10.2,
+    "change": "+2.00%"
   },
   {
-    "ticker": "MCNICHOLS",
-    "price": 3.0,
-    "change": "+2.04%"
+    "ticker": "CUTIX",
+    "price": 3.15,
+    "change": "+1.61%"
+  },
+  {
+    "ticker": "ASOSAVINGS",
+    "price": 1.0,
+    "change": "+1.01%"
   },
   {
     "ticker": "VFDGROUP",
     "price": 10.5,
     "change": "+0.96%"
-  },
-  {
-    "ticker": "UCAP",
-    "price": 17.3,
-    "change": "+0.58%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]
