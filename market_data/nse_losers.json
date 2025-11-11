@@ -1,13 +1,23 @@
 [
   {
-    "ticker": "GLD",
-    "price": 4950.0,
-    "change": "-3.98%"
+    "ticker": "EQTY",
+    "price": 65.75,
+    "change": "-4.36%"
   },
   {
-    "ticker": "EQTY",
-    "price": 66.75,
-    "change": "-2.91%"
+    "ticker": "KCB",
+    "price": 66.5,
+    "change": "-4.32%"
+  },
+  {
+    "ticker": "CTUM",
+    "price": 15.35,
+    "change": "-4.06%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 42.4,
+    "change": "-3.64%"
   },
   {
     "ticker": "CRWN",
@@ -15,18 +25,8 @@
     "change": "-2.52%"
   },
   {
-    "ticker": "UMME",
-    "price": 7.5,
-    "change": "-2.34%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 7.1,
-    "change": "-2.20%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 15.65,
-    "change": "-2.19%"
+    "ticker": "LKL",
+    "price": 2.8,
+    "change": "-2.44%"
   }
 ]

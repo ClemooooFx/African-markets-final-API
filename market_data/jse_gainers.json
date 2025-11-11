@@ -5,14 +5,9 @@
     "change": "+19.66%"
   },
   {
-    "ticker": "PMR",
-    "price": 173.28,
-    "change": "+6.80%"
-  },
-  {
     "ticker": "RFG",
-    "price": 23.1,
-    "change": "+6.01%"
+    "price": 23.11,
+    "change": "+6.06%"
   },
   {
     "ticker": "ORN",
@@ -28,5 +23,10 @@
     "ticker": "RMH",
     "price": 0.46,
     "change": "+4.55%"
+  },
+  {
+    "ticker": "PMR",
+    "price": 169.47,
+    "change": "+4.45%"
   }
 ]

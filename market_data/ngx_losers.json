@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "TOTAL",
+    "price": 576.0,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "CUSTODIAN",
+    "price": 34.2,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "WEMABANK",
+    "price": 17.1,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "DEAPCAP",
     "price": 1.71,
     "change": "-10.00%"
   },
   {
-    "ticker": "AFRIPRUD",
-    "price": 12.95,
-    "change": "-9.76%"
+    "ticker": "VERITASKAP",
+    "price": 1.53,
+    "change": "-10.00%"
   },
   {
-    "ticker": "EUNISELL",
-    "price": 64.0,
-    "change": "-9.73%"
-  },
-  {
-    "ticker": "TANTALIZER",
-    "price": 1.81,
-    "change": "-9.50%"
-  },
-  {
-    "ticker": "LIVESTOCK",
-    "price": 6.7,
-    "change": "-9.46%"
-  },
-  {
-    "ticker": "MULTIVERSE",
-    "price": 9.6,
-    "change": "-9.43%"
+    "ticker": "OMATEK",
+    "price": 1.08,
+    "change": "-10.00%"
   }
 ]
