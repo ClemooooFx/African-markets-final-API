@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "CTUM",
-    "price": 15.4,
-    "change": "-3.75%"
-  },
-  {
     "ticker": "XPRS",
     "price": 7.0,
     "change": "-3.58%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.44,
+    "change": "-3.12%"
   },
   {
     "ticker": "CRWN",
@@ -15,9 +15,9 @@
     "change": "-2.52%"
   },
   {
-    "ticker": "UMME",
-    "price": 7.5,
-    "change": "-2.34%"
+    "ticker": "CTUM",
+    "price": 15.65,
+    "change": "-2.19%"
   },
   {
     "ticker": "JUB",
@@ -25,8 +25,8 @@
     "change": "-2.00%"
   },
   {
-    "ticker": "BKG",
-    "price": 42.0,
-    "change": "-1.29%"
+    "ticker": "EQTY",
+    "price": 67.75,
+    "change": "-1.45%"
   }
 ]

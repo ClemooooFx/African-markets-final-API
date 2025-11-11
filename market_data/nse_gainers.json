@@ -5,19 +5,9 @@
     "change": "+8.33%"
   },
   {
-    "ticker": "UNGA",
-    "price": 24.4,
-    "change": "+7.25%"
-  },
-  {
     "ticker": "OCH",
     "price": 7.5,
     "change": "+5.34%"
-  },
-  {
-    "ticker": "SMER",
-    "price": 14.75,
-    "change": "+4.24%"
   },
   {
     "ticker": "CGEN",
@@ -25,8 +15,18 @@
     "change": "+3.90%"
   },
   {
+    "ticker": "SMER",
+    "price": 14.7,
+    "change": "+3.89%"
+  },
+  {
     "ticker": "EGAD",
     "price": 20.4,
     "change": "+3.82%"
+  },
+  {
+    "ticker": "NMG",
+    "price": 13.35,
+    "change": "+3.49%"
   }
 ]
