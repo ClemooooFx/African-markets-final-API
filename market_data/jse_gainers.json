@@ -1,18 +1,8 @@
 [
   {
-    "ticker": "EUZ",
-    "price": 1.36,
-    "change": "+147.27%"
-  },
-  {
     "ticker": "VIS",
     "price": 0.04,
     "change": "+33.33%"
-  },
-  {
-    "ticker": "ISO",
-    "price": 160.31,
-    "change": "+21.45%"
   },
   {
     "ticker": "MKR",
@@ -25,8 +15,18 @@
     "change": "+14.57%"
   },
   {
-    "ticker": "ACL",
-    "price": 1.49,
-    "change": "+11.19%"
+    "ticker": "FGL",
+    "price": 1.39,
+    "change": "+12.10%"
+  },
+  {
+    "ticker": "REN",
+    "price": 12.9,
+    "change": "+10.73%"
+  },
+  {
+    "ticker": "TKG",
+    "price": 50.31,
+    "change": "+7.61%"
   }
 ]

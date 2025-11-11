@@ -1,13 +1,8 @@
 [
   {
-    "ticker": "ISB",
-    "price": 0.68,
-    "change": "-15.00%"
-  },
-  {
-    "ticker": "CAT",
-    "price": 13.01,
-    "change": "-6.34%"
+    "ticker": "ENX",
+    "price": 3.84,
+    "change": "-11.72%"
   },
   {
     "ticker": "SDL",
@@ -15,18 +10,23 @@
     "change": "-6.25%"
   },
   {
-    "ticker": "CPP",
-    "price": 10.86,
-    "change": "-5.24%"
-  },
-  {
     "ticker": "ORN",
     "price": 0.19,
     "change": "-5.00%"
   },
   {
-    "ticker": "FTH",
-    "price": 6.6,
-    "change": "-4.76%"
+    "ticker": "PPE",
+    "price": 2.23,
+    "change": "-3.88%"
+  },
+  {
+    "ticker": "MSP",
+    "price": 20.85,
+    "change": "-2.98%"
+  },
+  {
+    "ticker": "ETFWLD",
+    "price": 106.0,
+    "change": "-2.97%"
   }
 ]
