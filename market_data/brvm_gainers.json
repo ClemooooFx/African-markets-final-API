@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "PALC",
-    "price": 8060.0,
-    "change": "+7.47%"
-  },
-  {
-    "ticker": "SHEC",
-    "price": 1170.0,
-    "change": "+7.34%"
-  },
-  {
     "ticker": "FTSC",
-    "price": 2200.0,
-    "change": "+7.32%"
+    "price": 2365.0,
+    "change": "+7.50%"
+  },
+  {
+    "ticker": "SAFC",
+    "price": 2440.0,
+    "change": "+7.49%"
   },
   {
     "ticker": "UNXC",
-    "price": 1565.0,
-    "change": "+7.19%"
+    "price": 1680.0,
+    "change": "+7.35%"
+  },
+  {
+    "ticker": "CABC",
+    "price": 2050.0,
+    "change": "+7.33%"
+  },
+  {
+    "ticker": "NTLC",
+    "price": 11000.0,
+    "change": "+7.32%"
   },
   {
     "ticker": "STAC",
-    "price": 975.0,
-    "change": "+5.41%"
-  },
-  {
-    "ticker": "SOGC",
-    "price": 7890.0,
-    "change": "+5.20%"
+    "price": 1045.0,
+    "change": "+7.18%"
   }
 ]
