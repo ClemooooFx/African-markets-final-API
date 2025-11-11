@@ -1,13 +1,23 @@
 [
   {
+    "ticker": "SMER",
+    "price": 13.5,
+    "change": "-4.59%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 42.0,
+    "change": "-4.55%"
+  },
+  {
     "ticker": "XPRS",
     "price": 7.0,
     "change": "-3.58%"
   },
   {
-    "ticker": "UMME",
-    "price": 7.44,
-    "change": "-3.12%"
+    "ticker": "WTK",
+    "price": 160.0,
+    "change": "-3.32%"
   },
   {
     "ticker": "CRWN",
@@ -15,18 +25,8 @@
     "change": "-2.52%"
   },
   {
-    "ticker": "CTUM",
-    "price": 15.65,
-    "change": "-2.19%"
-  },
-  {
-    "ticker": "JUB",
-    "price": 318.25,
-    "change": "-2.00%"
-  },
-  {
-    "ticker": "EQTY",
-    "price": 67.75,
-    "change": "-1.45%"
+    "ticker": "UMME",
+    "price": 7.5,
+    "change": "-2.34%"
   }
 ]

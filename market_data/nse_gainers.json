@@ -5,19 +5,9 @@
     "change": "+8.33%"
   },
   {
-    "ticker": "OCH",
-    "price": 7.5,
-    "change": "+5.34%"
-  },
-  {
     "ticker": "CGEN",
     "price": 60.0,
     "change": "+3.90%"
-  },
-  {
-    "ticker": "SMER",
-    "price": 14.7,
-    "change": "+3.89%"
   },
   {
     "ticker": "EGAD",
@@ -28,5 +18,15 @@
     "ticker": "NMG",
     "price": 13.35,
     "change": "+3.49%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 413.0,
+    "change": "+3.19%"
+  },
+  {
+    "ticker": "SKL",
+    "price": 8.2,
+    "change": "+1.99%"
   }
 ]
