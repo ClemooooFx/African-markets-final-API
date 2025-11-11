@@ -1,23 +1,13 @@
 [
   {
-    "ticker": "CTUM",
-    "price": 15.35,
-    "change": "-4.06%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 7.0,
-    "change": "-3.58%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 7.44,
-    "change": "-3.12%"
-  },
-  {
     "ticker": "GLD",
-    "price": 5000.0,
-    "change": "-3.01%"
+    "price": 4950.0,
+    "change": "-3.98%"
+  },
+  {
+    "ticker": "EQTY",
+    "price": 66.75,
+    "change": "-2.91%"
   },
   {
     "ticker": "CRWN",
@@ -25,8 +15,18 @@
     "change": "-2.52%"
   },
   {
-    "ticker": "KCB",
-    "price": 68.0,
-    "change": "-2.16%"
+    "ticker": "UMME",
+    "price": 7.5,
+    "change": "-2.34%"
+  },
+  {
+    "ticker": "XPRS",
+    "price": 7.1,
+    "change": "-2.20%"
+  },
+  {
+    "ticker": "CTUM",
+    "price": 15.65,
+    "change": "-2.19%"
   }
 ]

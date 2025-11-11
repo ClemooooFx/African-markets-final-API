@@ -1416,14 +1416,14 @@
   {
     "ticker": "KIO",
     "name": "Kumba Iron Ore Ltd",
-    "volume": "41192.0",
-    "price": 333.02,
-    "change": -0.56
+    "volume": "47261.0",
+    "price": 333.87,
+    "change": 0.29
   },
   {
     "ticker": "KP2",
     "name": "Kore Potash plc",
-    "volume": "78100.0",
+    "volume": "416550.0",
     "price": 0.71,
     "change": -0.02
   },
@@ -1465,9 +1465,9 @@
   {
     "ticker": "LHC",
     "name": "Life Healthcare Group Holdings",
-    "volume": "438914.0",
-    "price": 11.94,
-    "change": 0.07
+    "volume": "767694.0",
+    "price": 11.93,
+    "change": 0.06
   },
   {
     "ticker": "LSK",
@@ -1479,9 +1479,9 @@
   {
     "ticker": "LTE",
     "name": "Lighthouse Capital Ltd",
-    "volume": "278228.0",
-    "price": 8.09,
-    "change": 0.0
+    "volume": "303158.0",
+    "price": 8.1,
+    "change": 0.01
   },
   {
     "ticker": "LUX",
@@ -1542,16 +1542,16 @@
   {
     "ticker": "MNP",
     "name": "Mondi plc",
-    "volume": "33971.0",
-    "price": 186.68,
-    "change": 1.71
+    "volume": "54341.0",
+    "price": 186.69,
+    "change": 1.72
   },
   {
     "ticker": "MPT",
     "name": "Mpact Limited",
-    "volume": "",
-    "price": 22.07,
-    "change": NaN
+    "volume": "5318.0",
+    "price": 22.05,
+    "change": -0.02
   },
   {
     "ticker": "MRF",
@@ -1563,16 +1563,16 @@
   {
     "ticker": "MRP",
     "name": "Mr Price Group Ltd",
-    "volume": "80439.0",
-    "price": 203.68,
-    "change": 0.68
+    "volume": "134701.0",
+    "price": 203.45,
+    "change": 0.45
   },
   {
     "ticker": "MSP",
     "name": "MAS Real Estate Inc.",
-    "volume": "6.0",
-    "price": 21.49,
-    "change": 0.0
+    "volume": "131.0",
+    "price": 21.4,
+    "change": -0.09
   },
   {
     "ticker": "MST",
@@ -1591,23 +1591,23 @@
   {
     "ticker": "MTH",
     "name": "Motus Holdings Ltd",
-    "volume": "20859.0",
-    "price": 111.06,
-    "change": -0.94
+    "volume": "28882.0",
+    "price": 110.79,
+    "change": -1.21
   },
   {
     "ticker": "MTM",
     "name": "Momentum Met Hldgs Ltd",
-    "volume": "427344.0",
-    "price": 34.07,
-    "change": 0.08
+    "volume": "576861.0",
+    "price": 33.97,
+    "change": -0.02
   },
   {
     "ticker": "MTN",
     "name": "MTN Group Ltd",
-    "volume": "571426.0",
-    "price": 170.94,
-    "change": 2.31
+    "volume": "836505.0",
+    "price": 170.1,
+    "change": 1.47
   },
   {
     "ticker": "MTNZF",
@@ -1633,9 +1633,9 @@
   {
     "ticker": "N91",
     "name": "Ninety One Plc",
-    "volume": "27075.0",
-    "price": 50.1,
-    "change": -0.28
+    "volume": "45292.0",
+    "price": 49.87,
+    "change": -0.51
   },
   {
     "ticker": "NCS",
@@ -1647,9 +1647,9 @@
   {
     "ticker": "NED",
     "name": "Nedbank Group Limited",
-    "volume": "171704.0",
-    "price": 251.55,
-    "change": 1.76
+    "volume": "406470.0",
+    "price": 251.0,
+    "change": 1.21
   },
   {
     "ticker": "NFP",
@@ -1675,16 +1675,16 @@
   {
     "ticker": "NPH",
     "name": "Northam Platinum Holdings",
-    "volume": "241886.0",
-    "price": 279.82,
-    "change": 2.29
+    "volume": "362151.0",
+    "price": 278.0,
+    "change": 0.47
   },
   {
     "ticker": "NPK",
     "name": "Nampak Ltd",
-    "volume": "162.0",
-    "price": 506.0,
-    "change": -0.1
+    "volume": "2779.0",
+    "price": 498.03,
+    "change": -8.07
   },
   {
     "ticker": "NPKP",
@@ -1696,9 +1696,9 @@
   {
     "ticker": "NPN",
     "name": "Naspers Ltd",
-    "volume": "237391.0",
-    "price": 1227.97,
-    "change": -15.88
+    "volume": "401107.0",
+    "price": 1224.48,
+    "change": -19.37
   },
   {
     "ticker": "NPP1",
@@ -1717,16 +1717,16 @@
   {
     "ticker": "NRP",
     "name": "NEPI Rockcastle Plc",
-    "volume": "167120.0",
-    "price": 143.51,
-    "change": 0.21
+    "volume": "384101.0",
+    "price": 142.91,
+    "change": -0.39
   },
   {
     "ticker": "NTC",
     "name": "Netcare Limited",
-    "volume": "244323.0",
-    "price": 14.62,
-    "change": 0.1
+    "volume": "992659.0",
+    "price": 14.41,
+    "change": -0.11
   },
   {
     "ticker": "NTCP",
@@ -1766,9 +1766,9 @@
   {
     "ticker": "NY1",
     "name": "Ninety One Limited",
-    "volume": "19848.0",
-    "price": 49.01,
-    "change": 0.02
+    "volume": "59973.0",
+    "price": 48.58,
+    "change": -0.41
   },
   {
     "ticker": "OAO",
@@ -1794,23 +1794,23 @@
   {
     "ticker": "OCT",
     "name": "OCTODEC INVEST LTD",
-    "volume": "32032.0",
+    "volume": "32582.0",
     "price": 13.2,
     "change": 0.2
   },
   {
     "ticker": "OMN",
     "name": "Omnia Holdings Ltd",
-    "volume": "47209.0",
-    "price": 77.47,
-    "change": 2.43
+    "volume": "63761.0",
+    "price": 77.18,
+    "change": 2.14
   },
   {
     "ticker": "OMU",
     "name": "Old Mutual Limited",
-    "volume": "1022600.0",
-    "price": 13.32,
-    "change": 0.05
+    "volume": "1732694.0",
+    "price": 13.22,
+    "change": -0.05
   },
   {
     "ticker": "ORN",

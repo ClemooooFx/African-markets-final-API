@@ -10,11 +10,6 @@
     "change": "+4.07%"
   },
   {
-    "ticker": "TIP",
-    "price": 10.2,
-    "change": "+2.00%"
-  },
-  {
     "ticker": "CUTIX",
     "price": 3.15,
     "change": "+1.61%"
@@ -28,5 +23,10 @@
     "ticker": "VFDGROUP",
     "price": 10.5,
     "change": "+0.96%"
+  },
+  {
+    "ticker": "GUINEAINS",
+    "price": 1.06,
+    "change": "+0.95%"
   }
 ]

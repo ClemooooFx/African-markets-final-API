@@ -1,28 +1,28 @@
 [
   {
+    "ticker": "UCHM",
+    "price": 0.39,
+    "change": "+8.33%"
+  },
+  {
     "ticker": "CGEN",
     "price": 62.0,
     "change": "+7.36%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.38,
-    "change": "+5.56%"
+    "ticker": "UNGA",
+    "price": 24.4,
+    "change": "+7.25%"
   },
   {
     "ticker": "SMER",
-    "price": 14.9,
-    "change": "+5.30%"
+    "price": 14.8,
+    "change": "+4.59%"
   },
   {
     "ticker": "EGAD",
     "price": 20.4,
     "change": "+3.82%"
-  },
-  {
-    "ticker": "NMG",
-    "price": 13.35,
-    "change": "+3.49%"
   },
   {
     "ticker": "SCAN",
