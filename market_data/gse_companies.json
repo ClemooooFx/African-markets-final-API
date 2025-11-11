@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "446560.0",
+    "volume": "446685.0",
     "price": 0.34,
     "change": -0.02
   },
@@ -121,7 +121,7 @@
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "347.0",
+    "volume": "412.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,16 +135,16 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "312.0",
+    "volume": "3735.0",
     "price": 6.6,
     "change": 0.0
   },
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "",
+    "volume": "12.0",
     "price": 447.13,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GOIL",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "632671.0",
+    "volume": "633146.0",
     "price": 4.0,
     "change": -0.02
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "13894.0",
+    "volume": "13899.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "45911.0",
+    "volume": "45951.0",
     "price": 1.2,
     "change": 0.0
   },
