@@ -5,19 +5,14 @@
     "change": "-4.98%"
   },
   {
-    "ticker": "CTUM",
-    "price": 15.35,
-    "change": "-4.06%"
+    "ticker": "SMER",
+    "price": 13.5,
+    "change": "-4.59%"
   },
   {
     "ticker": "BRIT",
     "price": 8.64,
     "change": "-3.79%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 0.35,
-    "change": "-2.78%"
   },
   {
     "ticker": "CRWN",
@@ -28,5 +23,10 @@
     "ticker": "UMME",
     "price": 7.5,
     "change": "-2.34%"
+  },
+  {
+    "ticker": "JUB",
+    "price": 318.0,
+    "change": "-2.08%"
   }
 ]

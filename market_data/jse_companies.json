@@ -191,9 +191,9 @@
   {
     "ticker": "APACXJ",
     "name": "CoreShares All Asia Actively Managed ETF",
-    "volume": "35941.0",
+    "volume": "",
     "price": 13.28,
-    "change": 0.14
+    "change": NaN
   },
   {
     "ticker": "APF",
@@ -667,37 +667,37 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "177652.0",
-    "price": 11.66,
-    "change": 0.08
+    "volume": "51192.0",
+    "price": 11.63,
+    "change": -0.03
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "23053.0",
-    "price": 116.6,
-    "change": 1.17
+    "volume": "24.0",
+    "price": 116.9,
+    "change": 0.3
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "14577.0",
+    "volume": "",
     "price": 15.66,
-    "change": 0.14
+    "change": NaN
   },
   {
     "ticker": "CSYSB",
     "name": "10X Yield Selected Bond ETF",
-    "volume": "22663.0",
-    "price": 12.71,
-    "change": 0.09
+    "volume": "30.0",
+    "price": 12.78,
+    "change": 0.07
   },
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "97291.0",
-    "price": 43.66,
-    "change": 0.9
+    "volume": "913.0",
+    "price": 43.69,
+    "change": 0.03
   },
   {
     "ticker": "CVW",
@@ -765,9 +765,9 @@
   {
     "ticker": "DSBP",
     "name": "Discovery B Preference Shares",
-    "volume": "499.0",
+    "volume": "",
     "price": 125.0,
-    "change": -1.0
+    "change": NaN
   },
   {
     "ticker": "DSY",
@@ -898,16 +898,16 @@
   {
     "ticker": "ETFEMA",
     "name": "1nvest MSCI EM Asia ETF",
-    "volume": "6743.0",
+    "volume": "",
     "price": 41.81,
-    "change": 1.65
+    "change": NaN
   },
   {
     "ticker": "ETFGGB",
     "name": "1nvest G7 Govt Bond ETF",
-    "volume": "838.0",
+    "volume": "",
     "price": 78.36,
-    "change": -0.58
+    "change": NaN
   },
   {
     "ticker": "ETFGLD",
@@ -919,9 +919,9 @@
   {
     "ticker": "ETFGRE",
     "name": "1nvest Global REIT ETF",
-    "volume": "12209.0",
+    "volume": "",
     "price": 21.91,
-    "change": -0.07
+    "change": NaN
   },
   {
     "ticker": "ETFPLD",
@@ -968,9 +968,9 @@
   {
     "ticker": "ETFSWX",
     "name": "1nvest SWIX 40 ETF",
-    "volume": "34209.0",
-    "price": 28.84,
-    "change": 0.58
+    "volume": "83.0",
+    "price": 28.87,
+    "change": 0.03
   },
   {
     "ticker": "ETFT40",
@@ -989,9 +989,9 @@
   {
     "ticker": "ETFWLD",
     "name": "1nvest MSCI World ETF",
-    "volume": "1899.0",
-    "price": 109.25,
-    "change": 1.08
+    "volume": "400.0",
+    "price": 106.0,
+    "change": -3.25
   },
   {
     "ticker": "EUZ",
@@ -1150,23 +1150,23 @@
   {
     "ticker": "GLOBAL",
     "name": "10X Total World Stock Feeder ETF",
-    "volume": "981338.0",
+    "volume": "250.0",
     "price": 17.3,
-    "change": 0.2
+    "change": 0.0
   },
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "149704.0",
-    "price": 19.7,
-    "change": -0.06
+    "volume": "3730.0",
+    "price": 19.57,
+    "change": -0.13
   },
   {
     "ticker": "GLPROP",
     "name": "10X S&P Global Property ETF",
-    "volume": "1411.0",
-    "price": 46.64,
-    "change": -0.24
+    "volume": "37.0",
+    "price": 46.91,
+    "change": 0.27
   },
   {
     "ticker": "GML",
@@ -1199,9 +1199,9 @@
   {
     "ticker": "GRSP",
     "name": "Goldrush Holdings Ltd",
-    "volume": "11000.0",
+    "volume": "",
     "price": 6.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GRT",
@@ -1290,9 +1290,9 @@
   {
     "ticker": "INCOME",
     "name": "CoreShares Income Actively Managed ETF",
-    "volume": "29845.0",
+    "volume": "",
     "price": 10.62,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "INL",
@@ -1318,16 +1318,16 @@
   {
     "ticker": "INPPR",
     "name": "Investec Plc Preference Shares - Rand",
-    "volume": "",
-    "price": 87.0,
-    "change": NaN
+    "volume": "1000.0",
+    "price": 88.9,
+    "change": 1.9
   },
   {
     "ticker": "INPR",
     "name": "Investec Ltd Preference Shares",
-    "volume": "24455.0",
+    "volume": "",
     "price": 101.25,
-    "change": 1.25
+    "change": NaN
   },
   {
     "ticker": "IOC",
@@ -1731,9 +1731,9 @@
   {
     "ticker": "NTCP",
     "name": "Netcare Limited Pref",
-    "volume": "4700.0",
+    "volume": "",
     "price": 95.75,
-    "change": 1.75
+    "change": NaN
   },
   {
     "ticker": "NTU",
@@ -2193,9 +2193,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "8067.0",
+    "volume": "",
     "price": 99.58,
-    "change": -2.92
+    "change": NaN
   },
   {
     "ticker": "SCD",
@@ -2970,16 +2970,16 @@
   {
     "ticker": "WNXT40",
     "name": "10X Wealth Next 40 Equal Weighted ETF",
-    "volume": "22118.0",
-    "price": 12.51,
-    "change": 0.14
+    "volume": "4.0",
+    "price": 12.46,
+    "change": -0.05
   },
   {
     "ticker": "WTOP20",
     "name": "10X Wealth Top 20 Capped ETF",
-    "volume": "43170.0",
-    "price": 15.06,
-    "change": 0.38
+    "volume": "31.0",
+    "price": 15.15,
+    "change": 0.09
   },
   {
     "ticker": "WVR",
