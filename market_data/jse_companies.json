@@ -1437,9 +1437,9 @@
   {
     "ticker": "KST",
     "name": "PSG Konsult Limited",
-    "volume": "322592.0",
-    "price": 24.94,
-    "change": 0.14
+    "volume": "64738.0",
+    "price": 25.0,
+    "change": 0.06
   },
   {
     "ticker": "LAB",
@@ -1528,9 +1528,9 @@
   {
     "ticker": "MKR",
     "name": "Montauk Renewables Inc",
-    "volume": "3199.0",
-    "price": 36.0,
-    "change": 5.0
+    "volume": "890.0",
+    "price": 32.89,
+    "change": -3.11
   },
   {
     "ticker": "MMP",
@@ -1549,9 +1549,9 @@
   {
     "ticker": "MPT",
     "name": "Mpact Limited",
-    "volume": "8172.0",
+    "volume": "",
     "price": 22.07,
-    "change": -0.61
+    "change": NaN
   },
   {
     "ticker": "MRF",
@@ -1563,9 +1563,9 @@
   {
     "ticker": "MRP",
     "name": "Mr Price Group Ltd",
-    "volume": "1791819.0",
-    "price": 203.0,
-    "change": -0.86
+    "volume": "27527.0",
+    "price": 203.85,
+    "change": 0.85
   },
   {
     "ticker": "MSP",
@@ -1577,9 +1577,9 @@
   {
     "ticker": "MST",
     "name": "Mustek Ltd",
-    "volume": "4530.0",
+    "volume": "",
     "price": 13.99,
-    "change": -0.4
+    "change": NaN
   },
   {
     "ticker": "MTA",
@@ -1591,9 +1591,9 @@
   {
     "ticker": "MTH",
     "name": "Motus Holdings Ltd",
-    "volume": "249992.0",
-    "price": 112.0,
-    "change": -0.01
+    "volume": "15263.0",
+    "price": 111.92,
+    "change": -0.08
   },
   {
     "ticker": "MTM",
@@ -1605,16 +1605,16 @@
   {
     "ticker": "MTN",
     "name": "MTN Group Ltd",
-    "volume": "3351140.0",
-    "price": 168.63,
-    "change": 3.89
+    "volume": "69603.0",
+    "price": 170.02,
+    "change": 1.39
   },
   {
     "ticker": "MTNZF",
     "name": "MTN Zakhele Futhi",
-    "volume": "282048.0",
+    "volume": "181953.0",
     "price": 4.05,
-    "change": -0.05
+    "change": 0.0
   },
   {
     "ticker": "MTU",
@@ -1633,9 +1633,9 @@
   {
     "ticker": "N91",
     "name": "Ninety One Plc",
-    "volume": "434371.0",
-    "price": 50.38,
-    "change": -0.96
+    "volume": "7315.0",
+    "price": 50.4,
+    "change": 0.02
   },
   {
     "ticker": "NCS",
@@ -1647,9 +1647,9 @@
   {
     "ticker": "NED",
     "name": "Nedbank Group Limited",
-    "volume": "2495081.0",
-    "price": 249.79,
-    "change": 4.05
+    "volume": "62763.0",
+    "price": 251.58,
+    "change": 1.79
   },
   {
     "ticker": "NFP",
@@ -1675,16 +1675,16 @@
   {
     "ticker": "NPH",
     "name": "Northam Platinum Holdings",
-    "volume": "2733972.0",
-    "price": 277.53,
-    "change": 7.53
+    "volume": "110524.0",
+    "price": 277.71,
+    "change": 0.18
   },
   {
     "ticker": "NPK",
     "name": "Nampak Ltd",
-    "volume": "13180.0",
+    "volume": "",
     "price": 506.1,
-    "change": 8.1
+    "change": NaN
   },
   {
     "ticker": "NPKP",
@@ -1696,9 +1696,9 @@
   {
     "ticker": "NPN",
     "name": "Naspers Ltd",
-    "volume": "1540106.0",
-    "price": 1243.85,
-    "change": 26.8
+    "volume": "66884.0",
+    "price": 1238.23,
+    "change": -5.62
   },
   {
     "ticker": "NPP1",
@@ -1717,16 +1717,16 @@
   {
     "ticker": "NRP",
     "name": "NEPI Rockcastle Plc",
-    "volume": "783512.0",
-    "price": 143.3,
-    "change": 1.0
+    "volume": "20624.0",
+    "price": 144.08,
+    "change": 0.78
   },
   {
     "ticker": "NTC",
     "name": "Netcare Limited",
-    "volume": "710697.0",
-    "price": 14.52,
-    "change": 0.0
+    "volume": "18667.0",
+    "price": 14.6,
+    "change": 0.08
   },
   {
     "ticker": "NTCP",
@@ -1738,9 +1738,9 @@
   {
     "ticker": "NTU",
     "name": "Nutun Ltd",
-    "volume": "88200.0",
-    "price": 0.93,
-    "change": -0.01
+    "volume": "625.0",
+    "price": 0.94,
+    "change": 0.01
   },
   {
     "ticker": "NUT",
@@ -1752,9 +1752,9 @@
   {
     "ticker": "NVS",
     "name": "Novus Holdings Limited",
-    "volume": "69489.0",
+    "volume": "",
     "price": 6.61,
-    "change": -0.06
+    "change": NaN
   },
   {
     "ticker": "NWL",
@@ -1766,9 +1766,9 @@
   {
     "ticker": "NY1",
     "name": "Ninety One Limited",
-    "volume": "463939.0",
-    "price": 48.99,
-    "change": -1.01
+    "volume": "215.0",
+    "price": 49.22,
+    "change": 0.23
   },
   {
     "ticker": "OAO",
@@ -1787,58 +1787,58 @@
   {
     "ticker": "OCE",
     "name": "Oceana Group Ltd",
-    "volume": "43300.0",
-    "price": 54.0,
-    "change": 0.24
+    "volume": "1217.0",
+    "price": 54.03,
+    "change": 0.03
   },
   {
     "ticker": "OCT",
     "name": "OCTODEC INVEST LTD",
-    "volume": "74452.0",
-    "price": 13.0,
-    "change": 0.35
+    "volume": "25161.0",
+    "price": 13.49,
+    "change": 0.49
   },
   {
     "ticker": "OMN",
     "name": "Omnia Holdings Ltd",
-    "volume": "234741.0",
-    "price": 75.04,
-    "change": -0.83
+    "volume": "10285.0",
+    "price": 76.59,
+    "change": 1.55
   },
   {
     "ticker": "OMU",
     "name": "Old Mutual Limited",
-    "volume": "16236106.0",
-    "price": 13.27,
-    "change": -0.19
+    "volume": "402388.0",
+    "price": 13.34,
+    "change": 0.07
   },
   {
     "ticker": "ORN",
     "name": "Orion Minerals Limited",
-    "volume": "816462.0",
-    "price": 0.19,
-    "change": -0.01
+    "volume": "697447.0",
+    "price": 0.2,
+    "change": 0.01
   },
   {
     "ticker": "OUT",
     "name": "OUTsurance Group Ltd",
-    "volume": "1273191.0",
-    "price": 71.48,
-    "change": 0.95
+    "volume": "39733.0",
+    "price": 71.88,
+    "change": 0.4
   },
   {
     "ticker": "PAN",
     "name": "Pan African Resource plc",
-    "volume": "4904407.0",
-    "price": 20.53,
-    "change": 0.64
+    "volume": "296233.0",
+    "price": 20.68,
+    "change": 0.15
   },
   {
     "ticker": "PBG",
     "name": "PBT Group Limited",
-    "volume": "75483.0",
+    "volume": "",
     "price": 5.85,
-    "change": -0.15
+    "change": NaN
   },
   {
     "ticker": "PCWGE",
@@ -1857,16 +1857,16 @@
   {
     "ticker": "PHP",
     "name": "Primary Health Properties",
-    "volume": "1500971.0",
+    "volume": "",
     "price": 22.24,
-    "change": 0.24
+    "change": NaN
   },
   {
     "ticker": "PIK",
     "name": "Pick n Pay Stores Ltd",
-    "volume": "1545025.0",
-    "price": 27.66,
-    "change": -0.16
+    "volume": "140855.0",
+    "price": 27.45,
+    "change": -0.21
   },
   {
     "ticker": "PIPETF",
@@ -1878,9 +1878,9 @@
   {
     "ticker": "PMR",
     "name": "Premier Group Ltd",
-    "volume": "18543.0",
-    "price": 162.25,
-    "change": 1.25
+    "volume": "9072.0",
+    "price": 173.1,
+    "change": 10.85
   },
   {
     "ticker": "PMV",
@@ -1899,23 +1899,23 @@
   {
     "ticker": "PPC",
     "name": "PPC Limited",
-    "volume": "1039143.0",
-    "price": 5.33,
-    "change": 0.05
+    "volume": "51088.0",
+    "price": 5.35,
+    "change": 0.02
   },
   {
     "ticker": "PPE",
     "name": "Purple Group Ltd",
-    "volume": "846625.0",
-    "price": 2.23,
-    "change": -0.09
+    "volume": "208173.0",
+    "price": 2.24,
+    "change": 0.01
   },
   {
     "ticker": "PPH",
     "name": "Pepkor Holdings Ltd",
-    "volume": "6854939.0",
-    "price": 26.75,
-    "change": 0.39
+    "volume": "234315.0",
+    "price": 26.74,
+    "change": -0.01
   },
   {
     "ticker": "PPR",
@@ -1934,9 +1934,9 @@
   {
     "ticker": "PRX",
     "name": "Prosus N.V.",
-    "volume": "488796.0",
-    "price": 1224.29,
-    "change": 38.4
+    "volume": "21640.0",
+    "price": 1213.8,
+    "change": -10.49
   },
   {
     "ticker": "PSV",
@@ -1948,51 +1948,51 @@
   {
     "ticker": "PWR",
     "name": "PowerFleet Inc",
-    "volume": "1120.0",
+    "volume": "",
     "price": 97.22,
-    "change": 12.36
+    "change": NaN
   },
   {
     "ticker": "QFH",
     "name": "Quantum Foods Hldgs Ltd",
-    "volume": "117.0",
-    "price": 8.09,
-    "change": 0.08
+    "volume": "16831.0",
+    "price": 8.11,
+    "change": 0.02
   },
   {
     "ticker": "QLT",
     "name": "Quilter Plc",
-    "volume": "1825866.0",
-    "price": 41.64,
-    "change": -0.12
+    "volume": "55225.0",
+    "price": 41.5,
+    "change": -0.14
   },
   {
     "ticker": "RBO",
     "name": "Rainbow Chicken Ltd",
-    "volume": "8361.0",
+    "volume": "",
     "price": 4.46,
-    "change": -0.04
+    "change": NaN
   },
   {
     "ticker": "RBX",
     "name": "Raubex Group Ltd",
-    "volume": "2083036.0",
-    "price": 40.65,
-    "change": 0.65
+    "volume": "45936.0",
+    "price": 40.59,
+    "change": -0.06
   },
   {
     "ticker": "RCL",
     "name": "RCL Foods Limited",
-    "volume": "2293.0",
-    "price": 9.75,
-    "change": 0.16
+    "volume": "720.0",
+    "price": 9.73,
+    "change": -0.02
   },
   {
     "ticker": "RDF",
     "name": "Redefine Properties Limited",
-    "volume": "4714734.0",
+    "volume": "151969.0",
     "price": 5.73,
-    "change": 0.08
+    "change": 0.0
   },
   {
     "ticker": "REA",
@@ -2011,23 +2011,23 @@
   {
     "ticker": "REM",
     "name": "Remgro Ltd",
-    "volume": "1435565.0",
-    "price": 176.04,
-    "change": 2.95
+    "volume": "24937.0",
+    "price": 176.5,
+    "change": 0.46
   },
   {
     "ticker": "REN",
     "name": "Renergen Limited",
-    "volume": "617300.0",
-    "price": 12.9,
-    "change": 1.25
+    "volume": "36625.0",
+    "price": 12.7,
+    "change": -0.2
   },
   {
     "ticker": "RES",
     "name": "Resilient REIT Limited",
-    "volume": "222847.0",
-    "price": 73.12,
-    "change": 0.69
+    "volume": "10838.0",
+    "price": 73.19,
+    "change": 0.07
   },
   {
     "ticker": "RFFI",
@@ -2039,9 +2039,9 @@
   {
     "ticker": "RFG",
     "name": "RFG Holdings Limited",
-    "volume": "25851.0",
-    "price": 21.79,
-    "change": 0.09
+    "volume": "57047.0",
+    "price": 22.08,
+    "change": 0.29
   },
   {
     "ticker": "RHB",
@@ -2053,30 +2053,30 @@
   {
     "ticker": "RLO",
     "name": "Reunert Ltd",
-    "volume": "331184.0",
-    "price": 58.0,
-    "change": 0.67
+    "volume": "13481.0",
+    "price": 58.08,
+    "change": 0.08
   },
   {
     "ticker": "RMH",
     "name": "RMB Holdings Ltd",
-    "volume": "266840.0",
-    "price": 0.44,
-    "change": 0.0
+    "volume": "3996212.0",
+    "price": 0.46,
+    "change": 0.02
   },
   {
     "ticker": "RNG",
     "name": "Randgold & Exploration Co Ltd",
-    "volume": "398.0",
+    "volume": "",
     "price": 0.67,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "RNI",
     "name": "Reinet Investments S.C.A",
-    "volume": "223952.0",
-    "price": 556.0,
-    "change": 6.59
+    "volume": "28215.0",
+    "price": 564.11,
+    "change": 8.11
   },
   {
     "ticker": "RSG",
@@ -2130,9 +2130,9 @@
   {
     "ticker": "RWGPR",
     "name": "Reitway Global Property Prescient ETF",
-    "volume": "208706.0",
-    "price": 11.1,
-    "change": -0.12
+    "volume": "21.0",
+    "price": 11.13,
+    "change": 0.03
   },
   {
     "ticker": "RWINC",
@@ -2144,37 +2144,37 @@
   {
     "ticker": "S32",
     "name": "South32 Limited",
-    "volume": "943068.0",
-    "price": 35.6,
-    "change": 1.42
+    "volume": "45298.0",
+    "price": 35.44,
+    "change": -0.16
   },
   {
     "ticker": "SAC",
     "name": "SA Corp Real Estate Ltd",
-    "volume": "158194.0",
+    "volume": "",
     "price": 3.27,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "SAP",
     "name": "Sappi Ltd",
-    "volume": "4219205.0",
-    "price": 22.32,
-    "change": -0.18
+    "volume": "141638.0",
+    "price": 22.4,
+    "change": 0.08
   },
   {
     "ticker": "SAR",
     "name": "Safari Investments RSA Ltd",
-    "volume": "30000.0",
+    "volume": "",
     "price": 8.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SBK",
     "name": "Standard Bank Group Limited",
-    "volume": "3903358.0",
-    "price": 264.09,
-    "change": 6.09
+    "volume": "206704.0",
+    "price": 266.69,
+    "change": 2.6
   },
   {
     "ticker": "SBKP",
@@ -2186,9 +2186,9 @@
   {
     "ticker": "SBP",
     "name": "Sabvest Capital Limited",
-    "volume": "1271.0",
-    "price": 121.59,
-    "change": -2.71
+    "volume": "196.0",
+    "price": 124.79,
+    "change": 3.2
   },
   {
     "ticker": "SBPP",
@@ -2200,30 +2200,30 @@
   {
     "ticker": "SCD",
     "name": "Schroder Eur REIT plc",
-    "volume": "2916.0",
+    "volume": "",
     "price": 14.67,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SDL",
     "name": "Southern Palladium Ltd",
-    "volume": "1851.0",
+    "volume": "",
     "price": 11.25,
-    "change": -0.75
+    "change": NaN
   },
   {
     "ticker": "SDO",
     "name": "Stadio Holdings Limited",
-    "volume": "102745.0",
-    "price": 10.98,
-    "change": -0.13
+    "volume": "17222.0",
+    "price": 11.15,
+    "change": 0.17
   },
   {
     "ticker": "SEA",
     "name": "Spear REIT Limited",
-    "volume": "35352.0",
-    "price": 11.0,
-    "change": 0.1
+    "volume": "203058.0",
+    "price": 10.98,
+    "change": -0.02
   },
   {
     "ticker": "SEB",
@@ -2235,9 +2235,9 @@
   {
     "ticker": "SEP",
     "name": "Sephaku Holdings Limited",
-    "volume": "23383.0",
+    "volume": "",
     "price": 1.49,
-    "change": 0.04
+    "change": NaN
   },
   {
     "ticker": "SGP",
@@ -2249,23 +2249,23 @@
   {
     "ticker": "SHC",
     "name": "Shaftesbury Capital",
-    "volume": "36625.0",
+    "volume": "",
     "price": 33.11,
-    "change": 0.34
+    "change": NaN
   },
   {
     "ticker": "SHG",
     "name": "Sea Harvest Group Ltd",
-    "volume": "57050.0",
+    "volume": "",
     "price": 8.05,
-    "change": -0.16
+    "change": NaN
   },
   {
     "ticker": "SHP",
     "name": "Shoprite Holdings Ltd",
-    "volume": "1331435.0",
-    "price": 282.75,
-    "change": -6.62
+    "volume": "64609.0",
+    "price": 280.45,
+    "change": -2.3
   },
   {
     "ticker": "SKA",
@@ -2284,23 +2284,23 @@
   {
     "ticker": "SLM",
     "name": "Sanlam Limited",
-    "volume": "2039304.0",
-    "price": 91.82,
-    "change": 0.4
+    "volume": "61691.0",
+    "price": 92.28,
+    "change": 0.46
   },
   {
     "ticker": "SNT",
     "name": "Santam Limited",
-    "volume": "72935.0",
-    "price": 417.14,
-    "change": 0.8
+    "volume": "2852.0",
+    "price": 419.56,
+    "change": 2.42
   },
   {
     "ticker": "SNV",
     "name": "Santova Logistics Ltd",
-    "volume": "79363.0",
+    "volume": "",
     "price": 7.1,
-    "change": -0.1
+    "change": NaN
   },
   {
     "ticker": "SOH",
@@ -2312,9 +2312,9 @@
   {
     "ticker": "SOL",
     "name": "Sasol Limited",
-    "volume": "4250617.0",
-    "price": 114.8,
-    "change": 2.87
+    "volume": "136571.0",
+    "price": 115.73,
+    "change": 0.93
   },
   {
     "ticker": "SOLBE1",
@@ -2326,58 +2326,58 @@
   {
     "ticker": "SPG",
     "name": "Super Group Ltd",
-    "volume": "507508.0",
-    "price": 16.62,
-    "change": -0.28
+    "volume": "64579.0",
+    "price": 17.06,
+    "change": 0.44
   },
   {
     "ticker": "SPP",
     "name": "The Spar Group Ltd",
-    "volume": "473276.0",
-    "price": 107.0,
-    "change": -1.68
+    "volume": "22672.0",
+    "price": 107.39,
+    "change": 0.39
   },
   {
     "ticker": "SRE",
     "name": "Sirius Real Estate Ltd",
-    "volume": "562579.0",
-    "price": 23.47,
-    "change": 0.06
+    "volume": "2732.0",
+    "price": 23.42,
+    "change": -0.05
   },
   {
     "ticker": "SRI",
     "name": "Supermarket Income REIT",
-    "volume": "276.0",
+    "volume": "",
     "price": 18.57,
-    "change": 0.57
+    "change": NaN
   },
   {
     "ticker": "SSK",
     "name": "Stefanutti Stocks Holdings Ltd",
-    "volume": "148162.0",
-    "price": 4.75,
-    "change": -0.05
+    "volume": "14793.0",
+    "price": 4.8,
+    "change": 0.05
   },
   {
     "ticker": "SSS",
     "name": "Stor-Age Prop REIT Ltd",
-    "volume": "916525.0",
-    "price": 17.55,
-    "change": 0.07
+    "volume": "13307.0",
+    "price": 17.6,
+    "change": 0.05
   },
   {
     "ticker": "SSU",
     "name": "Southern Sun Limited",
-    "volume": "152006.0",
+    "volume": "",
     "price": 9.0,
-    "change": -0.06
+    "change": NaN
   },
   {
     "ticker": "SSW",
     "name": "Sibanye Stillwater Limited",
-    "volume": "14479886.0",
-    "price": 48.96,
-    "change": 3.26
+    "volume": "800375.0",
+    "price": 48.9,
+    "change": -0.06
   },
   {
     "ticker": "STX40",
@@ -2634,16 +2634,16 @@
   {
     "ticker": "SUI",
     "name": "Sun International Ltd",
-    "volume": "280528.0",
-    "price": 39.1,
-    "change": 0.8
+    "volume": "18130.0",
+    "price": 39.12,
+    "change": 0.02
   },
   {
     "ticker": "SUR",
     "name": "Spur Corporation Ltd",
-    "volume": "12044.0",
-    "price": 36.54,
-    "change": -0.36
+    "volume": "501.0",
+    "price": 37.71,
+    "change": 1.17
   },
   {
     "ticker": "SXM",
@@ -2662,9 +2662,9 @@
   {
     "ticker": "SYG",
     "name": "Sygnia Limited",
-    "volume": "4363.0",
+    "volume": "",
     "price": 34.47,
-    "change": 0.06
+    "change": NaN
   },
   {
     "ticker": "SYG4IR",
@@ -2760,9 +2760,9 @@
   {
     "ticker": "SZK",
     "name": "SAB Zenzele Kabili",
-    "volume": "832.0",
+    "volume": "",
     "price": 35.91,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "TBIGTF",
@@ -2781,9 +2781,9 @@
   {
     "ticker": "TBS",
     "name": "Tiger Brands Ltd",
-    "volume": "1274574.0",
-    "price": 338.0,
-    "change": 8.0
+    "volume": "38377.0",
+    "price": 338.08,
+    "change": 0.08
   },
   {
     "ticker": "TEX",
@@ -2795,9 +2795,9 @@
   {
     "ticker": "TFG",
     "name": "Foschini Group Limited",
-    "volume": "1897236.0",
-    "price": 85.19,
-    "change": 0.65
+    "volume": "75175.0",
+    "price": 85.45,
+    "change": 0.26
   },
   {
     "ticker": "TFGP",
@@ -2809,23 +2809,23 @@
   {
     "ticker": "TGA",
     "name": "Thungela Resources Ltd",
-    "volume": "288218.0",
-    "price": 81.58,
-    "change": 0.93
+    "volume": "29365.0",
+    "price": 82.18,
+    "change": 0.6
   },
   {
     "ticker": "THA",
     "name": "Tharisa plc",
-    "volume": "31810.0",
-    "price": 22.23,
-    "change": 0.43
+    "volume": "412.0",
+    "price": 22.22,
+    "change": -0.01
   },
   {
     "ticker": "TKG",
     "name": "Telkom SA SOC Ltd",
-    "volume": "3902597.0",
-    "price": 50.31,
-    "change": 3.56
+    "volume": "38188.0",
+    "price": 51.1,
+    "change": 0.79
   },
   {
     "ticker": "TLM",
@@ -2837,9 +2837,9 @@
   {
     "ticker": "TMT",
     "name": "Trematon Capital Inv Ltd",
-    "volume": "400.0",
+    "volume": "",
     "price": 1.2,
-    "change": 0.05
+    "change": NaN
   },
   {
     "ticker": "TON",
@@ -2851,30 +2851,30 @@
   {
     "ticker": "TPC",
     "name": "Transpaco Ltd",
-    "volume": "600.0",
+    "volume": "",
     "price": 34.74,
-    "change": -0.46
+    "change": NaN
   },
   {
     "ticker": "TRL",
     "name": "Trellidor Hldgs Ltd",
-    "volume": "4600.0",
+    "volume": "",
     "price": 1.77,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "TRU",
     "name": "Truworths Int Ltd",
-    "volume": "1705946.0",
-    "price": 53.47,
-    "change": -0.16
+    "volume": "123181.0",
+    "price": 53.79,
+    "change": 0.32
   },
   {
     "ticker": "TSG",
     "name": "Tsogo Sun Gaming Ltd",
-    "volume": "1775838.0",
+    "volume": "13584.0",
     "price": 6.9,
-    "change": 0.11
+    "change": 0.0
   },
   {
     "ticker": "TTO",
@@ -2900,35 +2900,35 @@
   {
     "ticker": "VAL",
     "name": "Valterra Platinum Ltd",
-    "volume": "789290.0",
-    "price": 1103.61,
-    "change": 37.54
+    "volume": "45539.0",
+    "price": 1096.8,
+    "change": -6.81
   },
   {
     "ticker": "VIS",
     "name": "Visual International Holdings",
-    "volume": "175000.0",
+    "volume": "50000.0",
     "price": 0.04,
-    "change": 0.01
+    "change": 0.0
   },
   {
     "ticker": "VKE",
     "name": "Vukile Property Fund Ltd",
-    "volume": "2436804.0",
-    "price": 23.52,
-    "change": 0.47
+    "volume": "54181.0",
+    "price": 23.44,
+    "change": -0.08
   },
   {
     "ticker": "VOD",
     "name": "Vodacom Group Ltd",
-    "volume": "1718055.0",
-    "price": 136.33,
-    "change": 0.14
+    "volume": "82812.0",
+    "price": 136.89,
+    "change": 0.56
   },
   {
     "ticker": "VUN",
     "name": "Vunani Ltd",
-    "volume": "2456.0",
+    "volume": "2480.0",
     "price": 2.0,
     "change": 0.0
   },
@@ -2942,16 +2942,16 @@
   {
     "ticker": "WBC",
     "name": "WeBuyCars Holdings Ltd",
-    "volume": "647621.0",
-    "price": 44.5,
-    "change": 0.15
+    "volume": "17992.0",
+    "price": 44.24,
+    "change": -0.26
   },
   {
     "ticker": "WBO",
     "name": "Wilson Bayly Hlm-Ovc Ltd",
-    "volume": "53922.0",
-    "price": 147.43,
-    "change": 2.43
+    "volume": "2642.0",
+    "price": 148.23,
+    "change": 0.8
   },
   {
     "ticker": "WEZ",
@@ -2963,9 +2963,9 @@
   {
     "ticker": "WHL",
     "name": "Woolworths Holdings Ltd",
-    "volume": "2650483.0",
-    "price": 52.75,
-    "change": -0.37
+    "volume": "112224.0",
+    "price": 53.04,
+    "change": 0.29
   },
   {
     "ticker": "WNXT40",
@@ -2998,29 +2998,29 @@
   {
     "ticker": "YRK",
     "name": "York Timber Holdings Ltd",
-    "volume": "22664.0",
+    "volume": "",
     "price": 2.2,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "YYLBEE",
     "name": "YeboYethu (RF) Ltd",
-    "volume": "2197.0",
+    "volume": "",
     "price": 41.5,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ZED",
     "name": "Zeder Investments Limited",
-    "volume": "52114.0",
-    "price": 1.33,
-    "change": -0.02
+    "volume": "1.0",
+    "price": 1.28,
+    "change": -0.05
   },
   {
     "ticker": "ZZD",
     "name": "Zeda Limited",
-    "volume": "210554.0",
-    "price": 12.17,
-    "change": 0.0
+    "volume": "4529.0",
+    "price": 12.22,
+    "change": 0.05
   }
 ]

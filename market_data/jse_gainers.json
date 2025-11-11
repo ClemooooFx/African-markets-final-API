@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "VIS",
-    "price": 0.04,
-    "change": "+33.33%"
-  },
-  {
-    "ticker": "MKR",
-    "price": 36.0,
-    "change": "+16.13%"
-  },
-  {
-    "ticker": "PWR",
-    "price": 97.22,
-    "change": "+14.57%"
-  },
-  {
     "ticker": "FGL",
     "price": 1.39,
     "change": "+12.10%"
   },
   {
-    "ticker": "REN",
-    "price": 12.9,
-    "change": "+10.73%"
+    "ticker": "MCZ",
+    "price": 2.67,
+    "change": "+6.80%"
   },
   {
-    "ticker": "TKG",
-    "price": 50.31,
-    "change": "+7.61%"
+    "ticker": "PMR",
+    "price": 173.1,
+    "change": "+6.69%"
+  },
+  {
+    "ticker": "ORN",
+    "price": 0.2,
+    "change": "+5.26%"
+  },
+  {
+    "ticker": "RMH",
+    "price": 0.46,
+    "change": "+4.55%"
+  },
+  {
+    "ticker": "EMN",
+    "price": 2.07,
+    "change": "+4.02%"
   }
 ]
