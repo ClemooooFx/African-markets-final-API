@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "UMME",
+    "price": 7.2,
+    "change": "-6.25%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 9.9,
+    "change": "-6.16%"
+  },
+  {
     "ticker": "EQTY",
     "price": 65.75,
     "change": "-4.36%"
@@ -18,15 +28,5 @@
     "ticker": "TOTL",
     "price": 42.4,
     "change": "-3.64%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 58.0,
-    "change": "-2.52%"
-  },
-  {
-    "ticker": "LKL",
-    "price": 2.8,
-    "change": "-2.44%"
   }
 ]

@@ -15,6 +15,11 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "ACADEMY",
+    "price": 6.75,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "DEAPCAP",
     "price": 1.71,
     "change": "-10.00%"
@@ -22,11 +27,6 @@
   {
     "ticker": "VERITASKAP",
     "price": 1.53,
-    "change": "-10.00%"
-  },
-  {
-    "ticker": "OMATEK",
-    "price": 1.08,
     "change": "-10.00%"
   }
 ]
