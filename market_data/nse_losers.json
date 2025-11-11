@@ -1,13 +1,23 @@
 [
   {
-    "ticker": "UCHM",
-    "price": 0.34,
-    "change": "-5.56%"
+    "ticker": "SGL",
+    "price": 6.1,
+    "change": "-4.98%"
   },
   {
-    "ticker": "TOTL",
-    "price": 42.0,
-    "change": "-4.55%"
+    "ticker": "CTUM",
+    "price": 15.35,
+    "change": "-4.06%"
+  },
+  {
+    "ticker": "BRIT",
+    "price": 8.64,
+    "change": "-3.79%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 0.35,
+    "change": "-2.78%"
   },
   {
     "ticker": "CRWN",
@@ -15,18 +25,8 @@
     "change": "-2.52%"
   },
   {
-    "ticker": "JUB",
-    "price": 318.0,
-    "change": "-2.08%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 15.75,
-    "change": "-1.56%"
-  },
-  {
     "ticker": "UMME",
-    "price": 7.56,
-    "change": "-1.56%"
+    "price": 7.5,
+    "change": "-2.34%"
   }
 ]
