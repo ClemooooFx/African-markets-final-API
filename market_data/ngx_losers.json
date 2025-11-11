@@ -5,6 +5,16 @@
     "change": "-10.00%"
   },
   {
+    "ticker": "MTNN",
+    "price": 429.3,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "TRANSCORP",
+    "price": 39.6,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "CUSTODIAN",
     "price": 34.2,
     "change": "-10.00%"
@@ -17,16 +27,6 @@
   {
     "ticker": "ACADEMY",
     "price": 6.75,
-    "change": "-10.00%"
-  },
-  {
-    "ticker": "DEAPCAP",
-    "price": 1.71,
-    "change": "-10.00%"
-  },
-  {
-    "ticker": "VERITASKAP",
-    "price": 1.53,
     "change": "-10.00%"
   }
 ]
