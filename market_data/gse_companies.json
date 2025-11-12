@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "13155.0",
+    "volume": "13158.0",
     "price": 16.19,
     "change": 0.0
   },
@@ -51,9 +51,9 @@
   {
     "ticker": "BOPP",
     "name": "Benso Oil Palm Plantation Limited",
-    "volume": "",
+    "volume": "100.0",
     "price": 41.55,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CAL",
@@ -107,21 +107,21 @@
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "30.0",
+    "volume": "109.0",
     "price": 3.45,
     "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "7263.0",
+    "volume": "7515.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "5.0",
+    "volume": "6.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "174744.0",
+    "volume": "192674.0",
     "price": 4.0,
     "change": 0.0
   },
