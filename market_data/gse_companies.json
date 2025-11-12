@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "14.0",
+    "volume": "15.0",
     "price": 16.19,
     "change": 0.0
   },
@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "51.0",
+    "volume": "423.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "446685.0",
+    "volume": "458796.0",
     "price": 0.34,
     "change": -0.02
   },
@@ -114,28 +114,28 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "2869.0",
+    "volume": "5129.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "412.0",
+    "volume": "1104.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "380.0",
+    "volume": "383.0",
     "price": 17.82,
     "change": 0.0
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "3735.0",
+    "volume": "3940.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "633146.0",
+    "volume": "642872.0",
     "price": 4.0,
-    "change": -0.02
+    "change": 0.0
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "13899.0",
+    "volume": "14859.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -212,9 +212,9 @@
   {
     "ticker": "SCB",
     "name": "Standard Chartered Bank Limited",
-    "volume": "",
-    "price": 29.11,
-    "change": NaN
+    "volume": "3541.0",
+    "price": 29.12,
+    "change": 0.01
   },
   {
     "ticker": "SCBPREF",
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "45951.0",
+    "volume": "126669.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "12449.0",
+    "volume": "37743.0",
     "price": 4.1,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "1540.0",
+    "volume": "1542.0",
     "price": 40.5,
     "change": 0.0
   },
