@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "TEX",
+    "price": 3.39,
+    "change": "+28.90%"
+  },
+  {
     "ticker": "PBT",
     "price": 7.0,
     "change": "+19.66%"
@@ -8,11 +13,6 @@
     "ticker": "MST",
     "price": 15.99,
     "change": "+18.44%"
-  },
-  {
-    "ticker": "TEX",
-    "price": 3.1,
-    "change": "+17.87%"
   },
   {
     "ticker": "LSK",

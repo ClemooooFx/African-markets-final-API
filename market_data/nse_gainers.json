@@ -1,18 +1,8 @@
 [
   {
-    "ticker": "WTK",
-    "price": 177.25,
-    "change": "+8.24%"
-  },
-  {
     "ticker": "UCHM",
     "price": 0.41,
     "change": "+7.89%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5245.0,
-    "change": "+4.90%"
   },
   {
     "ticker": "LKL",
@@ -20,13 +10,23 @@
     "change": "+4.56%"
   },
   {
-    "ticker": "KUKZ",
-    "price": 415.0,
-    "change": "+3.69%"
+    "ticker": "WTK",
+    "price": 170.0,
+    "change": "+3.82%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.4,
-    "change": "+3.48%"
+    "ticker": "GLD",
+    "price": 5180.0,
+    "change": "+3.60%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 413.0,
+    "change": "+3.19%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.35,
+    "change": "+3.05%"
   }
 ]
