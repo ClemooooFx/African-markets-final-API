@@ -226,9 +226,9 @@
   {
     "ticker": "AQUA",
     "name": "AQU Actively Managed ETF",
-    "volume": "",
-    "price": 11.46,
-    "change": NaN
+    "volume": "80.0",
+    "price": 11.49,
+    "change": 0.03
   },
   {
     "ticker": "ARA",
@@ -709,9 +709,9 @@
   {
     "ticker": "DCCUS2",
     "name": "RMB 2YR Dollar Custodial Certificates",
-    "volume": "",
-    "price": 1733.55,
-    "change": NaN
+    "volume": "6.0",
+    "price": 1729.9,
+    "change": -3.65
   },
   {
     "ticker": "DCCUSD",
@@ -947,9 +947,9 @@
   {
     "ticker": "ETFSAB",
     "name": "EFB Actively Managed ETF",
-    "volume": "",
-    "price": 12.22,
-    "change": NaN
+    "volume": "7.0",
+    "price": 12.31,
+    "change": 0.09
   },
   {
     "ticker": "ETFSAP",
@@ -1045,16 +1045,16 @@
   {
     "ticker": "FNBEMG",
     "name": "FNB MSCI EM Feeder ETF",
-    "volume": "",
-    "price": 74.28,
-    "change": NaN
+    "volume": "6700.0",
+    "price": 74.89,
+    "change": 0.61
   },
   {
     "ticker": "FNBEQF",
     "name": "FNB Global 1200 Equity FOF ETF",
-    "volume": "2.0",
-    "price": 109.1,
-    "change": 0.46
+    "volume": "798.0",
+    "price": 109.33,
+    "change": 0.69
   },
   {
     "ticker": "FNBINF",
@@ -1066,16 +1066,16 @@
   {
     "ticker": "FNBMID",
     "name": "FNB Mid Cap ETF",
-    "volume": "101.0",
-    "price": 10.58,
-    "change": 0.17
+    "volume": "463423.0",
+    "price": 10.49,
+    "change": 0.08
   },
   {
     "ticker": "FNBT40",
     "name": "FNB Top 40 ETF",
-    "volume": "63.0",
-    "price": 104.48,
-    "change": -0.02
+    "volume": "2891.0",
+    "price": 105.21,
+    "change": 0.71
   },
   {
     "ticker": "FNBWDM",
@@ -1087,9 +1087,9 @@
   {
     "ticker": "FNBWGB",
     "name": "FNB World Government Bond ETF",
-    "volume": "51.0",
-    "price": 6.98,
-    "change": 0.05
+    "volume": "32943.0",
+    "price": 6.95,
+    "change": 0.02
   },
   {
     "ticker": "FSR",
@@ -1927,9 +1927,9 @@
   {
     "ticker": "PREGIP",
     "name": "Prescient Global Income Provider Feeder AMETF",
-    "volume": "",
-    "price": 9.84,
-    "change": NaN
+    "volume": "3488.0",
+    "price": 9.87,
+    "change": 0.03
   },
   {
     "ticker": "PRX",
