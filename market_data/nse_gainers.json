@@ -5,28 +5,28 @@
     "change": "+7.89%"
   },
   {
+    "ticker": "NMG",
+    "price": 13.65,
+    "change": "+5.41%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5245.0,
+    "change": "+4.90%"
+  },
+  {
     "ticker": "LKL",
     "price": 2.98,
     "change": "+4.56%"
   },
   {
+    "ticker": "BRIT",
+    "price": 9.0,
+    "change": "+3.45%"
+  },
+  {
     "ticker": "WTK",
-    "price": 170.0,
-    "change": "+3.82%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5180.0,
-    "change": "+3.60%"
-  },
-  {
-    "ticker": "KUKZ",
-    "price": 413.0,
-    "change": "+3.19%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "+3.05%"
+    "price": 169.0,
+    "change": "+3.21%"
   }
 ]

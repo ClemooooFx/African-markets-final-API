@@ -5,11 +5,6 @@
     "change": "-10.00%"
   },
   {
-    "ticker": "NEM",
-    "price": 24.8,
-    "change": "-9.82%"
-  },
-  {
     "ticker": "ABBEYBDS",
     "price": 6.5,
     "change": "-9.72%"
@@ -26,7 +21,12 @@
   },
   {
     "ticker": "LIVESTOCK",
-    "price": 6.4,
-    "change": "-4.48%"
+    "price": 6.45,
+    "change": "-3.73%"
+  },
+  {
+    "ticker": "NEIMETH",
+    "price": 5.5,
+    "change": "-2.65%"
   }
 ]
