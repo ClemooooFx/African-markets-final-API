@@ -765,9 +765,9 @@
   {
     "ticker": "DSBP",
     "name": "Discovery B Preference Shares",
-    "volume": "703.0",
+    "volume": "",
     "price": 125.05,
-    "change": 0.05
+    "change": NaN
   },
   {
     "ticker": "DSY",
@@ -1157,16 +1157,16 @@
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "40196.0",
-    "price": 19.83,
-    "change": 0.13
+    "volume": "22369.0",
+    "price": 20.03,
+    "change": 0.2
   },
   {
     "ticker": "GLPROP",
     "name": "10X S&P Global Property ETF",
-    "volume": "7720.0",
-    "price": 46.82,
-    "change": 0.18
+    "volume": "333.0",
+    "price": 47.18,
+    "change": 0.36
   },
   {
     "ticker": "GML",
@@ -1185,9 +1185,9 @@
   {
     "ticker": "GNDP",
     "name": "Grindrod Ltd Pref",
-    "volume": "6300.0",
+    "volume": "",
     "price": 100.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GPL",
@@ -1199,9 +1199,9 @@
   {
     "ticker": "GRSP",
     "name": "Goldrush Holdings Ltd",
-    "volume": "42403.0",
+    "volume": "",
     "price": 6.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GRT",
@@ -1318,14 +1318,14 @@
   {
     "ticker": "INPPR",
     "name": "Investec Plc Preference Shares - Rand",
-    "volume": "1000.0",
+    "volume": "",
     "price": 88.9,
-    "change": 1.9
+    "change": NaN
   },
   {
     "ticker": "INPR",
     "name": "Investec Ltd Preference Shares",
-    "volume": "6773.0",
+    "volume": "1000.0",
     "price": 101.25,
     "change": 0.0
   },
@@ -1731,9 +1731,9 @@
   {
     "ticker": "NTCP",
     "name": "Netcare Limited Pref",
-    "volume": "144.0",
-    "price": 94.0,
-    "change": -1.75
+    "volume": "2000.0",
+    "price": 93.26,
+    "change": -0.74
   },
   {
     "ticker": "NTU",
@@ -2193,9 +2193,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "23803.0",
-    "price": 99.04,
-    "change": -0.54
+    "volume": "920.0",
+    "price": 98.1,
+    "change": -0.94
   },
   {
     "ticker": "SCD",
