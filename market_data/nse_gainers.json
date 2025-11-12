@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "UCHM",
+    "price": 0.41,
+    "change": "+7.89%"
+  },
+  {
     "ticker": "NMG",
     "price": 13.65,
     "change": "+5.41%"
   },
   {
-    "ticker": "UCHM",
-    "price": 0.4,
-    "change": "+5.26%"
-  },
-  {
-    "ticker": "HFCK",
-    "price": 10.55,
-    "change": "+4.98%"
+    "ticker": "LKL",
+    "price": 2.98,
+    "change": "+4.56%"
   },
   {
     "ticker": "JUB",
-    "price": 325.0,
-    "change": "+3.67%"
+    "price": 324.75,
+    "change": "+3.59%"
   },
   {
-    "ticker": "GLD",
-    "price": 5180.0,
-    "change": "+3.60%"
+    "ticker": "BRIT",
+    "price": 9.0,
+    "change": "+3.45%"
   },
   {
-    "ticker": "SMER",
-    "price": 14.8,
-    "change": "+3.50%"
+    "ticker": "WTK",
+    "price": 168.0,
+    "change": "+2.60%"
   }
 ]
