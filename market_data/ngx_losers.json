@@ -1,8 +1,23 @@
 [
   {
+    "ticker": "TRANSPOWER",
+    "price": 307.8,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "VITAFOAM",
+    "price": 84.6,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "AUSTINLAZ",
     "price": 2.61,
     "change": "-10.00%"
+  },
+  {
+    "ticker": "REDSTAREX",
+    "price": 9.2,
+    "change": "-9.80%"
   },
   {
     "ticker": "ABBEYBDS",
@@ -13,20 +28,5 @@
     "ticker": "NEIMETH",
     "price": 5.15,
     "change": "-8.85%"
-  },
-  {
-    "ticker": "LIVESTOCK",
-    "price": 6.5,
-    "change": "-2.99%"
-  },
-  {
-    "ticker": "FCMB",
-    "price": 10.2,
-    "change": "-2.86%"
-  },
-  {
-    "ticker": "PRESTIGE",
-    "price": 1.22,
-    "change": "-2.40%"
   }
 ]
