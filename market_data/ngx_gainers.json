@@ -5,6 +5,11 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "NB",
+    "price": 66.0,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "ZENITHBANK",
     "price": 59.4,
     "change": "+10.00%"
@@ -20,13 +25,8 @@
     "change": "+10.00%"
   },
   {
-    "ticker": "ACCESSCORP",
-    "price": 22.0,
-    "change": "+10.00%"
-  },
-  {
-    "ticker": "ASOSAVINGS",
-    "price": 0.99,
+    "ticker": "ETI",
+    "price": 34.65,
     "change": "+10.00%"
   }
 ]
