@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "WTK",
+    "price": 180.0,
+    "change": "+9.92%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.41,
     "change": "+7.89%"
@@ -20,13 +25,8 @@
     "change": "+4.00%"
   },
   {
-    "ticker": "WTK",
-    "price": 170.0,
+    "ticker": "EVRD",
+    "price": 1.36,
     "change": "+3.82%"
-  },
-  {
-    "ticker": "JUB",
-    "price": 324.75,
-    "change": "+3.59%"
   }
 ]
