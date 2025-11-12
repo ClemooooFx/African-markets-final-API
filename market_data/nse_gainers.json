@@ -5,6 +5,11 @@
     "change": "+5.41%"
   },
   {
+    "ticker": "UCHM",
+    "price": 0.4,
+    "change": "+5.26%"
+  },
+  {
     "ticker": "HFCK",
     "price": 10.55,
     "change": "+4.98%"
@@ -20,13 +25,8 @@
     "change": "+3.60%"
   },
   {
-    "ticker": "BRIT",
-    "price": 9.0,
-    "change": "+3.45%"
-  },
-  {
-    "ticker": "NBV",
-    "price": 1.54,
-    "change": "+2.67%"
+    "ticker": "SMER",
+    "price": 14.8,
+    "change": "+3.50%"
   }
 ]
