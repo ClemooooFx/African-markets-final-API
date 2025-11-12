@@ -5,16 +5,6 @@
     "change": "+7.89%"
   },
   {
-    "ticker": "NMG",
-    "price": 13.65,
-    "change": "+5.41%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5245.0,
-    "change": "+4.90%"
-  },
-  {
     "ticker": "LKL",
     "price": 2.98,
     "change": "+4.56%"
@@ -28,5 +18,15 @@
     "ticker": "WTK",
     "price": 169.0,
     "change": "+3.21%"
+  },
+  {
+    "ticker": "KUKZ",
+    "price": 413.0,
+    "change": "+3.19%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 14.7,
+    "change": "+2.80%"
   }
 ]

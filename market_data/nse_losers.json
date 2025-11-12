@@ -5,9 +5,14 @@
     "change": "-9.39%"
   },
   {
+    "ticker": "TPSE",
+    "price": 15.5,
+    "change": "-8.55%"
+  },
+  {
     "ticker": "UMME",
-    "price": 6.98,
-    "change": "-5.93%"
+    "price": 7.0,
+    "change": "-5.66%"
   },
   {
     "ticker": "UNGA",
@@ -15,18 +20,13 @@
     "change": "-4.56%"
   },
   {
-    "ticker": "KCB",
-    "price": 65.25,
-    "change": "-3.69%"
-  },
-  {
     "ticker": "EQTY",
     "price": 65.0,
     "change": "-3.35%"
   },
   {
-    "ticker": "NSE",
-    "price": 20.0,
-    "change": "-3.15%"
+    "ticker": "KCB",
+    "price": 65.5,
+    "change": "-3.32%"
   }
 ]
