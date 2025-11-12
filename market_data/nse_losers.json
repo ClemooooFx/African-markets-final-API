@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "FTGH",
-    "price": 1.64,
-    "change": "-9.39%"
-  },
-  {
-    "ticker": "TPSE",
-    "price": 15.5,
-    "change": "-8.55%"
-  },
-  {
     "ticker": "UMME",
-    "price": 6.98,
-    "change": "-5.93%"
+    "price": 7.0,
+    "change": "-5.66%"
   },
   {
-    "ticker": "UNGA",
-    "price": 23.0,
-    "change": "-4.56%"
+    "ticker": "SGL",
+    "price": 6.12,
+    "change": "-4.67%"
   },
   {
-    "ticker": "NSE",
-    "price": 19.8,
-    "change": "-4.12%"
+    "ticker": "FTGH",
+    "price": 1.73,
+    "change": "-4.42%"
+  },
+  {
+    "ticker": "EQTY",
+    "price": 65.0,
+    "change": "-3.35%"
   },
   {
     "ticker": "KCB",
-    "price": 65.0,
-    "change": "-4.06%"
+    "price": 65.75,
+    "change": "-2.95%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.54,
+    "change": "-2.73%"
   }
 ]
