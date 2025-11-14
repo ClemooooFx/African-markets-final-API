@@ -12,7 +12,22 @@ import pandas as pd
 os.makedirs('market_data', exist_ok=True)
 
 import socket
-socket.setdefaulttimeout(30)  # 30 seconds timeout
+socket.setdefaulttimeout(10)  # 30 seconds timeout
+
+# Configure proxy if environment variable is set (for GitHub Actions)
+PROXIES = None
+if os.environ.get('USE_PROXY') == 'true':
+    proxy_url = os.environ.get('HTTPS_PROXY') or os.environ.get('HTTP_PROXY')
+    if proxy_url:
+        PROXIES = {
+            'http': proxy_url,
+            'https': proxy_url
+        }
+        print(f"Using proxy: {proxy_url}")
+        
+        # Apply to requests session if afrimarket uses requests
+        import urllib3
+        # Note: This may not work if afrimarket uses its own session
 
 # List of all exchanges
 exchanges = {
