@@ -11,6 +11,9 @@ import pandas as pd
 # Create data directory
 os.makedirs('market_data', exist_ok=True)
 
+import socket
+socket.setdefaulttimeout(30)  # 30 seconds timeout
+
 # List of all exchanges
 exchanges = {
     'bse': 'Botswana Stock Exchange',
@@ -30,7 +33,8 @@ def export_exchange_data(market_code, market_name):
     print(f"\nExporting data for {market_name} ({market_code})...")
 
     try:
-        exchange = afm.Exchange(market=market_code)
+        # Try adding timeout when creating exchange
+        exchange = afm.Exchange(market=market_code, timeout=30)
 
         # 1. Index price
         try:
@@ -111,6 +115,31 @@ def export_exchange_data(market_code, market_name):
     except Exception as e:
         print(f"✗ Failed to export {market_name}: {e}")
         return False
+
+import time
+from functools import wraps
+
+def retry_with_backoff(max_retries=3, backoff_factor=2):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            for attempt in range(max_retries):
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    if attempt == max_retries - 1:
+                        raise
+                    wait_time = backoff_factor ** attempt
+                    print(f"  Retry {attempt + 1}/{max_retries} after {wait_time}s...")
+                    time.sleep(wait_time)
+            return None
+        return wrapper
+    return decorator
+
+# Then wrap your API calls:
+@retry_with_backoff(max_retries=3)
+def get_index_with_retry(exchange):
+    return exchange.get_index_price().tail(10)
 
 def main():
     """Export data in batches of 3 exchanges"""
