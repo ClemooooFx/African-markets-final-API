@@ -86,9 +86,9 @@
   {
     "ticker": "DASPHARMA",
     "name": "Dannex Ayrton Starwin Plc",
-    "volume": "",
+    "volume": "180.0",
     "price": 0.38,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "DIGICUT",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1841.0",
+    "volume": "2460.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -226,9 +226,9 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "",
+    "volume": "170.0",
     "price": 1.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SOGEGH",
@@ -247,9 +247,9 @@
   {
     "ticker": "TLW",
     "name": "Tullow Oil Plc",
-    "volume": "",
+    "volume": "20.0",
     "price": 11.92,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TOTAL",

@@ -15,6 +15,11 @@
     "change": "+5.93%"
   },
   {
+    "ticker": "AXX",
+    "price": 1.72,
+    "change": "+3.61%"
+  },
+  {
     "ticker": "ETFGRE",
     "price": 22.22,
     "change": "+2.73%"
@@ -23,10 +28,5 @@
     "ticker": "FNBINF",
     "price": 26.58,
     "change": "+2.43%"
-  },
-  {
-    "ticker": "ZED",
-    "price": 1.29,
-    "change": "+2.38%"
   }
 ]

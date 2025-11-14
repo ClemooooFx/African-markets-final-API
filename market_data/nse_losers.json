@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "GLD",
-    "price": 3000.0,
-    "change": "-42.20%"
-  },
-  {
     "ticker": "TPSE",
     "price": 15.35,
     "change": "-7.81%"
@@ -15,11 +10,6 @@
     "change": "-4.61%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.7,
-    "change": "-4.53%"
-  },
-  {
     "ticker": "CRWN",
     "price": 57.5,
     "change": "-4.17%"
@@ -28,5 +18,15 @@
     "ticker": "CGEN",
     "price": 57.75,
     "change": "-3.75%"
+  },
+  {
+    "ticker": "WTK",
+    "price": 164.0,
+    "change": "-3.24%"
+  },
+  {
+    "ticker": "LKL",
+    "price": 2.85,
+    "change": "-3.06%"
   }
 ]
