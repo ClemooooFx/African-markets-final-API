@@ -1,12 +1,17 @@
 [
   {
     "ticker": "CHIL",
-    "price": 45.0,
-    "change": "+12.47%"
+    "price": 50.0,
+    "change": "+11.11%"
   },
   {
-    "ticker": "ZMBF",
-    "price": 2.24,
-    "change": "+0.45%"
+    "ticker": "ZMRE",
+    "price": 2.7,
+    "change": "+3.85%"
+  },
+  {
+    "ticker": "BATZ",
+    "price": 15.11,
+    "change": "+2.65%"
   }
 ]

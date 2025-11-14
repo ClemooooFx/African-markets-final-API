@@ -2,212 +2,212 @@
   {
     "ticker": "ABJC",
     "name": "Servair Abidjan C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "4451.0",
+    "volume": "1574.0",
     "price": 2360.0,
-    "change": -10.0
+    "change": 20.0
   },
   {
     "ticker": "BICB",
     "name": "BIIC B\\xc3\\xa9nin",
-    "volume": "24553.0",
-    "price": 4995.0,
-    "change": -250.0
+    "volume": "1380.0",
+    "price": 5100.0,
+    "change": 100.0
   },
   {
     "ticker": "BICC",
     "name": "BICI C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "954.0",
-    "price": 20000.0,
-    "change": 100.0
+    "volume": "306.0",
+    "price": 19500.0,
+    "change": 0.0
   },
   {
     "ticker": "BNBC",
     "name": "Bernabe C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "6311.0",
-    "price": 1315.0,
-    "change": 55.0
+    "volume": "2606.0",
+    "price": 1485.0,
+    "change": 75.0
   },
   {
     "ticker": "BOAB",
     "name": "Bank of Africa - Benin",
-    "volume": "890.0",
-    "price": 5060.0,
-    "change": -40.0
+    "volume": "1207.0",
+    "price": 5100.0,
+    "change": 100.0
   },
   {
     "ticker": "BOABF",
     "name": "Bank of Africa - Burkina Faso",
-    "volume": "5567.0",
-    "price": 3545.0,
-    "change": 55.0
+    "volume": "5813.0",
+    "price": 3575.0,
+    "change": 25.0
   },
   {
     "ticker": "BOAC",
     "name": "Bank of Africa - C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "3219.0",
-    "price": 7185.0,
-    "change": 135.0
+    "volume": "1642.0",
+    "price": 7250.0,
+    "change": 70.0
   },
   {
     "ticker": "BOAM",
     "name": "Bank of Africa - Mali",
-    "volume": "10671.0",
-    "price": 3810.0,
-    "change": 15.0
+    "volume": "1574.0",
+    "price": 3835.0,
+    "change": 10.0
   },
   {
     "ticker": "BOAN",
     "name": "Bank of Africa - Niger",
-    "volume": "1633.0",
-    "price": 2545.0,
-    "change": 0.0
+    "volume": "1658.0",
+    "price": 2500.0,
+    "change": -45.0
   },
   {
     "ticker": "BOAS",
     "name": "Bank of Africa - Senegal",
-    "volume": "3236.0",
-    "price": 5300.0,
-    "change": 5.0
+    "volume": "4851.0",
+    "price": 5295.0,
+    "change": -5.0
   },
   {
     "ticker": "CABC",
     "name": "Sicable C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "6641.0",
-    "price": 2200.0,
-    "change": 150.0
-  },
-  {
-    "ticker": "CBIBF",
-    "name": "Coris Bank International",
-    "volume": "931.0",
-    "price": 9985.0,
-    "change": 0.0
-  },
-  {
-    "ticker": "CFAC",
-    "name": "CFAO Motors C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "30112.0",
-    "price": 1565.0,
-    "change": 105.0
-  },
-  {
-    "ticker": "CIEC",
-    "name": "CIE C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "2190.0",
-    "price": 2610.0,
-    "change": -5.0
-  },
-  {
-    "ticker": "ECOC",
-    "name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "1046.0",
-    "price": 15500.0,
-    "change": 0.0
-  },
-  {
-    "ticker": "ETIT",
-    "name": "Ecobank Transnational Inc",
-    "volume": "437158.0",
-    "price": 23.0,
-    "change": 0.0
-  },
-  {
-    "ticker": "FTSC",
-    "name": "Filtisac C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "13073.0",
+    "volume": "1465.0",
     "price": 2540.0,
     "change": 175.0
   },
   {
+    "ticker": "CBIBF",
+    "name": "Coris Bank International",
+    "volume": "139.0",
+    "price": 10000.0,
+    "change": 15.0
+  },
+  {
+    "ticker": "CFAC",
+    "name": "CFAO Motors C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "volume": "10196.0",
+    "price": 1610.0,
+    "change": -50.0
+  },
+  {
+    "ticker": "CIEC",
+    "name": "CIE C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "volume": "4647.0",
+    "price": 2600.0,
+    "change": 0.0
+  },
+  {
+    "ticker": "ECOC",
+    "name": "Ecobank C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "volume": "3281.0",
+    "price": 15210.0,
+    "change": 10.0
+  },
+  {
+    "ticker": "ETIT",
+    "name": "Ecobank Transnational Inc",
+    "volume": "448393.0",
+    "price": 22.0,
+    "change": -1.0
+  },
+  {
+    "ticker": "FTSC",
+    "name": "Filtisac C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
+    "volume": "2122.0",
+    "price": 2420.0,
+    "change": -80.0
+  },
+  {
     "ticker": "LNBB",
     "name": "Loterie Nationale du B\\xc3\\xa9nin",
-    "volume": "234.0",
-    "price": 3895.0,
-    "change": 70.0
+    "volume": "184.0",
+    "price": 3900.0,
+    "change": -100.0
   },
   {
     "ticker": "NEIC",
     "name": "NEI-CEDA C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "5946.0",
-    "price": 1000.0,
-    "change": 60.0
+    "volume": "2323.0",
+    "price": 985.0,
+    "change": -10.0
   },
   {
     "ticker": "NSBC",
     "name": "Nsia Banque C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "918.0",
-    "price": 11800.0,
-    "change": 0.0
+    "volume": "5072.0",
+    "price": 11850.0,
+    "change": 30.0
   },
   {
     "ticker": "NTLC",
     "name": "Nestle C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "2095.0",
-    "price": 10950.0,
-    "change": -50.0
+    "volume": "433.0",
+    "price": 11500.0,
+    "change": 400.0
   },
   {
     "ticker": "ONTBF",
     "name": "Onatel Burkina Faso",
-    "volume": "5187.0",
+    "volume": "655.0",
     "price": 2495.0,
-    "change": 90.0
+    "change": 95.0
   },
   {
     "ticker": "ORAC",
     "name": "Orange C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "10235.0",
-    "price": 14600.0,
-    "change": 395.0
+    "volume": "995.0",
+    "price": 14280.0,
+    "change": -270.0
   },
   {
     "ticker": "ORGT",
     "name": "Oragroup Togo",
-    "volume": "1504.0",
-    "price": 2640.0,
-    "change": -5.0
+    "volume": "1133.0",
+    "price": 2620.0,
+    "change": 0.0
   },
   {
     "ticker": "PALC",
     "name": "Palm C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "4067.0",
-    "price": 8350.0,
-    "change": -100.0
+    "volume": "12856.0",
+    "price": 8150.0,
+    "change": -50.0
   },
   {
     "ticker": "PRSC",
     "name": "Tractafric Motors C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "1234.0",
-    "price": 3635.0,
-    "change": -5.0
+    "volume": "1304.0",
+    "price": 3905.0,
+    "change": 0.0
   },
   {
     "ticker": "SAFC",
     "name": "Safca C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "3201.0",
-    "price": 2620.0,
-    "change": 180.0
+    "volume": "9932.0",
+    "price": 3010.0,
+    "change": 200.0
   },
   {
     "ticker": "SCRC",
     "name": "Sucrivoire C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "16396.0",
-    "price": 1070.0,
-    "change": -30.0
+    "volume": "8134.0",
+    "price": 1055.0,
+    "change": -35.0
   },
   {
     "ticker": "SDCC",
     "name": "Sode C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "270.0",
-    "price": 6100.0,
-    "change": 100.0
+    "volume": "69.0",
+    "price": 6130.0,
+    "change": 30.0
   },
   {
     "ticker": "SDSC",
     "name": "Bollore Transport & Logistics",
-    "volume": "35671.0",
-    "price": 1700.0,
-    "change": 0.0
+    "volume": "64925.0",
+    "price": 1460.0,
+    "change": -115.0
   },
   {
     "ticker": "SEMC",
@@ -219,113 +219,113 @@
   {
     "ticker": "SGBC",
     "name": "SGB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "1508.0",
-    "price": 26900.0,
-    "change": -5.0
+    "volume": "731.0",
+    "price": 27000.0,
+    "change": -300.0
   },
   {
     "ticker": "SHEC",
     "name": "Vivo Energy C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "2849.0",
-    "price": 1240.0,
-    "change": 10.0
+    "volume": "10612.0",
+    "price": 1235.0,
+    "change": 0.0
   },
   {
     "ticker": "SIBC",
     "name": "Societe Ivoirienne de Banque",
-    "volume": "6875.0",
-    "price": 5640.0,
-    "change": 40.0
+    "volume": "13044.0",
+    "price": 5650.0,
+    "change": 0.0
   },
   {
     "ticker": "SICC",
     "name": "Sicor C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "7.0",
-    "price": 3325.0,
-    "change": -265.0
+    "volume": "146.0",
+    "price": 3155.0,
+    "change": -180.0
   },
   {
     "ticker": "SIVC",
     "name": "Air Liquide C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "515.0",
-    "price": 705.0,
-    "change": 5.0
+    "volume": "22943.0",
+    "price": 685.0,
+    "change": -15.0
   },
   {
     "ticker": "SLBC",
     "name": "Solibra C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "444.0",
-    "price": 24700.0,
-    "change": -300.0
+    "volume": "255.0",
+    "price": 24995.0,
+    "change": 95.0
   },
   {
     "ticker": "SMBC",
     "name": "SMB C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "233.0",
-    "price": 9795.0,
-    "change": -5.0
+    "volume": "1089.0",
+    "price": 9800.0,
+    "change": 0.0
   },
   {
     "ticker": "SNTS",
     "name": "Sonatel Senegal",
-    "volume": "54748.0",
-    "price": 25600.0,
-    "change": -300.0
+    "volume": "2779.0",
+    "price": 26000.0,
+    "change": 545.0
   },
   {
     "ticker": "SOGC",
     "name": "Sogb C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "1042.0",
-    "price": 7975.0,
-    "change": -25.0
+    "volume": "15043.0",
+    "price": 7860.0,
+    "change": 40.0
   },
   {
     "ticker": "SPHC",
     "name": "Saph C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "924.0",
-    "price": 7485.0,
-    "change": -5.0
+    "volume": "1462.0",
+    "price": 7480.0,
+    "change": 0.0
   },
   {
     "ticker": "STAC",
     "name": "Setao C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "913.0",
-    "price": 1080.0,
-    "change": 35.0
+    "volume": "4276.0",
+    "price": 1160.0,
+    "change": 0.0
   },
   {
     "ticker": "STBC",
     "name": "Sitab C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "3030.0",
-    "price": 19500.0,
-    "change": 0.0
+    "volume": "3294.0",
+    "price": 19450.0,
+    "change": -60.0
   },
   {
     "ticker": "TTLC",
     "name": "Total C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "11542.0",
-    "price": 2325.0,
-    "change": -10.0
+    "volume": "2293.0",
+    "price": 2345.0,
+    "change": 45.0
   },
   {
     "ticker": "TTLS",
     "name": "Total Senegal",
-    "volume": "742.0",
-    "price": 2490.0,
-    "change": 0.0
+    "volume": "408.0",
+    "price": 2480.0,
+    "change": -5.0
   },
   {
     "ticker": "UNLC",
     "name": "Unilever C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "1.0",
-    "price": 24830.0,
-    "change": 1730.0
+    "volume": "12.0",
+    "price": 28690.0,
+    "change": 2000.0
   },
   {
     "ticker": "UNXC",
     "name": "Uniwax C\\xc3\\xb4te d\\xe2\\x80\\x99Ivoire",
-    "volume": "10435.0",
-    "price": 1595.0,
-    "change": -85.0
+    "volume": "36172.0",
+    "price": 1470.0,
+    "change": -10.0
   }
 ]
