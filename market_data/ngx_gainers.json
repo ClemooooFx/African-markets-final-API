@@ -5,11 +5,6 @@
     "change": "+9.84%"
   },
   {
-    "ticker": "VERITASKAP",
-    "price": 2.02,
-    "change": "+9.78%"
-  },
-  {
     "ticker": "GUINEAINS",
     "price": 1.26,
     "change": "+9.57%"
@@ -26,7 +21,12 @@
   },
   {
     "ticker": "ASOSAVINGS",
-    "price": 0.99,
-    "change": "+5.32%"
+    "price": 0.98,
+    "change": "+4.26%"
+  },
+  {
+    "ticker": "TIP",
+    "price": 10.5,
+    "change": "+3.96%"
   }
 ]
