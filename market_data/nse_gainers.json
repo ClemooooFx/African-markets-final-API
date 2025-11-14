@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "AMAC",
+    "price": 71.75,
+    "change": "+9.96%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.48,
     "change": "+9.09%"
@@ -20,13 +25,8 @@
     "change": "+3.31%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.45,
-    "change": "+1.95%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5290.0,
-    "change": "+1.93%"
+    "ticker": "SGL",
+    "price": 6.4,
+    "change": "+2.89%"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "HAFR",
-    "price": 1.06,
-    "change": "-5.36%"
-  },
-  {
-    "ticker": "SMER",
-    "price": 13.75,
-    "change": "-4.18%"
-  },
-  {
     "ticker": "TPSE",
-    "price": 16.0,
-    "change": "-3.90%"
+    "price": 15.35,
+    "change": "-7.81%"
+  },
+  {
+    "ticker": "XPRS",
+    "price": 6.8,
+    "change": "-5.29%"
   },
   {
     "ticker": "CRWN",
-    "price": 58.0,
-    "change": "-3.33%"
+    "price": 57.5,
+    "change": "-4.17%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5035.0,
+    "change": "-2.99%"
+  },
+  {
+    "ticker": "COOP",
+    "price": 24.2,
+    "change": "-2.81%"
   },
   {
     "ticker": "WTK",
     "price": 165.0,
     "change": "-2.65%"
-  },
-  {
-    "ticker": "COOP",
-    "price": 24.4,
-    "change": "-2.01%"
   }
 ]
