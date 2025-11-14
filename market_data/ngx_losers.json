@@ -1,32 +1,27 @@
 [
   {
+    "ticker": "UCAP",
+    "price": 17.8,
+    "change": "-3.26%"
+  },
+  {
+    "ticker": "ACCESSCORP",
+    "price": 22.7,
+    "change": "-1.30%"
+  },
+  {
     "ticker": "UNIVINSURE",
     "price": 1.14,
     "change": "-0.87%"
   },
   {
+    "ticker": "ELLAHLAKES",
+    "price": 12.45,
+    "change": "-0.40%"
+  },
+  {
     "ticker": "FIDELITYBK",
     "price": 19.05,
     "change": "-0.26%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]
