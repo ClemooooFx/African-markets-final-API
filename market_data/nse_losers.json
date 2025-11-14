@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "SCAN",
-    "price": 2.68,
-    "change": "-4.96%"
+    "ticker": "GLD",
+    "price": 4765.0,
+    "change": "-8.37%"
+  },
+  {
+    "ticker": "FTGH",
+    "price": 1.55,
+    "change": "-4.91%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 16.0,
+    "change": "-3.90%"
   },
   {
     "ticker": "SMER",
-    "price": 13.7,
-    "change": "-4.53%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 57.5,
-    "change": "-4.17%"
+    "price": 13.85,
+    "change": "-3.48%"
   },
   {
     "ticker": "KAPC",
-    "price": 200.0,
-    "change": "-3.85%"
+    "price": 201.5,
+    "change": "-3.12%"
   },
   {
-    "ticker": "WTK",
-    "price": 164.0,
-    "change": "-3.24%"
-  },
-  {
-    "ticker": "LKL",
-    "price": 2.85,
-    "change": "-3.06%"
+    "ticker": "SCAN",
+    "price": 2.74,
+    "change": "-2.84%"
   }
 ]
