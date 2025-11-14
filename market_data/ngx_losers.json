@@ -1,27 +1,32 @@
 [
   {
+    "ticker": "ABCTRANS",
+    "price": 3.82,
+    "change": "-9.91%"
+  },
+  {
+    "ticker": "GUINEAINS",
+    "price": 1.05,
+    "change": "-8.70%"
+  },
+  {
+    "ticker": "REGALINS",
+    "price": 1.15,
+    "change": "-8.00%"
+  },
+  {
+    "ticker": "OMATEK",
+    "price": 1.22,
+    "change": "-4.69%"
+  },
+  {
     "ticker": "UCAP",
     "price": 17.8,
     "change": "-3.26%"
   },
   {
-    "ticker": "ACCESSCORP",
-    "price": 22.7,
-    "change": "-1.30%"
-  },
-  {
-    "ticker": "UNIVINSURE",
-    "price": 1.14,
-    "change": "-0.87%"
-  },
-  {
-    "ticker": "ELLAHLAKES",
-    "price": 12.45,
-    "change": "-0.40%"
-  },
-  {
-    "ticker": "FIDELITYBK",
-    "price": 19.05,
-    "change": "-0.26%"
+    "ticker": "LASACO",
+    "price": 2.43,
+    "change": "-2.80%"
   }
 ]
