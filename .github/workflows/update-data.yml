@@ -1,4 +1,4 @@
-name: Update Market Data
+name: Update Market Data (with Tor)
 on:
   schedule:
     # Every 15 minutes during market hours (adjust timezone as needed)
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-data:
-    runs-on: macos-latest 
+    runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
@@ -18,56 +18,53 @@ jobs:
         with:
           python-version: '3.10'
       
-      - name: Install dependencies
+      # Install and configure Tor
+      - name: Install Tor
         run: |
-          pip install afrimarket pandas requests
+          sudo apt-get update
+          sudo apt-get install -y tor
+          sudo service tor start
+          sleep 5
+          echo "Tor is running on SOCKS5 localhost:9050"
       
-      # Diagnostic step - check network and IP
-      - name: Network diagnostics
+      - name: Install Python dependencies
         run: |
-          echo "=== Runner IP Address ==="
-          curl -s https://api.ipify.org
+          pip install afrimarket pandas requests[socks]
+      
+      # Modify the Python script to use Tor
+      - name: Configure script for Tor
+        run: |
+          cat > export_with_tor.py << 'EOF'
+          import os
+          os.environ['HTTP_PROXY'] = 'socks5h://127.0.0.1:9050'
+          os.environ['HTTPS_PROXY'] = 'socks5h://127.0.0.1:9050'
+          
+          # Now import and run the original script
+          exec(open('export_market_data.py').read())
+          EOF
+      
+      - name: Test Tor connection
+        run: |
+          curl --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip
           echo ""
-          echo "=== Testing connectivity to afx.kwayisi.org ==="
-          curl -v --max-time 10 https://afx.kwayisi.org || echo "Connection failed"
-          echo ""
-          echo "=== DNS Resolution ==="
-          nslookup afx.kwayisi.org || echo "DNS failed"
+          echo "Testing afx.kwayisi.org through Tor:"
+          curl --socks5-hostname 127.0.0.1:9050 --max-time 10 https://afx.kwayisi.org || echo "Still blocked or connection issue"
       
-      - name: Run export script
+      - name: Run export script through Tor
         run: |
-          python export_market_data.py
-        continue-on-error: true
-        id: export
-      
-      - name: Check export results
-        run: |
-          echo "Checking for exported files..."
-          ls -la market_data/ || echo "No market_data directory"
-          if [ -d "market_data" ] && [ "$(ls -A market_data)" ]; then
-            echo "✓ Files exported successfully"
-            echo "export_success=true" >> $GITHUB_OUTPUT
-          else
-            echo "✗ No files exported - likely IP blocking issue"
-            echo "export_success=false" >> $GITHUB_OUTPUT
-            exit 1
-          fi
-        id: check_export
+          python export_with_tor.py
       
       - name: Commit and push if changes
-        if: steps.check_export.outputs.export_success == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add market_data/
-          # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "📊 Update market data - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
           fi
-      
       - name: Create issue on failure
         if: failure()
         uses: actions/github-script@v6
