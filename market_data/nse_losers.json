@@ -1,18 +1,23 @@
 [
   {
+    "ticker": "FTGH",
+    "price": 1.47,
+    "change": "-9.82%"
+  },
+  {
     "ticker": "TPSE",
     "price": 15.35,
     "change": "-7.81%"
   },
   {
+    "ticker": "SCAN",
+    "price": 2.69,
+    "change": "-4.61%"
+  },
+  {
     "ticker": "SMER",
     "price": 13.7,
     "change": "-4.53%"
-  },
-  {
-    "ticker": "SCAN",
-    "price": 2.7,
-    "change": "-4.26%"
   },
   {
     "ticker": "CRWN",
@@ -23,10 +28,5 @@
     "ticker": "CGEN",
     "price": 57.75,
     "change": "-3.75%"
-  },
-  {
-    "ticker": "WTK",
-    "price": 165.0,
-    "change": "-2.65%"
   }
 ]

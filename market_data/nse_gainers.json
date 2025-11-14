@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "AMAC",
+    "price": 71.75,
+    "change": "+9.96%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.48,
     "change": "+9.09%"
-  },
-  {
-    "ticker": "AMAC",
-    "price": 69.5,
-    "change": "+6.51%"
   },
   {
     "ticker": "NMG",
@@ -20,13 +20,13 @@
     "change": "+3.85%"
   },
   {
-    "ticker": "ABSA",
-    "price": 25.1,
-    "change": "+3.72%"
-  },
-  {
     "ticker": "KUKZ",
     "price": 415.0,
     "change": "+3.69%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 25.0,
+    "change": "+3.31%"
   }
 ]

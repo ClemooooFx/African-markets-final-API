@@ -1,13 +1,8 @@
 [
   {
     "ticker": "MTNZF",
-    "price": 2.1,
-    "change": "-23.64%"
-  },
-  {
-    "ticker": "ISB",
-    "price": 0.67,
-    "change": "-17.28%"
+    "price": 2.0,
+    "change": "-27.27%"
   },
   {
     "ticker": "MKR",
@@ -15,18 +10,23 @@
     "change": "-8.40%"
   },
   {
-    "ticker": "KP2",
-    "price": 0.63,
-    "change": "-7.35%"
+    "ticker": "NVS",
+    "price": 6.6,
+    "change": "-6.91%"
   },
   {
-    "ticker": "JBL",
-    "price": 0.66,
-    "change": "-7.04%"
+    "ticker": "MTA",
+    "price": 5.41,
+    "change": "-6.72%"
   },
   {
     "ticker": "FTA",
     "price": 18.66,
     "change": "-5.85%"
+  },
+  {
+    "ticker": "JBL",
+    "price": 0.67,
+    "change": "-5.63%"
   }
 ]
