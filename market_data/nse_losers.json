@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "CIC",
-    "price": 4.3,
-    "change": "-6.11%"
+    "ticker": "HAFR",
+    "price": 1.06,
+    "change": "-5.36%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 13.75,
+    "change": "-4.18%"
   },
   {
     "ticker": "TPSE",
@@ -10,23 +15,18 @@
     "change": "-3.90%"
   },
   {
-    "ticker": "CTUM",
-    "price": 15.0,
-    "change": "-2.60%"
+    "ticker": "CRWN",
+    "price": 58.0,
+    "change": "-3.33%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.5,
-    "change": "-1.85%"
+    "ticker": "WTK",
+    "price": 165.0,
+    "change": "-2.65%"
   },
   {
-    "ticker": "FTGH",
-    "price": 1.6,
-    "change": "-1.84%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 39.5,
-    "change": "-1.74%"
+    "ticker": "COOP",
+    "price": 24.4,
+    "change": "-2.01%"
   }
 ]

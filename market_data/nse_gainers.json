@@ -5,16 +5,6 @@
     "change": "+9.09%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.62,
-    "change": "+6.58%"
-  },
-  {
-    "ticker": "NMG",
-    "price": 13.45,
-    "change": "+6.32%"
-  },
-  {
     "ticker": "KUKZ",
     "price": 425.0,
     "change": "+6.18%"
@@ -25,8 +15,18 @@
     "change": "+3.85%"
   },
   {
-    "ticker": "CGEN",
-    "price": 62.0,
-    "change": "+3.33%"
+    "ticker": "ABSA",
+    "price": 25.0,
+    "change": "+3.31%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.45,
+    "change": "+1.95%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5290.0,
+    "change": "+1.93%"
   }
 ]
