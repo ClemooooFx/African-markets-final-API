@@ -1,5 +1,4 @@
 name: Update Market Data
-
 on:
   schedule:
     # Every 15 minutes during market hours (adjust timezone as needed)
@@ -21,13 +20,42 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install afrimarket pandas
+          pip install afrimarket pandas requests
+      
+      # Diagnostic step - check network and IP
+      - name: Network diagnostics
+        run: |
+          echo "=== Runner IP Address ==="
+          curl -s https://api.ipify.org
+          echo ""
+          echo "=== Testing connectivity to afx.kwayisi.org ==="
+          curl -v --max-time 10 https://afx.kwayisi.org || echo "Connection failed"
+          echo ""
+          echo "=== DNS Resolution ==="
+          nslookup afx.kwayisi.org || echo "DNS failed"
       
       - name: Run export script
         run: |
           python export_market_data.py
+        continue-on-error: true
+        id: export
+      
+      - name: Check export results
+        run: |
+          echo "Checking for exported files..."
+          ls -la market_data/ || echo "No market_data directory"
+          if [ -d "market_data" ] && [ "$(ls -A market_data)" ]; then
+            echo "✓ Files exported successfully"
+            echo "export_success=true" >> $GITHUB_OUTPUT
+          else
+            echo "✗ No files exported - likely IP blocking issue"
+            echo "export_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+        id: check_export
       
       - name: Commit and push if changes
+        if: steps.check_export.outputs.export_success == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -39,3 +67,16 @@ jobs:
             git commit -m "📊 Update market data - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
           fi
+      
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🚨 Market Data Export Failed',
+              body: `The market data export failed at ${new Date().toISOString()}\n\nThis is likely due to IP blocking after upgrading to GitHub Pro.\n\n**Possible solutions:**\n1. Use a proxy service\n2. Use self-hosted runner\n3. Use GitHub Free plan runners\n4. Contact afx.kwayisi.org about whitelisting\n\nCheck the [workflow run](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`,
+              labels: ['bug', 'automated']
+            })
