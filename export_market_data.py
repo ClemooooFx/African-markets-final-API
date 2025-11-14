@@ -34,7 +34,7 @@ def export_exchange_data(market_code, market_name):
 
     try:
         # Try adding timeout when creating exchange
-        exchange = afm.Exchange(market=market_code, timeout=30)
+        exchange = afm.Exchange(market=market_code)
 
         # 1. Index price
         try:
