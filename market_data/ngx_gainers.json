@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "PRESTIGE",
+    "price": 1.34,
+    "change": "+9.84%"
+  },
+  {
     "ticker": "VERITASKAP",
     "price": 2.02,
     "change": "+9.78%"
+  },
+  {
+    "ticker": "GUINEAINS",
+    "price": 1.26,
+    "change": "+9.57%"
   },
   {
     "ticker": "LINKASSURE",
@@ -10,23 +20,13 @@
     "change": "+7.95%"
   },
   {
-    "ticker": "STERLINGNG",
-    "price": 7.7,
-    "change": "+5.48%"
+    "ticker": "EUNISELL",
+    "price": 72.8,
+    "change": "+5.66%"
   },
   {
     "ticker": "ASOSAVINGS",
     "price": 0.99,
     "change": "+5.32%"
-  },
-  {
-    "ticker": "CUTIX",
-    "price": 3.45,
-    "change": "+3.92%"
-  },
-  {
-    "ticker": "JAIZBANK",
-    "price": 4.65,
-    "change": "+3.33%"
   }
 ]
