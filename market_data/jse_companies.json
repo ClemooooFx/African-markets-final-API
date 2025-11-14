@@ -681,21 +681,21 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "383138.0",
+    "volume": "383139.0",
     "price": 11.77,
     "change": -0.05
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "11831.0",
+    "volume": "11850.0",
     "price": 114.25,
     "change": -1.5
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "77392.0",
+    "volume": "81084.0",
     "price": 15.84,
     "change": -0.22
   },
@@ -1171,16 +1171,16 @@
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "19083.0",
-    "price": 19.84,
-    "change": 0.01
+    "volume": "20583.0",
+    "price": 19.86,
+    "change": 0.03
   },
   {
     "ticker": "GLPROP",
     "name": "10X S&P Global Property ETF",
-    "volume": "8109.0",
-    "price": 46.24,
-    "change": 0.21
+    "volume": "8747.0",
+    "price": 46.09,
+    "change": 0.06
   },
   {
     "ticker": "GML",
@@ -2207,9 +2207,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "7315.0",
-    "price": 97.99,
-    "change": -1.5
+    "volume": "17615.0",
+    "price": 98.0,
+    "change": -1.49
   },
   {
     "ticker": "SCD",
@@ -2984,9 +2984,9 @@
   {
     "ticker": "WNXT40",
     "name": "10X Wealth Next 40 Eq Weighted ETF",
-    "volume": "892444.0",
-    "price": 12.6,
-    "change": -0.19
+    "volume": "892446.0",
+    "price": 12.61,
+    "change": -0.18
   },
   {
     "ticker": "WTOP20",
