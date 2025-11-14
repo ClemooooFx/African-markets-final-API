@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "LAB",
+    "price": 0.06,
+    "change": "+20.00%"
+  },
+  {
     "ticker": "PBT",
     "price": 7.26,
     "change": "+13.97%"
@@ -10,23 +15,18 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "LSK",
+    "price": 74.99,
+    "change": "+7.90%"
+  },
+  {
     "ticker": "CFR",
-    "price": 3707.55,
-    "change": "+5.93%"
+    "price": 3672.87,
+    "change": "+4.94%"
   },
   {
     "ticker": "AXX",
     "price": 1.72,
     "change": "+3.61%"
-  },
-  {
-    "ticker": "ETFGRE",
-    "price": 22.22,
-    "change": "+2.73%"
-  },
-  {
-    "ticker": "FNBINF",
-    "price": 26.58,
-    "change": "+2.43%"
   }
 ]
