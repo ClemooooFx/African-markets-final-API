@@ -2,30 +2,30 @@
   {
     "ticker": "ABBEYBDS",
     "name": "Abbey Mortgage Bank Plc",
-    "volume": "18654.0",
+    "volume": "300.0",
     "price": 6.5,
     "change": 0.0
   },
   {
     "ticker": "ABCTRANS",
     "name": "Associated Bus Company",
-    "volume": "477452.0",
+    "volume": "4620.0",
     "price": 4.24,
     "change": 0.0
   },
   {
     "ticker": "ACADEMY",
     "name": "Academy Press",
-    "volume": "118002.0",
+    "volume": "305.0",
     "price": 6.75,
     "change": 0.0
   },
   {
     "ticker": "ACCESSCORP",
     "name": "Access Holdings Plc",
-    "volume": "50886902.0",
+    "volume": "",
     "price": 23.0,
-    "change": 1.0
+    "change": NaN
   },
   {
     "ticker": "AFRINSURE",
@@ -37,9 +37,9 @@
   {
     "ticker": "AFRIPRUD",
     "name": "Africa Prudential Plc",
-    "volume": "444144.0",
+    "volume": "",
     "price": 13.5,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "AFROMEDIA",
@@ -51,44 +51,44 @@
   {
     "ticker": "AIICO",
     "name": "Aiico Insurance Plc",
-    "volume": "5199577.0",
+    "volume": "430.0",
     "price": 3.67,
-    "change": 0.33
+    "change": 0.0
   },
   {
     "ticker": "AIRTELAFRI",
     "name": "Airtel Africa Plc",
-    "volume": "164.0",
+    "volume": "",
     "price": 2270.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ALEX",
     "name": "Aluminium Extrusion Industries",
-    "volume": "5103.0",
+    "volume": "",
     "price": 7.15,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ARADEL",
     "name": "Aradel Holdings",
-    "volume": "478978.0",
+    "volume": "2.0",
     "price": 706.0,
     "change": 0.0
   },
   {
     "ticker": "ASOSAVINGS",
     "name": "Aso Savings & Loans",
-    "volume": "11263691.0",
+    "volume": "11270.0",
     "price": 0.94,
-    "change": 0.08
+    "change": 0.0
   },
   {
     "ticker": "AUSTINLAZ",
     "name": "Austin Laz & Company",
-    "volume": "448061.0",
+    "volume": "13110.0",
     "price": 2.35,
-    "change": -0.26
+    "change": 0.0
   },
   {
     "ticker": "AVAIF",
@@ -107,156 +107,156 @@
   {
     "ticker": "BERGER",
     "name": "Berger Paints",
-    "volume": "231300.0",
+    "volume": "77.0",
     "price": 37.45,
-    "change": 1.85
+    "change": 0.0
   },
   {
     "ticker": "BETAGLAS",
     "name": "Beta Glass Company",
-    "volume": "509686.0",
+    "volume": "3140.0",
     "price": 370.0,
     "change": 0.0
   },
   {
     "ticker": "BUACEMENT",
     "name": "BUA Cement Plc",
-    "volume": "452233.0",
+    "volume": "1009.0",
     "price": 162.0,
     "change": 0.0
   },
   {
     "ticker": "BUAFOODS",
     "name": "BUA Foods",
-    "volume": "50149.0",
+    "volume": "73.0",
     "price": 692.5,
     "change": 0.0
   },
   {
     "ticker": "CADBURY",
     "name": "Cadbury Nigeria",
-    "volume": "666992.0",
+    "volume": "138.0",
     "price": 58.95,
-    "change": 2.65
+    "change": 0.0
   },
   {
     "ticker": "CAP",
     "name": "CAP Plc",
-    "volume": "41190.0",
+    "volume": "",
     "price": 73.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CAVERTON",
     "name": "Caverton Offshore Support Group",
-    "volume": "1463574.0",
+    "volume": "",
     "price": 5.0,
-    "change": 0.3
+    "change": NaN
   },
   {
     "ticker": "CHAMPION",
     "name": "Champion Breweries",
-    "volume": "2644181.0",
+    "volume": "9647.0",
     "price": 14.5,
-    "change": 0.7
+    "change": 0.0
   },
   {
     "ticker": "CHAMS",
     "name": "Chams Plc",
-    "volume": "8050256.0",
+    "volume": "4782.0",
     "price": 3.47,
-    "change": 0.31
+    "change": 0.0
   },
   {
     "ticker": "CHELLARAM",
     "name": "Chellarams Plc",
-    "volume": "71771.0",
+    "volume": "",
     "price": 16.25,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CILEASING",
     "name": "C&I Leasing Plc",
-    "volume": "804537.0",
+    "volume": "561.0",
     "price": 5.35,
-    "change": 0.05
+    "change": 0.0
   },
   {
     "ticker": "CNIF",
     "name": "Coronation Infrastructure Fund",
-    "volume": "65.0",
+    "volume": "",
     "price": 100.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CONHALLPLC",
     "name": "Consolidated Hallmark Holdings",
-    "volume": "3517055.0",
+    "volume": "540.0",
     "price": 4.4,
-    "change": -0.02
+    "change": 0.0
   },
   {
     "ticker": "CONOIL",
     "name": "Conoil Plc",
-    "volume": "8784.0",
+    "volume": "228.0",
     "price": 190.7,
     "change": 0.0
   },
   {
     "ticker": "CORNERST",
     "name": "Cornerstone Insurance Company",
-    "volume": "361640.0",
+    "volume": "6.0",
     "price": 6.2,
-    "change": 0.41
+    "change": 0.0
   },
   {
     "ticker": "CUSTODIAN",
     "name": "Custodian & Allied Plc",
-    "volume": "1920422.0",
+    "volume": "190.0",
     "price": 38.5,
-    "change": 3.5
+    "change": 0.0
   },
   {
     "ticker": "CUTIX",
     "name": "Cutix Plc",
-    "volume": "3355547.0",
+    "volume": "",
     "price": 3.32,
-    "change": 0.22
+    "change": NaN
   },
   {
     "ticker": "CWG",
     "name": "Computer Warehouse Group",
-    "volume": "2704205.0",
+    "volume": "100.0",
     "price": 16.65,
-    "change": 1.2
+    "change": 0.0
   },
   {
     "ticker": "DAARCOMM",
     "name": "Daar Communications",
-    "volume": "2150559.0",
+    "volume": "1410.0",
     "price": 0.95,
-    "change": 0.08
+    "change": 0.0
   },
   {
     "ticker": "DANGCEM",
     "name": "Dangote Cement",
-    "volume": "3383103.0",
+    "volume": "",
     "price": 594.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "DANGSUGAR",
     "name": "Dangote Sugar Refinery",
-    "volume": "1229000.0",
+    "volume": "293.0",
     "price": 57.9,
-    "change": 0.9
+    "change": 0.0
   },
   {
     "ticker": "DEAPCAP",
     "name": "Deap Capital Management & Trust",
-    "volume": "955512.0",
+    "volume": "1707.0",
     "price": 1.81,
-    "change": 0.14
+    "change": 0.0
   },
   {
     "ticker": "DUNLOP",
@@ -275,72 +275,72 @@
   {
     "ticker": "ELLAHLAKES",
     "name": "Ellah Lakes Plc",
-    "volume": "19762320.0",
+    "volume": "374118.0",
     "price": 12.5,
-    "change": 0.37
+    "change": 0.0
   },
   {
     "ticker": "ENAMELWA",
     "name": "Nigerian Enamelware Plc",
-    "volume": "188.0",
+    "volume": "",
     "price": 45.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ETERNA",
     "name": "Eterna Plc",
-    "volume": "65410.0",
+    "volume": "50.0",
     "price": 35.5,
     "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Inc",
-    "volume": "104165.0",
+    "volume": "400.0",
     "price": 34.65,
     "change": 0.0
   },
   {
     "ticker": "ETRANZACT",
     "name": "E-Tranzact International",
-    "volume": "68779.0",
+    "volume": "",
     "price": 13.25,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "EUNISELL",
     "name": "Eunisell Interlinked Plc",
-    "volume": "176322.0",
+    "volume": "172.0",
     "price": 68.9,
     "change": 0.0
   },
   {
     "ticker": "FCMB",
     "name": "FCMB Group Plc",
-    "volume": "4070904.0",
+    "volume": "2435.0",
     "price": 10.5,
-    "change": -0.1
+    "change": 0.0
   },
   {
     "ticker": "FIDELITYBK",
     "name": "Fidelity Bank Plc",
-    "volume": "41198563.0",
-    "price": 19.1,
-    "change": 0.05
+    "volume": "3632568.0",
+    "price": 19.05,
+    "change": -0.05
   },
   {
     "ticker": "FIDSON",
     "name": "Fidson Healthcare",
-    "volume": "157299.0",
+    "volume": "341.0",
     "price": 40.0,
     "change": 0.0
   },
   {
     "ticker": "FIRSTHOLDCO",
     "name": "First HoldCo Plc",
-    "volume": "6487885.0",
+    "volume": "",
     "price": 30.85,
-    "change": -0.15
+    "change": NaN
   },
   {
     "ticker": "FTGINSURE",
@@ -352,14 +352,14 @@
   {
     "ticker": "FTNCOCOA",
     "name": "FTN Cocoa Processors",
-    "volume": "4848981.0",
+    "volume": "",
     "price": 5.0,
-    "change": 0.3
+    "change": NaN
   },
   {
     "ticker": "GEREGU",
     "name": "Geregu Power Plc",
-    "volume": "648.0",
+    "volume": "19.0",
     "price": 1141.5,
     "change": 0.0
   },
@@ -373,191 +373,191 @@
   {
     "ticker": "GTCO",
     "name": "Guaranty Trust Holding",
-    "volume": "8762196.0",
+    "volume": "3145.0",
     "price": 88.5,
-    "change": 2.7
+    "change": 0.0
   },
   {
     "ticker": "GUINEAINS",
     "name": "Guinea Insurance",
-    "volume": "341628.0",
+    "volume": "15000.0",
     "price": 1.15,
-    "change": 0.1
+    "change": 0.0
   },
   {
     "ticker": "GUINNESS",
     "name": "Guinness Nigeria",
-    "volume": "7185128.0",
+    "volume": "1041.0",
     "price": 166.0,
-    "change": -9.0
+    "change": 0.0
   },
   {
     "ticker": "HMCALL",
     "name": "Haldane McCall",
-    "volume": "86697.0",
+    "volume": "50.0",
     "price": 3.9,
     "change": 0.0
   },
   {
     "ticker": "HONYFLOUR",
     "name": "Honeywell Flour Mill",
-    "volume": "1098192.0",
+    "volume": "85.0",
     "price": 20.0,
-    "change": 1.15
+    "change": 0.0
   },
   {
     "ticker": "IKEJAHOTEL",
     "name": "Ikeja Hotel Plc",
-    "volume": "174032.0",
+    "volume": "10.0",
     "price": 18.0,
     "change": 0.0
   },
   {
     "ticker": "IMG",
     "name": "Industrial & Medical Gases",
-    "volume": "202.0",
+    "volume": "",
     "price": 32.4,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "INFINITY",
     "name": "Infinity Trust Mortgage Bank",
-    "volume": "20162.0",
+    "volume": "",
     "price": 7.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "INTBREW",
     "name": "International Breweries",
-    "volume": "3146039.0",
+    "volume": "",
     "price": 11.95,
-    "change": 1.05
+    "change": NaN
   },
   {
     "ticker": "INTENEGINS",
     "name": "International Energy Insurance",
-    "volume": "173129.0",
+    "volume": "",
     "price": 2.72,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "JAIZBANK",
     "name": "Jaiz Bank Plc",
-    "volume": "6579494.0",
+    "volume": "",
     "price": 4.5,
-    "change": 0.1
+    "change": NaN
   },
   {
     "ticker": "JAPAULGOLD",
     "name": "Japaul Gold and Ventures Plc",
-    "volume": "11345906.0",
+    "volume": "",
     "price": 2.24,
-    "change": 0.07
+    "change": NaN
   },
   {
     "ticker": "JBERGER",
     "name": "Julius Berger Nigeria Plc",
-    "volume": "325527.0",
+    "volume": "83.0",
     "price": 138.0,
     "change": 0.0
   },
   {
     "ticker": "JOHNHOLT",
     "name": "John Holt Plc",
-    "volume": "149978.0",
+    "volume": "",
     "price": 5.4,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "JULI",
     "name": "Juli Plc",
-    "volume": "1863.0",
+    "volume": "",
     "price": 8.06,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LASACO",
     "name": "Lasaco Assurance",
-    "volume": "23435408.0",
+    "volume": "",
     "price": 2.5,
-    "change": 0.22
+    "change": NaN
   },
   {
     "ticker": "LEARNAFRCA",
     "name": "Learn Africa",
-    "volume": "72900.0",
+    "volume": "",
     "price": 5.85,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LEGENDINT",
     "name": "Legend Internet",
-    "volume": "3350750.0",
+    "volume": "1209.0",
     "price": 5.74,
-    "change": 0.52
+    "change": 0.0
   },
   {
     "ticker": "LINKASSURE",
     "name": "Linkage Assurance",
-    "volume": "1285155.0",
+    "volume": "",
     "price": 1.76,
-    "change": 0.16
+    "change": NaN
   },
   {
     "ticker": "LIVESTOCK",
     "name": "Livestock Feeds",
-    "volume": "960278.0",
+    "volume": "50.0",
     "price": 7.1,
-    "change": 0.6
+    "change": 0.0
   },
   {
     "ticker": "LIVINGTRUST",
     "name": "LivingTrust Mortgage Bank",
-    "volume": "41898.0",
+    "volume": "",
     "price": 4.14,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MANSARD",
     "name": "AXA Mansard Insurance",
-    "volume": "7348653.0",
+    "volume": "",
     "price": 13.0,
-    "change": -0.31
+    "change": NaN
   },
   {
     "ticker": "MAYBAKER",
     "name": "May & Baker Nigeria",
-    "volume": "397074.0",
+    "volume": "",
     "price": 17.55,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MBENEFIT",
     "name": "Mutual Benefits Assurance",
-    "volume": "11263381.0",
+    "volume": "2135.0",
     "price": 3.65,
-    "change": 0.31
+    "change": 0.0
   },
   {
     "ticker": "MCNICHOLS",
     "name": "McNichols Plc",
-    "volume": "5760836.0",
+    "volume": "",
     "price": 3.02,
-    "change": 0.22
+    "change": NaN
   },
   {
     "ticker": "MECURE",
     "name": "MeCure Industries",
-    "volume": "46547.0",
+    "volume": "",
     "price": 27.7,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MEYER",
     "name": "Meyer Plc",
-    "volume": "87309.0",
+    "volume": "",
     "price": 16.15,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MOFIREIF",
@@ -576,9 +576,9 @@
   {
     "ticker": "MTNN",
     "name": "MTN Nigeria",
-    "volume": "3085949.0",
+    "volume": "",
     "price": 472.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "MULTITREX",
@@ -590,112 +590,112 @@
   {
     "ticker": "MULTIVERSE",
     "name": "Multiverse Mining & Exploration",
-    "volume": "53428.0",
+    "volume": "",
     "price": 9.6,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "NAHCO",
     "name": "Nigerian Aviation Handling Co.",
-    "volume": "1325230.0",
+    "volume": "500.0",
     "price": 106.55,
-    "change": 9.65
+    "change": 0.0
   },
   {
     "ticker": "NASCON",
     "name": "National Salt Company",
-    "volume": "1896993.0",
+    "volume": "496.0",
     "price": 103.6,
     "change": 0.0
   },
   {
     "ticker": "NB",
     "name": "Nigerian Breweries",
-    "volume": "951199.0",
+    "volume": "100.0",
     "price": 69.95,
-    "change": 3.95
+    "change": 0.0
   },
   {
     "ticker": "NCR",
     "name": "NCR Nigeria",
-    "volume": "259656.0",
+    "volume": "",
     "price": 23.35,
-    "change": 2.1
+    "change": NaN
   },
   {
     "ticker": "NEIMETH",
     "name": "Neimeth International Pharma",
-    "volume": "1284488.0",
+    "volume": "",
     "price": 5.4,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "NEM",
     "name": "N.E.M. Insurance Company",
-    "volume": "783232.0",
+    "volume": "",
     "price": 29.8,
-    "change": 1.0
+    "change": NaN
   },
   {
     "ticker": "NESTLE",
     "name": "Nestle Nigeria",
-    "volume": "12831.0",
+    "volume": "",
     "price": 1730.0,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "NGXGROUP",
     "name": "Nigerian Exchange Group",
-    "volume": "718494.0",
+    "volume": "1020.0",
     "price": 52.6,
-    "change": -2.95
+    "change": 0.0
   },
   {
     "ticker": "NIDF",
     "name": "Nigeria Infrastructure Debt Fund",
-    "volume": "79932.0",
+    "volume": "1000.0",
     "price": 115.0,
     "change": 0.0
   },
   {
     "ticker": "NNFM",
     "name": "Northern Nigeria Flour Mills",
-    "volume": "10039.0",
+    "volume": "",
     "price": 84.3,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "NPFMCRFBK",
     "name": "NPF Microfinance Bank",
-    "volume": "2247805.0",
+    "volume": "",
     "price": 2.99,
-    "change": 0.2
+    "change": NaN
   },
   {
     "ticker": "NSLTECH",
     "name": "Secure Electronic Technology",
-    "volume": "3451967.0",
+    "volume": "250.0",
     "price": 0.82,
-    "change": 0.06
+    "change": 0.0
   },
   {
     "ticker": "OANDO",
     "name": "Oando Plc",
-    "volume": "5382025.0",
+    "volume": "42508.0",
     "price": 43.55,
-    "change": 3.95
+    "change": 0.0
   },
   {
     "ticker": "OKOMUOIL",
     "name": "Okomu Oil Palm",
-    "volume": "115524.0",
+    "volume": "30.0",
     "price": 1110.0,
     "change": 0.0
   },
   {
     "ticker": "OMATEK",
     "name": "Omatek Ventures",
-    "volume": "649989.0",
+    "volume": "20.0",
     "price": 1.28,
     "change": 0.0
   },
@@ -716,37 +716,37 @@
   {
     "ticker": "PRESCO",
     "name": "Presco Plc",
-    "volume": "209694.0",
+    "volume": "1106.0",
     "price": 1450.0,
     "change": 0.0
   },
   {
     "ticker": "PRESTIGE",
     "name": "Prestige Assurance Company",
-    "volume": "95799.0",
+    "volume": "2106.0",
     "price": 1.22,
     "change": 0.0
   },
   {
     "ticker": "PZ",
     "name": "PZ Cussons Nigeria",
-    "volume": "6891610.0",
+    "volume": "16.0",
     "price": 40.65,
-    "change": 2.15
+    "change": 0.0
   },
   {
     "ticker": "REDSTAREX",
     "name": "Red Star Express Plc",
-    "volume": "168942.0",
+    "volume": "",
     "price": 9.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "REGALINS",
     "name": "Regency Alliance Insurance",
-    "volume": "1018539.0",
+    "volume": "309.0",
     "price": 1.25,
-    "change": 0.11
+    "change": 0.0
   },
   {
     "ticker": "RONCHESS",
@@ -758,51 +758,51 @@
   {
     "ticker": "ROYALEX",
     "name": "Royal Exchange",
-    "volume": "5615880.0",
+    "volume": "1500.0",
     "price": 2.05,
-    "change": 0.18
+    "change": 0.0
   },
   {
     "ticker": "RTBRISCOE",
     "name": "RT Briscoe",
-    "volume": "172045.0",
+    "volume": "85.0",
     "price": 3.13,
     "change": 0.0
   },
   {
     "ticker": "SCOA",
     "name": "SCOA Nigeria",
-    "volume": "61550.0",
+    "volume": "500.0",
     "price": 7.1,
     "change": 0.0
   },
   {
     "ticker": "SEPLAT",
     "name": "Seplat Petroleum Development Co.",
-    "volume": "93069.0",
-    "price": 5917.2,
-    "change": 0.0
+    "volume": "",
+    "price": 5809.0,
+    "change": NaN
   },
   {
     "ticker": "SFSREIT",
     "name": "Skye Shelter Fund Plc",
-    "volume": "17603.0",
+    "volume": "",
     "price": 418.75,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SKYAVN",
     "name": "Skyway Aviation Handling Co. Plc",
-    "volume": "22156.0",
+    "volume": "",
     "price": 80.6,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SOVRENINS",
     "name": "Sovereign Trust Insurance",
-    "volume": "710555.0",
+    "volume": "2550.0",
     "price": 3.14,
-    "change": 0.28
+    "change": 0.0
   },
   {
     "ticker": "STACO",
@@ -814,30 +814,30 @@
   {
     "ticker": "STANBIC",
     "name": "Stanbic IBTC Holdings",
-    "volume": "23643326.0",
+    "volume": "261.0",
     "price": 110.0,
-    "change": 5.0
+    "change": 0.0
   },
   {
     "ticker": "STERLINGNG",
     "name": "Sterling Bank",
-    "volume": "3296026.0",
+    "volume": "",
     "price": 7.3,
-    "change": -0.45
+    "change": NaN
   },
   {
     "ticker": "SUNUASSUR",
     "name": "Sunu Assurances Nigeria Plc",
-    "volume": "117935.0",
+    "volume": "178.0",
     "price": 4.51,
     "change": 0.0
   },
   {
     "ticker": "TANTALIZER",
     "name": "Tantalizers Plc",
-    "volume": "2290094.0",
+    "volume": "",
     "price": 2.2,
-    "change": 0.05
+    "change": NaN
   },
   {
     "ticker": "THOMASWY",
@@ -849,93 +849,93 @@
   {
     "ticker": "TIP",
     "name": "The Initiates Plc",
-    "volume": "2884082.0",
+    "volume": "",
     "price": 10.1,
-    "change": 0.05
+    "change": NaN
   },
   {
     "ticker": "TOTAL",
     "name": "Total Nigeria",
-    "volume": "1315.0",
+    "volume": "1.0",
     "price": 640.0,
     "change": 0.0
   },
   {
     "ticker": "TRANSCOHOT",
     "name": "Transcorp Hotels Plc",
-    "volume": "4742.0",
+    "volume": "600.0",
     "price": 174.9,
     "change": 0.0
   },
   {
     "ticker": "TRANSCORP",
     "name": "Transcorp Nigeria",
-    "volume": "2034080.0",
+    "volume": "2681.0",
     "price": 45.1,
-    "change": 1.55
+    "change": 0.0
   },
   {
     "ticker": "TRANSEXPR",
     "name": "Trans-Nationwide Express",
-    "volume": "200.0",
+    "volume": "",
     "price": 2.15,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "TRANSPOWER",
     "name": "Transcorp Power",
-    "volume": "785377.0",
+    "volume": "3315.0",
     "price": 307.8,
     "change": 0.0
   },
   {
     "ticker": "TRIPPLEG",
     "name": "Tripple Gee & Co. Plc",
-    "volume": "9029.0",
+    "volume": "",
     "price": 4.91,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "UACN",
     "name": "UAC of Nigeria",
-    "volume": "1391801.0",
+    "volume": "2529.0",
     "price": 60.0,
     "change": 0.0
   },
   {
     "ticker": "UBA",
     "name": "United Bank for Africa",
-    "volume": "52971236.0",
+    "volume": "",
     "price": 41.0,
-    "change": 2.65
+    "change": NaN
   },
   {
     "ticker": "UCAP",
     "name": "United Capital Plc",
-    "volume": "2409160.0",
+    "volume": "2050.0",
     "price": 18.4,
-    "change": 0.8
+    "change": 0.0
   },
   {
     "ticker": "UHOMREIT",
     "name": "Union Homes Real Estate Inv.",
-    "volume": "32322.0",
+    "volume": "",
     "price": 51.85,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "UNILEVER",
     "name": "Unilever Nigeria",
-    "volume": "69177.0",
+    "volume": "100.0",
     "price": 73.7,
     "change": 0.0
   },
   {
     "ticker": "UNIONDICON",
     "name": "Union Dicon Salt",
-    "volume": "702905.0",
+    "volume": "19286.0",
     "price": 7.0,
-    "change": -0.75
+    "change": 0.0
   },
   {
     "ticker": "UNITYBNK",
@@ -947,30 +947,30 @@
   {
     "ticker": "UNIVINSURE",
     "name": "Universal Insurance Company",
-    "volume": "15035913.0",
-    "price": 1.15,
-    "change": 0.04
+    "volume": "200000.0",
+    "price": 1.14,
+    "change": -0.01
   },
   {
     "ticker": "UPDC",
     "name": "UPDC Plc",
-    "volume": "3737094.0",
+    "volume": "574.0",
     "price": 5.96,
-    "change": 0.08
+    "change": 0.0
   },
   {
     "ticker": "UPDCREIT",
     "name": "UPDC Real Estate Investment Trust",
-    "volume": "2960578.0",
+    "volume": "",
     "price": 6.8,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "UPL",
     "name": "University Press",
-    "volume": "473533.0",
+    "volume": "",
     "price": 5.1,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "VANLEER",
@@ -982,50 +982,50 @@
   {
     "ticker": "VERITASKAP",
     "name": "Veritas Kapital Assurance Plc",
-    "volume": "6728134.0",
+    "volume": "134.0",
     "price": 1.84,
-    "change": 0.16
+    "change": 0.0
   },
   {
     "ticker": "VFDGROUP",
     "name": "VFD Group",
-    "volume": "10064127.0",
+    "volume": "15000.0",
     "price": 10.5,
-    "change": 0.25
+    "change": 0.0
   },
   {
     "ticker": "VITAFOAM",
     "name": "Vitafoam Nigeria",
-    "volume": "695839.0",
+    "volume": "2.0",
     "price": 85.0,
-    "change": 0.4
+    "change": 0.0
   },
   {
     "ticker": "WAPCO",
     "name": "Lafarge Wapco",
-    "volume": "9230790.0",
+    "volume": "",
     "price": 134.0,
-    "change": -0.95
+    "change": NaN
   },
   {
     "ticker": "WAPIC",
     "name": "Wapic Insurance",
-    "volume": "7252437.0",
+    "volume": "200.0",
     "price": 2.9,
-    "change": 0.04
+    "change": 0.0
   },
   {
     "ticker": "WEMABANK",
     "name": "Wema Bank",
-    "volume": "98434830.0",
+    "volume": "1416.0",
     "price": 19.8,
     "change": 0.0
   },
   {
     "ticker": "ZENITHBANK",
     "name": "Zenith Bank Plc",
-    "volume": "40768870.0",
+    "volume": "",
     "price": 64.4,
-    "change": 5.0
+    "change": NaN
   }
 ]
