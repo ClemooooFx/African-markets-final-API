@@ -1,27 +1,32 @@
 [
   {
-    "ticker": "BOPP",
-    "price": 45.7,
-    "change": "+9.99%"
+    "ticker": "CAL",
+    "price": 0.34,
+    "change": "+3.03%"
   },
   {
-    "ticker": "TBL",
-    "price": 1.2,
-    "change": "+9.09%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "GLD",
-    "price": 449.86,
-    "change": "+0.61%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "MTNGH",
-    "price": 4.01,
-    "change": "+0.25%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "EGH",
-    "price": 15.52,
-    "change": "+0.13%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

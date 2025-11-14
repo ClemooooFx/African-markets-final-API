@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "SOVRENINS",
-    "price": 3.45,
-    "change": "+9.87%"
+    "ticker": "VERITASKAP",
+    "price": 2.02,
+    "change": "+9.78%"
   },
   {
     "ticker": "LINKASSURE",
@@ -10,9 +10,14 @@
     "change": "+7.95%"
   },
   {
-    "ticker": "JAIZBANK",
-    "price": 4.68,
-    "change": "+4.00%"
+    "ticker": "STERLINGNG",
+    "price": 7.7,
+    "change": "+5.48%"
+  },
+  {
+    "ticker": "ASOSAVINGS",
+    "price": 0.99,
+    "change": "+5.32%"
   },
   {
     "ticker": "CUTIX",
@@ -20,13 +25,8 @@
     "change": "+3.92%"
   },
   {
-    "ticker": "NSLTECH",
-    "price": 0.85,
-    "change": "+3.66%"
-  },
-  {
-    "ticker": "GUINNESS",
-    "price": 170.0,
-    "change": "+2.41%"
+    "ticker": "JAIZBANK",
+    "price": 4.65,
+    "change": "+3.33%"
   }
 ]

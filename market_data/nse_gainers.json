@@ -5,11 +5,6 @@
     "change": "+9.09%"
   },
   {
-    "ticker": "NBV",
-    "price": 1.63,
-    "change": "+7.24%"
-  },
-  {
     "ticker": "AMAC",
     "price": 69.5,
     "change": "+6.51%"
@@ -28,5 +23,10 @@
     "ticker": "ABSA",
     "price": 25.0,
     "change": "+3.31%"
+  },
+  {
+    "ticker": "CIC",
+    "price": 4.7,
+    "change": "+2.62%"
   }
 ]

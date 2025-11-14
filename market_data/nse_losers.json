@@ -10,6 +10,11 @@
     "change": "-4.53%"
   },
   {
+    "ticker": "SCAN",
+    "price": 2.7,
+    "change": "-4.26%"
+  },
+  {
     "ticker": "CRWN",
     "price": 57.5,
     "change": "-4.17%"
@@ -23,10 +28,5 @@
     "ticker": "WTK",
     "price": 165.0,
     "change": "-2.65%"
-  },
-  {
-    "ticker": "CTUM",
-    "price": 15.0,
-    "change": "-2.60%"
   }
 ]
