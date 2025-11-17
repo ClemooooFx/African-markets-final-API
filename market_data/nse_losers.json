@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CRWN",
+    "price": 56.0,
+    "change": "-4.27%"
+  },
+  {
     "ticker": "EVRD",
     "price": 1.3,
     "change": "-3.70%"
@@ -10,9 +15,9 @@
     "change": "-3.23%"
   },
   {
-    "ticker": "CRWN",
-    "price": 57.0,
-    "change": "-2.56%"
+    "ticker": "NBV",
+    "price": 1.49,
+    "change": "-1.32%"
   },
   {
     "ticker": "LBTY",
@@ -23,10 +28,5 @@
     "ticker": "JUB",
     "price": 325.0,
     "change": "-0.91%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 6.92,
-    "change": "-0.86%"
   }
 ]

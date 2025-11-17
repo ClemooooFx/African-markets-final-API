@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "447049.0",
+    "volume": "486087.0",
     "price": 0.34,
     "change": 0.0
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "4600.0",
+    "volume": "4939.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -142,9 +142,9 @@
   {
     "ticker": "GLD",
     "name": "NewGold ETF",
-    "volume": "",
+    "volume": "1.0",
     "price": 449.86,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GOIL",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "30795.0",
+    "volume": "39937.0",
     "price": 4.2,
     "change": 0.0
   },
