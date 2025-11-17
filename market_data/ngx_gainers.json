@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "NCR",
+    "price": 28.15,
+    "change": "+9.96%"
+  },
+  {
     "ticker": "TANTALIZER",
     "price": 2.35,
     "change": "+9.81%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "LINKASSURE",
+    "price": 2.0,
+    "change": "+5.26%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "DAARCOMM",
+    "price": 0.98,
+    "change": "+3.16%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "HMCALL",
+    "price": 4.0,
+    "change": "+2.56%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "JAPAULGOLD",
+    "price": 2.33,
+    "change": "+1.75%"
   }
 ]
