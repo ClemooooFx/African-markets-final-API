@@ -2,9 +2,9 @@
   {
     "ticker": "ABSA",
     "name": "Absa Bank Botswana",
-    "volume": "403.0",
+    "volume": "",
     "price": 7.56,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ACCESS",
@@ -37,9 +37,9 @@
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "",
+    "volume": "34165.0",
     "price": 23.02,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "BOD",
@@ -58,9 +58,9 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "32518.0",
+    "volume": "10000.0",
     "price": 1.21,
-    "change": 0.01
+    "change": 0.0
   },
   {
     "ticker": "CASALES",
@@ -93,16 +93,16 @@
   {
     "ticker": "ENGEN",
     "name": "Engen Botswana Limited",
-    "volume": "",
+    "volume": "170.0",
     "price": 14.25,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": "",
+    "volume": "130317.0",
     "price": 5.45,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "FPC",
@@ -142,9 +142,9 @@
   {
     "ticker": "LETSHEGO",
     "name": "Letshego Holdings Limited",
-    "volume": "1071795.0",
+    "volume": "",
     "price": 0.95,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LUCARA",
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "",
-    "price": 536.0,
-    "change": NaN
+    "volume": "65.0",
+    "price": 561.4,
+    "change": 25.4
   },
   {
     "ticker": "NEWPALL",

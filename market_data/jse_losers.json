@@ -1,32 +1,32 @@
 [
   {
     "ticker": "MTNZF",
-    "price": 2.0,
-    "change": "-27.27%"
+    "price": 1.97,
+    "change": "-28.36%"
   },
   {
-    "ticker": "REN",
-    "price": 11.3,
-    "change": "-10.39%"
+    "ticker": "PWR",
+    "price": 83.53,
+    "change": "-16.47%"
   },
   {
-    "ticker": "MKR",
-    "price": 32.03,
-    "change": "-8.43%"
+    "ticker": "EMH",
+    "price": 2.1,
+    "change": "-8.70%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.63,
+    "change": "-7.35%"
+  },
+  {
+    "ticker": "CPR",
+    "price": 0.64,
+    "change": "-7.25%"
   },
   {
     "ticker": "NVS",
     "price": 6.6,
     "change": "-6.91%"
-  },
-  {
-    "ticker": "ISO",
-    "price": 137.5,
-    "change": "-6.69%"
-  },
-  {
-    "ticker": "HAR",
-    "price": 299.64,
-    "change": "-5.89%"
   }
 ]

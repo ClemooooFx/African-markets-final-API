@@ -1,32 +1,32 @@
 [
   {
     "ticker": "UNLC",
-    "price": 28690.0,
+    "price": 30840.0,
     "change": "+7.49%"
   },
   {
-    "ticker": "CABC",
-    "price": 2540.0,
-    "change": "+7.40%"
-  },
-  {
-    "ticker": "SAFC",
-    "price": 3010.0,
-    "change": "+7.12%"
-  },
-  {
-    "ticker": "BNBC",
-    "price": 1485.0,
-    "change": "+5.32%"
-  },
-  {
-    "ticker": "ONTBF",
-    "price": 2495.0,
-    "change": "+3.96%"
-  },
-  {
     "ticker": "NTLC",
-    "price": 11500.0,
-    "change": "+3.60%"
+    "price": 12000.0,
+    "change": "+4.35%"
+  },
+  {
+    "ticker": "STAC",
+    "price": 1200.0,
+    "change": "+3.45%"
+  },
+  {
+    "ticker": "BICB",
+    "price": 5215.0,
+    "change": "+2.25%"
+  },
+  {
+    "ticker": "BICC",
+    "price": 19900.0,
+    "change": "+2.05%"
+  },
+  {
+    "ticker": "SIVC",
+    "price": 695.0,
+    "change": "+1.46%"
   }
 ]

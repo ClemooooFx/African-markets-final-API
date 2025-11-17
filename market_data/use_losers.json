@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "JHL",
-    "price": 8803.08,
-    "change": "-2.07%"
+    "ticker": "BATU",
+    "price": 13500.0,
+    "change": "-10.00%"
   },
   {
-    "ticker": "CENT",
-    "price": 435.24,
-    "change": "-1.73%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 1902.42,
-    "change": "-1.11%"
+    "ticker": "UMEM",
+    "price": 142.0,
+    "change": "-9.55%"
   },
   {
     "ticker": "EBL",
-    "price": 1888.38,
-    "change": "-0.77%"
+    "price": 1781.65,
+    "change": "-5.65%"
   },
   {
-    "ticker": "SBU",
-    "price": 63.5,
-    "change": "-0.59%"
+    "ticker": "KCB",
+    "price": 1802.21,
+    "change": "-5.27%"
   },
   {
-    "ticker": "MTNU",
-    "price": 308.1,
-    "change": "-0.39%"
+    "ticker": "CENT",
+    "price": 413.89,
+    "change": "-4.91%"
+  },
+  {
+    "ticker": "EABL",
+    "price": 6578.4,
+    "change": "-2.59%"
   }
 ]
