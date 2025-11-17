@@ -1,32 +1,32 @@
 [
   {
     "ticker": "FTGH",
-    "price": 1.42,
-    "change": "-8.39%"
+    "price": 1.45,
+    "change": "-6.45%"
   },
   {
     "ticker": "EVRD",
-    "price": 1.25,
-    "change": "-7.41%"
+    "price": 1.28,
+    "change": "-5.19%"
   },
   {
-    "ticker": "BKG",
-    "price": 40.5,
-    "change": "-4.82%"
+    "ticker": "EGAD",
+    "price": 18.95,
+    "change": "-4.29%"
   },
   {
     "ticker": "CRWN",
-    "price": 56.0,
-    "change": "-4.27%"
+    "price": 56.25,
+    "change": "-3.85%"
+  },
+  {
+    "ticker": "BOC",
+    "price": 125.5,
+    "change": "-3.28%"
   },
   {
     "ticker": "NSE",
-    "price": 19.5,
-    "change": "-3.23%"
-  },
-  {
-    "ticker": "JUB",
-    "price": 325.0,
-    "change": "-0.91%"
+    "price": 19.7,
+    "change": "-2.23%"
   }
 ]
