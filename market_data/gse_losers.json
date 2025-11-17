@@ -3,5 +3,10 @@
     "ticker": "TOTAL",
     "price": 40.49,
     "change": "-0.02%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
