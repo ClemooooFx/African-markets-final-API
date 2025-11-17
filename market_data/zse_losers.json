@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "NTS",
+    "price": 0.2505,
+    "change": "-56.81%"
+  },
+  {
+    "ticker": "SEED",
+    "price": 3.8,
+    "change": "-7.32%"
+  },
+  {
+    "ticker": "SACL",
+    "price": 0.0325,
+    "change": "-4.25%"
+  },
+  {
+    "ticker": "ZSEH",
+    "price": 1.099708,
+    "change": "-3.53%"
+  },
+  {
     "ticker": "TNCI",
-    "price": 0.125,
-    "change": "-3.85%"
+    "price": 0.12069,
+    "change": "-3.45%"
   },
   {
     "ticker": "FML",
-    "price": 1.2025,
-    "change": "-3.22%"
-  },
-  {
-    "ticker": "ECO",
-    "price": 4.8816,
-    "change": "-2.48%"
-  },
-  {
-    "ticker": "ARTD",
-    "price": 0.0682,
-    "change": "-1.36%"
-  },
-  {
-    "ticker": "PROL",
-    "price": 1.03,
-    "change": "-0.62%"
-  },
-  {
-    "ticker": "DLTA",
-    "price": 15.5915,
-    "change": "-0.08%"
+    "price": 1.17,
+    "change": "-2.70%"
   }
 ]

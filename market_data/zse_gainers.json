@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "MASH",
-    "price": 0.9624,
-    "change": "+14.23%"
+    "ticker": "TURN",
+    "price": 0.12,
+    "change": "+33.04%"
   },
   {
-    "ticker": "WILD",
-    "price": 0.04,
-    "change": "+13.96%"
+    "ticker": "NPKZ",
+    "price": 0.72,
+    "change": "+10.77%"
+  },
+  {
+    "ticker": "MASH",
+    "price": 1.008003,
+    "change": "+4.74%"
+  },
+  {
+    "ticker": "NMB",
+    "price": 4.5,
+    "change": "+4.65%"
+  },
+  {
+    "ticker": "ECO",
+    "price": 5.020956,
+    "change": "+2.85%"
   },
   {
     "ticker": "FBC",
-    "price": 8.5,
-    "change": "+3.57%"
-  },
-  {
-    "ticker": "ZSEH",
-    "price": 1.14,
-    "change": "+3.40%"
-  },
-  {
-    "ticker": "OKZ",
-    "price": 0.205,
-    "change": "+2.24%"
-  },
-  {
-    "ticker": "CBZ",
-    "price": 8.7,
-    "change": "+0.64%"
+    "price": 8.6,
+    "change": "+1.18%"
   }
 ]
