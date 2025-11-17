@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "FTGH",
-    "price": 1.45,
-    "change": "-6.45%"
-  },
-  {
     "ticker": "WTK",
     "price": 158.0,
     "change": "-4.68%"
@@ -25,8 +20,13 @@
     "change": "-3.54%"
   },
   {
-    "ticker": "UMME",
-    "price": 6.86,
-    "change": "-1.72%"
+    "ticker": "UNGA",
+    "price": 23.65,
+    "change": "-1.46%"
+  },
+  {
+    "ticker": "KNRE",
+    "price": 3.13,
+    "change": "-1.26%"
   }
 ]

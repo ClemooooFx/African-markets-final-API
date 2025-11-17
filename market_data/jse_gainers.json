@@ -1,18 +1,18 @@
 [
   {
-    "ticker": "KP2",
-    "price": 0.69,
-    "change": "+9.52%"
-  },
-  {
     "ticker": "QFH",
-    "price": 8.29,
-    "change": "+8.94%"
+    "price": 8.49,
+    "change": "+11.56%"
   },
   {
     "ticker": "ACT",
     "price": 1.52,
     "change": "+4.83%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.66,
+    "change": "+4.76%"
   },
   {
     "ticker": "CPR",
@@ -25,8 +25,8 @@
     "change": "+4.66%"
   },
   {
-    "ticker": "MCZ",
-    "price": 2.5,
-    "change": "+4.17%"
+    "ticker": "JBL",
+    "price": 0.7,
+    "change": "+4.48%"
   }
 ]
