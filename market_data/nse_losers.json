@@ -1,28 +1,28 @@
 [
   {
+    "ticker": "FTGH",
+    "price": 1.42,
+    "change": "-8.39%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.25,
+    "change": "-7.41%"
+  },
+  {
+    "ticker": "BKG",
+    "price": 40.5,
+    "change": "-4.82%"
+  },
+  {
     "ticker": "CRWN",
     "price": 56.0,
     "change": "-4.27%"
   },
   {
-    "ticker": "EVRD",
-    "price": 1.3,
-    "change": "-3.70%"
-  },
-  {
     "ticker": "NSE",
     "price": 19.5,
     "change": "-3.23%"
-  },
-  {
-    "ticker": "NBV",
-    "price": 1.49,
-    "change": "-1.32%"
-  },
-  {
-    "ticker": "LBTY",
-    "price": 10.35,
-    "change": "-0.96%"
   },
   {
     "ticker": "JUB",
