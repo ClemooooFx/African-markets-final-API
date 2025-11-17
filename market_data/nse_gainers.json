@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "GLD",
+    "price": 5275.0,
+    "change": "+10.70%"
+  },
+  {
     "ticker": "UCHM",
-    "price": 0.48,
-    "change": "+9.09%"
+    "price": 0.52,
+    "change": "+8.33%"
   },
   {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "+3.85%"
+    "ticker": "CIC",
+    "price": 4.9,
+    "change": "+8.17%"
   },
   {
-    "ticker": "ABSA",
-    "price": 25.0,
-    "change": "+3.31%"
+    "ticker": "SMWF",
+    "price": 898.0,
+    "change": "+5.77%"
   },
   {
-    "ticker": "NMG",
-    "price": 13.0,
-    "change": "+2.77%"
+    "ticker": "KAPC",
+    "price": 210.0,
+    "change": "+4.22%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.45,
-    "change": "+1.95%"
-  },
-  {
-    "ticker": "SGL",
-    "price": 6.34,
-    "change": "+1.93%"
+    "ticker": "TOTL",
+    "price": 41.0,
+    "change": "+4.06%"
   }
 ]
