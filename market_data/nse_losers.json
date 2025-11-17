@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "EGAD",
-    "price": 18.15,
-    "change": "-8.33%"
-  },
-  {
-    "ticker": "SGL",
-    "price": 5.92,
-    "change": "-6.62%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.48,
-    "change": "-4.52%"
-  },
-  {
     "ticker": "CRWN",
-    "price": 57.0,
-    "change": "-2.56%"
+    "price": 56.0,
+    "change": "-4.27%"
   },
   {
-    "ticker": "BOC",
-    "price": 126.0,
-    "change": "-2.14%"
+    "ticker": "EVRD",
+    "price": 1.3,
+    "change": "-3.70%"
+  },
+  {
+    "ticker": "EGAD",
+    "price": 19.1,
+    "change": "-3.54%"
   },
   {
     "ticker": "NSE",
     "price": 19.8,
     "change": "-1.74%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 24.7,
+    "change": "-1.20%"
+  },
+  {
+    "ticker": "SASN",
+    "price": 18.55,
+    "change": "-1.07%"
   }
 ]
