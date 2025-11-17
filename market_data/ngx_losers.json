@@ -6,8 +6,18 @@
   },
   {
     "ticker": "CHAMS",
-    "price": 3.25,
-    "change": "-4.41%"
+    "price": 3.2,
+    "change": "-5.88%"
+  },
+  {
+    "ticker": "FCMB",
+    "price": 10.4,
+    "change": "-5.45%"
+  },
+  {
+    "ticker": "GUINEAINS",
+    "price": 1.21,
+    "change": "-3.97%"
   },
   {
     "ticker": "STERLINGNG",
@@ -15,18 +25,8 @@
     "change": "-3.36%"
   },
   {
-    "ticker": "FCMB",
-    "price": 10.7,
-    "change": "-2.73%"
-  },
-  {
-    "ticker": "CONHALLPLC",
-    "price": 4.3,
-    "change": "-2.27%"
-  },
-  {
-    "ticker": "ACCESSCORP",
-    "price": 22.5,
-    "change": "-2.17%"
+    "ticker": "OANDO",
+    "price": 42.15,
+    "change": "-2.32%"
   }
 ]
