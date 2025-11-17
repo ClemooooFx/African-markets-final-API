@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "FTGH",
+    "price": 1.45,
+    "change": "-6.45%"
+  },
+  {
+    "ticker": "WTK",
+    "price": 158.0,
+    "change": "-4.68%"
+  },
+  {
     "ticker": "CRWN",
     "price": 56.0,
     "change": "-4.27%"
@@ -15,18 +25,8 @@
     "change": "-3.54%"
   },
   {
-    "ticker": "NSE",
-    "price": 19.8,
-    "change": "-1.74%"
-  },
-  {
-    "ticker": "ABSA",
-    "price": 24.7,
-    "change": "-1.20%"
-  },
-  {
-    "ticker": "SASN",
-    "price": 18.55,
-    "change": "-1.07%"
+    "ticker": "UMME",
+    "price": 6.86,
+    "change": "-1.72%"
   }
 ]
