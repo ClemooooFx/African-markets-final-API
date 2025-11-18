@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "MCNICHOLS",
-    "price": 2.7,
-    "change": "-10.00%"
-  },
-  {
     "ticker": "DEAPCAP",
     "price": 1.62,
     "change": "-10.00%"
@@ -15,18 +10,23 @@
     "change": "-9.90%"
   },
   {
+    "ticker": "MCNICHOLS",
+    "price": 2.71,
+    "change": "-9.67%"
+  },
+  {
     "ticker": "REGALINS",
     "price": 1.14,
     "change": "-6.56%"
   },
   {
-    "ticker": "NPFMCRFBK",
-    "price": 2.99,
-    "change": "-1.97%"
+    "ticker": "WEMABANK",
+    "price": 19.05,
+    "change": "-4.27%"
   },
   {
-    "ticker": "CHAMS",
-    "price": 3.26,
-    "change": "-1.21%"
+    "ticker": "JAPAULGOLD",
+    "price": 2.23,
+    "change": "-3.04%"
   }
 ]

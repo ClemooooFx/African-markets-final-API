@@ -10,11 +10,6 @@
     "change": "-3.61%"
   },
   {
-    "ticker": "EABL",
-    "price": 227.0,
-    "change": "-3.40%"
-  },
-  {
     "ticker": "SMWF",
     "price": 835.0,
     "change": "-2.91%"
@@ -28,5 +23,10 @@
     "ticker": "CRWN",
     "price": 55.0,
     "change": "-2.22%"
+  },
+  {
+    "ticker": "SMER",
+    "price": 13.8,
+    "change": "-2.13%"
   }
 ]

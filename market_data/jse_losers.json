@@ -5,11 +5,6 @@
     "change": "-37.50%"
   },
   {
-    "ticker": "TEX",
-    "price": 2.64,
-    "change": "-21.89%"
-  },
-  {
     "ticker": "ISB",
     "price": 0.68,
     "change": "-11.69%"
@@ -21,12 +16,17 @@
   },
   {
     "ticker": "REN",
-    "price": 10.7,
-    "change": "-6.79%"
+    "price": 10.66,
+    "change": "-7.14%"
   },
   {
-    "ticker": "PIK",
-    "price": 25.55,
-    "change": "-6.24%"
+    "ticker": "TEX",
+    "price": 3.14,
+    "change": "-7.10%"
+  },
+  {
+    "ticker": "KRO",
+    "price": 750.01,
+    "change": "-6.01%"
   }
 ]

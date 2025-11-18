@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "MTNZF",
+    "price": 0.85,
+    "change": "+25.00%"
+  },
+  {
     "ticker": "LAB",
     "price": 0.06,
     "change": "+20.00%"
-  },
-  {
-    "ticker": "MTNZF",
-    "price": 0.78,
-    "change": "+14.71%"
   },
   {
     "ticker": "ACT",
@@ -21,8 +21,8 @@
   },
   {
     "ticker": "MCZ",
-    "price": 2.6,
-    "change": "+7.88%"
+    "price": 2.59,
+    "change": "+7.47%"
   },
   {
     "ticker": "RMH",
