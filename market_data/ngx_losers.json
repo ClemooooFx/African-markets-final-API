@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "DEAPCAP",
-    "price": 1.62,
-    "change": "-10.00%"
-  },
-  {
     "ticker": "LIVINGTRUST",
     "price": 3.73,
     "change": "-9.90%"
@@ -13,6 +8,11 @@
     "ticker": "MCNICHOLS",
     "price": 2.71,
     "change": "-9.67%"
+  },
+  {
+    "ticker": "LIVESTOCK",
+    "price": 6.55,
+    "change": "-7.75%"
   },
   {
     "ticker": "REGALINS",
@@ -25,8 +25,8 @@
     "change": "-5.94%"
   },
   {
-    "ticker": "ZENITHBANK",
-    "price": 60.1,
-    "change": "-4.53%"
+    "ticker": "DEAPCAP",
+    "price": 1.7,
+    "change": "-5.56%"
   }
 ]

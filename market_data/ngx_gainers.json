@@ -5,9 +5,14 @@
     "change": "+9.95%"
   },
   {
+    "ticker": "UPL",
+    "price": 5.6,
+    "change": "+9.80%"
+  },
+  {
     "ticker": "TANTALIZER",
-    "price": 2.54,
-    "change": "+8.09%"
+    "price": 2.58,
+    "change": "+9.79%"
   },
   {
     "ticker": "CAVERTON",
@@ -23,10 +28,5 @@
     "ticker": "IKEJAHOTEL",
     "price": 20.5,
     "change": "+5.13%"
-  },
-  {
-    "ticker": "HMCALL",
-    "price": 4.2,
-    "change": "+5.00%"
   }
 ]
