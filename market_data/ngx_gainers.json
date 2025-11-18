@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "SOVRENINS",
-    "price": 3.5,
-    "change": "+9.37%"
-  },
-  {
     "ticker": "PRESTIGE",
     "price": 1.6,
     "change": "+8.84%"
@@ -15,9 +10,9 @@
     "change": "+7.45%"
   },
   {
-    "ticker": "OMATEK",
-    "price": 1.33,
-    "change": "+6.40%"
+    "ticker": "IKEJAHOTEL",
+    "price": 20.8,
+    "change": "+6.67%"
   },
   {
     "ticker": "HMCALL",
@@ -28,5 +23,10 @@
     "ticker": "TRANSCORP",
     "price": 45.0,
     "change": "+4.65%"
+  },
+  {
+    "ticker": "TANTALIZER",
+    "price": 2.45,
+    "change": "+4.26%"
   }
 ]
