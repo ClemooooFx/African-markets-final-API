@@ -10,6 +10,11 @@
     "change": "-11.69%"
   },
   {
+    "ticker": "ACL",
+    "price": 1.17,
+    "change": "-8.59%"
+  },
+  {
     "ticker": "BRN",
     "price": 4.26,
     "change": "-7.39%"
@@ -23,10 +28,5 @@
     "ticker": "TEX",
     "price": 3.14,
     "change": "-7.10%"
-  },
-  {
-    "ticker": "KRO",
-    "price": 750.01,
-    "change": "-6.01%"
   }
 ]

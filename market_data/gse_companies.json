@@ -16,9 +16,9 @@
   {
     "ticker": "ADB",
     "name": "Agricultural Development Bank",
-    "volume": "",
+    "volume": "3.0",
     "price": 5.06,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "AGA",
@@ -58,9 +58,9 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "",
+    "volume": "13190.0",
     "price": 0.34,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CLYD",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "2679.0",
+    "volume": "4490.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -135,9 +135,9 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "",
+    "volume": "1.0",
     "price": 6.6,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GLD",
@@ -149,9 +149,9 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "",
-    "price": 2.61,
-    "change": NaN
+    "volume": "2298.0",
+    "price": 2.68,
+    "change": 0.07
   },
   {
     "ticker": "HORDS",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "557928.0",
+    "volume": "557975.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "20085.0",
+    "volume": "20982.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,9 +226,9 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "",
+    "volume": "6450.0",
     "price": 1.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SOGEGH",
@@ -254,14 +254,14 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "58.0",
+    "volume": "64.0",
     "price": 40.49,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "18.0",
+    "volume": "38.0",
     "price": 19.79,
     "change": 0.0
   }
