@@ -5,6 +5,11 @@
     "change": "-37.50%"
   },
   {
+    "ticker": "TEX",
+    "price": 2.64,
+    "change": "-21.89%"
+  },
+  {
     "ticker": "ISB",
     "price": 0.68,
     "change": "-11.69%"
@@ -15,18 +20,13 @@
     "change": "-7.39%"
   },
   {
+    "ticker": "SSW",
+    "price": 45.74,
+    "change": "-6.60%"
+  },
+  {
     "ticker": "GFI",
     "price": 652.86,
     "change": "-6.46%"
-  },
-  {
-    "ticker": "NPH",
-    "price": 261.45,
-    "change": "-6.07%"
-  },
-  {
-    "ticker": "REN",
-    "price": 10.8,
-    "change": "-5.92%"
   }
 ]
