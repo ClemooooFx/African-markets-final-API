@@ -10,6 +10,11 @@
     "change": "+11.70%"
   },
   {
+    "ticker": "ACT",
+    "price": 1.65,
+    "change": "+11.49%"
+  },
+  {
     "ticker": "RTN",
     "price": 13.5,
     "change": "+7.91%"
@@ -23,10 +28,5 @@
     "ticker": "BRN",
     "price": 4.6,
     "change": "+7.23%"
-  },
-  {
-    "ticker": "SUR",
-    "price": 38.49,
-    "change": "+6.92%"
   }
 ]
