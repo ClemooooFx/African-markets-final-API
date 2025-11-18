@@ -10,11 +10,6 @@
     "change": "+20.00%"
   },
   {
-    "ticker": "MST",
-    "price": 14.48,
-    "change": "+11.04%"
-  },
-  {
     "ticker": "ACT",
     "price": 1.64,
     "change": "+10.81%"
@@ -28,5 +23,10 @@
     "ticker": "MCZ",
     "price": 2.59,
     "change": "+7.47%"
+  },
+  {
+    "ticker": "ENX",
+    "price": 3.99,
+    "change": "+5.00%"
   }
 ]

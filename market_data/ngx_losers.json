@@ -15,11 +15,6 @@
     "change": "-7.75%"
   },
   {
-    "ticker": "REGALINS",
-    "price": 1.14,
-    "change": "-6.56%"
-  },
-  {
     "ticker": "DAARCOMM",
     "price": 0.95,
     "change": "-5.94%"
@@ -28,5 +23,10 @@
     "ticker": "DEAPCAP",
     "price": 1.7,
     "change": "-5.56%"
+  },
+  {
+    "ticker": "MBENEFIT",
+    "price": 3.38,
+    "change": "-4.79%"
   }
 ]
