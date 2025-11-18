@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "MTNZF",
+    "ticker": "BIK",
+    "price": 0.1,
+    "change": "-37.50%"
+  },
+  {
+    "ticker": "ISB",
     "price": 0.68,
-    "change": "-65.48%"
+    "change": "-11.69%"
   },
   {
-    "ticker": "LAB",
-    "price": 0.05,
-    "change": "-16.67%"
+    "ticker": "BRN",
+    "price": 4.26,
+    "change": "-7.39%"
   },
   {
-    "ticker": "PMV",
-    "price": 2.5,
-    "change": "-15.82%"
+    "ticker": "GFI",
+    "price": 652.86,
+    "change": "-6.46%"
   },
   {
-    "ticker": "ISO",
-    "price": 134.6,
-    "change": "-7.81%"
+    "ticker": "NPH",
+    "price": 261.45,
+    "change": "-6.07%"
   },
   {
-    "ticker": "EUZ",
-    "price": 0.8,
-    "change": "-5.88%"
-  },
-  {
-    "ticker": "STXRES",
-    "price": 110.06,
-    "change": "-4.86%"
+    "ticker": "REN",
+    "price": 10.8,
+    "change": "-5.92%"
   }
 ]

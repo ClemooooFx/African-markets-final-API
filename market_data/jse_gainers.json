@@ -1,18 +1,23 @@
 [
   {
-    "ticker": "SOLBE1",
-    "price": 85.0,
-    "change": "+30.77%"
-  },
-  {
-    "ticker": "QFH",
-    "price": 8.5,
-    "change": "+11.70%"
+    "ticker": "MTNZF",
+    "price": 0.78,
+    "change": "+14.71%"
   },
   {
     "ticker": "ACT",
     "price": 1.65,
     "change": "+11.49%"
+  },
+  {
+    "ticker": "MCZ",
+    "price": 2.65,
+    "change": "+9.96%"
+  },
+  {
+    "ticker": "LSK",
+    "price": 70.77,
+    "change": "+8.05%"
   },
   {
     "ticker": "RTN",
@@ -23,10 +28,5 @@
     "ticker": "SDL",
     "price": 12.9,
     "change": "+7.50%"
-  },
-  {
-    "ticker": "BRN",
-    "price": 4.6,
-    "change": "+7.23%"
   }
 ]
