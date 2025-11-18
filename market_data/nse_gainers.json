@@ -1,23 +1,13 @@
 [
   {
-    "ticker": "AMAC",
-    "price": 76.0,
-    "change": "+9.75%"
-  },
-  {
     "ticker": "UCHM",
     "price": 0.57,
     "change": "+9.62%"
   },
   {
-    "ticker": "EGAD",
-    "price": 20.4,
-    "change": "+7.65%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 43.0,
-    "change": "+5.65%"
+    "ticker": "AMAC",
+    "price": 75.5,
+    "change": "+9.03%"
   },
   {
     "ticker": "FTGH",
@@ -25,8 +15,18 @@
     "change": "+4.14%"
   },
   {
+    "ticker": "NBV",
+    "price": 1.56,
+    "change": "+4.00%"
+  },
+  {
     "ticker": "PORT",
     "price": 65.25,
     "change": "+3.98%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 42.1,
+    "change": "+3.44%"
   }
 ]
