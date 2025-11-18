@@ -1,7 +1,32 @@
 [
   {
-    "ticker": "NEWGOLD",
-    "price": 550.18,
-    "change": "-2.00%"
+    "ticker": "NEWPLAT",
+    "price": 215.5,
+    "change": "-4.01%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
