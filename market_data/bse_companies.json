@@ -58,16 +58,16 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "10000.0",
+    "volume": "33000.0",
     "price": 1.21,
     "change": 0.0
   },
   {
     "ticker": "CASALES",
     "name": "CA Sales Holdings Limited",
-    "volume": "",
+    "volume": "15583.0",
     "price": 14.15,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CHOBE",
@@ -79,9 +79,9 @@
   {
     "ticker": "CHOPPIES",
     "name": "Choppies Enterprises Limited",
-    "volume": "",
+    "volume": "1698803.0",
     "price": 0.71,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CRESTA",
@@ -100,7 +100,7 @@
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": "130317.0",
+    "volume": "86343.0",
     "price": 5.45,
     "change": 0.0
   },
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "65.0",
-    "price": 561.4,
-    "change": 25.4
+    "volume": "15504.0",
+    "price": 550.18,
+    "change": -11.22
   },
   {
     "ticker": "NEWPALL",
@@ -198,23 +198,23 @@
   {
     "ticker": "PRIMETIME",
     "name": "PrimeTime Property Holdings",
-    "volume": "",
+    "volume": "736226.0",
     "price": 1.61,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "RDCP",
     "name": "RDC Properties Limited",
-    "volume": "",
-    "price": 2.4,
-    "change": NaN
+    "volume": "50000.0",
+    "price": 2.5,
+    "change": 0.1
   },
   {
     "ticker": "SECHABA",
     "name": "Sechaba Brewery Holdings Limited",
-    "volume": "",
+    "volume": "61949.0",
     "price": 37.01,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SEEDCO",
@@ -226,9 +226,9 @@
   {
     "ticker": "SEFALANA",
     "name": "Sefalana Holding Company Ltd",
-    "volume": "",
+    "volume": "36915.0",
     "price": 15.75,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SHUMBA",

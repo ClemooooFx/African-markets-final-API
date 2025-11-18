@@ -1,8 +1,8 @@
 [
   {
     "ticker": "MTNZF",
-    "price": 1.0,
-    "change": "-49.24%"
+    "price": 0.68,
+    "change": "-65.48%"
   },
   {
     "ticker": "LAB",
@@ -10,23 +10,23 @@
     "change": "-16.67%"
   },
   {
-    "ticker": "FTH",
-    "price": 6.16,
-    "change": "-11.87%"
-  },
-  {
     "ticker": "PMV",
-    "price": 2.75,
-    "change": "-7.41%"
+    "price": 2.5,
+    "change": "-15.82%"
   },
   {
-    "ticker": "BCF",
-    "price": 15.0,
-    "change": "-6.25%"
+    "ticker": "ISO",
+    "price": 134.6,
+    "change": "-7.81%"
   },
   {
     "ticker": "EUZ",
     "price": 0.8,
     "change": "-5.88%"
+  },
+  {
+    "ticker": "NTU",
+    "price": 0.92,
+    "change": "-4.17%"
   }
 ]

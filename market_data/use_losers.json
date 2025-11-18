@@ -1,32 +1,27 @@
 [
   {
-    "ticker": "BATU",
-    "price": 13500.0,
-    "change": "-10.00%"
+    "ticker": "NMG",
+    "price": 349.01,
+    "change": "-4.62%"
   },
   {
-    "ticker": "UMEM",
-    "price": 142.0,
-    "change": "-9.55%"
-  },
-  {
-    "ticker": "EBL",
-    "price": 1781.65,
-    "change": "-5.65%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 1802.21,
-    "change": "-5.27%"
-  },
-  {
-    "ticker": "CENT",
-    "price": 413.89,
-    "change": "-4.91%"
+    "ticker": "SBU",
+    "price": 62.22,
+    "change": "-1.71%"
   },
   {
     "ticker": "EABL",
-    "price": 6578.4,
-    "change": "-2.59%"
+    "price": 6483.65,
+    "change": "-1.44%"
+  },
+  {
+    "ticker": "KCB",
+    "price": 1793.35,
+    "change": "-0.49%"
+  },
+  {
+    "ticker": "EBL",
+    "price": 1779.56,
+    "change": "-0.12%"
   }
 ]

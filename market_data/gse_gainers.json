@@ -1,12 +1,17 @@
 [
   {
+    "ticker": "RBGH",
+    "price": 1.25,
+    "change": "+1.63%"
+  },
+  {
     "ticker": "EGH",
     "price": 16.0,
     "change": "+0.19%"
   },
   {
     "ticker": "GCB",
-    "price": 18.02,
-    "change": "+0.11%"
+    "price": 18.01,
+    "change": "+0.06%"
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
     "ticker": "SOLBE1",
-    "price": 80.0,
-    "change": "+23.08%"
+    "price": 85.0,
+    "change": "+30.77%"
   },
   {
     "ticker": "QFH",
-    "price": 8.49,
-    "change": "+11.56%"
+    "price": 8.5,
+    "change": "+11.70%"
   },
   {
-    "ticker": "SUR",
-    "price": 39.49,
-    "change": "+9.69%"
+    "ticker": "RTN",
+    "price": 13.5,
+    "change": "+7.91%"
   },
   {
     "ticker": "SDL",
@@ -20,13 +20,13 @@
     "change": "+7.50%"
   },
   {
-    "ticker": "RBO",
-    "price": 4.8,
-    "change": "+6.67%"
+    "ticker": "BRN",
+    "price": 4.6,
+    "change": "+7.23%"
   },
   {
-    "ticker": "PPE",
-    "price": 2.34,
-    "change": "+5.88%"
+    "ticker": "SUR",
+    "price": 38.49,
+    "change": "+6.92%"
   }
 ]

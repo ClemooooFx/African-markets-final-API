@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "CFAC",
-    "price": 1530.0,
-    "change": "-4.97%"
+    "ticker": "CABC",
+    "price": 2360.0,
+    "change": "-7.45%"
   },
   {
-    "ticker": "SAFC",
-    "price": 2900.0,
-    "change": "-3.65%"
-  },
-  {
-    "ticker": "CIEC",
-    "price": 2515.0,
-    "change": "-3.27%"
-  },
-  {
-    "ticker": "FTSC",
-    "price": 2350.0,
-    "change": "-2.89%"
+    "ticker": "STAC",
+    "price": 1150.0,
+    "change": "-4.17%"
   },
   {
     "ticker": "ORGT",
-    "price": 2550.0,
-    "change": "-2.67%"
+    "price": 2445.0,
+    "change": "-4.12%"
   },
   {
-    "ticker": "PALC",
-    "price": 7950.0,
-    "change": "-2.45%"
+    "ticker": "PRSC",
+    "price": 3745.0,
+    "change": "-2.73%"
+  },
+  {
+    "ticker": "SAFC",
+    "price": 2840.0,
+    "change": "-2.07%"
+  },
+  {
+    "ticker": "BICC",
+    "price": 19500.0,
+    "change": "-2.01%"
   }
 ]
