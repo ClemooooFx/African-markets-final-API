@@ -1,17 +1,32 @@
 [
   {
-    "ticker": "RBGH",
-    "price": 1.25,
-    "change": "+1.63%"
-  },
-  {
-    "ticker": "EGH",
-    "price": 16.0,
-    "change": "+0.19%"
-  },
-  {
     "ticker": "GCB",
-    "price": 18.01,
+    "price": 18.02,
     "change": "+0.06%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
