@@ -1,23 +1,8 @@
 [
   {
-    "ticker": "LAB",
-    "price": 0.06,
-    "change": "+20.00%"
-  },
-  {
-    "ticker": "ACT",
-    "price": 1.59,
-    "change": "+7.43%"
-  },
-  {
-    "ticker": "ACS",
-    "price": 8.0,
-    "change": "+7.38%"
-  },
-  {
-    "ticker": "GCT",
-    "price": 14.2,
-    "change": "+5.19%"
+    "ticker": "LBR",
+    "price": 4.79,
+    "change": "+8.37%"
   },
   {
     "ticker": "MCZ",
@@ -28,5 +13,20 @@
     "ticker": "FNBT40",
     "price": 108.89,
     "change": "+4.84%"
+  },
+  {
+    "ticker": "FNBMID",
+    "price": 10.9,
+    "change": "+4.71%"
+  },
+  {
+    "ticker": "MST",
+    "price": 13.6,
+    "change": "+4.29%"
+  },
+  {
+    "ticker": "SUR",
+    "price": 40.0,
+    "change": "+3.92%"
   }
 ]

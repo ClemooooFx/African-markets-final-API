@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "BIK",
-    "price": 0.11,
-    "change": "-31.25%"
-  },
-  {
     "ticker": "VIS",
     "price": 0.03,
     "change": "-25.00%"
@@ -15,18 +10,23 @@
     "change": "-18.60%"
   },
   {
-    "ticker": "ISB",
-    "price": 0.67,
-    "change": "-12.99%"
-  },
-  {
-    "ticker": "BCF",
-    "price": 13.5,
-    "change": "-12.90%"
-  },
-  {
     "ticker": "SKA",
     "price": 1.32,
     "change": "-8.97%"
+  },
+  {
+    "ticker": "PWR",
+    "price": 76.52,
+    "change": "-8.39%"
+  },
+  {
+    "ticker": "TEX",
+    "price": 3.14,
+    "change": "-7.10%"
+  },
+  {
+    "ticker": "LHC",
+    "price": 11.15,
+    "change": "-7.01%"
   }
 ]
