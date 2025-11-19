@@ -5,6 +5,11 @@
     "change": "+10.83%"
   },
   {
+    "ticker": "DNB",
+    "price": 2.2,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "TPC",
     "price": 38.0,
     "change": "+8.57%"
@@ -20,13 +25,8 @@
     "change": "+5.90%"
   },
   {
-    "ticker": "ANG",
-    "price": 1411.47,
-    "change": "+4.55%"
-  },
-  {
-    "ticker": "TKG",
-    "price": 53.75,
-    "change": "+4.09%"
+    "ticker": "DRD",
+    "price": 51.53,
+    "change": "+5.81%"
   }
 ]
