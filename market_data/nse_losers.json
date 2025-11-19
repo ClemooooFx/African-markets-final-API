@@ -1,13 +1,18 @@
 [
   {
     "ticker": "SGL",
-    "price": 6.0,
-    "change": "-5.96%"
+    "price": 6.02,
+    "change": "-5.64%"
   },
   {
     "ticker": "KUKZ",
     "price": 403.0,
     "change": "-2.95%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.76,
+    "change": "-2.13%"
   },
   {
     "ticker": "KQ",
@@ -20,13 +25,8 @@
     "change": "-1.16%"
   },
   {
-    "ticker": "TOTL",
-    "price": 42.0,
-    "change": "-0.83%"
-  },
-  {
-    "ticker": "EQTY",
-    "price": 64.5,
-    "change": "-0.77%"
+    "ticker": "NSE",
+    "price": 19.2,
+    "change": "-1.03%"
   }
 ]
