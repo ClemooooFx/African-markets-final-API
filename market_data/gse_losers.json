@@ -3,5 +3,10 @@
     "ticker": "MTNGH",
     "price": 4.15,
     "change": "-1.19%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

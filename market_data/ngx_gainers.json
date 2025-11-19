@@ -1,18 +1,13 @@
 [
   {
-    "ticker": "CAVERTON",
-    "price": 5.65,
-    "change": "+9.71%"
-  },
-  {
-    "ticker": "TANTALIZER",
-    "price": 2.82,
-    "change": "+9.30%"
-  },
-  {
     "ticker": "UACN",
     "price": 68.3,
     "change": "+8.33%"
+  },
+  {
+    "ticker": "CAVERTON",
+    "price": 5.55,
+    "change": "+7.77%"
   },
   {
     "ticker": "LINKASSURE",
@@ -25,8 +20,13 @@
     "change": "+7.14%"
   },
   {
-    "ticker": "UPDCREIT",
-    "price": 7.2,
-    "change": "+5.88%"
+    "ticker": "UNIONDICON",
+    "price": 7.0,
+    "change": "+1.45%"
+  },
+  {
+    "ticker": "HMCALL",
+    "price": 4.25,
+    "change": "+1.19%"
   }
 ]

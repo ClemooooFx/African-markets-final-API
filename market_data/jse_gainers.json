@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "BIK",
+    "price": 0.17,
+    "change": "+54.55%"
+  },
+  {
     "ticker": "QFH",
     "price": 9.38,
     "change": "+16.81%"
   },
   {
     "ticker": "ISO",
-    "price": 140.76,
-    "change": "+10.83%"
+    "price": 143.0,
+    "change": "+12.60%"
   },
   {
     "ticker": "DNB",
@@ -23,10 +28,5 @@
     "ticker": "LSK",
     "price": 69.99,
     "change": "+5.90%"
-  },
-  {
-    "ticker": "DRD",
-    "price": 51.53,
-    "change": "+5.81%"
   }
 ]
