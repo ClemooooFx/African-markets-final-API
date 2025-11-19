@@ -10,16 +10,6 @@
     "change": "+8.37%"
   },
   {
-    "ticker": "FNBT40",
-    "price": 108.89,
-    "change": "+4.84%"
-  },
-  {
-    "ticker": "FNBMID",
-    "price": 10.9,
-    "change": "+4.71%"
-  },
-  {
     "ticker": "RNG",
     "price": 0.67,
     "change": "+3.08%"
@@ -28,5 +18,15 @@
     "ticker": "SOL",
     "price": 128.55,
     "change": "+2.84%"
+  },
+  {
+    "ticker": "VUN",
+    "price": 2.0,
+    "change": "+2.56%"
+  },
+  {
+    "ticker": "SEP",
+    "price": 1.64,
+    "change": "+2.50%"
   }
 ]
