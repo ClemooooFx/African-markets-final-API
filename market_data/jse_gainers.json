@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "QFH",
+    "price": 9.38,
+    "change": "+16.81%"
+  },
+  {
     "ticker": "ISO",
     "price": 140.76,
     "change": "+10.83%"
@@ -16,12 +21,7 @@
   },
   {
     "ticker": "LSK",
-    "price": 70.0,
-    "change": "+5.92%"
-  },
-  {
-    "ticker": "NVS",
-    "price": 7.0,
+    "price": 69.99,
     "change": "+5.90%"
   },
   {

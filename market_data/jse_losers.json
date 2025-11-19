@@ -1,8 +1,8 @@
 [
   {
     "ticker": "MTNZF",
-    "price": 0.45,
-    "change": "-30.77%"
+    "price": 0.3,
+    "change": "-53.85%"
   },
   {
     "ticker": "RNG",
@@ -20,13 +20,13 @@
     "change": "-11.27%"
   },
   {
+    "ticker": "LHC",
+    "price": 11.0,
+    "change": "-8.26%"
+  },
+  {
     "ticker": "CPR",
     "price": 0.62,
     "change": "-7.46%"
-  },
-  {
-    "ticker": "LHC",
-    "price": 11.22,
-    "change": "-6.42%"
   }
 ]
