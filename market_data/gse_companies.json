@@ -16,9 +16,9 @@
   {
     "ticker": "ADB",
     "name": "Agricultural Development Bank",
-    "volume": "3.0",
+    "volume": "",
     "price": 5.06,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "AGA",
@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "1209.0",
+    "volume": "",
     "price": 6.12,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ALW",
@@ -58,9 +58,9 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "858164.0",
+    "volume": "",
     "price": 0.34,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CLYD",
@@ -114,30 +114,30 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "10423.0",
+    "volume": "542.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "2806.0",
+    "volume": "",
     "price": 8.01,
-    "change": 0.01
+    "change": NaN
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "25500.0",
-    "price": 18.22,
-    "change": 0.21
+    "volume": "1100000.0",
+    "price": 18.5,
+    "change": 0.28
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "1.0",
+    "volume": "",
     "price": 6.6,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GLD",
@@ -149,9 +149,9 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "2298.0",
+    "volume": "",
     "price": 2.68,
-    "change": 0.07
+    "change": NaN
   },
   {
     "ticker": "HORDS",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "820703.0",
+    "volume": "",
     "price": 4.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "PBC",
@@ -198,9 +198,9 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "21680.0",
+    "volume": "",
     "price": 1.25,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SAMBA",
@@ -212,9 +212,9 @@
   {
     "ticker": "SCB",
     "name": "Standard Chartered Bank Limited",
-    "volume": "400.0",
+    "volume": "",
     "price": 29.12,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SCBPREF",
@@ -226,16 +226,16 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "13610.0",
+    "volume": "",
     "price": 1.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "39.0",
+    "volume": "",
     "price": 4.1,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "TBL",
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "888.0",
+    "volume": "",
     "price": 40.49,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "1164.0",
+    "volume": "",
     "price": 19.79,
-    "change": 0.0
+    "change": NaN
   }
 ]

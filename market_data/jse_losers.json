@@ -15,11 +15,6 @@
     "change": "-14.21%"
   },
   {
-    "ticker": "SNV",
-    "price": 6.62,
-    "change": "-6.63%"
-  },
-  {
     "ticker": "LHC",
     "price": 11.22,
     "change": "-6.42%"
@@ -28,5 +23,10 @@
     "ticker": "GPL",
     "price": 2.07,
     "change": "-5.91%"
+  },
+  {
+    "ticker": "GCT",
+    "price": 13.6,
+    "change": "-4.23%"
   }
 ]
