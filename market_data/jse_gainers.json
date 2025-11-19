@@ -1,8 +1,8 @@
 [
   {
     "ticker": "ISO",
-    "price": 144.95,
-    "change": "+14.13%"
+    "price": 140.76,
+    "change": "+10.83%"
   },
   {
     "ticker": "TPC",
@@ -20,13 +20,13 @@
     "change": "+5.90%"
   },
   {
+    "ticker": "ANG",
+    "price": 1411.47,
+    "change": "+4.55%"
+  },
+  {
     "ticker": "TKG",
     "price": 53.75,
     "change": "+4.09%"
-  },
-  {
-    "ticker": "ACL",
-    "price": 1.28,
-    "change": "+4.07%"
   }
 ]
