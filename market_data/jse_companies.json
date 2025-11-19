@@ -1339,9 +1339,9 @@
   {
     "ticker": "INPR",
     "name": "Investec Ltd Preference Shares",
-    "volume": "",
-    "price": 101.75,
-    "change": NaN
+    "volume": "4000.0",
+    "price": 99.5,
+    "change": -2.25
   },
   {
     "ticker": "IOC",
@@ -1745,9 +1745,9 @@
   {
     "ticker": "NTCP",
     "name": "Netcare Limited Pref",
-    "volume": "",
+    "volume": "250.0",
     "price": 93.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "NTU",
@@ -1850,9 +1850,9 @@
   {
     "ticker": "PBT",
     "name": "PBT Holdings Ltd",
-    "volume": "",
-    "price": 7.26,
-    "change": NaN
+    "volume": "1750.0",
+    "price": 7.0,
+    "change": -0.26
   },
   {
     "ticker": "PCWGE",
@@ -2081,9 +2081,9 @@
   {
     "ticker": "RNG",
     "name": "Randgold & Exploration Co Ltd",
-    "volume": "11000.0",
-    "price": 0.67,
-    "change": 0.02
+    "volume": "12782.0",
+    "price": 0.52,
+    "change": -0.13
   },
   {
     "ticker": "RNI",
@@ -2207,9 +2207,9 @@
   {
     "ticker": "SBPP",
     "name": "Standard Bank Preference Shares",
-    "volume": "",
+    "volume": "25742.0",
     "price": 97.4,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SCD",

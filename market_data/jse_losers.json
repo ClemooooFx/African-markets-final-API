@@ -5,6 +5,11 @@
     "change": "-30.77%"
   },
   {
+    "ticker": "RNG",
+    "price": 0.52,
+    "change": "-20.00%"
+  },
+  {
     "ticker": "ENX",
     "price": 3.26,
     "change": "-14.21%"
@@ -23,10 +28,5 @@
     "ticker": "GCT",
     "price": 13.6,
     "change": "-4.23%"
-  },
-  {
-    "ticker": "SUR",
-    "price": 38.45,
-    "change": "-3.88%"
   }
 ]
