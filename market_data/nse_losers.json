@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "JUB",
+    "price": 302.0,
+    "change": "-6.86%"
+  },
+  {
+    "ticker": "SGL",
+    "price": 6.0,
+    "change": "-5.96%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.26,
+    "change": "-3.08%"
+  },
+  {
     "ticker": "KUKZ",
     "price": 403.0,
     "change": "-2.95%"
@@ -10,23 +25,8 @@
     "change": "-2.94%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.25,
-    "change": "-2.38%"
-  },
-  {
-    "ticker": "NSE",
-    "price": 19.1,
-    "change": "-1.55%"
-  },
-  {
-    "ticker": "EQTY",
-    "price": 64.0,
-    "change": "-1.54%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.6,
-    "change": "-1.29%"
+    "ticker": "SCAN",
+    "price": 2.76,
+    "change": "-2.13%"
   }
 ]
