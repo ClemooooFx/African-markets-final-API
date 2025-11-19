@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "LKL",
-    "price": 2.7,
-    "change": "-9.40%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 52.25,
-    "change": "-7.11%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5005.0,
-    "change": "-3.38%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 6.9,
-    "change": "-3.09%"
-  },
-  {
     "ticker": "KUKZ",
-    "price": 403.25,
-    "change": "-2.89%"
+    "price": 403.0,
+    "change": "-2.95%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.7,
-    "change": "-2.84%"
+    "ticker": "CGEN",
+    "price": 57.75,
+    "change": "-2.94%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.25,
+    "change": "-2.38%"
+  },
+  {
+    "ticker": "NSE",
+    "price": 19.1,
+    "change": "-1.55%"
+  },
+  {
+    "ticker": "EQTY",
+    "price": 64.0,
+    "change": "-1.54%"
+  },
+  {
+    "ticker": "CIC",
+    "price": 4.6,
+    "change": "-1.29%"
   }
 ]
