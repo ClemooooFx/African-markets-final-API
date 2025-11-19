@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "ABCTRANS",
+    "price": 3.44,
+    "change": "-9.95%"
+  },
+  {
+    "ticker": "CHAMPION",
+    "price": 12.95,
+    "change": "-9.76%"
+  },
+  {
     "ticker": "TRANSCORP",
     "price": 40.7,
     "change": "-9.56%"
   },
   {
+    "ticker": "SOVRENINS",
+    "price": 3.1,
+    "change": "-8.82%"
+  },
+  {
     "ticker": "UNIVINSURE",
-    "price": 1.18,
-    "change": "-9.23%"
+    "price": 1.19,
+    "change": "-8.46%"
   },
   {
-    "ticker": "JAIZBANK",
-    "price": 4.5,
+    "ticker": "CONHALLPLC",
+    "price": 4.0,
     "change": "-3.85%"
-  },
-  {
-    "ticker": "FCMB",
-    "price": 10.3,
-    "change": "-2.83%"
-  },
-  {
-    "ticker": "UBA",
-    "price": 38.5,
-    "change": "-1.03%"
-  },
-  {
-    "ticker": "ARADEL",
-    "price": 700.0,
-    "change": "-0.85%"
   }
 ]
