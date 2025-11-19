@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "TPC",
+    "price": 38.0,
+    "change": "+8.57%"
+  },
+  {
     "ticker": "LBR",
     "price": 4.79,
     "change": "+8.37%"
-  },
-  {
-    "ticker": "MCZ",
-    "price": 2.53,
-    "change": "+4.98%"
   },
   {
     "ticker": "FNBT40",
@@ -20,13 +20,13 @@
     "change": "+4.71%"
   },
   {
-    "ticker": "MST",
-    "price": 13.6,
-    "change": "+4.29%"
+    "ticker": "RNG",
+    "price": 0.67,
+    "change": "+3.08%"
   },
   {
-    "ticker": "SUR",
-    "price": 40.0,
-    "change": "+3.92%"
+    "ticker": "SOL",
+    "price": 128.55,
+    "change": "+2.84%"
   }
 ]

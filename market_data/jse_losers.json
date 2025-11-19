@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "VIS",
-    "price": 0.03,
-    "change": "-25.00%"
-  },
-  {
-    "ticker": "SDL",
-    "price": 10.5,
-    "change": "-18.60%"
-  },
-  {
-    "ticker": "SKA",
-    "price": 1.32,
-    "change": "-8.97%"
-  },
-  {
-    "ticker": "PWR",
-    "price": 76.52,
-    "change": "-8.39%"
-  },
-  {
-    "ticker": "TEX",
-    "price": 3.14,
-    "change": "-7.10%"
+    "ticker": "MTNZF",
+    "price": 0.57,
+    "change": "-12.31%"
   },
   {
     "ticker": "LHC",
     "price": 11.15,
     "change": "-7.01%"
+  },
+  {
+    "ticker": "SRI",
+    "price": 17.2,
+    "change": "-4.18%"
+  },
+  {
+    "ticker": "SUR",
+    "price": 38.47,
+    "change": "-3.82%"
+  },
+  {
+    "ticker": "RDF",
+    "price": 5.67,
+    "change": "-3.41%"
+  },
+  {
+    "ticker": "NTC",
+    "price": 14.71,
+    "change": "-2.65%"
   }
 ]
