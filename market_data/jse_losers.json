@@ -1,8 +1,18 @@
 [
   {
     "ticker": "BIK",
-    "price": 0.1,
-    "change": "-37.50%"
+    "price": 0.11,
+    "change": "-31.25%"
+  },
+  {
+    "ticker": "VIS",
+    "price": 0.03,
+    "change": "-25.00%"
+  },
+  {
+    "ticker": "SDL",
+    "price": 10.5,
+    "change": "-18.60%"
   },
   {
     "ticker": "ISB",
@@ -10,23 +20,13 @@
     "change": "-12.99%"
   },
   {
-    "ticker": "FTH",
-    "price": 6.35,
-    "change": "-7.84%"
+    "ticker": "BCF",
+    "price": 13.5,
+    "change": "-12.90%"
   },
   {
-    "ticker": "BRN",
-    "price": 4.26,
-    "change": "-7.39%"
-  },
-  {
-    "ticker": "TEX",
-    "price": 3.14,
-    "change": "-7.10%"
-  },
-  {
-    "ticker": "PIK",
-    "price": 25.44,
-    "change": "-6.64%"
+    "ticker": "SKA",
+    "price": 1.32,
+    "change": "-8.97%"
   }
 ]

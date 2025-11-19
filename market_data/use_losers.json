@@ -1,27 +1,32 @@
 [
   {
-    "ticker": "NMG",
-    "price": 349.01,
-    "change": "-4.62%"
-  },
-  {
-    "ticker": "SBU",
-    "price": 62.22,
-    "change": "-1.71%"
-  },
-  {
-    "ticker": "EABL",
-    "price": 6483.65,
-    "change": "-1.44%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 1793.35,
-    "change": "-0.49%"
+    "ticker": "CENT",
+    "price": 413.78,
+    "change": "-2.61%"
   },
   {
     "ticker": "EBL",
-    "price": 1779.56,
-    "change": "-0.12%"
+    "price": 1765.44,
+    "change": "-0.79%"
+  },
+  {
+    "ticker": "KA",
+    "price": 104.82,
+    "change": "-0.54%"
+  },
+  {
+    "ticker": "SBU",
+    "price": 62.0,
+    "change": "-0.35%"
+  },
+  {
+    "ticker": "EABL",
+    "price": 6482.48,
+    "change": "-0.02%"
+  },
+  {
+    "ticker": "KCB",
+    "price": 1793.03,
+    "change": "-0.02%"
   }
 ]

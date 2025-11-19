@@ -1,27 +1,32 @@
 [
   {
+    "ticker": "NMG",
+    "price": 358.61,
+    "change": "+2.75%"
+  },
+  {
     "ticker": "JHL",
-    "price": 8966.75,
-    "change": "+4.35%"
-  },
-  {
-    "ticker": "CENT",
-    "price": 424.89,
-    "change": "+2.66%"
-  },
-  {
-    "ticker": "KA",
-    "price": 105.39,
-    "change": "+1.18%"
+    "price": 9047.88,
+    "change": "+0.90%"
   },
   {
     "ticker": "MTNU",
-    "price": 308.59,
-    "change": "+1.04%"
+    "price": 309.0,
+    "change": "+0.13%"
   },
   {
-    "ticker": "DFCU",
-    "price": 301.0,
-    "change": "+0.33%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

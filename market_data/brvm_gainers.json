@@ -1,32 +1,32 @@
 [
   {
     "ticker": "UNLC",
-    "price": 33150.0,
-    "change": "+7.49%"
+    "price": 35635.0,
+    "change": "+7.50%"
+  },
+  {
+    "ticker": "SLBC",
+    "price": 26850.0,
+    "change": "+7.38%"
   },
   {
     "ticker": "SICC",
-    "price": 3390.0,
-    "change": "+7.45%"
-  },
-  {
-    "ticker": "NTLC",
-    "price": 12550.0,
-    "change": "+4.58%"
+    "price": 3640.0,
+    "change": "+7.37%"
   },
   {
     "ticker": "ETIT",
-    "price": 23.0,
-    "change": "+4.55%"
+    "price": 24.0,
+    "change": "+4.35%"
   },
   {
-    "ticker": "SHEC",
-    "price": 1290.0,
-    "change": "+4.45%"
+    "ticker": "ORGT",
+    "price": 2550.0,
+    "change": "+4.29%"
   },
   {
-    "ticker": "ECOC",
-    "price": 15900.0,
-    "change": "+4.33%"
+    "ticker": "BOAS",
+    "price": 5470.0,
+    "change": "+3.89%"
   }
 ]

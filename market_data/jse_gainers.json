@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "MTNZF",
-    "price": 0.85,
-    "change": "+25.00%"
-  },
-  {
     "ticker": "LAB",
     "price": 0.06,
     "change": "+20.00%"
   },
   {
     "ticker": "ACT",
-    "price": 1.64,
-    "change": "+10.81%"
+    "price": 1.59,
+    "change": "+7.43%"
   },
   {
-    "ticker": "LSK",
-    "price": 70.76,
-    "change": "+8.03%"
+    "ticker": "ACS",
+    "price": 8.0,
+    "change": "+7.38%"
+  },
+  {
+    "ticker": "GCT",
+    "price": 14.2,
+    "change": "+5.19%"
   },
   {
     "ticker": "MCZ",
-    "price": 2.59,
-    "change": "+7.47%"
+    "price": 2.53,
+    "change": "+4.98%"
   },
   {
-    "ticker": "ENX",
-    "price": 3.99,
-    "change": "+5.00%"
+    "ticker": "CCC",
+    "price": 3.09,
+    "change": "+4.75%"
   }
 ]
