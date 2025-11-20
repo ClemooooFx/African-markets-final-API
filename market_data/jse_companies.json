@@ -2620,16 +2620,16 @@
   {
     "ticker": "STXTRA",
     "name": "Satrix Traci 3-Month ETF",
-    "volume": "2214.0",
-    "price": 37.51,
-    "change": -0.03
+    "volume": "4032.0",
+    "price": 37.64,
+    "change": 0.1
   },
   {
     "ticker": "STXVEQ",
     "name": "Satrix Value Equity ETF",
-    "volume": "",
-    "price": 19.14,
-    "change": NaN
+    "volume": "9682.0",
+    "price": 19.15,
+    "change": 0.01
   },
   {
     "ticker": "STXWDM",
@@ -2669,7 +2669,7 @@
   {
     "ticker": "SYFANG",
     "name": "Sygnia Itrix FANG.AI AMETF",
-    "volume": "39296.0",
+    "volume": "246892.0",
     "price": 19.3,
     "change": 0.38
   },
@@ -2690,9 +2690,9 @@
   {
     "ticker": "SYG500",
     "name": "Sygnia Itrix S&P 500 ETF",
-    "volume": "14968.0",
-    "price": 116.55,
-    "change": 1.93
+    "volume": "24632.0",
+    "price": 117.21,
+    "change": 2.59
   },
   {
     "ticker": "SYGCN",
@@ -2704,72 +2704,72 @@
   {
     "ticker": "SYGEMF",
     "name": "Sygnia Itrix MSCI EM 50 ETF",
-    "volume": "5813.0",
-    "price": 24.06,
-    "change": 0.2
+    "volume": "10972.0",
+    "price": 24.09,
+    "change": 0.23
   },
   {
     "ticker": "SYGESG",
     "name": "Sygnia Itrix S&P Global 1200 ESG ETF",
-    "volume": "",
-    "price": 61.75,
-    "change": NaN
+    "volume": "9843.0",
+    "price": 61.99,
+    "change": 0.24
   },
   {
     "ticker": "SYGEU",
     "name": "Sygnia Itrix EURO STOXX 50 ETF",
-    "volume": "10180.0",
-    "price": 111.8,
-    "change": -0.09
+    "volume": "32326.0",
+    "price": 111.78,
+    "change": -0.11
   },
   {
     "ticker": "SYGH",
     "name": "Sygnia Itrix SOL H150 ETF",
-    "volume": "",
-    "price": 30.96,
-    "change": NaN
+    "volume": "1140.0",
+    "price": 31.2,
+    "change": 0.24
   },
   {
     "ticker": "SYGJP",
     "name": "Sygnia Itrix MSCI Japan ETF",
-    "volume": "6182.0",
-    "price": 22.26,
-    "change": -0.01
+    "volume": "24919.0",
+    "price": 22.31,
+    "change": 0.04
   },
   {
     "ticker": "SYGP",
     "name": "Sygnia Itrix Global Property ETF",
-    "volume": "2989.0",
-    "price": 48.52,
-    "change": -0.07
+    "volume": "2994.0",
+    "price": 48.45,
+    "change": -0.14
   },
   {
     "ticker": "SYGT40",
     "name": "Sygnia Itrix Top 40 ETF",
-    "volume": "533.0",
-    "price": 106.36,
-    "change": 0.62
+    "volume": "2520.0",
+    "price": 106.0,
+    "change": 0.26
   },
   {
     "ticker": "SYGUK",
     "name": "Sygnia Itrix FTSE 100 ETF",
-    "volume": "1069.0",
-    "price": 215.12,
-    "change": -1.21
+    "volume": "1682.0",
+    "price": 215.4,
+    "change": -0.93
   },
   {
     "ticker": "SYGUS",
     "name": "Sygnia Itrix MSCI US ETF",
-    "volume": "32871.0",
-    "price": 108.89,
-    "change": 2.15
+    "volume": "70922.0",
+    "price": 108.96,
+    "change": 2.22
   },
   {
     "ticker": "SYGWD",
     "name": "Sygnia Itrix MSCI World Index ETF",
-    "volume": "140528.0",
-    "price": 73.94,
-    "change": 0.52
+    "volume": "157388.0",
+    "price": 74.47,
+    "change": 1.05
   },
   {
     "ticker": "SZK",
