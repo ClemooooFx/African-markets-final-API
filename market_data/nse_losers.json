@@ -1,13 +1,8 @@
 [
   {
     "ticker": "UMME",
-    "price": 6.5,
-    "change": "-4.41%"
-  },
-  {
-    "ticker": "SGL",
-    "price": 6.0,
-    "change": "-4.15%"
+    "price": 6.12,
+    "change": "-10.00%"
   },
   {
     "ticker": "NBV",
@@ -28,5 +23,10 @@
     "ticker": "HAFR",
     "price": 1.1,
     "change": "-2.65%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 15.5,
+    "change": "-2.21%"
   }
 ]
