@@ -5,6 +5,16 @@
     "change": "-16.67%"
   },
   {
+    "ticker": "QFH",
+    "price": 8.3,
+    "change": "-11.51%"
+  },
+  {
+    "ticker": "SCD",
+    "price": 13.14,
+    "change": "-10.31%"
+  },
+  {
     "ticker": "ADR",
     "price": 6.41,
     "change": "-8.43%"
@@ -18,15 +28,5 @@
     "ticker": "ENX",
     "price": 3.5,
     "change": "-7.41%"
-  },
-  {
-    "ticker": "BIK",
-    "price": 0.16,
-    "change": "-5.88%"
-  },
-  {
-    "ticker": "GPL",
-    "price": 2.08,
-    "change": "-5.45%"
   }
 ]
