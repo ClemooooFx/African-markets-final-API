@@ -1,18 +1,18 @@
 [
   {
-    "ticker": "ABSA",
-    "price": 22.8,
-    "change": "-7.69%"
-  },
-  {
     "ticker": "UMME",
-    "price": 6.48,
-    "change": "-4.71%"
+    "price": 6.22,
+    "change": "-8.53%"
   },
   {
-    "ticker": "BAT",
-    "price": 430.0,
-    "change": "-4.34%"
+    "ticker": "SCAN",
+    "price": 2.5,
+    "change": "-7.75%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 23.0,
+    "change": "-6.88%"
   },
   {
     "ticker": "SGL",
@@ -20,13 +20,13 @@
     "change": "-4.15%"
   },
   {
+    "ticker": "NSE",
+    "price": 18.65,
+    "change": "-2.86%"
+  },
+  {
     "ticker": "HAFR",
     "price": 1.1,
     "change": "-2.65%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 6.9,
-    "change": "-1.99%"
   }
 ]
