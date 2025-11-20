@@ -5,11 +5,6 @@
     "change": "-33.33%"
   },
   {
-    "ticker": "RNG",
-    "price": 0.52,
-    "change": "-20.00%"
-  },
-  {
     "ticker": "FTH",
     "price": 6.17,
     "change": "-10.19%"
@@ -20,13 +15,18 @@
     "change": "-8.64%"
   },
   {
-    "ticker": "SSK",
-    "price": 4.3,
-    "change": "-8.51%"
+    "ticker": "ADR",
+    "price": 6.41,
+    "change": "-8.43%"
   },
   {
     "ticker": "ETFRHO",
     "price": 1155.0,
     "change": "-4.97%"
+  },
+  {
+    "ticker": "GFI",
+    "price": 683.79,
+    "change": "-4.87%"
   }
 ]

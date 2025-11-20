@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "UMME",
+    "price": 6.2,
+    "change": "-8.82%"
+  },
+  {
     "ticker": "SCAN",
     "price": 2.57,
     "change": "-5.17%"
@@ -15,18 +20,13 @@
     "change": "-4.86%"
   },
   {
-    "ticker": "UMME",
-    "price": 6.5,
-    "change": "-4.41%"
-  },
-  {
     "ticker": "SGL",
     "price": 6.0,
     "change": "-4.15%"
   },
   {
     "ticker": "HAFR",
-    "price": 1.09,
-    "change": "-3.54%"
+    "price": 1.1,
+    "change": "-2.65%"
   }
 ]

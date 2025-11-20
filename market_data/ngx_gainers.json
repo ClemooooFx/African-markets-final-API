@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "NCR",
-    "price": 34.0,
-    "change": "+9.85%"
-  },
-  {
     "ticker": "CAVERTON",
-    "price": 5.65,
-    "change": "+9.71%"
+    "price": 6.0,
+    "change": "+6.19%"
   },
   {
-    "ticker": "UACN",
-    "price": 68.3,
-    "change": "+8.33%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "MBENEFIT",
-    "price": 3.64,
-    "change": "+7.69%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "LINKASSURE",
-    "price": 1.99,
-    "change": "+7.57%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "TANTALIZER",
-    "price": 2.77,
-    "change": "+7.36%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
