@@ -205,9 +205,9 @@
   {
     "ticker": "APACXJ",
     "name": "CoreShares All Asia AMETF",
-    "volume": "76356.0",
-    "price": 13.03,
-    "change": 0.16
+    "volume": "81912.0",
+    "price": 12.94,
+    "change": 0.07
   },
   {
     "ticker": "APF",
@@ -681,23 +681,23 @@
   {
     "ticker": "CSGOVI",
     "name": "10X Wealth GOVI Bond ETF",
-    "volume": "185106.0",
+    "volume": "199651.0",
     "price": 11.77,
     "change": -0.01
   },
   {
     "ticker": "CSP500",
     "name": "10X S&P 500 ETF",
-    "volume": "2557.0",
+    "volume": "3517.0",
     "price": 115.86,
     "change": 1.81
   },
   {
     "ticker": "CSPROP",
     "name": "10X SA Property Income ETF",
-    "volume": "3782.0",
-    "price": 16.39,
-    "change": 0.35
+    "volume": "3796.0",
+    "price": 16.38,
+    "change": 0.34
   },
   {
     "ticker": "CSYSB",
@@ -709,9 +709,9 @@
   {
     "ticker": "CTOP50",
     "name": "10X S&P South Africa Top 50 ETF",
-    "volume": "3082.0",
-    "price": 44.2,
-    "change": 0.09
+    "volume": "3832.0",
+    "price": 44.33,
+    "change": 0.22
   },
   {
     "ticker": "CVW",
@@ -1164,16 +1164,16 @@
   {
     "ticker": "GLOBAL",
     "name": "10X Total World Stock Feeder ETF",
-    "volume": "257517.0",
-    "price": 16.93,
-    "change": 0.11
+    "volume": "262357.0",
+    "price": 16.89,
+    "change": 0.07
   },
   {
     "ticker": "GLODIV",
     "name": "10X S&P GlobalDivTrax ETF",
-    "volume": "36228.0",
-    "price": 19.63,
-    "change": 0.02
+    "volume": "36232.0",
+    "price": 19.7,
+    "change": 0.09
   },
   {
     "ticker": "GLPROP",
@@ -1304,7 +1304,7 @@
   {
     "ticker": "INCOME",
     "name": "CoreShares Income AMETF",
-    "volume": "291.0",
+    "volume": "313.0",
     "price": 10.68,
     "change": 0.02
   },
@@ -2984,16 +2984,16 @@
   {
     "ticker": "WNXT40",
     "name": "10X Wealth Next 40 Eq Weighted ETF",
-    "volume": "29559.0",
-    "price": 12.8,
-    "change": 0.16
+    "volume": "33169.0",
+    "price": 12.75,
+    "change": 0.11
   },
   {
     "ticker": "WTOP20",
     "name": "10X Wealth Top 20 Capped ETF",
-    "volume": "49962.0",
-    "price": 15.2,
-    "change": 0.05
+    "volume": "54089.0",
+    "price": 15.16,
+    "change": 0.01
   },
   {
     "ticker": "WVR",
