@@ -5,14 +5,19 @@
     "change": "+9.80%"
   },
   {
-    "ticker": "AMAC",
-    "price": 76.0,
-    "change": "+9.75%"
+    "ticker": "FTGH",
+    "price": 1.69,
+    "change": "+9.74%"
   },
   {
     "ticker": "UCHM",
     "price": 0.68,
     "change": "+9.68%"
+  },
+  {
+    "ticker": "AMAC",
+    "price": 75.75,
+    "change": "+9.39%"
   },
   {
     "ticker": "OCH",
@@ -23,10 +28,5 @@
     "ticker": "SCAN",
     "price": 2.85,
     "change": "+5.17%"
-  },
-  {
-    "ticker": "SLAM",
-    "price": 8.98,
-    "change": "+3.70%"
   }
 ]

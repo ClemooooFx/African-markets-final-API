@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "BIK",
-    "price": 0.17,
-    "change": "+54.55%"
-  },
-  {
     "ticker": "QFH",
     "price": 9.38,
     "change": "+16.81%"
@@ -28,5 +23,10 @@
     "ticker": "IMP",
     "price": 195.55,
     "change": "+6.86%"
+  },
+  {
+    "ticker": "HET",
+    "price": 18.0,
+    "change": "+5.88%"
   }
 ]
