@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CRWN",
+    "price": 56.0,
+    "change": "+9.80%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.68,
     "change": "+9.68%"
@@ -8,11 +13,6 @@
     "ticker": "BKG",
     "price": 46.0,
     "change": "+7.98%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 55.0,
-    "change": "+7.84%"
   },
   {
     "ticker": "FTGH",
