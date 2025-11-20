@@ -1,12 +1,22 @@
 [
   {
     "ticker": "CHIL",
-    "price": 55.0,
-    "change": "+10.00%"
+    "price": 60.0,
+    "change": "+9.09%"
   },
   {
-    "ticker": "MAFS",
-    "price": 1.81,
-    "change": "+0.56%"
+    "ticker": "ZMBF",
+    "price": 2.23,
+    "change": "+1.36%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
