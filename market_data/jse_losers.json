@@ -1,18 +1,13 @@
 [
   {
     "ticker": "LAB",
-    "price": 0.04,
-    "change": "-33.33%"
+    "price": 0.05,
+    "change": "-16.67%"
   },
   {
-    "ticker": "FTH",
-    "price": 6.17,
-    "change": "-10.19%"
-  },
-  {
-    "ticker": "DNB",
-    "price": 2.01,
-    "change": "-8.64%"
+    "ticker": "MHB",
+    "price": 5.11,
+    "change": "-14.83%"
   },
   {
     "ticker": "ADR",
@@ -20,13 +15,18 @@
     "change": "-8.43%"
   },
   {
+    "ticker": "CGR",
+    "price": 4.92,
+    "change": "-8.04%"
+  },
+  {
+    "ticker": "ENX",
+    "price": 3.5,
+    "change": "-7.41%"
+  },
+  {
     "ticker": "ETFRHO",
     "price": 1155.0,
     "change": "-4.97%"
-  },
-  {
-    "ticker": "GFI",
-    "price": 683.79,
-    "change": "-4.87%"
   }
 ]
