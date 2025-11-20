@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "AMAC",
-    "price": 76.0,
-    "change": "+9.75%"
-  },
-  {
     "ticker": "UCHM",
     "price": 0.68,
     "change": "+9.68%"
@@ -28,5 +23,10 @@
     "ticker": "OCH",
     "price": 7.8,
     "change": "+4.00%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.98,
+    "change": "+3.70%"
   }
 ]

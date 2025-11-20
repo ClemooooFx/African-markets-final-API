@@ -100,9 +100,9 @@
   {
     "ticker": "EGH",
     "name": "Ecobank Ghana Limited",
-    "volume": "",
-    "price": 17.5,
-    "change": NaN
+    "volume": "10000.0",
+    "price": 19.0,
+    "change": 1.5
   },
   {
     "ticker": "EGL",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "5741.0",
+    "volume": "5762.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "63.0",
-    "price": 4.16,
-    "change": 0.0
+    "volume": "104712.0",
+    "price": 4.17,
+    "change": 0.01
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1581.0",
+    "volume": "1592.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "423.0",
+    "volume": "426.0",
     "price": 40.49,
     "change": 0.0
   },
