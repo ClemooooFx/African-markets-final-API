@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "MTNZF",
-    "price": 0.2,
-    "change": "-69.23%"
+    "ticker": "LAB",
+    "price": 0.04,
+    "change": "-33.33%"
   },
   {
     "ticker": "RNG",
@@ -10,9 +10,14 @@
     "change": "-20.00%"
   },
   {
-    "ticker": "MKR",
-    "price": 30.0,
-    "change": "-11.76%"
+    "ticker": "FTH",
+    "price": 6.17,
+    "change": "-10.19%"
+  },
+  {
+    "ticker": "DNB",
+    "price": 2.01,
+    "change": "-8.64%"
   },
   {
     "ticker": "SSK",
@@ -20,13 +25,8 @@
     "change": "-8.51%"
   },
   {
-    "ticker": "CPR",
-    "price": 0.62,
-    "change": "-7.46%"
-  },
-  {
-    "ticker": "GML",
-    "price": 1.25,
-    "change": "-7.41%"
+    "ticker": "ETFRHO",
+    "price": 1155.0,
+    "change": "-4.97%"
   }
 ]
