@@ -58,9 +58,9 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "10.0",
-    "price": 0.34,
-    "change": 0.0
+    "volume": "20010.0",
+    "price": 0.36,
+    "change": 0.02
   },
   {
     "ticker": "CLYD",
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "6023.0",
+    "volume": "6191.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "112163.0",
-    "price": 4.17,
-    "change": 0.01
+    "volume": "166863.0",
+    "price": 4.2,
+    "change": 0.04
   },
   {
     "ticker": "PBC",
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1595.0",
+    "volume": "1596.0",
     "price": 1.25,
     "change": 0.0
   },

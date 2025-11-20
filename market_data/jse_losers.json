@@ -5,11 +5,6 @@
     "change": "-16.67%"
   },
   {
-    "ticker": "MHB",
-    "price": 5.11,
-    "change": "-14.83%"
-  },
-  {
     "ticker": "ADR",
     "price": 6.41,
     "change": "-8.43%"
@@ -28,5 +23,10 @@
     "ticker": "BIK",
     "price": 0.16,
     "change": "-5.88%"
+  },
+  {
+    "ticker": "GPL",
+    "price": 2.08,
+    "change": "-5.45%"
   }
 ]

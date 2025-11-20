@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "LIMT",
+    "price": 465.75,
+    "change": "+9.98%"
+  },
+  {
     "ticker": "CRWN",
     "price": 56.0,
     "change": "+9.80%"
@@ -23,10 +28,5 @@
     "ticker": "OCH",
     "price": 7.8,
     "change": "+4.00%"
-  },
-  {
-    "ticker": "SLAM",
-    "price": 8.98,
-    "change": "+3.70%"
   }
 ]
