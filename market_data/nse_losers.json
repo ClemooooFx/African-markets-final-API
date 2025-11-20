@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "ABSA",
-    "price": 23.35,
-    "change": "-5.47%"
+    "ticker": "SCAN",
+    "price": 2.57,
+    "change": "-5.17%"
   },
   {
     "ticker": "GLD",
     "price": 4915.0,
     "change": "-5.12%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 23.5,
+    "change": "-4.86%"
   },
   {
     "ticker": "UMME",
@@ -23,10 +28,5 @@
     "ticker": "HAFR",
     "price": 1.09,
     "change": "-3.54%"
-  },
-  {
-    "ticker": "NBV",
-    "price": 1.5,
-    "change": "-2.60%"
   }
 ]

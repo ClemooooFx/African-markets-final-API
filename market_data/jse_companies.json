@@ -2053,9 +2053,9 @@
   {
     "ticker": "RFG",
     "name": "RFG Holdings Limited",
-    "volume": "25873.0",
-    "price": 22.69,
-    "change": -0.54
+    "volume": "90.0",
+    "price": 22.61,
+    "change": -0.08
   },
   {
     "ticker": "RHB",
@@ -2074,9 +2074,9 @@
   {
     "ticker": "RMH",
     "name": "RMB Holdings Ltd",
-    "volume": "2153621.0",
+    "volume": "34831.0",
     "price": 0.45,
-    "change": -0.01
+    "change": 0.0
   },
   {
     "ticker": "RNG",
@@ -2165,9 +2165,9 @@
   {
     "ticker": "SAC",
     "name": "SA Corp Real Estate Ltd",
-    "volume": "1650425.0",
-    "price": 3.41,
-    "change": 0.1
+    "volume": "30649.0",
+    "price": 3.43,
+    "change": 0.02
   },
   {
     "ticker": "SAP",
@@ -2200,9 +2200,9 @@
   {
     "ticker": "SBP",
     "name": "Sabvest Capital Limited",
-    "volume": "1232.0",
+    "volume": "",
     "price": 124.99,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "SBPP",
@@ -2298,9 +2298,9 @@
   {
     "ticker": "SLM",
     "name": "Sanlam Limited",
-    "volume": "2047244.0",
-    "price": 93.48,
-    "change": 0.25
+    "volume": "376131.0",
+    "price": 94.93,
+    "change": 1.45
   },
   {
     "ticker": "SNT",
@@ -2774,9 +2774,9 @@
   {
     "ticker": "SZK",
     "name": "SAB Zenzele Kabili",
-    "volume": "36.0",
+    "volume": "",
     "price": 35.89,
-    "change": -0.01
+    "change": NaN
   },
   {
     "ticker": "TBIGTF",
