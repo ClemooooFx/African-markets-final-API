@@ -10,16 +10,6 @@
     "change": "-4.86%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.8,
-    "change": "-4.83%"
-  },
-  {
-    "ticker": "PORT",
-    "price": 60.25,
-    "change": "-4.74%"
-  },
-  {
     "ticker": "NBV",
     "price": 1.49,
     "change": "-3.25%"
@@ -28,5 +18,15 @@
     "ticker": "HAFR",
     "price": 1.1,
     "change": "-2.65%"
+  },
+  {
+    "ticker": "TOTL",
+    "price": 39.05,
+    "change": "-2.62%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 15.5,
+    "change": "-2.21%"
   }
 ]
