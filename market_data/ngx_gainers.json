@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "UPL",
+    "price": 6.6,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "ROYALEX",
     "price": 2.0,
     "change": "+8.11%"
@@ -10,6 +15,11 @@
     "change": "+6.00%"
   },
   {
+    "ticker": "LIVINGTRUST",
+    "price": 3.49,
+    "change": "+3.87%"
+  },
+  {
     "ticker": "RTBRISCOE",
     "price": 3.5,
     "change": "+3.55%"
@@ -18,15 +28,5 @@
     "ticker": "UNIVINSURE",
     "price": 1.2,
     "change": "+2.56%"
-  },
-  {
-    "ticker": "CHAMPION",
-    "price": 14.0,
-    "change": "+2.19%"
-  },
-  {
-    "ticker": "INTENEGINS",
-    "price": 2.64,
-    "change": "+1.54%"
   }
 ]
