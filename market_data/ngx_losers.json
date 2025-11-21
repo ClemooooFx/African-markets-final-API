@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "CHAMPION",
-    "price": 12.6,
-    "change": "-10.00%"
-  },
-  {
     "ticker": "RTBRISCOE",
     "price": 3.15,
     "change": "-10.00%"
@@ -12,11 +7,6 @@
   {
     "ticker": "LEGENDINT",
     "price": 5.26,
-    "change": "-9.93%"
-  },
-  {
-    "ticker": "WAPIC",
-    "price": 2.45,
     "change": "-9.93%"
   },
   {
@@ -28,5 +18,15 @@
     "ticker": "NAHCO",
     "price": 99.15,
     "change": "-9.78%"
+  },
+  {
+    "ticker": "LINKASSURE",
+    "price": 1.68,
+    "change": "-9.68%"
+  },
+  {
+    "ticker": "ROYALEX",
+    "price": 1.82,
+    "change": "-8.54%"
   }
 ]
