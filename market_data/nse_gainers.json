@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "LIMT",
-    "price": 465.75,
-    "change": "+9.98%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 56.0,
-    "change": "+9.80%"
-  },
-  {
     "ticker": "UCHM",
-    "price": 0.68,
-    "change": "+9.68%"
+    "price": 0.74,
+    "change": "+8.82%"
   },
   {
-    "ticker": "FTGH",
-    "price": 1.63,
-    "change": "+5.84%"
+    "ticker": "AMAC",
+    "price": 76.0,
+    "change": "+5.56%"
   },
   {
-    "ticker": "OCH",
-    "price": 7.8,
-    "change": "+4.00%"
+    "ticker": "SMWF",
+    "price": 890.0,
+    "change": "+5.45%"
   },
   {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "+3.85%"
+    "ticker": "TOTL",
+    "price": 41.0,
+    "change": "+4.73%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5290.0,
+    "change": "+3.62%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.7,
+    "change": "+3.38%"
   }
 ]
