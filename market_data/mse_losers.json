@@ -1,32 +1,27 @@
 [
   {
     "ticker": "NBS",
-    "price": 1009.48,
-    "change": "-0.15%"
-  },
-  {
-    "ticker": "STANDARD",
-    "price": 4493.05,
-    "change": "-0.02%"
-  },
-  {
-    "ticker": "NITL",
-    "price": 3939.83,
-    "change": "-0.00%"
+    "price": 1004.29,
+    "change": "-0.51%"
   },
   {
     "ticker": "FMBCH",
-    "price": 3646.89,
-    "change": "-0.00%"
+    "price": 3641.53,
+    "change": "-0.15%"
   },
   {
     "ticker": "FDHB",
-    "price": 637.17,
+    "price": 637.13,
+    "change": "-0.01%"
+  },
+  {
+    "ticker": "STANDARD",
+    "price": 4492.98,
     "change": "-0.00%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "NITL",
+    "price": 3939.81,
+    "change": "-0.00%"
   }
 ]

@@ -100,35 +100,35 @@
   {
     "ticker": "EGH",
     "name": "Ecobank Ghana Limited",
-    "volume": "",
-    "price": 19.0,
-    "change": NaN
+    "volume": "1732.0",
+    "price": 19.01,
+    "change": 0.01
   },
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "62070.0",
+    "volume": "62154.0",
     "price": 3.45,
     "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1981.0",
+    "volume": "2114.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "34830.0",
+    "volume": "35058.0",
     "price": 8.0,
     "change": -0.01
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "1200712.0",
+    "volume": "1357910.0",
     "price": 19.0,
     "change": 0.5
   },
@@ -149,9 +149,9 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "14.0",
-    "price": 2.68,
-    "change": 0.0
+    "volume": "24014.0",
+    "price": 2.74,
+    "change": 0.06
   },
   {
     "ticker": "HORDS",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "361446.0",
+    "volume": "471434.0",
     "price": 4.2,
     "change": 0.01
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "760.0",
+    "volume": "920.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "3.0",
+    "volume": "13.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "1010.0",
+    "volume": "29885.0",
     "price": 4.1,
     "change": 0.0
   },
@@ -254,14 +254,14 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "35.0",
+    "volume": "62.0",
     "price": 40.49,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "257.0",
+    "volume": "277.0",
     "price": 19.79,
     "change": 0.0
   }
