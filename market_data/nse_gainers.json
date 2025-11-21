@@ -10,6 +10,11 @@
     "change": "+8.82%"
   },
   {
+    "ticker": "SGL",
+    "price": 6.38,
+    "change": "+5.98%"
+  },
+  {
     "ticker": "AMAC",
     "price": 76.0,
     "change": "+5.56%"
@@ -23,10 +28,5 @@
     "ticker": "TOTL",
     "price": 41.0,
     "change": "+4.73%"
-  },
-  {
-    "ticker": "UNGA",
-    "price": 24.5,
-    "change": "+3.81%"
   }
 ]

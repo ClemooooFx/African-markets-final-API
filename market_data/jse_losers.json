@@ -1,23 +1,13 @@
 [
   {
-    "ticker": "LAB",
-    "price": 0.04,
-    "change": "-33.33%"
-  },
-  {
-    "ticker": "CKS",
-    "price": 24.21,
-    "change": "-10.33%"
+    "ticker": "HMN",
+    "price": 45.55,
+    "change": "-30.72%"
   },
   {
     "ticker": "SCD",
     "price": 13.14,
     "change": "-10.31%"
-  },
-  {
-    "ticker": "CPR",
-    "price": 0.56,
-    "change": "-9.68%"
   },
   {
     "ticker": "MHB",
@@ -28,5 +18,15 @@
     "ticker": "EASYGE",
     "price": 12.87,
     "change": "-6.87%"
+  },
+  {
+    "ticker": "MCZ",
+    "price": 2.39,
+    "change": "-5.53%"
+  },
+  {
+    "ticker": "HDC",
+    "price": 180.0,
+    "change": "-5.43%"
   }
 ]
