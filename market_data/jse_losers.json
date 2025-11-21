@@ -15,11 +15,6 @@
     "change": "-7.61%"
   },
   {
-    "ticker": "CPR",
-    "price": 0.52,
-    "change": "-7.14%"
-  },
-  {
     "ticker": "EASYGE",
     "price": 12.87,
     "change": "-6.87%"
@@ -28,5 +23,10 @@
     "ticker": "PBT",
     "price": 6.8,
     "change": "-6.85%"
+  },
+  {
+    "ticker": "DRD",
+    "price": 46.93,
+    "change": "-5.74%"
   }
 ]
