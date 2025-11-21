@@ -1,32 +1,32 @@
 [
   {
     "ticker": "ZSEH",
-    "price": 1.236181,
-    "change": "-14.98%"
+    "price": 1.064121,
+    "change": "-13.92%"
   },
   {
-    "ticker": "TURN",
-    "price": 0.105398,
-    "change": "-12.17%"
+    "ticker": "FMP",
+    "price": 1.1,
+    "change": "-12.70%"
+  },
+  {
+    "ticker": "SACL",
+    "price": 0.031372,
+    "change": "-10.62%"
+  },
+  {
+    "ticker": "MASH",
+    "price": 0.980338,
+    "change": "-1.97%"
   },
   {
     "ticker": "OKZ",
-    "price": 0.181205,
-    "change": "-4.63%"
+    "price": 0.18,
+    "change": "-0.66%"
   },
   {
     "ticker": "DLTA",
-    "price": 15.602735,
-    "change": "-0.11%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "price": 15.60003,
+    "change": "-0.02%"
   }
 ]

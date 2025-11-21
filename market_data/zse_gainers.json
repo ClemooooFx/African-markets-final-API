@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "ARIS",
-    "price": 0.03,
-    "change": "+32.74%"
-  },
-  {
-    "ticker": "SACL",
-    "price": 0.0351,
-    "change": "+17.06%"
-  },
-  {
     "ticker": "BAT",
-    "price": 80.5,
+    "price": 92.575,
+    "change": "+15.00%"
+  },
+  {
+    "ticker": "NPKZ",
+    "price": 0.92,
     "change": "+15.00%"
   },
   {
     "ticker": "ZIMR",
-    "price": 0.28,
-    "change": "+12.00%"
+    "price": 0.32,
+    "change": "+14.29%"
   },
   {
-    "ticker": "FML",
-    "price": 1.1125,
-    "change": "+11.10%"
+    "ticker": "ARIS",
+    "price": 0.033919,
+    "change": "+13.06%"
   },
   {
-    "ticker": "NPKZ",
-    "price": 0.8,
-    "change": "+10.73%"
+    "ticker": "TANG",
+    "price": 0.75,
+    "change": "+11.79%"
+  },
+  {
+    "ticker": "SEED",
+    "price": 3.800046,
+    "change": "+8.40%"
   }
 ]
