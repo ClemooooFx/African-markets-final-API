@@ -3,5 +3,10 @@
     "ticker": "FML",
     "price": 8.0,
     "change": "-0.12%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

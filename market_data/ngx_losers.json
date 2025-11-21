@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "CHAMPION",
+    "price": 12.6,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "RTBRISCOE",
+    "price": 3.15,
+    "change": "-10.00%"
+  },
+  {
+    "ticker": "WAPIC",
+    "price": 2.45,
+    "change": "-9.93%"
+  },
+  {
     "ticker": "INTENEGINS",
     "price": 2.12,
     "change": "-9.79%"
   },
   {
-    "ticker": "RTBRISCOE",
-    "price": 3.2,
-    "change": "-8.57%"
-  },
-  {
     "ticker": "CWG",
-    "price": 15.5,
-    "change": "-8.55%"
+    "price": 15.3,
+    "change": "-9.73%"
   },
   {
-    "ticker": "WAPIC",
-    "price": 2.5,
-    "change": "-8.09%"
-  },
-  {
-    "ticker": "NSLTECH",
-    "price": 0.8,
-    "change": "-8.05%"
-  },
-  {
-    "ticker": "DEAPCAP",
-    "price": 1.61,
-    "change": "-8.00%"
+    "ticker": "LINKASSURE",
+    "price": 1.68,
+    "change": "-9.68%"
   }
 ]
