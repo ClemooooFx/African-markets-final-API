@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "SCAN",
-    "price": 2.8,
-    "change": "+9.80%"
-  },
-  {
     "ticker": "AMAC",
     "price": 79.0,
     "change": "+9.72%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.79,
+    "change": "+9.41%"
   },
   {
     "ticker": "UCHM",
@@ -20,13 +20,13 @@
     "change": "+7.28%"
   },
   {
-    "ticker": "SGL",
-    "price": 6.38,
-    "change": "+5.98%"
-  },
-  {
     "ticker": "JUB",
     "price": 325.0,
     "change": "+4.84%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5280.0,
+    "change": "+3.43%"
   }
 ]
