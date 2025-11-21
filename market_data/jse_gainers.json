@@ -10,11 +10,6 @@
     "change": "+5.17%"
   },
   {
-    "ticker": "FNBMID",
-    "price": 11.0,
-    "change": "+3.38%"
-  },
-  {
     "ticker": "DLT",
     "price": 0.33,
     "change": "+3.12%"
@@ -28,5 +23,10 @@
     "ticker": "4SI",
     "price": 0.74,
     "change": "+2.78%"
+  },
+  {
+    "ticker": "AFH",
+    "price": 8.57,
+    "change": "+1.90%"
   }
 ]

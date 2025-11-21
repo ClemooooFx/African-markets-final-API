@@ -15,6 +15,11 @@
     "change": "+8.82%"
   },
   {
+    "ticker": "TOTL",
+    "price": 42.0,
+    "change": "+7.28%"
+  },
+  {
     "ticker": "SGL",
     "price": 6.38,
     "change": "+5.98%"
@@ -23,10 +28,5 @@
     "ticker": "JUB",
     "price": 325.0,
     "change": "+4.84%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 41.0,
-    "change": "+4.73%"
   }
 ]
