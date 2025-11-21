@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "MTNZF",
-    "price": 0.3,
-    "change": "+50.00%"
-  },
-  {
-    "ticker": "RNG",
-    "price": 0.6,
-    "change": "+15.38%"
-  },
-  {
-    "ticker": "SSK",
-    "price": 4.67,
-    "change": "+8.60%"
-  },
-  {
-    "ticker": "MRP",
-    "price": 220.0,
-    "change": "+6.80%"
-  },
-  {
     "ticker": "ACT",
     "price": 1.59,
     "change": "+6.00%"
   },
   {
-    "ticker": "SHG",
-    "price": 8.1,
-    "change": "+5.19%"
+    "ticker": "MTU",
+    "price": 0.61,
+    "change": "+5.17%"
+  },
+  {
+    "ticker": "FNBMID",
+    "price": 11.0,
+    "change": "+3.38%"
+  },
+  {
+    "ticker": "DLT",
+    "price": 0.33,
+    "change": "+3.12%"
+  },
+  {
+    "ticker": "ART",
+    "price": 30.78,
+    "change": "+2.94%"
+  },
+  {
+    "ticker": "4SI",
+    "price": 0.74,
+    "change": "+2.78%"
   }
 ]
