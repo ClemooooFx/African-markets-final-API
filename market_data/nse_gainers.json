@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "SCAN",
+    "price": 2.8,
+    "change": "+9.80%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.74,
     "change": "+8.82%"
@@ -10,19 +15,14 @@
     "change": "+5.56%"
   },
   {
-    "ticker": "SMWF",
-    "price": 890.0,
-    "change": "+5.45%"
-  },
-  {
     "ticker": "TOTL",
     "price": 41.0,
     "change": "+4.73%"
   },
   {
     "ticker": "GLD",
-    "price": 5290.0,
-    "change": "+3.62%"
+    "price": 5285.0,
+    "change": "+3.53%"
   },
   {
     "ticker": "HFCK",
