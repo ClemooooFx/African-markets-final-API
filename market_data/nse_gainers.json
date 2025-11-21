@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "AMAC",
-    "price": 79.0,
-    "change": "+9.72%"
-  },
-  {
     "ticker": "SCAN",
     "price": 2.79,
     "change": "+9.41%"
@@ -25,8 +20,13 @@
     "change": "+6.31%"
   },
   {
-    "ticker": "BKG",
-    "price": 45.9,
-    "change": "+5.03%"
+    "ticker": "TPSE",
+    "price": 16.65,
+    "change": "+5.71%"
+  },
+  {
+    "ticker": "AMAC",
+    "price": 76.0,
+    "change": "+5.56%"
   }
 ]

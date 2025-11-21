@@ -1,8 +1,13 @@
 [
   {
     "ticker": "RTBRISCOE",
-    "price": 3.15,
-    "change": "-10.00%"
+    "price": 3.16,
+    "change": "-9.71%"
+  },
+  {
+    "ticker": "NSLTECH",
+    "price": 0.8,
+    "change": "-8.05%"
   },
   {
     "ticker": "STERLINGNG",
@@ -10,23 +15,18 @@
     "change": "-4.64%"
   },
   {
-    "ticker": "NSLTECH",
-    "price": 0.83,
-    "change": "-4.60%"
+    "ticker": "UPDC",
+    "price": 5.7,
+    "change": "-4.36%"
+  },
+  {
+    "ticker": "VERITASKAP",
+    "price": 1.66,
+    "change": "-2.35%"
   },
   {
     "ticker": "JAIZBANK",
     "price": 4.42,
     "change": "-1.78%"
-  },
-  {
-    "ticker": "ACCESSCORP",
-    "price": 20.95,
-    "change": "-0.24%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]
