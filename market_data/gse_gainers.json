@@ -1,32 +1,7 @@
 [
   {
-    "ticker": "CPC",
-    "price": 0.05,
-    "change": "+25.00%"
-  },
-  {
-    "ticker": "EGH",
-    "price": 19.0,
-    "change": "+8.57%"
-  },
-  {
-    "ticker": "CAL",
-    "price": 0.35,
-    "change": "+2.94%"
-  },
-  {
     "ticker": "MTNGH",
-    "price": 4.19,
-    "change": "+0.72%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "price": 4.2,
+    "change": "+0.24%"
   }
 ]

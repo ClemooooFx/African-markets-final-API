@@ -10,6 +10,16 @@
     "change": "-9.68%"
   },
   {
+    "ticker": "REN",
+    "price": 10.0,
+    "change": "-8.00%"
+  },
+  {
+    "ticker": "SSW",
+    "price": 48.32,
+    "change": "-7.65%"
+  },
+  {
     "ticker": "EASYAI",
     "price": 74.92,
     "change": "-7.61%"
@@ -18,15 +28,5 @@
     "ticker": "EASYGE",
     "price": 12.87,
     "change": "-6.87%"
-  },
-  {
-    "ticker": "PBT",
-    "price": 6.8,
-    "change": "-6.85%"
-  },
-  {
-    "ticker": "DRD",
-    "price": 46.93,
-    "change": "-5.74%"
   }
 ]
