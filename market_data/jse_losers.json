@@ -1,13 +1,23 @@
 [
   {
-    "ticker": "HMN",
-    "price": 45.55,
-    "change": "-30.72%"
+    "ticker": "MTNZF",
+    "price": 0.25,
+    "change": "-16.67%"
+  },
+  {
+    "ticker": "CCC",
+    "price": 2.8,
+    "change": "-9.68%"
   },
   {
     "ticker": "EASYAI",
     "price": 74.92,
     "change": "-7.61%"
+  },
+  {
+    "ticker": "CPR",
+    "price": 0.52,
+    "change": "-7.14%"
   },
   {
     "ticker": "EASYGE",
@@ -18,15 +28,5 @@
     "ticker": "PBT",
     "price": 6.8,
     "change": "-6.85%"
-  },
-  {
-    "ticker": "SSW",
-    "price": 48.99,
-    "change": "-6.36%"
-  },
-  {
-    "ticker": "PAN",
-    "price": 20.02,
-    "change": "-5.74%"
   }
 ]
