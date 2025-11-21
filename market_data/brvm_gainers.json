@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "UNLC",
-    "price": 38305.0,
-    "change": "+7.49%"
-  },
-  {
-    "ticker": "SLBC",
-    "price": 28860.0,
-    "change": "+7.49%"
+    "ticker": "CABC",
+    "price": 2185.0,
+    "change": "+7.37%"
   },
   {
     "ticker": "SAFC",
-    "price": 2920.0,
-    "change": "+7.35%"
+    "price": 3135.0,
+    "change": "+7.36%"
   },
   {
-    "ticker": "NEIC",
-    "price": 975.0,
-    "change": "+5.98%"
+    "ticker": "SHEC",
+    "price": 1405.0,
+    "change": "+7.25%"
   },
   {
-    "ticker": "CBIBF",
-    "price": 11100.0,
-    "change": "+5.71%"
+    "ticker": "SMBC",
+    "price": 9850.0,
+    "change": "+4.07%"
   },
   {
-    "ticker": "BICC",
-    "price": 20350.0,
-    "change": "+4.36%"
+    "ticker": "UNXC",
+    "price": 1430.0,
+    "change": "+3.25%"
+  },
+  {
+    "ticker": "BOABF",
+    "price": 3780.0,
+    "change": "+2.72%"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "FMP",
-    "price": 1.26,
+    "ticker": "ZSEH",
+    "price": 1.236181,
     "change": "-14.98%"
   },
   {
-    "ticker": "FML",
-    "price": 1.001345,
-    "change": "-14.41%"
-  },
-  {
-    "ticker": "SACL",
-    "price": 0.029984,
-    "change": "-12.07%"
+    "ticker": "TURN",
+    "price": 0.105398,
+    "change": "-12.17%"
   },
   {
     "ticker": "OKZ",
-    "price": 0.19,
-    "change": "-5.24%"
+    "price": 0.181205,
+    "change": "-4.63%"
   },
   {
-    "ticker": "TNCI",
-    "price": 0.1175,
-    "change": "-1.67%"
+    "ticker": "DLTA",
+    "price": 15.602735,
+    "change": "-0.11%"
   },
   {
-    "ticker": "BAT",
-    "price": 70.0,
-    "change": "-1.41%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

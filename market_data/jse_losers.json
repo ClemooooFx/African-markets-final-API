@@ -1,13 +1,13 @@
 [
   {
     "ticker": "LAB",
-    "price": 0.05,
-    "change": "-16.67%"
+    "price": 0.04,
+    "change": "-33.33%"
   },
   {
-    "ticker": "QFH",
-    "price": 8.3,
-    "change": "-11.51%"
+    "ticker": "CKS",
+    "price": 24.21,
+    "change": "-10.33%"
   },
   {
     "ticker": "SCD",
@@ -15,9 +15,9 @@
     "change": "-10.31%"
   },
   {
-    "ticker": "ADR",
-    "price": 6.41,
-    "change": "-8.43%"
+    "ticker": "CPR",
+    "price": 0.56,
+    "change": "-9.68%"
   },
   {
     "ticker": "MHB",
@@ -25,8 +25,8 @@
     "change": "-8.33%"
   },
   {
-    "ticker": "ENX",
-    "price": 3.5,
-    "change": "-7.41%"
+    "ticker": "BIK",
+    "price": 0.16,
+    "change": "-5.88%"
   }
 ]
