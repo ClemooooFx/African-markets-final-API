@@ -5,11 +5,6 @@
     "change": "+8.89%"
   },
   {
-    "ticker": "ART",
-    "price": 32.0,
-    "change": "+7.02%"
-  },
-  {
     "ticker": "DNB",
     "price": 2.35,
     "change": "+6.82%"
@@ -28,5 +23,10 @@
     "ticker": "SHG",
     "price": 8.48,
     "change": "+4.69%"
+  },
+  {
+    "ticker": "PHP",
+    "price": 21.95,
+    "change": "+3.78%"
   }
 ]

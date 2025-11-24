@@ -6,13 +6,8 @@
   },
   {
     "ticker": "KCB",
-    "price": 62.25,
-    "change": "-3.11%"
-  },
-  {
-    "ticker": "HFCK",
-    "price": 10.05,
-    "change": "-2.90%"
+    "price": 62.0,
+    "change": "-3.50%"
   },
   {
     "ticker": "XPRS",
@@ -20,13 +15,18 @@
     "change": "-2.82%"
   },
   {
-    "ticker": "CARB",
-    "price": 30.1,
-    "change": "-2.59%"
-  },
-  {
     "ticker": "SKL",
     "price": 8.0,
     "change": "-2.44%"
+  },
+  {
+    "ticker": "HFCK",
+    "price": 10.1,
+    "change": "-2.42%"
+  },
+  {
+    "ticker": "UNGA",
+    "price": 23.5,
+    "change": "-2.08%"
   }
 ]

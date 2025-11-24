@@ -30,8 +30,8 @@
   {
     "ticker": "4SI",
     "name": "4Sight Holdings Limited",
-    "volume": "86598.0",
-    "price": 0.73,
+    "volume": "20481.0",
+    "price": 0.74,
     "change": 0.01
   },
   {
@@ -51,44 +51,44 @@
   {
     "ticker": "ABG",
     "name": "Absa Group Limited",
-    "volume": "2667764.0",
-    "price": 208.5,
-    "change": -2.61
+    "volume": "37614.0",
+    "price": 209.45,
+    "change": 0.95
   },
   {
     "ticker": "ACL",
     "name": "ArcelorMittal SA Limited",
-    "volume": "610359.0",
+    "volume": "57.0",
     "price": 1.35,
-    "change": -0.03
+    "change": 0.0
   },
   {
     "ticker": "ACS",
     "name": "Acsion Limited",
-    "volume": "115.0",
+    "volume": "",
     "price": 7.11,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ACT",
     "name": "AfroCentric Inv Corp Ltd",
-    "volume": "48068.0",
-    "price": 1.56,
-    "change": 0.06
+    "volume": "21.0",
+    "price": 1.51,
+    "change": -0.05
   },
   {
     "ticker": "ADH",
     "name": "ADvTECH Ltd",
-    "volume": "823442.0",
-    "price": 37.2,
-    "change": -0.31
+    "volume": "306.0",
+    "price": 37.06,
+    "change": -0.14
   },
   {
     "ticker": "ADR",
     "name": "Adcorp Holdings Limited",
-    "volume": "",
-    "price": 6.89,
-    "change": NaN
+    "volume": "16.0",
+    "price": 7.0,
+    "change": 0.11
   },
   {
     "ticker": "ADW",
@@ -107,16 +107,16 @@
   {
     "ticker": "AEL",
     "name": "Altron: Allied Electronics Corporation",
-    "volume": "214191.0",
-    "price": 18.89,
-    "change": 0.11
+    "volume": "638.0",
+    "price": 19.03,
+    "change": 0.14
   },
   {
     "ticker": "AFE",
     "name": "AECI Limited",
-    "volume": "379173.0",
+    "volume": "",
     "price": 86.63,
-    "change": -0.73
+    "change": NaN
   },
   {
     "ticker": "AFEP",
@@ -128,30 +128,30 @@
   {
     "ticker": "AFH",
     "name": "Alexander Forbes Grp Hldgs",
-    "volume": "98945.0",
-    "price": 8.1,
-    "change": -0.31
+    "volume": "6470.0",
+    "price": 8.25,
+    "change": 0.15
   },
   {
     "ticker": "AFT",
     "name": "Afrimat Limited",
-    "volume": "486876.0",
-    "price": 39.5,
-    "change": -0.35
+    "volume": "8691.0",
+    "price": 40.0,
+    "change": 0.5
   },
   {
     "ticker": "AGL",
     "name": "Anglo American plc",
-    "volume": "889578.0",
-    "price": 614.9,
-    "change": -3.59
+    "volume": "46584.0",
+    "price": 627.44,
+    "change": 12.54
   },
   {
     "ticker": "AME",
     "name": "African Media Ent Ltd",
-    "volume": "16.0",
+    "volume": "",
     "price": 41.73,
-    "change": -0.27
+    "change": NaN
   },
   {
     "ticker": "AMIB50",
@@ -163,16 +163,16 @@
   {
     "ticker": "ANG",
     "name": "Anglogold Ashanti Ltd",
-    "volume": "1446603.0",
-    "price": 1361.17,
-    "change": -71.7
+    "volume": "25099.0",
+    "price": 1363.47,
+    "change": 2.3
   },
   {
     "ticker": "ANH",
     "name": "Anheuser-Busch InBev SA/NV",
-    "volume": "562189.0",
-    "price": 1079.25,
-    "change": 37.61
+    "volume": "2119.0",
+    "price": 1092.9,
+    "change": 13.65
   },
   {
     "ticker": "ANI",
@@ -212,16 +212,16 @@
   {
     "ticker": "APF",
     "name": "Accelerate Property Fund Limited",
-    "volume": "848225.0",
-    "price": 0.56,
+    "volume": "50000.0",
+    "price": 0.58,
     "change": 0.02
   },
   {
     "ticker": "APH",
     "name": "Alphamin Resources Corp",
-    "volume": "4972.0",
+    "volume": "",
     "price": 13.0,
-    "change": -0.4
+    "change": NaN
   },
   {
     "ticker": "APN",
@@ -254,9 +254,9 @@
   {
     "ticker": "ARI",
     "name": "African Rainbow Min Ltd",
-    "volume": "613194.0",
-    "price": 165.87,
-    "change": -7.32
+    "volume": "8227.0",
+    "price": 167.22,
+    "change": 1.35
   },
   {
     "ticker": "ARL",
@@ -268,9 +268,9 @@
   {
     "ticker": "ART",
     "name": "Argent Industrial Ltd",
-    "volume": "85269.0",
-    "price": 32.0,
-    "change": 2.1
+    "volume": "4.0",
+    "price": 31.11,
+    "change": -0.89
   },
   {
     "ticker": "ASBI",
@@ -282,9 +282,9 @@
   {
     "ticker": "ASC",
     "name": "Ascendis Health Ltd",
-    "volume": "1536195.0",
-    "price": 0.96,
-    "change": 0.0
+    "volume": "432761.0",
+    "price": 0.95,
+    "change": -0.01
   },
   {
     "ticker": "ASIETF",
@@ -310,9 +310,9 @@
   {
     "ticker": "AXX",
     "name": "Araxi Ltd",
-    "volume": "79100.0",
+    "volume": "",
     "price": 1.72,
-    "change": -0.03
+    "change": NaN
   },
   {
     "ticker": "BAC",
