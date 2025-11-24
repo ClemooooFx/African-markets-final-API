@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "MST",
-    "price": 13.13,
-    "change": "-6.88%"
-  },
-  {
     "ticker": "CPR",
     "price": 0.51,
     "change": "-5.56%"
+  },
+  {
+    "ticker": "TPC",
+    "price": 36.01,
+    "change": "-5.24%"
   },
   {
     "ticker": "TRL",
@@ -15,9 +15,9 @@
     "change": "-3.83%"
   },
   {
-    "ticker": "NPK",
-    "price": 502.01,
-    "change": "-3.57%"
+    "ticker": "SOL",
+    "price": 113.83,
+    "change": "-3.38%"
   },
   {
     "ticker": "ACT",
@@ -25,8 +25,8 @@
     "change": "-3.21%"
   },
   {
-    "ticker": "4SI",
-    "price": 0.71,
-    "change": "-2.74%"
+    "ticker": "TKG",
+    "price": 50.29,
+    "change": "-3.05%"
   }
 ]
