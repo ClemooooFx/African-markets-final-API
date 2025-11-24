@@ -5,11 +5,6 @@
     "change": "-6.80%"
   },
   {
-    "ticker": "PPC",
-    "price": 5.01,
-    "change": "-6.70%"
-  },
-  {
     "ticker": "TRL",
     "price": 1.72,
     "change": "-6.01%"
@@ -20,13 +15,18 @@
     "change": "-5.24%"
   },
   {
-    "ticker": "ORN",
-    "price": 0.19,
-    "change": "-5.00%"
-  },
-  {
     "ticker": "TKG",
     "price": 49.49,
     "change": "-4.59%"
+  },
+  {
+    "ticker": "MKR",
+    "price": 28.21,
+    "change": "-4.28%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.69,
+    "change": "-4.17%"
   }
 ]
