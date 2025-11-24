@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "LIMT",
-    "price": 423.5,
-    "change": "-9.07%"
+    "ticker": "OCH",
+    "price": 6.98,
+    "change": "-9.82%"
   },
   {
-    "ticker": "CRWN",
-    "price": 51.75,
-    "change": "-7.59%"
-  },
-  {
-    "ticker": "LKL",
-    "price": 2.71,
-    "change": "-6.55%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.28,
-    "change": "-5.19%"
+    "ticker": "LBTY",
+    "price": 10.0,
+    "change": "-3.38%"
   },
   {
     "ticker": "SLAM",
-    "price": 8.74,
-    "change": "-2.67%"
+    "price": 8.46,
+    "change": "-3.20%"
   },
   {
-    "ticker": "UMME",
-    "price": 6.22,
-    "change": "-2.51%"
+    "ticker": "CIC",
+    "price": 4.45,
+    "change": "-3.05%"
+  },
+  {
+    "ticker": "KCB",
+    "price": 63.0,
+    "change": "-1.95%"
+  },
+  {
+    "ticker": "CGEN",
+    "price": 58.75,
+    "change": "-0.84%"
   }
 ]
