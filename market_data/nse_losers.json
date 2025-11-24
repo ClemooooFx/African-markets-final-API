@@ -1,23 +1,13 @@
 [
   {
-    "ticker": "SCAN",
-    "price": 2.56,
-    "change": "-8.24%"
-  },
-  {
     "ticker": "SLAM",
     "price": 8.1,
     "change": "-7.32%"
   },
   {
-    "ticker": "LBTY",
-    "price": 10.0,
-    "change": "-3.38%"
-  },
-  {
     "ticker": "KCB",
-    "price": 62.5,
-    "change": "-2.72%"
+    "price": 62.25,
+    "change": "-3.11%"
   },
   {
     "ticker": "HFCK",
@@ -28,5 +18,15 @@
     "ticker": "UNGA",
     "price": 23.5,
     "change": "-2.08%"
+  },
+  {
+    "ticker": "CIC",
+    "price": 4.5,
+    "change": "-1.96%"
+  },
+  {
+    "ticker": "COOP",
+    "price": 23.65,
+    "change": "-1.25%"
   }
 ]

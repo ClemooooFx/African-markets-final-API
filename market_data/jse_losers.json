@@ -15,11 +15,6 @@
     "change": "-13.33%"
   },
   {
-    "ticker": "EASYGE",
-    "price": 12.83,
-    "change": "-7.16%"
-  },
-  {
     "ticker": "SSW",
     "price": 48.6,
     "change": "-7.11%"
@@ -28,5 +23,10 @@
     "ticker": "CCC",
     "price": 2.88,
     "change": "-7.10%"
+  },
+  {
+    "ticker": "BLU",
+    "price": 9.92,
+    "change": "-5.52%"
   }
 ]
