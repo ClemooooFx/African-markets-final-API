@@ -1,8 +1,23 @@
 [
   {
+    "ticker": "TANTALIZER",
+    "price": 2.31,
+    "change": "-7.97%"
+  },
+  {
+    "ticker": "NPFMCRFBK",
+    "price": 2.7,
+    "change": "-7.85%"
+  },
+  {
     "ticker": "FCMB",
     "price": 10.1,
     "change": "-5.61%"
+  },
+  {
+    "ticker": "REGALINS",
+    "price": 1.07,
+    "change": "-5.31%"
   },
   {
     "ticker": "CHAMS",
@@ -10,23 +25,8 @@
     "change": "-4.76%"
   },
   {
-    "ticker": "REGALINS",
-    "price": 1.08,
-    "change": "-4.42%"
-  },
-  {
-    "ticker": "TANTALIZER",
-    "price": 2.4,
-    "change": "-4.38%"
-  },
-  {
     "ticker": "VITAFOAM",
     "price": 83.4,
     "change": "-4.14%"
-  },
-  {
-    "ticker": "DAARCOMM",
-    "price": 0.91,
-    "change": "-3.19%"
   }
 ]
