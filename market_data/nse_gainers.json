@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "UMME",
+    "price": 6.84,
+    "change": "+9.97%"
+  },
+  {
     "ticker": "UCHM",
     "price": 0.81,
     "change": "+9.46%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "+5.47%"
   },
   {
     "ticker": "KAPC",
@@ -15,18 +15,18 @@
     "change": "+5.16%"
   },
   {
-    "ticker": "SMER",
-    "price": 14.7,
-    "change": "+3.89%"
+    "ticker": "EVRD",
+    "price": 1.34,
+    "change": "+4.69%"
   },
   {
-    "ticker": "HFCK",
-    "price": 10.7,
-    "change": "+3.38%"
+    "ticker": "NSE",
+    "price": 19.4,
+    "change": "+4.02%"
   },
   {
     "ticker": "KQ",
-    "price": 3.76,
-    "change": "+2.73%"
+    "price": 3.77,
+    "change": "+3.01%"
   }
 ]

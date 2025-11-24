@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "OCH",
-    "price": 6.98,
-    "change": "-9.82%"
+    "ticker": "SCAN",
+    "price": 2.56,
+    "change": "-8.24%"
+  },
+  {
+    "ticker": "SLAM",
+    "price": 8.1,
+    "change": "-7.32%"
   },
   {
     "ticker": "LBTY",
@@ -10,23 +15,18 @@
     "change": "-3.38%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.46,
-    "change": "-3.20%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.45,
-    "change": "-3.05%"
-  },
-  {
     "ticker": "KCB",
-    "price": 63.0,
-    "change": "-1.95%"
+    "price": 62.5,
+    "change": "-2.72%"
   },
   {
-    "ticker": "CGEN",
-    "price": 58.75,
-    "change": "-0.84%"
+    "ticker": "HFCK",
+    "price": 10.1,
+    "change": "-2.42%"
+  },
+  {
+    "ticker": "UNGA",
+    "price": 23.5,
+    "change": "-2.08%"
   }
 ]
