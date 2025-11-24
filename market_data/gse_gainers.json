@@ -1,18 +1,18 @@
 [
   {
+    "ticker": "EGH",
+    "price": 20.9,
+    "change": "+9.88%"
+  },
+  {
+    "ticker": "CAL",
+    "price": 0.37,
+    "change": "+2.78%"
+  },
+  {
     "ticker": "SOGEGH",
     "price": 4.2,
     "change": "+2.44%"
-  },
-  {
-    "ticker": "EGH",
-    "price": 19.03,
-    "change": "+0.05%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   },
   {
     "ticker": "\u200b",
