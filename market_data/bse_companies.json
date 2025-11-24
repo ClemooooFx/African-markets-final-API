@@ -16,37 +16,37 @@
   {
     "ticker": "ADBF",
     "name": "African Domestic Bond Fund",
-    "volume": "9.0",
-    "price": 102.7,
-    "change": 0.41
+    "volume": "7.0",
+    "price": 102.84,
+    "change": 0.14
   },
   {
     "ticker": "ANGLO",
     "name": "Anglo American Plc",
-    "volume": "25.0",
+    "volume": "",
     "price": 518.74,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "BBS",
     "name": "Botswana Building Society Limited",
-    "volume": "169263.0",
+    "volume": "",
     "price": 0.7,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "",
+    "volume": "99.0",
     "price": 23.02,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "BOD",
     "name": "Botswana Diamonds Plc",
-    "volume": "3851.0",
+    "volume": "",
     "price": 0.2,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "BOTALA",
@@ -58,16 +58,16 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "6000.0",
+    "volume": "600.0",
     "price": 1.21,
     "change": 0.0
   },
   {
     "ticker": "CASALES",
     "name": "CA Sales Holdings Limited",
-    "volume": "206.0",
+    "volume": "",
     "price": 14.15,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CHOBE",
@@ -93,16 +93,16 @@
   {
     "ticker": "ENGEN",
     "name": "Engen Botswana Limited",
-    "volume": "1037.0",
+    "volume": "",
     "price": 14.25,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": "550.0",
+    "volume": "",
     "price": 5.45,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "FPC",
@@ -142,9 +142,9 @@
   {
     "ticker": "LETSHEGO",
     "name": "Letshego Holdings Limited",
-    "volume": "1382.0",
+    "volume": "",
     "price": 0.95,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LUCARA",
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "724.0",
-    "price": 550.5,
-    "change": 0.32
+    "volume": "2782.0",
+    "price": 548.0,
+    "change": -2.5
   },
   {
     "ticker": "NEWPALL",
@@ -240,9 +240,9 @@
   {
     "ticker": "STANCHART",
     "name": "Standard Chartered Bank Ltd",
-    "volume": "1000.0",
+    "volume": "",
     "price": 8.7,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "TLOU",

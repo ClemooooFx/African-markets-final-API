@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "CABC",
-    "price": 2185.0,
-    "change": "+7.37%"
-  },
-  {
-    "ticker": "SAFC",
-    "price": 3135.0,
-    "change": "+7.36%"
-  },
-  {
     "ticker": "SHEC",
-    "price": 1405.0,
-    "change": "+7.25%"
+    "price": 1510.0,
+    "change": "+7.47%"
   },
   {
-    "ticker": "SMBC",
-    "price": 9850.0,
-    "change": "+4.07%"
+    "ticker": "BICB",
+    "price": 5200.0,
+    "change": "+5.05%"
+  },
+  {
+    "ticker": "BICC",
+    "price": 20250.0,
+    "change": "+3.85%"
+  },
+  {
+    "ticker": "NTLC",
+    "price": 11850.0,
+    "change": "+3.04%"
   },
   {
     "ticker": "UNXC",
-    "price": 1430.0,
-    "change": "+3.25%"
+    "price": 1470.0,
+    "change": "+2.80%"
   },
   {
-    "ticker": "BOABF",
-    "price": 3780.0,
-    "change": "+2.72%"
+    "ticker": "CABC",
+    "price": 2240.0,
+    "change": "+2.52%"
   }
 ]
