@@ -65,9 +65,9 @@
   {
     "ticker": "CLYD",
     "name": "Clydestone Ghana Limited",
-    "volume": "",
+    "volume": "90.0",
     "price": 0.46,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CMLT",
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "3058.0",
+    "volume": "3879.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "433.0",
+    "volume": "1241.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "128122.0",
+    "volume": "296532.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "2024.0",
+    "volume": "4398.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "77.0",
+    "volume": "90.0",
     "price": 40.41,
     "change": 0.0
   },
