@@ -11,8 +11,13 @@
   },
   {
     "ticker": "SMWF",
-    "price": 887.0,
-    "change": "+6.48%"
+    "price": 886.0,
+    "change": "+6.36%"
+  },
+  {
+    "ticker": "FTGH",
+    "price": 1.74,
+    "change": "+6.10%"
   },
   {
     "ticker": "EVRD",
@@ -23,10 +28,5 @@
     "ticker": "KAPC",
     "price": 224.0,
     "change": "+5.16%"
-  },
-  {
-    "ticker": "KQ",
-    "price": 3.8,
-    "change": "+3.83%"
   }
 ]
