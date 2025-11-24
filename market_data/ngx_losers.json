@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "CORNERST",
+    "price": 5.42,
+    "change": "-9.21%"
+  },
+  {
     "ticker": "TANTALIZER",
-    "price": 2.31,
-    "change": "-7.97%"
+    "price": 2.28,
+    "change": "-9.16%"
+  },
+  {
+    "ticker": "STERLINGNG",
+    "price": 6.55,
+    "change": "-9.03%"
   },
   {
     "ticker": "NPFMCRFBK",
@@ -10,23 +20,13 @@
     "change": "-7.85%"
   },
   {
-    "ticker": "FCMB",
-    "price": 10.1,
-    "change": "-5.61%"
-  },
-  {
     "ticker": "REGALINS",
     "price": 1.07,
     "change": "-5.31%"
   },
   {
-    "ticker": "CHAMS",
-    "price": 3.0,
-    "change": "-4.76%"
-  },
-  {
-    "ticker": "VITAFOAM",
-    "price": 83.4,
-    "change": "-4.14%"
+    "ticker": "FCMB",
+    "price": 10.15,
+    "change": "-5.14%"
   }
 ]

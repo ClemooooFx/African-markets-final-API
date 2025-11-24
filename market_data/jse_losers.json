@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "CPR",
+    "price": 0.51,
+    "change": "-5.56%"
+  },
+  {
     "ticker": "TPC",
     "price": 36.01,
     "change": "-5.24%"
@@ -23,10 +28,5 @@
     "ticker": "REN",
     "price": 8.68,
     "change": "-4.82%"
-  },
-  {
-    "ticker": "KP2",
-    "price": 0.69,
-    "change": "-4.17%"
   }
 ]
