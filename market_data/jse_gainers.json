@@ -5,6 +5,11 @@
     "change": "+71.67%"
   },
   {
+    "ticker": "SEP",
+    "price": 1.75,
+    "change": "+12.90%"
+  },
+  {
     "ticker": "MTNZF",
     "price": 0.29,
     "change": "+11.54%"
@@ -15,18 +20,13 @@
     "change": "+8.44%"
   },
   {
-    "ticker": "SHG",
-    "price": 8.48,
-    "change": "+4.69%"
+    "ticker": "SYG",
+    "price": 37.3,
+    "change": "+4.19%"
   },
   {
     "ticker": "MCZ",
     "price": 2.41,
     "change": "+3.88%"
-  },
-  {
-    "ticker": "PHP",
-    "price": 21.95,
-    "change": "+3.78%"
   }
 ]

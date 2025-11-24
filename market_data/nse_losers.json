@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "OCH",
+    "price": 6.98,
+    "change": "-9.82%"
+  },
+  {
     "ticker": "SLAM",
     "price": 8.1,
     "change": "-7.32%"
   },
   {
-    "ticker": "KCB",
-    "price": 61.0,
-    "change": "-5.06%"
+    "ticker": "SCAN",
+    "price": 2.6,
+    "change": "-6.81%"
   },
   {
-    "ticker": "XPRS",
-    "price": 6.9,
-    "change": "-2.82%"
+    "ticker": "KCB",
+    "price": 61.25,
+    "change": "-4.67%"
   },
   {
     "ticker": "HAFR",
-    "price": 1.06,
-    "change": "-2.75%"
+    "price": 1.05,
+    "change": "-3.67%"
   },
   {
-    "ticker": "SKL",
-    "price": 8.0,
-    "change": "-2.44%"
-  },
-  {
-    "ticker": "HFCK",
-    "price": 10.1,
-    "change": "-2.42%"
+    "ticker": "CIC",
+    "price": 4.44,
+    "change": "-3.27%"
   }
 ]
