@@ -1,13 +1,18 @@
 [
   {
     "ticker": "FCMB",
-    "price": 10.0,
-    "change": "-6.54%"
+    "price": 10.1,
+    "change": "-5.61%"
   },
   {
     "ticker": "REGALINS",
     "price": 1.08,
     "change": "-4.42%"
+  },
+  {
+    "ticker": "TANTALIZER",
+    "price": 2.4,
+    "change": "-4.38%"
   },
   {
     "ticker": "VITAFOAM",
@@ -20,13 +25,8 @@
     "change": "-3.19%"
   },
   {
-    "ticker": "CHAMS",
-    "price": 3.08,
-    "change": "-2.22%"
-  },
-  {
-    "ticker": "TANTALIZER",
-    "price": 2.49,
-    "change": "-0.80%"
+    "ticker": "IKEJAHOTEL",
+    "price": 20.3,
+    "change": "-2.64%"
   }
 ]
