@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "AIICO",
+    "price": 3.4,
+    "change": "+7.94%"
+  },
+  {
     "ticker": "JAPAULGOLD",
     "price": 2.25,
     "change": "+7.14%"
@@ -10,6 +15,11 @@
     "change": "+5.47%"
   },
   {
+    "ticker": "TIP",
+    "price": 11.6,
+    "change": "+3.57%"
+  },
+  {
     "ticker": "VERITASKAP",
     "price": 1.62,
     "change": "+1.25%"
@@ -18,10 +28,5 @@
     "ticker": "CUTIX",
     "price": 3.15,
     "change": "+0.64%"
-  },
-  {
-    "ticker": "ELLAHLAKES",
-    "price": 12.75,
-    "change": "+0.08%"
   }
 ]
