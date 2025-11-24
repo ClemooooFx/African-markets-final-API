@@ -5,6 +5,11 @@
     "change": "+9.97%"
   },
   {
+    "ticker": "CRWN",
+    "price": 56.0,
+    "change": "+8.21%"
+  },
+  {
     "ticker": "LKL",
     "price": 2.9,
     "change": "+7.01%"
@@ -16,17 +21,12 @@
   },
   {
     "ticker": "FTGH",
-    "price": 1.74,
-    "change": "+6.10%"
+    "price": 1.73,
+    "change": "+5.49%"
   },
   {
     "ticker": "KAPC",
     "price": 222.0,
     "change": "+4.23%"
-  },
-  {
-    "ticker": "GLD",
-    "price": 5250.0,
-    "change": "+2.84%"
   }
 ]
