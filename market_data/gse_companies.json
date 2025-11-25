@@ -30,9 +30,9 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "",
+    "volume": "100.0",
     "price": 6.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ALW",
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "438630.0",
+    "volume": "535609.0",
     "price": 0.38,
     "change": 0.01
   },
@@ -79,9 +79,9 @@
   {
     "ticker": "CPC",
     "name": "Cocoa Processing Company Limited",
-    "volume": "",
+    "volume": "5100.0",
     "price": 0.05,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "DASPHARMA",
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "1251.0",
+    "volume": "1283.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "486.0",
+    "volume": "493.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -135,7 +135,7 @@
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "7.0",
+    "volume": "114.0",
     "price": 6.6,
     "change": 0.0
   },
@@ -233,9 +233,9 @@
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "",
+    "volume": "25.0",
     "price": 4.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TBL",
@@ -261,7 +261,7 @@
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "159.0",
+    "volume": "163.0",
     "price": 19.79,
     "change": 0.0
   }
