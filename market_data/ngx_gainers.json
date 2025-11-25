@@ -1,8 +1,28 @@
 [
   {
+    "ticker": "MCNICHOLS",
+    "price": 3.0,
+    "change": "+9.09%"
+  },
+  {
+    "ticker": "STERLINGNG",
+    "price": 6.95,
+    "change": "+3.73%"
+  },
+  {
     "ticker": "FIRSTHOLDCO",
     "price": 31.05,
     "change": "+1.64%"
+  },
+  {
+    "ticker": "CUTIX",
+    "price": 3.08,
+    "change": "+0.98%"
+  },
+  {
+    "ticker": "ELLAHLAKES",
+    "price": 12.74,
+    "change": "+0.71%"
   },
   {
     "ticker": "\u200b",
