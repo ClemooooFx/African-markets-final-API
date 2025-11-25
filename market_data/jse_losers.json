@@ -10,6 +10,16 @@
     "change": "-22.64%"
   },
   {
+    "ticker": "ACL",
+    "price": 1.23,
+    "change": "-5.38%"
+  },
+  {
+    "ticker": "BLU",
+    "price": 9.51,
+    "change": "-4.42%"
+  },
+  {
     "ticker": "JBL",
     "price": 0.65,
     "change": "-4.41%"
@@ -18,15 +28,5 @@
     "ticker": "SNV",
     "price": 7.0,
     "change": "-3.98%"
-  },
-  {
-    "ticker": "ACL",
-    "price": 1.25,
-    "change": "-3.85%"
-  },
-  {
-    "ticker": "NPK",
-    "price": 505.0,
-    "change": "-3.55%"
   }
 ]
