@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "UMME",
-    "price": 7.48,
-    "change": "+9.36%"
-  },
-  {
     "ticker": "LIMT",
     "price": 460.0,
     "change": "+8.62%"
@@ -20,9 +15,14 @@
     "change": "+7.67%"
   },
   {
+    "ticker": "KQ",
+    "price": 3.7,
+    "change": "+7.25%"
+  },
+  {
     "ticker": "UCHM",
-    "price": 0.85,
-    "change": "+7.59%"
+    "price": 0.84,
+    "change": "+6.33%"
   },
   {
     "ticker": "EGAD",
