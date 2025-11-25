@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "NCR",
+    "price": 45.2,
+    "change": "+9.98%"
+  },
+  {
     "ticker": "IKEJAHOTEL",
     "price": 22.85,
     "change": "+9.86%"
@@ -23,10 +28,5 @@
     "ticker": "VERITASKAP",
     "price": 1.78,
     "change": "+7.88%"
-  },
-  {
-    "ticker": "LIVESTOCK",
-    "price": 6.45,
-    "change": "+6.61%"
   }
 ]

@@ -10,6 +10,11 @@
     "change": "+10.79%"
   },
   {
+    "ticker": "FTH",
+    "price": 6.5,
+    "change": "+4.84%"
+  },
+  {
     "ticker": "CCC",
     "price": 2.88,
     "change": "+4.73%"
@@ -23,10 +28,5 @@
     "ticker": "SRI",
     "price": 17.98,
     "change": "+3.27%"
-  },
-  {
-    "ticker": "DLT",
-    "price": 0.33,
-    "change": "+3.12%"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "UMME",
-    "price": 7.48,
-    "change": "+9.36%"
-  },
-  {
     "ticker": "LIMT",
     "price": 460.0,
     "change": "+8.62%"
@@ -28,5 +23,10 @@
     "ticker": "OCH",
     "price": 7.9,
     "change": "+5.61%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 0.83,
+    "change": "+5.06%"
   }
 ]
