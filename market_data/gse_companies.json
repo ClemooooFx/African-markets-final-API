@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "1042112.0",
+    "volume": "1061703.0",
     "price": 0.38,
     "change": 0.01
   },
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "2374.0",
+    "volume": "2383.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "604.0",
+    "volume": "614.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "87296.0",
+    "volume": "87571.0",
     "price": 4.2,
     "change": 0.01
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "74.0",
+    "volume": "189.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -247,9 +247,9 @@
   {
     "ticker": "TLW",
     "name": "Tullow Oil Plc",
-    "volume": "",
+    "volume": "3.0",
     "price": 11.92,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TOTAL",
@@ -261,7 +261,7 @@
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "234.0",
+    "volume": "817.0",
     "price": 19.79,
     "change": 0.0
   }
