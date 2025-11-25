@@ -16,9 +16,9 @@
   {
     "ticker": "ADBF",
     "name": "African Domestic Bond Fund",
-    "volume": "7.0",
+    "volume": "",
     "price": 102.84,
-    "change": 0.14
+    "change": NaN
   },
   {
     "ticker": "ANGLO",
@@ -37,9 +37,9 @@
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "99.0",
+    "volume": "",
     "price": 23.02,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "BOD",
@@ -58,9 +58,9 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "600.0",
-    "price": 1.21,
-    "change": 0.0
+    "volume": "20000.0",
+    "price": 1.22,
+    "change": 0.01
   },
   {
     "ticker": "CASALES",
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "2782.0",
-    "price": 548.0,
-    "change": -2.5
+    "volume": "17195.0",
+    "price": 552.75,
+    "change": 4.75
   },
   {
     "ticker": "NEWPALL",
@@ -254,8 +254,8 @@
   {
     "ticker": "TURNSTAR",
     "name": "Turnstar Holdings Limited",
-    "volume": "",
-    "price": 2.26,
-    "change": NaN
+    "volume": "9964220.0",
+    "price": 2.05,
+    "change": -0.21
   }
 ]

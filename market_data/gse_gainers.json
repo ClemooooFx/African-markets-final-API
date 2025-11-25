@@ -1,8 +1,8 @@
 [
   {
     "ticker": "EGH",
-    "price": 20.9,
-    "change": "+9.88%"
+    "price": 20.61,
+    "change": "+8.36%"
   },
   {
     "ticker": "CAL",
@@ -15,18 +15,8 @@
     "change": "+2.44%"
   },
   {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "GOIL",
+    "price": 2.76,
+    "change": "+0.36%"
   }
 ]
