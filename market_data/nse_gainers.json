@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "LIMT",
-    "price": 460.0,
-    "change": "+8.62%"
-  },
-  {
-    "ticker": "CRWN",
-    "price": 56.0,
-    "change": "+8.21%"
-  },
-  {
-    "ticker": "KQ",
-    "price": 3.7,
-    "change": "+7.25%"
-  },
-  {
     "ticker": "TPSE",
-    "price": 16.75,
-    "change": "+7.03%"
-  },
-  {
-    "ticker": "OCH",
-    "price": 7.9,
-    "change": "+5.61%"
+    "price": 16.85,
+    "change": "+7.67%"
   },
   {
     "ticker": "UCHM",
-    "price": 0.83,
-    "change": "+5.06%"
+    "price": 0.85,
+    "change": "+7.59%"
+  },
+  {
+    "ticker": "OCH",
+    "price": 7.76,
+    "change": "+3.74%"
+  },
+  {
+    "ticker": "NMG",
+    "price": 13.45,
+    "change": "+3.46%"
+  },
+  {
+    "ticker": "BOC",
+    "price": 127.0,
+    "change": "+2.42%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 6.98,
+    "change": "+2.05%"
   }
 ]
