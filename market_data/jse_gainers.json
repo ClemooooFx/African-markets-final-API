@@ -1,5 +1,15 @@
 [
   {
+    "ticker": "SOH",
+    "price": 1.15,
+    "change": "+21.05%"
+  },
+  {
+    "ticker": "ACT",
+    "price": 1.5,
+    "change": "+13.64%"
+  },
+  {
     "ticker": "MCZ",
     "price": 2.73,
     "change": "+13.28%"
@@ -10,23 +20,13 @@
     "change": "+13.18%"
   },
   {
+    "ticker": "SCD",
+    "price": 14.19,
+    "change": "+7.91%"
+  },
+  {
     "ticker": "FTH",
     "price": 6.5,
     "change": "+4.84%"
-  },
-  {
-    "ticker": "CCC",
-    "price": 2.88,
-    "change": "+4.73%"
-  },
-  {
-    "ticker": "ETFGRE",
-    "price": 22.69,
-    "change": "+4.27%"
-  },
-  {
-    "ticker": "BWN",
-    "price": 2.65,
-    "change": "+3.11%"
   }
 ]
