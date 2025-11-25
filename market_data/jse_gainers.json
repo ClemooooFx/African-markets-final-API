@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "ZZD",
+    "price": 14.0,
+    "change": "+13.18%"
+  },
+  {
     "ticker": "MCZ",
     "price": 2.67,
     "change": "+10.79%"
-  },
-  {
-    "ticker": "ZZD",
-    "price": 13.7,
-    "change": "+10.75%"
   },
   {
     "ticker": "DLT",
@@ -26,7 +26,7 @@
   },
   {
     "ticker": "ETFGRE",
-    "price": 22.63,
-    "change": "+4.00%"
+    "price": 22.69,
+    "change": "+4.27%"
   }
 ]

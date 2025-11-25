@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "SGL",
+    "price": 5.76,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "PORT",
     "price": 60.25,
     "change": "-8.37%"
@@ -23,10 +28,5 @@
     "ticker": "UNGA",
     "price": 22.5,
     "change": "-4.26%"
-  },
-  {
-    "ticker": "SCBK",
-    "price": 288.0,
-    "change": "-3.44%"
   }
 ]

@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "MCNICHOLS",
+    "price": 2.56,
+    "change": "-6.91%"
+  },
+  {
     "ticker": "WEMABANK",
     "price": 18.0,
     "change": "-4.26%"
+  },
+  {
+    "ticker": "MANSARD",
+    "price": 12.45,
+    "change": "-4.23%"
   },
   {
     "ticker": "VERITASKAP",
@@ -18,15 +28,5 @@
     "ticker": "OANDO",
     "price": 39.0,
     "change": "-2.50%"
-  },
-  {
-    "ticker": "TANTALIZER",
-    "price": 2.35,
-    "change": "-2.08%"
-  },
-  {
-    "ticker": "NEM",
-    "price": 25.5,
-    "change": "-1.92%"
   }
 ]

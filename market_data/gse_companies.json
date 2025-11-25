@@ -9,9 +9,9 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "",
+    "volume": "1.0",
     "price": 16.2,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ADB",
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "82325.0",
+    "volume": "438630.0",
     "price": 0.38,
     "change": 0.01
   },
@@ -114,30 +114,30 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "147.0",
+    "volume": "1251.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "15.0",
+    "volume": "486.0",
     "price": 8.0,
     "change": 0.0
   },
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "",
+    "volume": "3576.0",
     "price": 19.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GGBL",
     "name": "Guinness Ghana Breweries Limited",
-    "volume": "",
+    "volume": "7.0",
     "price": 6.6,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GLD",
@@ -149,9 +149,9 @@
   {
     "ticker": "GOIL",
     "name": "Ghana Oil Company Limited",
-    "volume": "",
+    "volume": "1120.0",
     "price": 2.76,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "HORDS",
@@ -184,9 +184,9 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "15081.0",
-    "price": 4.2,
-    "change": 0.01
+    "volume": "84194.0",
+    "price": 4.19,
+    "change": 0.0
   },
   {
     "ticker": "PBC",
@@ -198,9 +198,9 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "",
+    "volume": "74.0",
     "price": 1.25,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SAMBA",
@@ -254,15 +254,15 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "5.0",
+    "volume": "8.0",
     "price": 40.41,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "",
+    "volume": "159.0",
     "price": 19.79,
-    "change": NaN
+    "change": 0.0
   }
 ]
