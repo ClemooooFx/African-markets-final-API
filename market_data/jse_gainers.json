@@ -1,8 +1,8 @@
 [
   {
     "ticker": "ZZD",
-    "price": 14.0,
-    "change": "+13.18%"
+    "price": 14.43,
+    "change": "+16.65%"
   },
   {
     "ticker": "MCZ",
@@ -20,13 +20,13 @@
     "change": "+4.27%"
   },
   {
+    "ticker": "SRI",
+    "price": 17.98,
+    "change": "+3.27%"
+  },
+  {
     "ticker": "DLT",
     "price": 0.33,
     "change": "+3.12%"
-  },
-  {
-    "ticker": "AGL",
-    "price": 631.58,
-    "change": "+2.64%"
   }
 ]
