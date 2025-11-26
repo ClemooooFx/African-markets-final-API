@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "EGH",
+    "price": 22.0,
+    "change": "+6.74%"
+  },
+  {
     "ticker": "CAL",
     "price": 0.39,
     "change": "+2.63%"
@@ -8,11 +13,6 @@
     "ticker": "SCB",
     "price": 29.13,
     "change": "+0.03%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   },
   {
     "ticker": "\u200b",
