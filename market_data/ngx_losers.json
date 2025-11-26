@@ -5,11 +5,6 @@
     "change": "-5.05%"
   },
   {
-    "ticker": "REGALINS",
-    "price": 1.0,
-    "change": "-4.76%"
-  },
-  {
     "ticker": "TIP",
     "price": 11.05,
     "change": "-4.74%"
@@ -28,5 +23,10 @@
     "ticker": "VFDGROUP",
     "price": 10.0,
     "change": "-3.85%"
+  },
+  {
+    "ticker": "NB",
+    "price": 66.0,
+    "change": "-3.65%"
   }
 ]
