@@ -5,19 +5,14 @@
     "change": "+26.67%"
   },
   {
-    "ticker": "ISO",
-    "price": 119.98,
-    "change": "+13.19%"
-  },
-  {
     "ticker": "RNG",
     "price": 0.65,
     "change": "+8.33%"
   },
   {
     "ticker": "TBS",
-    "price": 362.12,
-    "change": "+7.64%"
+    "price": 362.62,
+    "change": "+7.79%"
   },
   {
     "ticker": "MCZ",
@@ -28,5 +23,10 @@
     "ticker": "THA",
     "price": 21.42,
     "change": "+6.04%"
+  },
+  {
+    "ticker": "NVS",
+    "price": 6.99,
+    "change": "+5.91%"
   }
 ]
