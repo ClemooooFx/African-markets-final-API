@@ -1,10 +1,5 @@
 [
   {
-    "ticker": "BKG",
-    "price": 40.0,
-    "change": "-7.30%"
-  },
-  {
     "ticker": "TPSE",
     "price": 16.0,
     "change": "-5.04%"
@@ -23,6 +18,11 @@
     "ticker": "TOTL",
     "price": 39.0,
     "change": "-2.74%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5000.0,
+    "change": "-2.63%"
   },
   {
     "ticker": "FTGH",
