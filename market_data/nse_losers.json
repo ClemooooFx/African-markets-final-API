@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "FTGH",
-    "price": 1.63,
-    "change": "-4.12%"
+    "ticker": "TPSE",
+    "price": 16.0,
+    "change": "-5.04%"
   },
   {
     "ticker": "SKL",
@@ -10,23 +10,23 @@
     "change": "-3.75%"
   },
   {
+    "ticker": "FTGH",
+    "price": 1.64,
+    "change": "-3.53%"
+  },
+  {
     "ticker": "NMG",
     "price": 13.0,
     "change": "-3.35%"
   },
   {
+    "ticker": "EVRD",
+    "price": 1.24,
+    "change": "-3.12%"
+  },
+  {
     "ticker": "SGL",
     "price": 5.8,
     "change": "-3.01%"
-  },
-  {
-    "ticker": "COOP",
-    "price": 23.0,
-    "change": "-2.95%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 39.0,
-    "change": "-2.74%"
   }
 ]
