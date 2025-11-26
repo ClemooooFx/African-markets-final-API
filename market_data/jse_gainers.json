@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "BRT",
+    "price": 5.7,
+    "change": "+26.67%"
+  },
+  {
     "ticker": "RNG",
     "price": 0.65,
     "change": "+8.33%"
@@ -20,13 +25,8 @@
     "change": "+5.89%"
   },
   {
-    "ticker": "NWL",
-    "price": 27.99,
-    "change": "+5.62%"
-  },
-  {
-    "ticker": "TRL",
-    "price": 1.7,
-    "change": "+4.94%"
+    "ticker": "ISO",
+    "price": 111.98,
+    "change": "+5.64%"
   }
 ]

@@ -15,6 +15,11 @@
     "change": "+6.02%"
   },
   {
+    "ticker": "ABSA",
+    "price": 23.0,
+    "change": "+4.78%"
+  },
+  {
     "ticker": "EGAD",
     "price": 20.3,
     "change": "+2.78%"
@@ -23,10 +28,5 @@
     "ticker": "KAPC",
     "price": 219.75,
     "change": "+2.57%"
-  },
-  {
-    "ticker": "ABSA",
-    "price": 22.5,
-    "change": "+2.51%"
   }
 ]
