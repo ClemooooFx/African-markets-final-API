@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "15084.0",
+    "volume": "37432.0",
     "price": 0.39,
     "change": 0.01
   },
@@ -114,7 +114,7 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "326.0",
+    "volume": "1446.0",
     "price": 0.9,
     "change": 0.0
   },
@@ -128,9 +128,9 @@
   {
     "ticker": "GCB",
     "name": "GCB Bank Limited",
-    "volume": "",
+    "volume": "747.0",
     "price": 19.0,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GGBL",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "69205.0",
+    "volume": "77081.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "115.0",
+    "volume": "269.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "1837.0",
+    "volume": "2510.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "335.0",
+    "volume": "347.0",
     "price": 4.5,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "222.0",
+    "volume": "228.0",
     "price": 40.41,
     "change": 0.0
   },

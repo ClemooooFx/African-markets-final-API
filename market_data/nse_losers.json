@@ -1,18 +1,23 @@
 [
   {
+    "ticker": "SKL",
+    "price": 7.5,
+    "change": "-6.25%"
+  },
+  {
     "ticker": "TPSE",
     "price": 16.0,
     "change": "-5.04%"
   },
   {
-    "ticker": "SKL",
-    "price": 7.7,
-    "change": "-3.75%"
-  },
-  {
     "ticker": "NMG",
     "price": 13.0,
     "change": "-3.35%"
+  },
+  {
+    "ticker": "EQTY",
+    "price": 61.0,
+    "change": "-3.17%"
   },
   {
     "ticker": "TOTL",
@@ -23,10 +28,5 @@
     "ticker": "GLD",
     "price": 5000.0,
     "change": "-2.63%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.66,
-    "change": "-2.35%"
   }
 ]
