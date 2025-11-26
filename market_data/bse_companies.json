@@ -58,9 +58,9 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "20000.0",
-    "price": 1.22,
-    "change": 0.01
+    "volume": "2335.0",
+    "price": 1.21,
+    "change": -0.01
   },
   {
     "ticker": "CASALES",
@@ -72,16 +72,16 @@
   {
     "ticker": "CHOBE",
     "name": "Chobe Holdings Limited",
-    "volume": "",
+    "volume": "199217.0",
     "price": 17.75,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CHOPPIES",
     "name": "Choppies Enterprises Limited",
-    "volume": "",
-    "price": 0.71,
-    "change": NaN
+    "volume": "1231.0",
+    "price": 0.77,
+    "change": 0.06
   },
   {
     "ticker": "CRESTA",
@@ -114,9 +114,9 @@
   {
     "ticker": "G4S",
     "name": "G4S Botswana Limited",
-    "volume": "",
+    "volume": "603150.0",
     "price": 0.91,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "GR1B",
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "17195.0",
+    "volume": "",
     "price": 552.75,
-    "change": 4.75
+    "change": NaN
   },
   {
     "ticker": "NEWPALL",
@@ -205,16 +205,16 @@
   {
     "ticker": "RDCP",
     "name": "RDC Properties Limited",
-    "volume": "",
+    "volume": "694375.0",
     "price": 2.5,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SECHABA",
     "name": "Sechaba Brewery Holdings Limited",
-    "volume": "",
+    "volume": "966613.0",
     "price": 37.01,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SEEDCO",
@@ -226,9 +226,9 @@
   {
     "ticker": "SEFALANA",
     "name": "Sefalana Holding Company Ltd",
-    "volume": "",
+    "volume": "701350.0",
     "price": 15.9,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SHUMBA",
@@ -254,8 +254,8 @@
   {
     "ticker": "TURNSTAR",
     "name": "Turnstar Holdings Limited",
-    "volume": "9964220.0",
+    "volume": "",
     "price": 2.05,
-    "change": -0.21
+    "change": NaN
   }
 ]

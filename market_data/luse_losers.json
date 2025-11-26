@@ -1,12 +1,27 @@
 [
   {
-    "ticker": "BATZ",
-    "price": 13.0,
-    "change": "-2.48%"
+    "ticker": "CECZ",
+    "price": 20.5,
+    "change": "-0.82%"
   },
   {
-    "ticker": "SCBL",
-    "price": 2.57,
-    "change": "-0.39%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

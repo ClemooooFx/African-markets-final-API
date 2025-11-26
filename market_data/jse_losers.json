@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "MTNZF",
-    "price": 0.21,
-    "change": "-27.59%"
+    "ticker": "TEX",
+    "price": 2.64,
+    "change": "-15.92%"
   },
   {
-    "ticker": "ISA",
-    "price": 2.12,
-    "change": "-13.47%"
+    "ticker": "MTU",
+    "price": 0.5,
+    "change": "-13.79%"
+  },
+  {
+    "ticker": "MTNZF",
+    "price": 0.25,
+    "change": "-13.79%"
   },
   {
     "ticker": "SEP",
@@ -20,13 +25,8 @@
     "change": "-6.25%"
   },
   {
-    "ticker": "ZED",
-    "price": 1.25,
-    "change": "-6.02%"
-  },
-  {
-    "ticker": "JBL",
-    "price": 0.65,
-    "change": "-4.41%"
+    "ticker": "BLU",
+    "price": 9.39,
+    "change": "-5.63%"
   }
 ]
