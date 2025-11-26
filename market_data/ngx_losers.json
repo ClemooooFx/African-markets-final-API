@@ -5,28 +5,28 @@
     "change": "-5.05%"
   },
   {
+    "ticker": "REGALINS",
+    "price": 1.0,
+    "change": "-4.76%"
+  },
+  {
     "ticker": "TIP",
-    "price": 11.18,
-    "change": "-3.62%"
+    "price": 11.05,
+    "change": "-4.74%"
+  },
+  {
+    "ticker": "UNIVINSURE",
+    "price": 1.14,
+    "change": "-2.56%"
+  },
+  {
+    "ticker": "FTNCOCOA",
+    "price": 4.9,
+    "change": "-2.00%"
   },
   {
     "ticker": "SUNUASSUR",
     "price": 4.3,
     "change": "-1.83%"
-  },
-  {
-    "ticker": "JAPAULGOLD",
-    "price": 2.09,
-    "change": "-0.48%"
-  },
-  {
-    "ticker": "CUTIX",
-    "price": 3.04,
-    "change": "-0.33%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
   }
 ]

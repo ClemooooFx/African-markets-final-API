@@ -11,8 +11,13 @@
   },
   {
     "ticker": "MTU",
-    "price": 0.44,
-    "change": "-12.00%"
+    "price": 0.42,
+    "change": "-16.00%"
+  },
+  {
+    "ticker": "NCS",
+    "price": 2.31,
+    "change": "-7.60%"
   },
   {
     "ticker": "CPR",
@@ -23,10 +28,5 @@
     "ticker": "CCC",
     "price": 2.75,
     "change": "-4.51%"
-  },
-  {
-    "ticker": "ASC",
-    "price": 0.95,
-    "change": "-3.06%"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "BKG",
+    "price": 40.0,
+    "change": "-7.30%"
+  },
+  {
     "ticker": "TPSE",
     "price": 16.0,
     "change": "-5.04%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 38.5,
-    "change": "-3.99%"
   },
   {
     "ticker": "SKL",
@@ -20,13 +20,13 @@
     "change": "-3.35%"
   },
   {
-    "ticker": "SMER",
-    "price": 13.5,
-    "change": "-2.88%"
+    "ticker": "TOTL",
+    "price": 39.0,
+    "change": "-2.74%"
   },
   {
-    "ticker": "COOP",
-    "price": 23.2,
-    "change": "-2.11%"
+    "ticker": "FTGH",
+    "price": 1.66,
+    "change": "-2.35%"
   }
 ]
