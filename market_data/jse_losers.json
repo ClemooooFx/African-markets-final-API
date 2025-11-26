@@ -10,6 +10,11 @@
     "change": "-20.00%"
   },
   {
+    "ticker": "MKR",
+    "price": 26.05,
+    "change": "-19.80%"
+  },
+  {
     "ticker": "MTU",
     "price": 0.46,
     "change": "-8.00%"
@@ -23,10 +28,5 @@
     "ticker": "ADR",
     "price": 6.43,
     "change": "-6.81%"
-  },
-  {
-    "ticker": "CCC",
-    "price": 2.75,
-    "change": "-4.51%"
   }
 ]
