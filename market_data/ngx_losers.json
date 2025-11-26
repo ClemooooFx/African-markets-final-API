@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "LEARNAFRCA",
+    "price": 5.22,
+    "change": "-10.00%"
+  },
+  {
     "ticker": "CADBURY",
     "price": 53.1,
     "change": "-9.92%"
@@ -10,23 +15,18 @@
     "change": "-9.91%"
   },
   {
-    "ticker": "DAARCOMM",
-    "price": 0.94,
-    "change": "-5.05%"
+    "ticker": "UPDC",
+    "price": 5.47,
+    "change": "-8.83%"
   },
   {
-    "ticker": "BUACEMENT",
-    "price": 160.0,
-    "change": "-4.76%"
+    "ticker": "INTBREW",
+    "price": 11.0,
+    "change": "-8.33%"
   },
   {
-    "ticker": "TIP",
-    "price": 11.05,
-    "change": "-4.74%"
-  },
-  {
-    "ticker": "LIVESTOCK",
-    "price": 6.15,
-    "change": "-4.65%"
+    "ticker": "MBENEFIT",
+    "price": 3.1,
+    "change": "-7.46%"
   }
 ]

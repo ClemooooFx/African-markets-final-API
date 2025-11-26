@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "37.0",
+    "volume": "39.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -30,7 +30,7 @@
   {
     "ticker": "ALLGH",
     "name": "Atlantic Lithium Ltd",
-    "volume": "63.0",
+    "volume": "73.0",
     "price": 6.12,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "452638.0",
+    "volume": "496642.0",
     "price": 0.39,
     "change": 0.01
   },
@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "6450.0",
+    "volume": "9745.0",
     "price": 0.9,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "83.0",
+    "volume": "109.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "14617087.0",
+    "volume": "14663823.0",
     "price": 4.2,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "2524.0",
+    "volume": "2546.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "8777.0",
+    "volume": "9943.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "1647.0",
+    "volume": "1717.0",
     "price": 4.5,
     "change": 0.0
   },
@@ -247,21 +247,21 @@
   {
     "ticker": "TLW",
     "name": "Tullow Oil Plc",
-    "volume": "",
+    "volume": "502.0",
     "price": 11.92,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "249.0",
+    "volume": "758.0",
     "price": 40.41,
     "change": 0.0
   },
   {
     "ticker": "UNIL",
     "name": "Unilever Ghana Limited",
-    "volume": "36.0",
+    "volume": "76.0",
     "price": 19.79,
     "change": 0.0
   }
