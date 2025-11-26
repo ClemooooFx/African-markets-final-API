@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "SOH",
-    "price": 1.2,
-    "change": "+26.32%"
-  },
-  {
     "ticker": "ETFPLT",
     "price": 308.99,
     "change": "+20.65%"
   },
   {
-    "ticker": "ZZD",
-    "price": 13.75,
-    "change": "+11.16%"
+    "ticker": "RNG",
+    "price": 0.65,
+    "change": "+8.33%"
   },
   {
-    "ticker": "MKR",
-    "price": 32.48,
-    "change": "+8.77%"
+    "ticker": "TBS",
+    "price": 360.13,
+    "change": "+7.05%"
   },
   {
-    "ticker": "SCD",
-    "price": 14.21,
-    "change": "+8.06%"
+    "ticker": "JBL",
+    "price": 0.7,
+    "change": "+6.06%"
   },
   {
-    "ticker": "DLT",
-    "price": 0.34,
-    "change": "+6.25%"
+    "ticker": "THA",
+    "price": 21.39,
+    "change": "+5.89%"
+  },
+  {
+    "ticker": "NWL",
+    "price": 27.99,
+    "change": "+5.62%"
   }
 ]

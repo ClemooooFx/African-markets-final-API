@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "TEX",
-    "price": 2.64,
-    "change": "-15.92%"
+    "ticker": "MTNZF",
+    "price": 0.2,
+    "change": "-20.00%"
+  },
+  {
+    "ticker": "LAB",
+    "price": 0.04,
+    "change": "-20.00%"
   },
   {
     "ticker": "MTU",
+    "price": 0.44,
+    "change": "-12.00%"
+  },
+  {
+    "ticker": "CPR",
     "price": 0.5,
-    "change": "-13.79%"
+    "change": "-5.66%"
   },
   {
-    "ticker": "MTNZF",
-    "price": 0.25,
-    "change": "-13.79%"
+    "ticker": "CCC",
+    "price": 2.75,
+    "change": "-4.51%"
   },
   {
-    "ticker": "SEP",
-    "price": 1.75,
-    "change": "-7.41%"
-  },
-  {
-    "ticker": "ISA",
-    "price": 2.32,
-    "change": "-5.31%"
-  },
-  {
-    "ticker": "REN",
-    "price": 8.3,
-    "change": "-5.14%"
+    "ticker": "ASC",
+    "price": 0.95,
+    "change": "-3.06%"
   }
 ]
