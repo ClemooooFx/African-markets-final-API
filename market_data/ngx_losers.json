@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "SUNUASSUR",
-    "price": 4.18,
-    "change": "-4.57%"
+    "ticker": "DAARCOMM",
+    "price": 0.94,
+    "change": "-5.05%"
   },
   {
     "ticker": "TIP",
@@ -10,13 +10,23 @@
     "change": "-3.62%"
   },
   {
-    "ticker": "ACCESSCORP",
-    "price": 20.6,
+    "ticker": "SUNUASSUR",
+    "price": 4.3,
+    "change": "-1.83%"
+  },
+  {
+    "ticker": "JAPAULGOLD",
+    "price": 2.09,
     "change": "-0.48%"
   },
   {
     "ticker": "CUTIX",
     "price": 3.04,
     "change": "-0.33%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
