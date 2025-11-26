@@ -44,9 +44,9 @@
   {
     "ticker": "91GINC",
     "name": "Ninety One Global Income AMETF",
-    "volume": "",
-    "price": 10.25,
-    "change": NaN
+    "volume": "10550.0",
+    "price": 10.24,
+    "change": -0.01
   },
   {
     "ticker": "ABG",
@@ -891,16 +891,16 @@
   {
     "ticker": "ETF500",
     "name": "1nvest S&P 500 Index ETF",
-    "volume": "137.0",
-    "price": 615.42,
-    "change": 6.48
+    "volume": "140.0",
+    "price": 615.16,
+    "change": 6.22
   },
   {
     "ticker": "ETF5IT",
     "name": "1nvest S&P 500 IT ETF",
-    "volume": "5135.0",
-    "price": 35.07,
-    "change": 0.76
+    "volume": "9035.0",
+    "price": 35.09,
+    "change": 0.78
   },
   {
     "ticker": "ETFBND",
@@ -926,9 +926,9 @@
   {
     "ticker": "ETFGLD",
     "name": "1nvest Gold ETF",
-    "volume": "185.0",
-    "price": 690.89,
-    "change": 4.63
+    "volume": "208.0",
+    "price": 690.27,
+    "change": 4.01
   },
   {
     "ticker": "ETFGRE",
@@ -989,9 +989,9 @@
   {
     "ticker": "ETFT40",
     "name": "1nvest TOP 40 ETF",
-    "volume": "150.0",
-    "price": 104.11,
-    "change": 1.77
+    "volume": "276.0",
+    "price": 103.97,
+    "change": 1.63
   },
   {
     "ticker": "ETFUSD",
@@ -1059,16 +1059,16 @@
   {
     "ticker": "FNBEMG",
     "name": "FNB MSCI EM Feeder ETF",
-    "volume": "",
-    "price": 71.92,
-    "change": NaN
+    "volume": "926.0",
+    "price": 72.2,
+    "change": 0.28
   },
   {
     "ticker": "FNBEQF",
     "name": "FNB Global 1200 Equity FOF ETF",
-    "volume": "2233.0",
-    "price": 107.99,
-    "change": 1.64
+    "volume": "2350.0",
+    "price": 106.96,
+    "change": 0.61
   },
   {
     "ticker": "FNBINF",
@@ -1087,9 +1087,9 @@
   {
     "ticker": "FNBT40",
     "name": "FNB Top 40 ETF",
-    "volume": "145.0",
-    "price": 105.16,
-    "change": 1.85
+    "volume": "594.0",
+    "price": 105.0,
+    "change": 1.69
   },
   {
     "ticker": "FNBWDM",
@@ -1101,9 +1101,9 @@
   {
     "ticker": "FNBWGB",
     "name": "FNB World Government Bond ETF",
-    "volume": "3.0",
-    "price": 6.98,
-    "change": 0.05
+    "volume": "487.0",
+    "price": 6.97,
+    "change": 0.04
   },
   {
     "ticker": "FSR",
@@ -1150,9 +1150,9 @@
   {
     "ticker": "GLD",
     "name": "New Gold Issuer Limited",
-    "volume": "1434.0",
-    "price": 660.72,
-    "change": 3.2
+    "volume": "1719.0",
+    "price": 658.92,
+    "change": 1.4
   },
   {
     "ticker": "GLN",
@@ -2396,9 +2396,9 @@
   {
     "ticker": "STX40",
     "name": "Satrix 40 Portfolio",
-    "volume": "18069.0",
-    "price": 105.18,
-    "change": 1.91
+    "volume": "52017.0",
+    "price": 104.5,
+    "change": 1.23
   },
   {
     "ticker": "STX500",
@@ -2669,9 +2669,9 @@
   {
     "ticker": "SYG4IR",
     "name": "Sygnia Itrix 4th IR Global Equity ETF",
-    "volume": "11623.0",
-    "price": 58.03,
-    "change": 0.81
+    "volume": "11725.0",
+    "price": 58.35,
+    "change": 1.13
   },
   {
     "ticker": "SYG500",
