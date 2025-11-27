@@ -5,6 +5,16 @@
     "change": "+40.00%"
   },
   {
+    "ticker": "RNG",
+    "price": 0.95,
+    "change": "+18.75%"
+  },
+  {
+    "ticker": "TEX",
+    "price": 3.0,
+    "change": "+15.38%"
+  },
+  {
     "ticker": "HUG",
     "price": 1.25,
     "change": "+13.64%"
@@ -18,15 +28,5 @@
     "ticker": "ISB",
     "price": 0.75,
     "change": "+7.14%"
-  },
-  {
-    "ticker": "ADR",
-    "price": 6.88,
-    "change": "+7.00%"
-  },
-  {
-    "ticker": "ACS",
-    "price": 7.6,
-    "change": "+6.44%"
   }
 ]

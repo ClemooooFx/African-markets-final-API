@@ -1,13 +1,8 @@
 [
   {
-    "ticker": "OCH",
-    "price": 6.98,
-    "change": "-9.59%"
-  },
-  {
     "ticker": "CARB",
-    "price": 28.0,
-    "change": "-8.94%"
+    "price": 27.85,
+    "change": "-9.43%"
   },
   {
     "ticker": "CRWN",
@@ -16,8 +11,13 @@
   },
   {
     "ticker": "COOP",
-    "price": 21.35,
-    "change": "-8.57%"
+    "price": 21.5,
+    "change": "-7.92%"
+  },
+  {
+    "ticker": "BOC",
+    "price": 120.0,
+    "change": "-6.98%"
   },
   {
     "ticker": "NMG",
@@ -25,8 +25,8 @@
     "change": "-5.77%"
   },
   {
-    "ticker": "SCAN",
-    "price": 2.63,
-    "change": "-4.71%"
+    "ticker": "TPSE",
+    "price": 15.9,
+    "change": "-4.22%"
   }
 ]
