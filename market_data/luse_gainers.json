@@ -1,27 +1,22 @@
 [
   {
-    "ticker": "BATA",
-    "price": 6.55,
-    "change": "+0.77%"
-  },
-  {
     "ticker": "CHIL",
-    "price": 60.36,
-    "change": "+0.55%"
+    "price": 61.37,
+    "change": "+1.67%"
   },
   {
-    "ticker": "SCBL",
-    "price": 2.58,
-    "change": "+0.39%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "ZNCO",
-    "price": 6.01,
-    "change": "+0.17%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "ATEL",
-    "price": 137.73,
-    "change": "+0.03%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

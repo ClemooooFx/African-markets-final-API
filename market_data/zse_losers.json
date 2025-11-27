@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "WILD",
+    "price": 0.0305,
+    "change": "-21.79%"
+  },
+  {
     "ticker": "ARIS",
-    "price": 0.03,
-    "change": "-14.29%"
+    "price": 0.0252,
+    "change": "-16.00%"
   },
   {
-    "ticker": "OKZ",
-    "price": 0.155,
-    "change": "-13.89%"
+    "ticker": "BAT",
+    "price": 98.0,
+    "change": "-15.00%"
   },
   {
-    "ticker": "CBZ",
-    "price": 8.2,
-    "change": "-6.53%"
+    "ticker": "ZSEH",
+    "price": 0.9942,
+    "change": "-13.55%"
+  },
+  {
+    "ticker": "FMP",
+    "price": 1.05,
+    "change": "-4.59%"
   },
   {
     "ticker": "RTG",
-    "price": 1.1,
-    "change": "-4.35%"
-  },
-  {
-    "ticker": "ECO",
-    "price": 5.3505,
-    "change": "-0.42%"
-  },
-  {
-    "ticker": "MEIK",
-    "price": 3.2,
-    "change": "-0.38%"
+    "price": 1.0995,
+    "change": "-0.05%"
   }
 ]

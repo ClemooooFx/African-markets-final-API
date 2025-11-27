@@ -2,9 +2,9 @@
   {
     "ticker": "ABSA",
     "name": "Absa Bank Botswana",
-    "volume": "",
+    "volume": "675.0",
     "price": 7.56,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ACCESS",
@@ -37,9 +37,9 @@
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "",
+    "volume": "425.0",
     "price": 23.02,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "BOD",
@@ -58,9 +58,9 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "2335.0",
-    "price": 1.21,
-    "change": -0.01
+    "volume": "26258.0",
+    "price": 1.25,
+    "change": 0.04
   },
   {
     "ticker": "CASALES",
@@ -72,16 +72,16 @@
   {
     "ticker": "CHOBE",
     "name": "Chobe Holdings Limited",
-    "volume": "199217.0",
+    "volume": "",
     "price": 17.75,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "CHOPPIES",
     "name": "Choppies Enterprises Limited",
-    "volume": "1231.0",
-    "price": 0.77,
-    "change": 0.06
+    "volume": "8769.0",
+    "price": 0.84,
+    "change": 0.07
   },
   {
     "ticker": "CRESTA",
@@ -100,9 +100,9 @@
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": "",
+    "volume": "11201.0",
     "price": 5.45,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "FPC",
@@ -114,9 +114,9 @@
   {
     "ticker": "G4S",
     "name": "G4S Botswana Limited",
-    "volume": "603150.0",
+    "volume": "",
     "price": 0.91,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "GR1B",
@@ -142,9 +142,9 @@
   {
     "ticker": "LETSHEGO",
     "name": "Letshego Holdings Limited",
-    "volume": "",
+    "volume": "5158.0",
     "price": 0.95,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "LUCARA",
@@ -205,16 +205,16 @@
   {
     "ticker": "RDCP",
     "name": "RDC Properties Limited",
-    "volume": "694375.0",
+    "volume": "",
     "price": 2.5,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SECHABA",
     "name": "Sechaba Brewery Holdings Limited",
-    "volume": "966613.0",
+    "volume": "",
     "price": 37.01,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SEEDCO",
@@ -226,9 +226,9 @@
   {
     "ticker": "SEFALANA",
     "name": "Sefalana Holding Company Ltd",
-    "volume": "701350.0",
+    "volume": "",
     "price": 15.9,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "SHUMBA",

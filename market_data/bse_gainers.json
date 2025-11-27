@@ -1,7 +1,32 @@
 [
   {
     "ticker": "CHOPPIES",
-    "price": 0.77,
-    "change": "+8.45%"
+    "price": 0.84,
+    "change": "+9.09%"
+  },
+  {
+    "ticker": "BTCL",
+    "price": 1.25,
+    "change": "+3.31%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
