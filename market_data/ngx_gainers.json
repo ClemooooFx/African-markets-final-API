@@ -5,6 +5,11 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "LINKASSURE",
+    "price": 1.87,
+    "change": "+10.00%"
+  },
+  {
     "ticker": "UNIONDICON",
     "price": 6.9,
     "change": "+9.52%"
@@ -15,18 +20,13 @@
     "change": "+8.19%"
   },
   {
+    "ticker": "LASACO",
+    "price": 2.7,
+    "change": "+5.88%"
+  },
+  {
     "ticker": "TANTALIZER",
     "price": 2.4,
     "change": "+4.35%"
-  },
-  {
-    "ticker": "UCAP",
-    "price": 17.05,
-    "change": "+3.65%"
-  },
-  {
-    "ticker": "ELLAHLAKES",
-    "price": 13.4,
-    "change": "+3.08%"
   }
 ]
