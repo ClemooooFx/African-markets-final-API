@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "PORT",
-    "price": 72.5,
-    "change": "+9.85%"
-  },
-  {
     "ticker": "UCHM",
     "price": 1.02,
     "change": "+9.68%"
   },
   {
-    "ticker": "BKG",
-    "price": 43.75,
-    "change": "+9.38%"
-  },
-  {
-    "ticker": "KQ",
-    "price": 3.86,
-    "change": "+8.73%"
+    "ticker": "PORT",
+    "price": 71.0,
+    "change": "+7.58%"
   },
   {
     "ticker": "SLAM",
-    "price": 8.68,
-    "change": "+8.23%"
+    "price": 8.46,
+    "change": "+5.49%"
   },
   {
-    "ticker": "SASN",
-    "price": 19.4,
-    "change": "+7.78%"
+    "ticker": "SGL",
+    "price": 6.32,
+    "change": "+4.64%"
+  },
+  {
+    "ticker": "KQ",
+    "price": 3.7,
+    "change": "+4.23%"
+  },
+  {
+    "ticker": "BAT",
+    "price": 439.75,
+    "change": "+2.03%"
   }
 ]
