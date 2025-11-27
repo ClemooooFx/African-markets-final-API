@@ -3,5 +3,10 @@
     "ticker": "CAL",
     "price": 0.4,
     "change": "+2.56%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]
