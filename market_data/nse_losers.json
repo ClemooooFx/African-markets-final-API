@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "IMH",
+    "price": 41.2,
+    "change": "-8.85%"
+  },
+  {
+    "ticker": "TPSE",
+    "price": 15.2,
+    "change": "-8.43%"
+  },
+  {
+    "ticker": "COOP",
+    "price": 22.3,
+    "change": "-4.50%"
+  },
+  {
     "ticker": "BKG",
-    "price": 40.0,
-    "change": "-7.30%"
+    "price": 38.6,
+    "change": "-3.50%"
   },
   {
-    "ticker": "NMG",
-    "price": 13.0,
-    "change": "-3.35%"
+    "ticker": "OCH",
+    "price": 7.5,
+    "change": "-2.85%"
   },
   {
-    "ticker": "BAT",
-    "price": 431.0,
-    "change": "-3.09%"
-  },
-  {
-    "ticker": "TOTL",
-    "price": 38.9,
-    "change": "-2.99%"
-  },
-  {
-    "ticker": "FTGH",
-    "price": 1.65,
-    "change": "-2.94%"
-  },
-  {
-    "ticker": "SKL",
-    "price": 7.84,
-    "change": "-2.00%"
+    "ticker": "SASN",
+    "price": 17.5,
+    "change": "-2.78%"
   }
 ]
