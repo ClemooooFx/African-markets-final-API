@@ -58,9 +58,9 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "31.0",
-    "price": 0.39,
-    "change": 0.0
+    "volume": "2061.0",
+    "price": 0.4,
+    "change": 0.01
   },
   {
     "ticker": "CLYD",
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "6904.0",
+    "volume": "7379.0",
     "price": 4.21,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "1185.0",
+    "volume": "1225.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -226,14 +226,14 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "14325.0",
+    "volume": "14778.0",
     "price": 1.2,
     "change": 0.0
   },
   {
     "ticker": "SOGEGH",
     "name": "Societe Generale Ghana Limited",
-    "volume": "109.0",
+    "volume": "110.0",
     "price": 4.5,
     "change": 0.0
   },

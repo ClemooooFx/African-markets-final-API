@@ -10,6 +10,11 @@
     "change": "+9.47%"
   },
   {
+    "ticker": "BKG",
+    "price": 43.75,
+    "change": "+9.38%"
+  },
+  {
     "ticker": "SLAM",
     "price": 8.68,
     "change": "+8.23%"
@@ -23,10 +28,5 @@
     "ticker": "KQ",
     "price": 3.8,
     "change": "+7.04%"
-  },
-  {
-    "ticker": "SGL",
-    "price": 6.4,
-    "change": "+5.96%"
   }
 ]
