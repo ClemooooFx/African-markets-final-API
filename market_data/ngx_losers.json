@@ -1,13 +1,13 @@
 [
   {
+    "ticker": "TRANSPOWER",
+    "price": 277.1,
+    "change": "-9.97%"
+  },
+  {
     "ticker": "RTBRISCOE",
     "price": 3.01,
     "change": "-9.88%"
-  },
-  {
-    "ticker": "SOVRENINS",
-    "price": 2.65,
-    "change": "-8.62%"
   },
   {
     "ticker": "CILEASING",
@@ -20,13 +20,13 @@
     "change": "-4.83%"
   },
   {
-    "ticker": "REGALINS",
-    "price": 1.0,
-    "change": "-2.91%"
+    "ticker": "GUINEAINS",
+    "price": 1.1,
+    "change": "-4.35%"
   },
   {
-    "ticker": "VERITASKAP",
-    "price": 1.66,
-    "change": "-2.35%"
+    "ticker": "FCMB",
+    "price": 10.25,
+    "change": "-3.76%"
   }
 ]

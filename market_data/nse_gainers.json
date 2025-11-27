@@ -10,6 +10,11 @@
     "change": "+9.47%"
   },
   {
+    "ticker": "BKG",
+    "price": 43.75,
+    "change": "+9.38%"
+  },
+  {
     "ticker": "SASN",
     "price": 19.5,
     "change": "+8.33%"
@@ -23,10 +28,5 @@
     "ticker": "KQ",
     "price": 3.8,
     "change": "+7.04%"
-  },
-  {
-    "ticker": "HAFR",
-    "price": 1.1,
-    "change": "+2.80%"
   }
 ]

@@ -9,7 +9,7 @@
   {
     "ticker": "ACCESS",
     "name": "Access Bank Ghana",
-    "volume": "721.0",
+    "volume": "726.0",
     "price": 16.2,
     "change": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "ticker": "CAL",
     "name": "CalBank Plc",
-    "volume": "25.0",
+    "volume": "30.0",
     "price": 0.39,
     "change": 0.0
   },
@@ -107,14 +107,14 @@
   {
     "ticker": "EGL",
     "name": "Enterprise Group Limited",
-    "volume": "",
+    "volume": "10.0",
     "price": 3.45,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "7928.0",
+    "volume": "19111.0",
     "price": 0.81,
     "change": -0.05
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "2881.0",
+    "volume": "2894.0",
     "price": 4.21,
     "change": 0.0
   },
@@ -254,9 +254,9 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "",
+    "volume": "22.0",
     "price": 40.41,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "UNIL",
