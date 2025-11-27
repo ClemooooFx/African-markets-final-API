@@ -1,8 +1,8 @@
 [
   {
-    "ticker": "IMH",
-    "price": 41.2,
-    "change": "-8.85%"
+    "ticker": "OCH",
+    "price": 6.98,
+    "change": "-9.59%"
   },
   {
     "ticker": "TPSE",
@@ -11,22 +11,22 @@
   },
   {
     "ticker": "COOP",
-    "price": 22.3,
-    "change": "-4.50%"
+    "price": 21.9,
+    "change": "-6.21%"
+  },
+  {
+    "ticker": "CRWN",
+    "price": 53.0,
+    "change": "-5.36%"
+  },
+  {
+    "ticker": "GLD",
+    "price": 5000.0,
+    "change": "-4.85%"
   },
   {
     "ticker": "BKG",
     "price": 38.6,
     "change": "-3.50%"
-  },
-  {
-    "ticker": "OCH",
-    "price": 7.5,
-    "change": "-2.85%"
-  },
-  {
-    "ticker": "SASN",
-    "price": 17.5,
-    "change": "-2.78%"
   }
 ]
