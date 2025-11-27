@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "HONYFLOUR",
+    "price": 18.5,
+    "change": "+8.19%"
+  },
+  {
     "ticker": "VFDGROUP",
     "price": 10.5,
     "change": "+5.00%"
@@ -10,23 +15,18 @@
     "change": "+4.00%"
   },
   {
+    "ticker": "ELLAHLAKES",
+    "price": 13.3,
+    "change": "+2.31%"
+  },
+  {
     "ticker": "JAIZBANK",
     "price": 4.64,
     "change": "+1.98%"
   },
   {
-    "ticker": "STERLINGNG",
-    "price": 7.9,
-    "change": "+1.28%"
-  },
-  {
-    "ticker": "UNIVINSURE",
-    "price": 1.15,
-    "change": "+0.88%"
-  },
-  {
-    "ticker": "FIDELITYBK",
-    "price": 19.1,
-    "change": "+0.26%"
+    "ticker": "CHAMS",
+    "price": 3.0,
+    "change": "+1.69%"
   }
 ]

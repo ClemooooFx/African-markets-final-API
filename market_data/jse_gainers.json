@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "MTNZF",
+    "price": 0.28,
+    "change": "+40.00%"
+  },
+  {
     "ticker": "HUG",
     "price": 1.25,
     "change": "+13.64%"
@@ -8,11 +13,6 @@
     "ticker": "ACT",
     "price": 1.5,
     "change": "+11.11%"
-  },
-  {
-    "ticker": "NPK",
-    "price": 565.0,
-    "change": "+7.41%"
   },
   {
     "ticker": "ISB",
