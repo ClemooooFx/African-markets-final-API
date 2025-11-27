@@ -1,15 +1,5 @@
 [
   {
-    "ticker": "RNG",
-    "price": 0.8,
-    "change": "+33.33%"
-  },
-  {
-    "ticker": "SEP",
-    "price": 1.9,
-    "change": "+8.57%"
-  },
-  {
     "ticker": "NPK",
     "price": 565.0,
     "change": "+7.41%"
@@ -20,13 +10,23 @@
     "change": "+7.14%"
   },
   {
-    "ticker": "TBS",
-    "price": 360.24,
-    "change": "+7.08%"
-  },
-  {
     "ticker": "BCF",
     "price": 13.7,
     "change": "+6.20%"
+  },
+  {
+    "ticker": "MTNZF",
+    "price": 0.21,
+    "change": "+5.00%"
+  },
+  {
+    "ticker": "AFH",
+    "price": 8.53,
+    "change": "+4.92%"
+  },
+  {
+    "ticker": "KP2",
+    "price": 0.68,
+    "change": "+4.62%"
   }
 ]
