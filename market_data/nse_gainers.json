@@ -15,6 +15,11 @@
     "change": "+9.84%"
   },
   {
+    "ticker": "CIC",
+    "price": 4.7,
+    "change": "+7.55%"
+  },
+  {
     "ticker": "BOC",
     "price": 129.0,
     "change": "+6.83%"
@@ -23,10 +28,5 @@
     "ticker": "JUB",
     "price": 325.0,
     "change": "+6.21%"
-  },
-  {
-    "ticker": "CIC",
-    "price": 4.6,
-    "change": "+5.26%"
   }
 ]
