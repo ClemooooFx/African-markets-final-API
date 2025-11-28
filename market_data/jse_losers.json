@@ -1,5 +1,10 @@
 [
   {
+    "ticker": "ETFPLT",
+    "price": 180.09,
+    "change": "-31.63%"
+  },
+  {
     "ticker": "MKR",
     "price": 28.52,
     "change": "-7.97%"
@@ -23,10 +28,5 @@
     "ticker": "FGL",
     "price": 1.28,
     "change": "-5.88%"
-  },
-  {
-    "ticker": "BCF",
-    "price": 13.41,
-    "change": "-5.56%"
   }
 ]

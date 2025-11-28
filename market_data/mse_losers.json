@@ -1,32 +1,27 @@
 [
   {
-    "ticker": "NBS",
-    "price": 944.14,
-    "change": "-0.74%"
-  },
-  {
-    "ticker": "AIRTEL",
-    "price": 124.03,
-    "change": "-0.33%"
+    "ticker": "STANDARD",
+    "price": 4399.99,
+    "change": "-2.06%"
   },
   {
     "ticker": "FMBCH",
-    "price": 3388.03,
-    "change": "-0.09%"
+    "price": 3383.99,
+    "change": "-0.12%"
+  },
+  {
+    "ticker": "NBS",
+    "price": 943.93,
+    "change": "-0.02%"
   },
   {
     "ticker": "FDHB",
-    "price": 636.8,
-    "change": "-0.03%"
-  },
-  {
-    "ticker": "TNM",
-    "price": 31.48,
-    "change": "-0.03%"
+    "price": 636.74,
+    "change": "-0.01%"
   },
   {
     "ticker": "PCL",
-    "price": 8728.5,
+    "price": 8728.49,
     "change": "-0.00%"
   }
 ]

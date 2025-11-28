@@ -2,16 +2,16 @@
   {
     "ticker": "AFDS",
     "name": "African Distillers Limited",
-    "volume": "100.0",
+    "volume": "",
     "price": 8.99,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "ARIS",
     "name": "Ariston Holdings Limited",
-    "volume": "17700.0",
-    "price": 0.0296,
-    "change": 0.0044
+    "volume": "16900.0",
+    "price": 0.032036,
+    "change": 0.002436
   },
   {
     "ticker": "ARTD",
@@ -23,9 +23,9 @@
   {
     "ticker": "BAT",
     "name": "British American Tobacco Limited",
-    "volume": "800.0",
+    "volume": "",
     "price": 107.1825,
-    "change": 9.1825
+    "change": NaN
   },
   {
     "ticker": "BRDR",
@@ -37,14 +37,14 @@
   {
     "ticker": "CAFCA",
     "name": "Cafca Limited",
-    "volume": "1000.0",
+    "volume": "300.0",
     "price": 16.0,
     "change": 0.0
   },
   {
     "ticker": "CBZ",
     "name": "CBZ Holdings Limited",
-    "volume": "6200.0",
+    "volume": "1400.0",
     "price": 8.2,
     "change": 0.0
   },
@@ -65,9 +65,9 @@
   {
     "ticker": "DLTA",
     "name": "Delta Corporation Limited",
-    "volume": "38000.0",
-    "price": 16.0308,
-    "change": 0.2405
+    "volume": "40600.0",
+    "price": 17.557882,
+    "change": 1.527082
   },
   {
     "ticker": "DZL",
@@ -79,16 +79,16 @@
   {
     "ticker": "ECO",
     "name": "Econet Wireless Zimbabwe Limited",
-    "volume": "47700.0",
-    "price": 5.424,
-    "change": 0.0571
+    "volume": "371300.0",
+    "price": 5.500092,
+    "change": 0.076092
   },
   {
     "ticker": "FBC",
     "name": "FBC Holdings Limited",
-    "volume": "400.0",
+    "volume": "33900.0",
     "price": 9.5,
-    "change": 0.1476
+    "change": 0.0
   },
   {
     "ticker": "FIDL",
@@ -101,15 +101,15 @@
     "ticker": "FML",
     "name": "First Mutual Holdings Limited",
     "volume": "",
-    "price": 1.3658,
-    "change": NaN
+    "price": 1.36575,
+    "change": -5e-05
   },
   {
     "ticker": "FMP",
     "name": "First Mutual Properties Limited",
-    "volume": "",
-    "price": 1.05,
-    "change": NaN
+    "volume": "1200.0",
+    "price": 1.049667,
+    "change": -0.000333
   },
   {
     "ticker": "GBH",
@@ -128,9 +128,9 @@
   {
     "ticker": "HIPO",
     "name": "Hippo Valley Estates Limited",
-    "volume": "1900.0",
+    "volume": "",
     "price": 7.23,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LACZ",
@@ -142,37 +142,37 @@
   {
     "ticker": "MASH",
     "name": "Mashonaland Holdings Limited",
-    "volume": "131500.0",
-    "price": 1.5195,
-    "change": 0.198
+    "volume": "742500.0",
+    "price": 1.450012,
+    "change": -0.069488
   },
   {
     "ticker": "MEIK",
     "name": "Meikles Limited",
-    "volume": "500.0",
-    "price": 3.2,
-    "change": -0.0009
+    "volume": "600.0",
+    "price": 3.666667,
+    "change": 0.466667
   },
   {
     "ticker": "MSHL",
     "name": "Masimba Holdings Limited",
-    "volume": "",
-    "price": 1.7997,
-    "change": NaN
+    "volume": "200.0",
+    "price": 1.8,
+    "change": 0.0003
   },
   {
     "ticker": "NMB",
     "name": "NMBZ Holdings Limited",
-    "volume": "119200.0",
+    "volume": "",
     "price": 5.0,
-    "change": -0.2
+    "change": NaN
   },
   {
     "ticker": "NPKZ",
     "name": "Nampak Zimbabwe Limited",
-    "volume": "500.0",
-    "price": 1.0,
-    "change": 0.08
+    "volume": "1000.0",
+    "price": 0.8525,
+    "change": -0.1475
   },
   {
     "ticker": "NTS",
@@ -184,9 +184,9 @@
   {
     "ticker": "OKZ",
     "name": "OK Zimbabwe Limited",
-    "volume": "82800.0",
+    "volume": "",
     "price": 0.155,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "OMU",
@@ -205,9 +205,9 @@
   {
     "ticker": "PROL",
     "name": "Proplastics Limited",
-    "volume": "200.0",
-    "price": 1.02,
-    "change": 0.0
+    "volume": "1700.0",
+    "price": 0.997294,
+    "change": -0.022706
   },
   {
     "ticker": "RIOZ",
@@ -219,37 +219,37 @@
   {
     "ticker": "RTG",
     "name": "Rainbow Tourism Group Limited",
-    "volume": "12800.0",
+    "volume": "1000.0",
     "price": 1.15,
-    "change": 0.0505
+    "change": 0.0
   },
   {
     "ticker": "SACL",
     "name": "Star Africa Corporation Limited",
-    "volume": "46600.0",
-    "price": 0.0279,
-    "change": -0.0037
+    "volume": "2000.0",
+    "price": 0.036,
+    "change": 0.0081
   },
   {
     "ticker": "SEED",
     "name": "Seed Co Limited",
-    "volume": "900.0",
+    "volume": "",
     "price": 3.5,
-    "change": -0.2436
+    "change": NaN
   },
   {
     "ticker": "TANG",
     "name": "Tanganda Tea Company",
-    "volume": "800.0",
+    "volume": "100.0",
     "price": 0.75,
-    "change": -0.0005
+    "change": 0.0
   },
   {
     "ticker": "TNCI",
     "name": "TN CyberTech Investments Holdings",
-    "volume": "",
-    "price": 0.12,
-    "change": NaN
+    "volume": "148100.0",
+    "price": 0.121153,
+    "change": 0.001153
   },
   {
     "ticker": "TSL",
@@ -261,23 +261,23 @@
   {
     "ticker": "TURN",
     "name": "Turnall Holdings Limited",
-    "volume": "",
+    "volume": "600.0",
     "price": 0.12,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "UNIF",
     "name": "Unifreight Africa Limited",
     "volume": "100.0",
     "price": 1.725,
-    "change": 0.225
+    "change": 0.0
   },
   {
     "ticker": "WILD",
     "name": "Willdale Zimbabwe Limited",
-    "volume": "100.0",
+    "volume": "11300.0",
     "price": 0.0391,
-    "change": 0.0086
+    "change": 0.0
   },
   {
     "ticker": "ZBFH",
@@ -303,15 +303,15 @@
   {
     "ticker": "ZIMR",
     "name": "Zimre Holdings Limited",
-    "volume": "80200.0",
-    "price": 0.4985,
-    "change": 0.0265
+    "volume": "263900.0",
+    "price": 0.55843,
+    "change": 0.05993
   },
   {
     "ticker": "ZSEH",
     "name": "Zimbabwe Stock Exchange Holdings",
-    "volume": "10300.0",
-    "price": 1.0071,
-    "change": 0.0129
+    "volume": "3300.0",
+    "price": 1.090909,
+    "change": 0.083809
   }
 ]
