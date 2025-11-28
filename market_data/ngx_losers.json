@@ -1,5 +1,20 @@
 [
   {
+    "ticker": "OANDO",
+    "price": 37.95,
+    "change": "-5.01%"
+  },
+  {
+    "ticker": "REGALINS",
+    "price": 1.0,
+    "change": "-4.76%"
+  },
+  {
+    "ticker": "CWG",
+    "price": 17.5,
+    "change": "-2.51%"
+  },
+  {
     "ticker": "UNIVINSURE",
     "price": 1.13,
     "change": "-1.74%"
@@ -10,23 +25,8 @@
     "change": "-0.95%"
   },
   {
-    "ticker": "FIRSTHOLDCO",
-    "price": 31.0,
-    "change": "-0.32%"
-  },
-  {
-    "ticker": "FIDELITYBK",
-    "price": 19.1,
-    "change": "-0.26%"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
-  },
-  {
-    "ticker": "\u200b",
-    "price": NaN,
-    "change": "\u200b"
+    "ticker": "JAPAULGOLD",
+    "price": 2.1,
+    "change": "-0.94%"
   }
 ]

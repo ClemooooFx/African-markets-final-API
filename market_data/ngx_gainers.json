@@ -1,13 +1,18 @@
 [
   {
+    "ticker": "UPDC",
+    "price": 5.5,
+    "change": "+9.56%"
+  },
+  {
     "ticker": "LINKASSURE",
     "price": 2.02,
     "change": "+8.02%"
   },
   {
-    "ticker": "CHAMPION",
-    "price": 12.85,
-    "change": "+4.05%"
+    "ticker": "OMATEK",
+    "price": 1.14,
+    "change": "+6.54%"
   },
   {
     "ticker": "NSLTECH",
@@ -15,18 +20,13 @@
     "change": "+4.00%"
   },
   {
-    "ticker": "OMATEK",
-    "price": 1.11,
-    "change": "+3.74%"
+    "ticker": "TANTALIZER",
+    "price": 2.38,
+    "change": "+3.93%"
   },
   {
-    "ticker": "ELLAHLAKES",
-    "price": 13.5,
-    "change": "+2.66%"
-  },
-  {
-    "ticker": "AIICO",
-    "price": 3.57,
-    "change": "+1.42%"
+    "ticker": "CHAMPION",
+    "price": 12.75,
+    "change": "+3.24%"
   }
 ]
