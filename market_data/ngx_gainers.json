@@ -5,6 +5,16 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "ACADEMY",
+    "price": 7.35,
+    "change": "+9.70%"
+  },
+  {
+    "ticker": "TANTALIZER",
+    "price": 2.5,
+    "change": "+9.17%"
+  },
+  {
     "ticker": "CADBURY",
     "price": 57.9,
     "change": "+8.63%"
@@ -15,18 +25,8 @@
     "change": "+8.41%"
   },
   {
-    "ticker": "LINKASSURE",
-    "price": 2.0,
-    "change": "+6.95%"
-  },
-  {
-    "ticker": "NSLTECH",
-    "price": 0.79,
-    "change": "+5.33%"
-  },
-  {
-    "ticker": "UACN",
-    "price": 78.9,
-    "change": "+3.14%"
+    "ticker": "INTENEGINS",
+    "price": 2.5,
+    "change": "+7.30%"
   }
 ]
