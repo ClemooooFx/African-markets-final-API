@@ -1,8 +1,13 @@
 [
   {
-    "ticker": "NVS",
-    "price": 5.75,
-    "change": "-11.40%"
+    "ticker": "MKR",
+    "price": 28.52,
+    "change": "-7.97%"
+  },
+  {
+    "ticker": "SOH",
+    "price": 1.15,
+    "change": "-7.26%"
   },
   {
     "ticker": "GPL",
@@ -15,18 +20,13 @@
     "change": "-6.43%"
   },
   {
+    "ticker": "FGL",
+    "price": 1.28,
+    "change": "-5.88%"
+  },
+  {
     "ticker": "BCF",
     "price": 13.41,
     "change": "-5.56%"
-  },
-  {
-    "ticker": "SZK",
-    "price": 34.0,
-    "change": "-5.29%"
-  },
-  {
-    "ticker": "FGL",
-    "price": 1.29,
-    "change": "-5.15%"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
+    "ticker": "SLAM",
+    "price": 8.04,
+    "change": "-4.96%"
+  },
+  {
     "ticker": "SGL",
-    "price": 5.8,
-    "change": "-8.23%"
+    "price": 6.06,
+    "change": "-4.11%"
   },
   {
     "ticker": "CARB",
-    "price": 27.65,
-    "change": "-3.66%"
+    "price": 27.55,
+    "change": "-4.01%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.2,
-    "change": "-3.07%"
+    "ticker": "SCAN",
+    "price": 2.6,
+    "change": "-2.26%"
   },
   {
-    "ticker": "NMG",
-    "price": 12.0,
-    "change": "-2.44%"
+    "ticker": "KQ",
+    "price": 3.62,
+    "change": "-2.16%"
   },
   {
-    "ticker": "EABL",
-    "price": 220.0,
-    "change": "-2.33%"
-  },
-  {
-    "ticker": "SKL",
-    "price": 7.5,
-    "change": "-2.09%"
+    "ticker": "HAFR",
+    "price": 1.06,
+    "change": "-1.85%"
   }
 ]
