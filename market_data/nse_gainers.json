@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "UCHM",
-    "price": 1.02,
-    "change": "+9.68%"
-  },
-  {
     "ticker": "PORT",
-    "price": 71.0,
-    "change": "+7.58%"
+    "price": 78.0,
+    "change": "+9.86%"
   },
   {
-    "ticker": "SLAM",
-    "price": 8.46,
-    "change": "+5.49%"
+    "ticker": "UCHM",
+    "price": 1.12,
+    "change": "+9.80%"
   },
   {
-    "ticker": "SGL",
-    "price": 6.32,
-    "change": "+4.64%"
+    "ticker": "KNRE",
+    "price": 3.15,
+    "change": "+5.35%"
+  },
+  {
+    "ticker": "SCAN",
+    "price": 2.8,
+    "change": "+5.26%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.35,
+    "change": "+4.65%"
   },
   {
     "ticker": "KQ",
-    "price": 3.7,
-    "change": "+4.23%"
-  },
-  {
-    "ticker": "BAT",
-    "price": 439.75,
-    "change": "+2.03%"
+    "price": 3.85,
+    "change": "+4.05%"
   }
 ]

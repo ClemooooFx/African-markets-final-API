@@ -1,32 +1,32 @@
 [
   {
-    "ticker": "TPSE",
-    "price": 15.2,
-    "change": "-8.43%"
-  },
-  {
-    "ticker": "OCH",
-    "price": 7.1,
-    "change": "-8.03%"
-  },
-  {
-    "ticker": "COOP",
-    "price": 21.65,
-    "change": "-7.28%"
-  },
-  {
     "ticker": "CARB",
-    "price": 28.7,
-    "change": "-6.67%"
+    "price": 27.7,
+    "change": "-3.48%"
   },
   {
-    "ticker": "BOC",
-    "price": 120.75,
-    "change": "-6.40%"
+    "ticker": "HAFR",
+    "price": 1.06,
+    "change": "-1.85%"
   },
   {
-    "ticker": "NMG",
-    "price": 12.3,
-    "change": "-5.38%"
+    "ticker": "WTK",
+    "price": 155.0,
+    "change": "-0.96%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 22.0,
+    "change": "-0.68%"
+  },
+  {
+    "ticker": "KCB",
+    "price": 59.0,
+    "change": "-0.42%"
+  },
+  {
+    "ticker": "CTUM",
+    "price": 14.8,
+    "change": "-0.34%"
   }
 ]
