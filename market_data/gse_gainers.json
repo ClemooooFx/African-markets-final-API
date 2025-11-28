@@ -1,17 +1,32 @@
 [
   {
-    "ticker": "CAL",
-    "price": 0.4,
-    "change": "+2.56%"
+    "ticker": "EGH",
+    "price": 23.0,
+    "change": "+4.55%"
   },
   {
-    "ticker": "GOIL",
-    "price": 2.83,
-    "change": "+2.54%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   },
   {
-    "ticker": "GCB",
-    "price": 19.1,
-    "change": "+0.53%"
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

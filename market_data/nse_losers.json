@@ -1,8 +1,13 @@
 [
   {
     "ticker": "CTUM",
-    "price": 13.5,
-    "change": "-9.09%"
+    "price": 13.55,
+    "change": "-8.75%"
+  },
+  {
+    "ticker": "SGL",
+    "price": 5.8,
+    "change": "-8.23%"
   },
   {
     "ticker": "SLAM",
@@ -10,23 +15,18 @@
     "change": "-5.44%"
   },
   {
-    "ticker": "HAFR",
-    "price": 1.04,
-    "change": "-3.70%"
+    "ticker": "CARB",
+    "price": 27.5,
+    "change": "-4.18%"
   },
   {
-    "ticker": "CARB",
-    "price": 27.7,
-    "change": "-3.48%"
+    "ticker": "HAFR",
+    "price": 1.05,
+    "change": "-2.78%"
   },
   {
     "ticker": "SKL",
     "price": 7.5,
     "change": "-2.09%"
-  },
-  {
-    "ticker": "EABL",
-    "price": 221.0,
-    "change": "-1.89%"
   }
 ]
