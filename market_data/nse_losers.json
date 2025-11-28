@@ -5,14 +5,9 @@
     "change": "-8.23%"
   },
   {
-    "ticker": "KQ",
-    "price": 3.52,
-    "change": "-4.86%"
-  },
-  {
     "ticker": "CARB",
-    "price": 27.6,
-    "change": "-3.83%"
+    "price": 27.55,
+    "change": "-4.01%"
   },
   {
     "ticker": "SLAM",
@@ -28,5 +23,10 @@
     "ticker": "SKL",
     "price": 7.5,
     "change": "-2.09%"
+  },
+  {
+    "ticker": "EABL",
+    "price": 221.0,
+    "change": "-1.89%"
   }
 ]
