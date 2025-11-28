@@ -1,13 +1,13 @@
 [
   {
-    "ticker": "PORT",
-    "price": 78.0,
-    "change": "+9.86%"
+    "ticker": "BKG",
+    "price": 41.8,
+    "change": "+10.00%"
   },
   {
     "ticker": "SASN",
-    "price": 19.8,
-    "change": "+9.39%"
+    "price": 19.75,
+    "change": "+9.12%"
   },
   {
     "ticker": "UCHM",
@@ -15,18 +15,18 @@
     "change": "+8.82%"
   },
   {
-    "ticker": "BKG",
-    "price": 41.0,
-    "change": "+7.89%"
+    "ticker": "NMG",
+    "price": 13.0,
+    "change": "+5.69%"
+  },
+  {
+    "ticker": "EVRD",
+    "price": 1.33,
+    "change": "+3.10%"
   },
   {
     "ticker": "CIC",
     "price": 4.5,
     "change": "+2.97%"
-  },
-  {
-    "ticker": "XPRS",
-    "price": 7.1,
-    "change": "+2.60%"
   }
 ]
