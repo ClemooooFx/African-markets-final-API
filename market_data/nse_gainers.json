@@ -5,14 +5,19 @@
     "change": "+10.00%"
   },
   {
-    "ticker": "UCHM",
-    "price": 1.12,
-    "change": "+9.80%"
-  },
-  {
     "ticker": "SASN",
     "price": 19.8,
     "change": "+9.39%"
+  },
+  {
+    "ticker": "UCHM",
+    "price": 1.11,
+    "change": "+8.82%"
+  },
+  {
+    "ticker": "PORT",
+    "price": 77.0,
+    "change": "+8.45%"
   },
   {
     "ticker": "JUB",
@@ -23,10 +28,5 @@
     "ticker": "CIC",
     "price": 4.58,
     "change": "+4.81%"
-  },
-  {
-    "ticker": "EVRD",
-    "price": 1.35,
-    "change": "+4.65%"
   }
 ]
