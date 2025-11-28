@@ -6,7 +6,12 @@
   },
   {
     "ticker": "ACCESS",
-    "price": 16.0,
-    "change": "-1.23%"
+    "price": 16.08,
+    "change": "-0.74%"
+  },
+  {
+    "ticker": "\u200b",
+    "price": NaN,
+    "change": "\u200b"
   }
 ]

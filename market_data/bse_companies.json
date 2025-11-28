@@ -2,16 +2,16 @@
   {
     "ticker": "ABSA",
     "name": "Absa Bank Botswana",
-    "volume": "675.0",
+    "volume": "37389.0",
     "price": 7.56,
     "change": 0.0
   },
   {
     "ticker": "ACCESS",
     "name": "Access Bank Botswana",
-    "volume": "",
+    "volume": "543.0",
     "price": 2.04,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ADBF",
@@ -37,7 +37,7 @@
   {
     "ticker": "BIHL",
     "name": "Botswana Insurance Holdings Ltd",
-    "volume": "425.0",
+    "volume": "471.0",
     "price": 23.02,
     "change": 0.0
   },
@@ -58,16 +58,16 @@
   {
     "ticker": "BTCL",
     "name": "Botswana Telecom Corporation",
-    "volume": "26258.0",
+    "volume": "8672.0",
     "price": 1.25,
-    "change": 0.04
+    "change": 0.0
   },
   {
     "ticker": "CASALES",
     "name": "CA Sales Holdings Limited",
-    "volume": "",
+    "volume": "53000.0",
     "price": 14.15,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "CHOBE",
@@ -79,16 +79,16 @@
   {
     "ticker": "CHOPPIES",
     "name": "Choppies Enterprises Limited",
-    "volume": "8769.0",
+    "volume": "",
     "price": 0.84,
-    "change": 0.07
+    "change": NaN
   },
   {
     "ticker": "CRESTA",
     "name": "Cresta Marakanelo Limited",
-    "volume": "",
+    "volume": "1186.0",
     "price": 1.17,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "ENGEN",
@@ -100,7 +100,7 @@
   {
     "ticker": "FNBB",
     "name": "First National Bank of Botswana",
-    "volume": "11201.0",
+    "volume": "444.0",
     "price": 5.45,
     "change": 0.0
   },
@@ -142,9 +142,9 @@
   {
     "ticker": "LETSHEGO",
     "name": "Letshego Holdings Limited",
-    "volume": "5158.0",
+    "volume": "",
     "price": 0.95,
-    "change": 0.0
+    "change": NaN
   },
   {
     "ticker": "LUCARA",
@@ -170,9 +170,9 @@
   {
     "ticker": "NEWGOLD",
     "name": "NewGold ETF",
-    "volume": "",
-    "price": 552.75,
-    "change": NaN
+    "volume": "59.0",
+    "price": 564.25,
+    "change": 11.5
   },
   {
     "ticker": "NEWPALL",
@@ -198,9 +198,9 @@
   {
     "ticker": "PRIMETIME",
     "name": "PrimeTime Property Holdings",
-    "volume": "",
+    "volume": "672.0",
     "price": 1.61,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "RDCP",
@@ -212,9 +212,9 @@
   {
     "ticker": "SECHABA",
     "name": "Sechaba Brewery Holdings Limited",
-    "volume": "",
+    "volume": "185.0",
     "price": 37.01,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SEEDCO",
@@ -226,9 +226,9 @@
   {
     "ticker": "SEFALANA",
     "name": "Sefalana Holding Company Ltd",
-    "volume": "",
-    "price": 15.9,
-    "change": NaN
+    "volume": "3002.0",
+    "price": 15.95,
+    "change": 0.05
   },
   {
     "ticker": "SHUMBA",
@@ -254,8 +254,8 @@
   {
     "ticker": "TURNSTAR",
     "name": "Turnstar Holdings Limited",
-    "volume": "",
+    "volume": "280.0",
     "price": 2.05,
-    "change": NaN
+    "change": 0.0
   }
 ]
