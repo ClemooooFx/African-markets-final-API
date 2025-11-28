@@ -6,13 +6,8 @@
   },
   {
     "ticker": "SASN",
-    "price": 19.75,
-    "change": "+9.12%"
-  },
-  {
-    "ticker": "UCHM",
-    "price": 1.11,
-    "change": "+8.82%"
+    "price": 19.8,
+    "change": "+9.39%"
   },
   {
     "ticker": "NMG",
@@ -20,13 +15,18 @@
     "change": "+5.69%"
   },
   {
-    "ticker": "EVRD",
-    "price": 1.33,
-    "change": "+3.10%"
+    "ticker": "CIC",
+    "price": 4.58,
+    "change": "+4.81%"
   },
   {
-    "ticker": "CIC",
-    "price": 4.5,
-    "change": "+2.97%"
+    "ticker": "EVRD",
+    "price": 1.35,
+    "change": "+4.65%"
+  },
+  {
+    "ticker": "UMME",
+    "price": 7.3,
+    "change": "+4.58%"
   }
 ]

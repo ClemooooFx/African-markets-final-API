@@ -11,13 +11,8 @@
   },
   {
     "ticker": "HAFR",
-    "price": 1.05,
-    "change": "-2.78%"
-  },
-  {
-    "ticker": "SCAN",
-    "price": 2.6,
-    "change": "-2.26%"
+    "price": 1.06,
+    "change": "-1.85%"
   },
   {
     "ticker": "NBV",
@@ -26,7 +21,12 @@
   },
   {
     "ticker": "EABL",
-    "price": 222.75,
-    "change": "-1.11%"
+    "price": 222.5,
+    "change": "-1.22%"
+  },
+  {
+    "ticker": "ABSA",
+    "price": 21.95,
+    "change": "-0.90%"
   }
 ]

@@ -5,11 +5,6 @@
     "change": "+33.33%"
   },
   {
-    "ticker": "ACS",
-    "price": 9.17,
-    "change": "+28.43%"
-  },
-  {
     "ticker": "RNG",
     "price": 1.0,
     "change": "+25.00%"
@@ -28,5 +23,10 @@
     "ticker": "HUG",
     "price": 1.25,
     "change": "+13.64%"
+  },
+  {
+    "ticker": "BCF",
+    "price": 14.2,
+    "change": "+10.08%"
   }
 ]
