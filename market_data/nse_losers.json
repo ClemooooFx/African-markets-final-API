@@ -1,8 +1,18 @@
 [
   {
+    "ticker": "SLAM",
+    "price": 8.0,
+    "change": "-5.44%"
+  },
+  {
     "ticker": "CARB",
     "price": 27.7,
     "change": "-3.48%"
+  },
+  {
+    "ticker": "NBV",
+    "price": 1.45,
+    "change": "-2.03%"
   },
   {
     "ticker": "HAFR",
@@ -10,23 +20,13 @@
     "change": "-1.85%"
   },
   {
-    "ticker": "WTK",
-    "price": 155.0,
-    "change": "-0.96%"
-  },
-  {
-    "ticker": "ABSA",
-    "price": 22.0,
-    "change": "-0.68%"
-  },
-  {
-    "ticker": "KCB",
-    "price": 59.0,
-    "change": "-0.42%"
+    "ticker": "EABL",
+    "price": 222.75,
+    "change": "-1.11%"
   },
   {
     "ticker": "CTUM",
-    "price": 14.8,
-    "change": "-0.34%"
+    "price": 14.7,
+    "change": "-1.01%"
   }
 ]
