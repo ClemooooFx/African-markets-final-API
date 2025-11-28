@@ -1,8 +1,13 @@
 [
   {
     "ticker": "SLAM",
-    "price": 8.1,
-    "change": "-4.26%"
+    "price": 8.0,
+    "change": "-5.44%"
+  },
+  {
+    "ticker": "KQ",
+    "price": 3.55,
+    "change": "-4.05%"
   },
   {
     "ticker": "CARB",
@@ -18,11 +23,6 @@
     "ticker": "HAFR",
     "price": 1.06,
     "change": "-1.85%"
-  },
-  {
-    "ticker": "BRIT",
-    "price": 8.52,
-    "change": "-1.39%"
   },
   {
     "ticker": "CGEN",

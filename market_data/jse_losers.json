@@ -1,18 +1,23 @@
 [
   {
+    "ticker": "MKR",
+    "price": 27.01,
+    "change": "-12.84%"
+  },
+  {
     "ticker": "FGL",
     "price": 1.21,
     "change": "-11.03%"
   },
   {
-    "ticker": "MTA",
-    "price": 5.4,
-    "change": "-7.69%"
+    "ticker": "NVS",
+    "price": 6.0,
+    "change": "-7.55%"
   },
   {
-    "ticker": "MST",
-    "price": 13.2,
-    "change": "-6.38%"
+    "ticker": "SZK",
+    "price": 34.0,
+    "change": "-5.29%"
   },
   {
     "ticker": "BWN",
@@ -23,10 +28,5 @@
     "ticker": "ACL",
     "price": 1.33,
     "change": "-5.00%"
-  },
-  {
-    "ticker": "BCF",
-    "price": 13.51,
-    "change": "-4.86%"
   }
 ]

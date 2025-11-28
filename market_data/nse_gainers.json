@@ -5,6 +5,11 @@
     "change": "+10.00%"
   },
   {
+    "ticker": "UCHM",
+    "price": 1.12,
+    "change": "+9.80%"
+  },
+  {
     "ticker": "SASN",
     "price": 19.8,
     "change": "+9.39%"
@@ -23,10 +28,5 @@
     "ticker": "EVRD",
     "price": 1.35,
     "change": "+4.65%"
-  },
-  {
-    "ticker": "UMME",
-    "price": 7.3,
-    "change": "+4.58%"
   }
 ]
