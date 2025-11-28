@@ -114,14 +114,14 @@
   {
     "ticker": "ETI",
     "name": "Ecobank Transnational Incorporated",
-    "volume": "864.0",
+    "volume": "4034.0",
     "price": 0.81,
     "change": 0.0
   },
   {
     "ticker": "FML",
     "name": "Fan Milk Plc",
-    "volume": "16.0",
+    "volume": "76.0",
     "price": 8.0,
     "change": 0.0
   },
@@ -184,7 +184,7 @@
   {
     "ticker": "MTNGH",
     "name": "MTN Ghana",
-    "volume": "1183408.0",
+    "volume": "1204950.0",
     "price": 4.21,
     "change": 0.0
   },
@@ -198,7 +198,7 @@
   {
     "ticker": "RBGH",
     "name": "Republic Bank Ghana Limited",
-    "volume": "90.0",
+    "volume": "208.0",
     "price": 1.25,
     "change": 0.0
   },
@@ -212,9 +212,9 @@
   {
     "ticker": "SCB",
     "name": "Standard Chartered Bank Limited",
-    "volume": "",
+    "volume": "120.0",
     "price": 29.13,
-    "change": NaN
+    "change": 0.0
   },
   {
     "ticker": "SCBPREF",
@@ -226,7 +226,7 @@
   {
     "ticker": "SIC",
     "name": "SIC Insurance Company Limited",
-    "volume": "2519.0",
+    "volume": "4112.0",
     "price": 1.2,
     "change": 0.0
   },
@@ -254,7 +254,7 @@
   {
     "ticker": "TOTAL",
     "name": "TotalEnergies Marketing Ghana",
-    "volume": "399.0",
+    "volume": "419.0",
     "price": 40.41,
     "change": 0.0
   },

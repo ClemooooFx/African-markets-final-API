@@ -1,13 +1,18 @@
 [
   {
-    "ticker": "MKR",
-    "price": 27.01,
-    "change": "-12.84%"
-  },
-  {
     "ticker": "NVS",
     "price": 5.75,
     "change": "-11.40%"
+  },
+  {
+    "ticker": "ACL",
+    "price": 1.3,
+    "change": "-7.14%"
+  },
+  {
+    "ticker": "GPL",
+    "price": 2.12,
+    "change": "-5.78%"
   },
   {
     "ticker": "BCF",
@@ -20,13 +25,8 @@
     "change": "-5.29%"
   },
   {
-    "ticker": "BWN",
-    "price": 2.54,
-    "change": "-5.22%"
-  },
-  {
-    "ticker": "ACL",
-    "price": 1.33,
-    "change": "-5.00%"
+    "ticker": "FGL",
+    "price": 1.29,
+    "change": "-5.15%"
   }
 ]
